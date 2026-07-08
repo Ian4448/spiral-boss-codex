@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "He resists 45% of most schools including Myth, with no clear boost school, so prism or brute-force with your strongest hit.",
+    "His five-round cycle marks a random wizard (a Stun Shield marker) on the cycle's second round. That wizard must attack Ponce by the next round to clear the mark.",
+    "If the mark is not cleared, round 4 Confuses that wizard and round 5 hits them with an enhanced Sacrifice that heals Ponce about 2,090. Always attack with the marked wizard in time.",
+    "Earthquake removes the mark and cancels the rest of the cycle outright, a clean answer.",
+    "Keep a Death or universal shield on the marked wizard to blunt the Sacrifice if it does land; blade, Feint, and burst the 11,940 health."
+  ],
+  "cheatNotes": [
+    "",
+    "At the start of each cycle (from round 6) he clears the previous mark, a normal round to set up.",
+    "On the cycle's second round he marks a random wizard with a Stun Shield marker, putting them on a timer.",
+    "The marker does not actually block stuns, it is just the mark.",
+    "Earthquake removes the marker and prevents the rest of the cycle, the cleanest counter.",
+    "The marked wizard must damage Ponce by the cycle's third round to shed the mark.",
+    "When the marked wizard attacks him, he removes the mark but also strips that wizard's other wards (not stun shields).",
+    "If the mark is not cleared, round 4 Confuses that wizard for 2 rounds.",
+    "On round 5 he Sacrifices the marked or confused wizard, stealing health and healing himself about 2,090. Do not let it get this far.",
+    "Universal and Death blades on Ponce increase that Sacrifice's damage, so do not blade him before it.",
+    "Universal and Death shields on the wizard reduce the Sacrifice; shield the marked wizard as insurance."
+  ],
+  "groupFight": false
+}

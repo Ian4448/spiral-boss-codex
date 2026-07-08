@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "She has no listed school resist, so hit with your strongest attack school.",
+    "She casts Quicken on Round 1 and re-casts it every third round. It is her buff, so do not waste turns replacing it, just out-damage her.",
+    "Spend two to three rounds stacking blades and a Feint.",
+    "Land one large hit. At 12,355 health, bring enough damage or split the kill across two bursts.",
+    "Keep shields and heals ready between her Quicken cycles on Rounds 1, 4, 7 and so on."
+  ],
+  "cheatNotes": [
+    "She casts Quicken at the start of Round 1, it is her global, not a threat you need to answer.",
+    "She re-casts Quicken every third round (4, 7, 10 and so on), ignore it and keep to your own setup-then-hit plan."
+  ],
+  "groupFight": false
+}

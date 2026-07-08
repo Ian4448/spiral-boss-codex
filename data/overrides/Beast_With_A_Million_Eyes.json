@@ -1,0 +1,37 @@
+{
+  "strategy": [
+    "Use Round 1 freely; the cheats do not begin until Round 2. Set up blades and a trap early while it is safe.",
+    "Track the Beast's Polymorph. Each shift casts a specific aura (Ice/Sleet Storm, Life/Devotion, Fire/Furnace, Myth/Reliquary, Storm/Galvanic Field, Death/Virulence) that dictates which two schools may safely damage it that turn.",
+    "Match your hit to the safe schools for the active aura. Hitting with a wrong school triggers a big retaliation spell (Lord of Winter, Spinysaur, Sun Serpent, and so on).",
+    "Never damage it while its kill cheat is armed. Killed with the cheat active, it revives to 100%. Strip or wait out the aura, or land your finisher only with the currently safe school.",
+    "Do damage every round. At the end of any round it took no damage, it free-casts a random AoE (Blizzard, Tempest, Meteor Strike, etc.), so keep chipping even between big setups.",
+    "It is Moon with 59% Storm resist but takes 30% boosted Myth, so a Myth hitter fits many of the safe-school windows; watch multi-school spells since each school is checked separately."
+  ],
+  "cheatNotes": [
+    "Its cheats are dormant on Round 1, giving you one free setup turn before you must play around the aura rules.",
+    "Right after it Polymorphs, a cheat fires based on the shift it took, applying the aura that sets that turn's safe damage schools.",
+    "Ice shift casts Sleet Storm.",
+    "Life shift casts Devotion.",
+    "Fire shift casts Furnace.",
+    "Myth shift casts Reliquary.",
+    "Storm shift casts Galvanic Field.",
+    "Death shift casts Virulence.",
+    "If you kill it while the retaliation cheat is active it revives to full Health, so clear or account for the aura before the finisher.",
+    "Under Sleet Storm, only Fire and Myth are safe; anything else triggers Lord of Winter.",
+    "Under Devotion, only Death and Storm are safe; anything else triggers Spinysaur.",
+    "Under Furnace, only Life and Storm are safe; anything else triggers Sun Serpent.",
+    "Under Reliquary, only Fire and Life are safe; anything else triggers Celestial Calendar.",
+    "Under Galvanic Field, only Death and Ice are safe; anything else triggers Storm Owl.",
+    "Under Virulence, only Ice and Myth are safe; anything else triggers Avenging Fossil.",
+    "Multi-school spells like Hydra check each school separately; if any one school is unsafe, the retaliation fires once.",
+    "End any round without dealing damage to it and it free-casts one random AoE from its list, so always land at least a chip hit.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "groupFight": false
+}

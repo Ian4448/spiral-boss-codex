@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Kill the Mysterious Werewolf first. While it lives it heals the whole enemy team (Pigsie plus HoTs) and blades them (two +30% each) on a 4-round cycle.",
+    "Expect the Werewolf to survive one kill: it revives once at full health, then leaves combat, ending those buffs. Burn it down twice or overkill it so it is gone before you commit to the boss.",
+    "Storm boss with a huge 164% damage boost; his hits hurt, so keep shields up. Use your strongest boosted school (his lowest resist is Fire and Life at 66%).",
+    "Team: the hitter focuses the Werewolf out first, then the group AoEs the Brute and Bauk Scavenger. Blade the hitter the same round to beat the heal cycle."
+  ],
+  "cheatNotes": [
+    "When the Mysterious Werewolf is defeated it revives once at full health, then exits combat at end of turn.",
+    "",
+    "The buff cycle repeats every 4 rounds as long as the Mysterious Werewolf is alive.",
+    "At the start of the cycle's first round the Werewolf casts a Pigsie that heals all allies and gives them three HoTs for 4 rounds.",
+    "At the start of the cycle's fourth round the Werewolf casts a Bladestorm giving all allies two +30% damage charms."
+  ],
+  "groupFight": true
+}

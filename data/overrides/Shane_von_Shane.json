@@ -1,0 +1,28 @@
+{
+  "strategy": [
+    "Team fight (19k, Darkmoor). Hit with Life (+20%); he resists Death 50%.",
+    "Attack him regularly to reset his Death Interrupt Cycle — it escalates from a 1,050 Vampire (round 2) to Dr. Von's Monster (round 3) to a Beguiling Monster Mash (round 4). A normal attack or DoT resets it; steals, Mana Burn, and Supernova do NOT.",
+    "Use Mass Feint, not single Feint — a single Feint makes him Dark Pact himself +30%.",
+    "Use multi-target curses (Plague) rather than single negative charms, which make him Sacrifice.",
+    "Avoid healing when possible — a heal triggers a 1,050 Vampire on the healer; if you must heal, shield first (note his 40% pierce). Blade the hitter, keep him attacked each round, and burst him and the Darkmoor minions down."
+  ],
+  "cheatNotes": [
+    "Put a single Feint on him and he Dark Pacts himself +30% — use Mass Feint instead.",
+    "Mass Feint doesn't trigger it.",
+    "A single negative charm (Weakness, Bad Juju) makes him Sacrifice for 750 — use multi-target curses.",
+    "Multi-target curses like Plague don't trigger it.",
+    "Heal and he hits the healer with a 1,050 Vampire — shield or avoid heals.",
+    "Pet may-cast heals trigger the Vampire too.",
+    "",
+    "",
+    "Round 2 of his cycle he Vampires a random wizard for 1,050 — attack him to reset the cycle.",
+    "Attacking him resets the cycle.",
+    "Steal spells (Ghoul, Lord of Night) won't reset it.",
+    "Mana Burn and Supernova won't reset it.",
+    "DoT attacks (Fire Elf, Link) DO reset it — handy.",
+    "Round 3 of the cycle he casts Dr. Von's Monster (900) on a wizard.",
+    "Attacking him resets this too.",
+    "Round 4 of the cycle he casts Monster Mash (1,170) and Beguiles the wizard — keep him attacked so it never reaches this."
+  ],
+  "groupFight": true
+}

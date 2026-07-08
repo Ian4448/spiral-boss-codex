@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "This is a race against his pet's 7-round buff cycle. Kill him before round 5-7 when the Balanceblade, Elemental Blade, and donated pips stack into a big swing.",
+    "He resists Balance 30% and takes only +5% from Myth, Life, or Death, so attack with your own strong school; prisms barely help here.",
+    "Set up over rounds 1-3 while the pet is still feeding him: stack your blades and a Feint.",
+    "Pack Triage or a Cleanse for the Fire, Ice, or Storm DoT (300 over three rounds) from his natural attacks.",
+    "Land one big hit by round 4-5, before he has the Elemental Blade plus extra pips to hit back hard."
+  ],
+  "cheatNotes": [
+    "The whole fight runs on a 7-round loop of pet buffs. Count rounds and burst him down before round 5-7 when everything stacks.",
+    "Round 1 his pet hands him a +30% Balanceblade, so expect his balance hits to jump.",
+    "Round 3 the pet adds an Elemental Blade on top, another reason to end things before round 4.",
+    "Round 5 the pet donates +3 pips, giving him a full-power nuke. You want him dead before this."
+  ],
+  "groupFight": false
+}

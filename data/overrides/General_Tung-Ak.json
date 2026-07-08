@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Storm boss (11145). Hit with Myth (+14%); he resists 36% across the board, so blades and traps matter a lot to punch through the universal resist.",
+    "Every round he adds either a protected 1500 absorb ward or a protected +500 flat-damage charm. The absorbs stack fast, so do not drip-feed hits. Set up fully and hit once, hard enough to blow through the absorbs in one shot.",
+    "He gives himself Guardian Spirit, so he revives once. Your finisher or a follow-up must account for a second life bar.",
+    "His charms and wards are protected, so removal is inefficient. Out-damage them with heavy blade and trap stacking and Myth hits."
+  ],
+  "cheatNotes": [
+    "Every round he casts one of two protected buffs below. They pile up, so a slow chip strategy loses. Burst him.",
+    "One option is a protected 1500-damage absorb. Multiple can stack, so your hit must overkill the total absorb to connect.",
+    "The other option is a protected +500 flat-damage charm that makes his attacks hit noticeably harder. Keep heals ready.",
+    "He self-casts Guardian Spirit, so he revives once at low health. Plan a second hit to put him down for good."
+  ],
+  "groupFight": false
+}

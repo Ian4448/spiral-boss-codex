@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "He starts with a Guardian Spirit, so he revives once at full health when first defeated. Plan for two kills, or remove the Guardian Spirit before finishing him.",
+    "Positive Charms feed him: at the end of each round he pulls Power Pips based on how many positive Charms are on the team (up to 4), so keep blades off until the round you actually hit.",
+    "As his health drops he self-Bladestorms for more (up to a protected +100% at low health), so do not slow-chip him; burst him down in one big hit rather than trading rounds.",
+    "Team fight (15,625 health plus two Demimortal minions): supports Feint and blade the hitter in the same round, hitter clears boss and minions with one AoE. He takes +Life and resists Death."
+  ],
+  "cheatNotes": [
+    "At round 1 he gains a Guardian Spirit, so his first defeat revives him at full health.",
+    "At the end of each round, if any wizard has a positive Charm, he takes Power Pips based on the charm count.",
+    "",
+    "",
+    "",
+    "",
+    "At the start of each round while below full health, he self-casts a Bladestorm that scales up as his health drops.",
+    "The blade ranges from +20% at high health to a protected +100% at low health.",
+    ""
+  ],
+  "groupFight": true
+}

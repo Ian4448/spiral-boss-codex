@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "His three Grendel minions buff him every three rounds: Ransacker gives a -90% Tower Shield (Round 1), Cracknail a +50% Dragonblade (Round 2), Scavenger a Regenerate heal (Round 3). Kill the minions to stop the buffs, but note each death triggers a punish.",
+    "Defeating the Ransacker fires a 650 Death Scarecrow on the team, the Scavenger fires Blinding Light, and the Cracknail fires a Deer Knight. If you kill all three at once with AoE, all three hit the same turn, so heal for it.",
+    "Hit Tyrfing with Storm or Life (+35%, resists Myth 80%); strip or hit through the Tower Shield.",
+    "Funnel blades to the hitter and burst Tyrfing after thinning the minions."
+  ],
+  "cheatNotes": [
+    "Killing the Ransacker fires a 650 Death Scarecrow on the whole team that heals the caster, so heal after.",
+    "Killing the Scavenger fires a Blinding Light accuracy debuff.",
+    "Killing the Cracknail fires a Deer Knight on the team.",
+    "AoE that kills all three minions at once triggers all three punishes the same turn, so be topped up before that.",
+    "",
+    "The Ransacker shields Tyrfing with a -90% Tower Shield every three rounds from Round 1, so strip it or hit through it.",
+    "The Cracknail blades Tyrfing with a +50% Dragonblade every three rounds from Round 2.",
+    "The Scavenger heals Tyrfing with Regenerate every three rounds from Round 3, so kill it to stop the sustain."
+  ],
+  "groupFight": true
+}

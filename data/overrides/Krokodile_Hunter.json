@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Hit with Storm — he takes +30% from it — and avoid his 64% Myth resist.",
+    "Let Round 1 play out. At the end of it he loads a +100% Balanceblade, a Feint, a +200% outgoing Berserk aura, and a harmless 0-damage Tempest. The Berserk is the only real threat.",
+    "His own Supernova immediately strips that Berserk aura off him, so the big-hit danger is gone by Round 2 while his Balanceblade stays.",
+    "He is stunable — stun him if you need to skip a dangerous turn while you set up.",
+    "Stack blades over the next rounds and end it with one boosted Storm hit. His per-round Spinysaur only chips ~214 to a random player, so just stay healed."
+  ],
+  "cheatNotes": [
+    "At the end of Round 1 he buffs himself: +100% Balanceblade, a Feint, a +200% outgoing Berserk, and a 0-damage Tempest. Only the Berserk makes his hits scary.",
+    "Right after, his own Supernova removes the Berserk aura from him, so the +200% damage threat is gone entering Round 2.",
+    "Every round he throws a small Spinysaur (~214 Life) at a random player. Minor chip damage; just keep the team topped up."
+  ],
+  "groupFight": false
+}

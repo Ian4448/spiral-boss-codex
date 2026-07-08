@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Death boss (2,580 health) fought alongside Brulee Sucre: hit with Life (+20%); Death is resisted 50%. He cannot be stunned.",
+    "When you attack Claudas he Steals Health from Brulee Sucre to top himself up, so take Brulee Sucre out first to cut off his health source.",
+    "Every third round he cheat-casts Dark Pact to sharpen his damage at the cost of his own health.",
+    "With Brulee gone, stack Life blades and burst Claudas down before another Dark Pact cycle."
+  ],
+  "cheatNotes": [
+    "Attacking him makes him Steal Health from Brulee Sucre to heal, so kill Brulee Sucre first and he has nothing to drain.",
+    "Every third round he casts Dark Pact for more damage, spending his own health to do it, so expect harder hits but a lower health pool."
+  ],
+  "groupFight": false
+}

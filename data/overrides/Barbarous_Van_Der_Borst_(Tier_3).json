@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Speed is the whole strategy. From every round after the second, his crew chains Dragonblades down the line and the last creature fires a cheat Tempest. You want the fight decided before that engine gets rolling.",
+    "He starts alone with 2,035 health; the two Ogres (785 each) and the Goblin (750) spawn at the end of round 1.",
+    "Hit with Storm — he takes +40% from it — and never Myth into his 70% resist.",
+    "Kill the boss first. Clearing minions first just makes him summon a fresh Rude Goblin each turn, and the Dragonblade-Tempest chain keeps running off whoever is left.",
+    "Ideal line: blade round 1, then a bladed Storm AoE on round 2-3 that deletes the boss and the freshly spawned minions before the Tempest chain fires more than once.",
+    "If a Tempest slips through, it comes off stacked Dragonblades — keep a Tower Shield or heal in hand for round 3 onward."
+  ],
+  "cheatNotes": [
+    "He fights round 1 alone, then spawns his minions at the end of it. Use the free round to blade.",
+    "The Tier 3 minions are beefier: two Edacious Ogres at 785 health and a Rude Goblin at 750. A single decent AoE still clears them.",
+    "From round 3 on, each enemy passes a Dragonblade to the right and the last one fires a cheat Tempest. Every extra round adds blades to that Tempest — end the fight fast.",
+    "The blade chain keeps going even for creatures not actively in combat, so you cannot stall it out.",
+    "If the boss is not in the first duel slot he skips his own Dragonblade, slightly weakening the chain — nothing you control, just less incoming.",
+    "Turn-order quirk in how the minions sequence their blades; it does not change your plan.",
+    "If the boss sits in the last duel slot he will not be the one casting Tempest — a minion will.",
+    "Killing minions before the boss makes him summon Rude Goblins one at a time. That is why the boss dies first."
+  ],
+  "groupFight": false
+}

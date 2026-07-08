@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "Do not blade. Blades trigger escalating punishments: a damage blade Tower Shields him, a second blade Plagues you, a third brings Legion Shield, a fourth brings Virulent Plague. Set up with traps and Feint instead.",
+    "Skip DoTs. Any DoT makes him cast Mass Triage and wipe it.",
+    "Hit with Life (+15% incoming); avoid Death (50% resist).",
+    "After you attack he shields the target in the school you used, so a repeat same-school hit is blunted. Hit once, hard, or poke with Balance which only earns him a Tower Shield.",
+    "Stack Feint and traps, then one big single hit to drop the 5,270 health."
+  ],
+  "cheatNotes": [
+    "Join before the duel starts or he Mana Burns 3 pips off the latecomer.",
+    "Using a DoT makes him cast Mass Triage, wiping your damage-over-time. Hit direct instead.",
+    "A damage blade or damage global makes him Tower Shield himself. Lean on traps and Feint so he stays unshielded.",
+    "A second blade makes him Plague your team, cutting your damage.",
+    "A third blade brings a Legion Shield on his side.",
+    "A fourth blade brings Virulent Plague. The blade punishments escalate, so avoid stacking blades entirely.",
+    "The blade-count punishments reset after the fourth and repeat, so there is no safe blade later either.",
+    "After you attack, he shields the target in the school you used. A repeat same-school hit is weakened, so hit once, hard, or switch schools.",
+    "An AoE makes him cast that shield on each of his allies, three times, so his whole side gets shielded.",
+    "Hitting with Balance only earns him a Tower Shield rather than a school shield, a safe school to poke with.",
+    "Multi-hit spells make him shield for every hit, stacking shields fast. Avoid multi-hit attacks."
+  ],
+  "groupFight": false
+}

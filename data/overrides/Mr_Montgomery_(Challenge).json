@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "Team challenge, 100,000 health. This is a burn-and-survive race: he stacks blades every round and at the end of round 7 unloads a fully-buffed Storm Lord before Sacrificing himself.",
+    "Every round's end he lands an undispellable Storm Lord (965 Storm) on the team. The whole team needs Storm shields and heals stacked constantly.",
+    "Race his health down before round 7, or be prepared to survive the round-7 burst.",
+    "On round 6 he summons Mr. Montgomery's Shadow, active the next round. AoE it or keep pressure on the boss.",
+    "Funnel all blades and Feints to one hitter for a shadow-enhanced burst each window; the healer keeps everyone above his Storm Lord damage."
+  ],
+  "cheatNotes": [
+    "Each round he self-blades, ramping his Storm damage. The longer the fight, the harder his hits.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "By round 7 he is fully stacked and casts a huge Storm Lord (965, no stun). Have max Storm resist and heals ready.",
+    "Right after, he Sacrifices himself for 100% of his health, ending his turn, so the fight resolves at round 7 regardless.",
+    "Every round's end he lands an undispellable Storm Lord (965 Storm) on the team. Keep shields and heals up constantly.",
+    "On round 6 he summons his Shadow, active the next round. Expect a second attacker late."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Fight the three tendrils (Life ~20,270 HP, Death ~16,095, Myth ~12,465) as a team; most runs spawn the Life and Death variants.",
+    "Hit any tendril every single round. If no tendril is struck, Aphrodite pollinates the whole team with a Shadow DoT (~400 up front, then ~300/round for three rounds).",
+    "Assign roles: 1-2 Feint specialists trapping one tendril, wand-spam supports keeping a tendril hit each round, and a hammer in the fourth slot stacking the feints for the kill.",
+    "Avoid DoT spells: Life answers with Mass Triage, Myth with Shift, and Death with Deer Knight (which removes your over-time attacks). Never DoT the Death tendril.",
+    "Don't blade or drop a damage bubble opposite a Myth tendril, or the tendril across from you fires two cheats (one immediately, one at end of turn).",
+    "Round flow: wand a single untrapped tendril while trappers layer Feint on it; once it has 2-3 Feints the hammer casts a big AoE, aiming to drop multiple tendrils in the same round.",
+    "Alternative: run an all-AoE team (Meteor, Sandstorm) with an active aura and a strong healer to grind every tendril down at once.",
+    "Don't cast Deer Knight yourself, since its over-time damage just gets removed."
+  ],
+  "cheatNotes": [],
+  "groupFight": true,
+  "guideSourced": true
+}

@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "He takes +20% from Storm and resists Myth 60%. Hit with Storm.",
+    "Do not hoard pips: Young Morganthe Mana Burns any wizard with 4+ power pips (or more than 7 pips). Spend pips as you go rather than banking a huge attack.",
+    "Do not Feint him; he Swap Wards it back onto you.",
+    "Do not use wards: a shield makes Young Morganthe cast Power Nova then Earthquake (400 Myth AoE). Rely on hitting fast instead of defending.",
+    "He summons escalating minions (Young Morganthe, then Roberto, then Broodmother). Broodmother drains health from Time Butterfly to itself. AoE the board with Storm and keep pip counts low."
+  ],
+  "cheatNotes": [
+    "He Empowers himself and hidden-casts a turn-order switch on the opening. Do not assume you move first.",
+    "A Feint on him gets Swap Warded onto you. Skip Feint here.",
+    "",
+    "He summons in stages: Young Morganthe first, then Roberto, then Broodmother. Expect the board to escalate.",
+    "On Round 1 he may summon three Young Morganthes at once, skipping the stage-2 summon. Be ready for a crowded board early.",
+    "Late arrival gets a 2-turn Stun. Zone in on time.",
+    "Young Morganthe Mana Burns any wizard sitting on 4+ power pips. Do not bank pips; spend them.",
+    "",
+    "She also Mana Burns anyone holding more than 7 pips. Keep your pip count low and hit steadily.",
+    "Using a ward makes her Power Nova then Earthquake for 400 Myth to all. Avoid shields; race the board down instead.",
+    "",
+    "Broodmother drains 15% of Time Butterfly's max health to itself. Kill Time Butterfly before the Broodmother stage if you can.",
+    "She sometimes follows with a Dragonblade on an ally and a team Tower Shield. Expect the minions to buff up."
+  ],
+  "groupFight": false
+}

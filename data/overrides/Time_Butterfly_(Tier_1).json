@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Hit with Storm (+20%); it resists Myth 50%.",
+    "Kill order matters: if the Butterfly dies before or the same round as its minions, it Blessings the whole side back to full and revives them. Clear all minions first, then kill the Butterfly a round later.",
+    "Don't single-Feint it — it Swap Wards your traps onto you; use Mass Feint or Indemnity.",
+    "It's very low health (1,915), so hold your hit on it until the minions are already down.",
+    "AoE the minions, then finish the Butterfly cleanly on a later round."
+  ],
+  "cheatNotes": [
+    "Late wizards get Stunned — join on time.",
+    "Every two rounds it Empowers its side (+1 power pip) and secretly switches turn order.",
+    "Single Feint on it makes it Swap Ward your traps onto you — use Mass Feint or Indemnity.",
+    "If it dies before or the same round as its minions, it Blessings everyone back to full health — kill it last.",
+    "That Blessing also revives any minions defeated during the round.",
+    "",
+    "It opens by summoning Young Morganthe, sometimes three minions at once.",
+    "After Young Morganthe dies it summons Young Morganthe and Roberto.",
+    "After those die it summons Young Morganthe, Roberto, and Broodmother.",
+    ""
+  ],
+  "groupFight": false
+}

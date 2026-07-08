@@ -1,0 +1,30 @@
+{
+  "strategy": [
+    "Kill order is the fight: Moon and Star Bearded Dragons must both die before Sun. Kill Sun first and he answers with a Sun Ra for 75% of everyone's max health plus a full-team enemy heal; kill him alongside one survivor and it is a 50% Power Nova plus full heal.",
+    "That also bans the easy AoE finish. Never let an AoE drop Sun before or at the same time as the others — single-target the Moon and Star dragons down first.",
+    "Enter together on round 1. A late joiner triggers Sun Blessing, restoring 100% health to all three dragons and undoing your progress.",
+    "Expect the round 2 script: Sun Trap on a wizard, Star Blade and Moon Shield on their side, then support casts (heals, Virulent Plague, Legion Shield, Mass Infection) at round end. Watch for Guardian Spirit landing on Moon or Star — confirm the target is actually staying dead before switching.",
+    "No boost school exists (20% resist to everything), so pick your best school, blade normally, and burst Moon first, then Star, then turn everything on Sun.",
+    "Sun has 12,500 health with no kill-order penalty left once he is alone — set up a clean single-target or AoE kill."
+  ],
+  "cheatNotes": [
+    "A wizard joining after round 1 triggers Sun Blessing: all three dragons heal to full. Full team from the start, no mid-fight ports.",
+    "",
+    "If Sun dies before (or at the same time as) both Moon and Star, he cheats a Sun Ra for 75% of each wizard's max health and fully heals his allies. This is the fight's hard rule: Sun dies last.",
+    "Same trap one step earlier: if Sun dies while one other dragon still stands, it is a 50% max-health Power Nova plus a full ally heal. Never include Sun in your AoEs until he is the last one standing.",
+    "",
+    "",
+    "Start of round 2 he puts a +25% Sun Trap on someone — expect a boosted follow-up on that wizard.",
+    "Start of round 2 a Star Blade goes on a random enemy, buffing their next hit.",
+    "Start of round 2 a Moon Shield goes on a random enemy — check wards before committing a hit.",
+    "",
+    "At the end of round 2 Sun casts Blinding Light, Guardian Spirit, or Smoke Screen. Stun blocks and accuracy enchants blunt two of the three.",
+    "",
+    "Guardian Spirit only ever goes on Moon or Star — one of them may pop back up after you kill it. Re-kill before moving on.",
+    "The Moon/Star support casts include Unicorn and Virulent Plague. Cleanse the plague off your hitter before the big hit.",
+    "",
+    "Legion Shield or Mass Infection can land here — shields on their side and infections on yours. Pack a shield-breaker and Cleanse Charm.",
+    ""
+  ],
+  "groupFight": true
+}

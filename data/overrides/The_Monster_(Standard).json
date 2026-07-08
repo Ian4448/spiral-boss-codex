@@ -1,0 +1,41 @@
+{
+  "strategy": [
+    "He has no resist, so hit with whatever your school is - just do not waste rounds 1 and 2 on him, since he is untargetable then and targeting him forces a Pass.",
+    "Spend the untargetable rounds building blades and clearing the summoned Memory of Katzenstein minion.",
+    "He becomes targetable again on round 3, but do not kill him while minions are alive or he Heartbeats back 2,250 health. Clear all minions first.",
+    "Which minion and cheats appear depend on the Monstrology Note selected - watch the matching punish: Balance dilutes your traps, Death spikes you for 25% max health per minion killed, Fire adds a +50% global, Ice forces Mega Taunt, Myth adds Hex, Storm throws Wild Bolt.",
+    "Clear every Memory of Katzenstein first, then stack blades and burst the Monster in one hit."
+  ],
+  "cheatNotes": [
+    "On round 1 he makes himself untargetable.",
+    "If you target him while untargetable you are forced to Pass; spells that do not target him still cast.",
+    "With no note or Note 1 selected, he summons the Balance Memory of Katzenstein.",
+    "He becomes targetable again starting on round 3.",
+    "If he is defeated before all his minions are gone, he Heartbeats back 25% of his health (2,250). Clear minions first.",
+    "",
+    "",
+    "With the Balance minion present, casting any trap makes him cast Trap Dilution on all enemies, weakening your traps.",
+    "",
+    "",
+    "With the Death minion present, defeating any minion deals 25% of the killer's max health per minion defeated.",
+    "That damage still triggers even if the Death minion itself was one of the minions defeated.",
+    "",
+    "",
+    "With Note 3, at the end of round 3 he casts a Fire spell applying a +50% outgoing-damage global.",
+    "That global will not re-trigger if it gets replaced.",
+    "The global still triggers even if the Fire minion was defeated on round 3.",
+    "",
+    "",
+    "With Note 4, the Ice minion casts Mega Taunt on its first active round and every other round after, forcing you to target it.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "With the Myth minion present, after he damages a wizard he casts an all-enemies Hex.",
+    "",
+    "",
+    "With the Storm minion present, he randomly casts Wild Bolt on a random wizard at the end of a round."
+  ],
+  "groupFight": false
+}

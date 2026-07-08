@@ -1,0 +1,27 @@
+{
+  "strategy": [
+    "Solo-friendly (15,935 health, no minions). Hit with Myth, Life, or Death (all +30%); he resists Balance 70% and everything else 40%.",
+    "His only cheat fires every third round: a random hanging effect (DoT, shield, blade, trap, HoT, or -50% heal charm) followed by a random summon or hit like Krampus, Goat Monk, or a Headless Horseman.",
+    "Use rounds 1 and 2 to blade and Feint, then land your hit, timing big hits to avoid feeding the round-3 summon a fresh target.",
+    "Carry Triage for the possible 462 Fire DoT and Cleanse Charm for the -50% healing charm.",
+    "Stack blades onto a single strong hit and burst him between his third-round cheats."
+  ],
+  "cheatNotes": [
+    "Every third round he casts a random hanging effect and then a random summon or attack spell.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "groupFight": false
+}

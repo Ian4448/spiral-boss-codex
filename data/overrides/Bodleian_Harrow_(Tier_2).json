@@ -1,0 +1,35 @@
+{
+  "strategy": [
+    "Hit with Myth, Life, or Death. He takes +30% from all three. Skip Balance (42% resist).",
+    "Do not use Traps at all. Both forms Cleanse Ward your Traps, and the Shadow form also lays a team Shadow Trap. Stack blades instead.",
+    "Expect a random spell every third Round. Keep a Cleanse Charm ready for the Efreet (-90% Damage) or Loremaster (-20% Damage / -35% Accuracy) rolls.",
+    "Burst the Balance form down fast. Every fourth Round after summoning he Sacrifices one of his own Minions to heal 2,000.",
+    "When the Balance form dies he Polymorphs into a Shadow form and summons two Minions. Reload blades and repeat the blade-and-burst plan for phase two."
+  ],
+  "cheatNotes": [
+    "",
+    "Casting any Trap makes him Cleanse Ward all Traps off himself, so traps are wasted here. Build with blades instead.",
+    "Every third Round he casts one random spell from the list below, ranging from a summon to a hard-hitting attack.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "This roll is a 4-pip Loremaster that hits 390-470 Balance and applies -20% Damage and -35% Accuracy charms on you. Cleanse them before your hit.",
+    "This roll is an Efreet dealing 895 Fire plus a -90% Damage charm on you. Clear that charm or your next attack does almost nothing.",
+    "When his Balance form dies he immediately Polymorphs into a Shadow form, so the fight has a second phase. Save resources for it.",
+    "",
+    "On his first Round as the Shadow form he summons two random Minions you will need to clear.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "In Shadow form, casting a Trap makes him Cleanse all your traps and then lay a Shadow Trap on your whole team. Again, avoid traps.",
+    "Every fourth Round after summoning he Sacrifices one of his own Minions to heal 2,000, so kill his Minions before he can eat them for health.",
+    "Clear all his Minions and he just resummons more next Round. Race the boss down rather than chasing minions forever."
+  ],
+  "groupFight": false
+}

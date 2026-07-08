@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Enter on time and at full health. A late join eats a Moon spell that strips 90% of your max health.",
+    "Round 1 he casts Doom and Gloom and a Moon spell that removes 70% of every wizard's max health, so come in tanky and expect to be low right away.",
+    "Doom and Gloom halves your healing, so burst him down rather than trying to heal-tank the fight.",
+    "Every third round he strips another 5% max health and lands Mass Infection, so carry Cleanse Charm and keep the fight short. Hit with Fire or Myth (+5%) and AoE to clear his two Gussied-Up Gators."
+  ],
+  "cheatNotes": [
+    "Joining after round 1 gets you a Moon spell that removes 90% of your max health. Never join late.",
+    "Round 1 he casts Doom and Gloom plus a 5-pip Moon spell that strips 70% of every wizard's max health. Enter at full health and do not rely on healing, since Doom and Gloom halves it.",
+    "Every third round he removes another 5% max health from all wizards and casts Mass Infection. Bring Cleanse Charm and end the fight quickly."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Do NOT change the Equalize global — if you do, he Tower Shields and his Deer Knight lands its full 100,000 Moon damage uncapped, wiping you.",
+    "The Equalize caps ALL damage: 500 on round 1, 1,000 on round 3, 2,000 on round 5, 4,000 on round 7 — his Deer Knight each round is capped to the same value.",
+    "Every hit you land is capped too, so there's no reward for over-blading early — land a capped hit each round and let the cap climb.",
+    "From rounds 5-7, when the cap is 2,000-4,000, use your big hits to close out his 10,640 health.",
+    "He resists all schools 40% with no boost, so use your strongest reliable hit and stay shielded against the Deer Knight."
+  ],
+  "cheatNotes": [
+    "Arriving late after round 2 gets you a Ship of Fools for 100,000 Moon (capped only by the current Equalize) — be on time.",
+    "His damage is held down by the Equalize global until someone changes it.",
+    "Round 1 he sets the damage cap to 500.",
+    "Change the global and he Tower Shields himself — never do it.",
+    "Changing it also lets his Deer Knight deal full uncapped damage amplified by his outboost — a wipe.",
+    "Every round he fires a Deer Knight that would hit for 100,000 but is capped to the current Equalize value.",
+    "Round 3 the cap rises to 1,000.",
+    "Round 5 the cap rises to 2,000.",
+    "Round 7 the cap rises to 4,000 — your burst window."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,27 @@
+{
+  "strategy": [
+    "Ignore the million health. You win by dealing 20,000 damage to the Trident three separate times; each time the Storm Titan heals it via the Paradox Chain, but the third 20,000 burst triggers the cutscene kill. Bring a full team.",
+    "Hit with Ice or Death (+25%; he is immune to Fire and Life, resists Storm, Myth, Balance, and Shadow 50%). Build big blade-stacked bursts of 20,000+.",
+    "Manage the laser cycle: when the Titan laughs, next round he lasers 1375 Shadow to all and strips a shadow pip, so heal to full before it.",
+    "When he reaches his fifth shadow pip he pulls the Trident up (untargetable) and swings for 5500 Shadow to all three rounds later, so heal through and wait for the Trident to return before your next burst.",
+    "Everyone join Round 1 (late joiners eat Glowbug Squall and spawn a Refraction); the hitter funnels blades and lands the three 20k bursts."
+  ],
+  "cheatNotes": [
+    "An Equalize global caps damage at 949,999 and is recast if removed, which is irrelevant since you win via 20,000-damage bursts, not raw health.",
+    "Late joiners eat a 2250 Glowbug Squall and spawn a Refraction, so join on Round 1.",
+    "",
+    "",
+    "",
+    "He randomly slams the Trident, stripping all unprotected wards and charms off himself, so protect your Feints.",
+    "When he laughs, the next round he lasers all wizards for 1375 Shadow and strips a shadow pip, so heal to full first.",
+    "At his fifth shadow pip the Trident goes untargetable and swings for 5500 Shadow to all three rounds later, so heal through and wait for it to return before bursting.",
+    "He can still laser while the Trident is gone, so keep healing during that window.",
+    "Dealing 20,000 damage makes him heal the Trident but counts as your first of three needed bursts.",
+    "Healing the Trident summons more Refractions, so keep AoE for adds.",
+    "",
+    "Your second 20,000-damage burst heals him again but is the second of three, so keep attacking.",
+    "",
+    "The third 20,000-damage burst triggers the cutscene that destroys the Trident and wins, so aim for three big bursts."
+  ],
+  "groupFight": true
+}

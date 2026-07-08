@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Storm boss (4300). Hit with Myth (+50%); never Storm (80% resist).",
+    "He hits with Dr. Von's Monster (~1005) at the end of every 3rd round and Monster Mash (~1170) at the start of every 4th round, so plan heals or absorbs for those windows.",
+    "Careful with blades: casting one makes him Enfeeble the wizard who received it, stripping a charm. Stack blades in one round then hit, or Aegis your key blade.",
+    "Do not bother with Weakness-type damage charms; he answers with an AoE Cleanse Charm.",
+    "He is low health, so set up 2-3 rounds and one Myth hit ends it."
+  ],
+  "cheatNotes": [
+    "At the end of every 3rd round he hits a random wizard for ~1005 as his natural attack. Keep health up going into rounds 3, 6, and 9.",
+    "At the start of every 4th round he Monster Mashes a random wizard for ~1170. Expect it and heal ahead.",
+    "",
+    "Casting a blade makes him Enfeeble its recipient, removing a charm. Stack your blades the same round you hit, or Aegis the important one.",
+    "Throw a Weakness or similar and he AoE-Cleanses it right back off. Do not rely on damage-reduction charms."
+  ],
+  "groupFight": false
+}

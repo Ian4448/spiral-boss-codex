@@ -1,0 +1,32 @@
+{
+  "strategy": [
+    "Hit with Myth (+40% incoming); avoid Storm (70% resist).",
+    "Do not rely on Blades. Takanobu Disarms any blade off the receiver. Set up with traps and Feint instead.",
+    "The Bladeless Ronin Defuses your traps based on your attack school: a Myth, Life, or Death hit triggers Spirit Defuse, an elemental hit triggers Elemental Defuse. Land your hit the same round you set traps, or kill the Ronin first.",
+    "Do not cast Storm, Ice, or Fire shields on yourself; he answers with a Storm Prism on you.",
+    "Burst the 4480 health with one funneled Myth hit before he stockpiles pips for Supercharge or Darkwind."
+  ],
+  "cheatNotes": [
+    "",
+    "Casting a Blade gets it Disarmed off the receiver. Use traps, not blades.",
+    "A triple blade only loses its last blade to the Disarm.",
+    "A multi-target blade only loses the caster's copy.",
+    "Casting Storm, Volcanic, or Glacial Shield on yourself makes him put a Storm Prism on you.",
+    "If he holds 5+ and an odd number of pips at a round's end, he Supercharges himself (+50%). Deny it by ending the fight fast.",
+    "With 6+ pips at the start of a round he casts Darkwind. Pressure him before he stockpiles pips.",
+    "",
+    "Attacking with a Balance spell makes the Ronin cast Unbalance on you (an accuracy debuff).",
+    "An AoE Balance attack triggers a separate Unbalance for each enemy hit.",
+    "Chimera triggers three Spirit Defuses.",
+    "Hydra triggers three Elemental Defuses.",
+    "Attacks that deal no direct damage (like Scald or Heck Hound) do not trigger any Ronin cheats.",
+    "Attacking with Fire, Ice, or Storm makes the Ronin Elemental Defuse your elemental traps.",
+    "An AoE elemental attack triggers one Elemental Defuse per enemy hit.",
+    "If a prism converts your hit to Life, Death, or Myth, you get Spirit Defuse instead.",
+    "Attacking with Life, Death, or Myth makes the Ronin Spirit Defuse your spirit traps. Hit the same round you trap.",
+    "An AoE spirit attack triggers one Spirit Defuse per enemy hit.",
+    "Multi-hit attacks trigger a separate Spirit Defuse per hit.",
+    "If a prism converts your hit to Fire, Ice, or Storm, you get Elemental Defuse instead."
+  ],
+  "groupFight": false
+}

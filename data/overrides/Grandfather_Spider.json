@@ -1,0 +1,31 @@
+{
+  "strategy": [
+    "Coordinate entry so everyone is in by Round 2. Any wizard who joins after Round 2 is interrupt-hit by a Shadow Insane Bolt for 2,000 damage and loses 3 pips. Have your slowest member port out and Dungeon Recall to control battle order.",
+    "Kill the Spiderling first. On Round 2 it casts a permanent Shadow Sentinel that intercepts 90% of your damage to the boss and gives it -30% incoming, so hits barely land until the minion is gone. Stack Feints on the Spiderling and finish it with a 4-5 pip spell.",
+    "Beat the Feint-swap with Melt. Feinting the boss makes him cast Swap Ward, flipping your 70% trap onto you as a weak one. Cast Melt first to strip a shield, or use an Indemnity Feint or item/pet/TC Feint - none of those get swapped.",
+    "Run the universal 5-round setup: R1 melt/melt/trap/trap (add a prism if you are Storm), R2 Feint the minion x3 and kill it, R3 feint/feint/trap/trap, R4 Indemnity Feint then blades, R5 blades then main hit.",
+    "Blade and hit before Dimension Shift fires. He steals every positive charm and ward from all wizards every 8/7/6/5 rounds for 1/2/3/4 wizards. Time your buff-and-hit to land inside that window so the steal grabs nothing.",
+    "Pierce his resistances. He resists Storm 40% and Fire/Ice/Life/Death/Balance 20%, but boosts Myth 10%. Attack with Myth if you can, otherwise add Infallible to punch through. Bring Doom/infection because his 'Surprised?' cheat self-heals with Healing Current.",
+    "Do not place Bad Juju on him - it makes him interrupt-cast Sacrifice on himself. Keep your setup to blades, traps, and Feints (via Melt) and end the fight in one big AoE so the Spiderling dies with him."
+  ],
+  "cheatNotes": [
+    "Latecomers are interrupt-hit by a Shadow Insane Bolt for 2,000 damage and lose 3 pips, so make sure everyone is in the duel by the end of Round 2.",
+    "On Round 1 he summons a Spiderling that becomes active Round 2 and casts a permanent Shadow Sentinel (90% intercept, +80 block, -30% incoming), which is why the minion must die before you try to hit the boss.",
+    "Kill the Spiderling and he simply summons a replacement three rounds later, so plan to clear it early rather than repeatedly.",
+    "Only one Spiderling exists at a time, so you never have to deal with more than a single active minion.",
+    "He only summons as many total Spiderlings as there are wizards (four total in a full team); once that many are dead, his summon attempts fail every three rounds.",
+    "Every third round he swaps who goes first, so a plan that relies on hitting before or after him can flip - account for both orders.",
+    "His Shadow Dimension Shift strips all positive charms and wards from the whole team, so you must blade and hit in the same window rather than banking buffs across rounds.",
+    "With one wizard the steal fires every 8 rounds.",
+    "With two wizards the steal fires every 7 rounds.",
+    "With three wizards the steal fires every 6 rounds.",
+    "With four wizards the steal fires every 5 rounds, the tightest window, so a full team must burst fast.",
+    "His 'Surprised?' cheat hits a random wizard with his Natural Attack and then heals himself with Healing Current, so bring Doom/Gloom or an infection if the fight drags.",
+    "When he says 'You had your chance,' he casts Iron Sultan as a large attack - be topped up on health going into long fights.",
+    "Placing a Feint on him triggers Swap Ward, moving your trap value onto you, so never Feint him raw.",
+    "You can avoid the Swap-Ward by using an Indemnity Feint or by casting Melt first, since Melt-protected traps and indemnified Feints cannot be swapped.",
+    "Placing Bad Juju on him makes him interrupt-cast Sacrifice on himself, so keep Bad Juju out of your deck for this fight."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

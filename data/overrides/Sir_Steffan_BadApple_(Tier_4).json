@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "He summons a Conscripted Mander at the end of Rounds 1, 2, and 3 (and after any Mander dies), and can sacrifice Manders to heal 500 each, so do not overkill Manders; pressure Steffan directly.",
+    "Trapping him gets you a Weakness, so lean on blades over traps.",
+    "Hit with Myth, Life, or Death (he resists Balance 80%).",
+    "Avoid banking pips to 5+ slots; that can trigger Mana Burn on you. Blade and burst instead."
+  ],
+  "cheatNotes": [
+    "He summons a Conscripted Mander at the end of Round 1 and whenever one is defeated, so expect a steady add.",
+    "Another Mander arrives end of Round 2.",
+    "And another end of Round 3, so the board fills fast.",
+    "He can sacrifice his Manders to heal 500 each when attacked, so killing them just feeds him; focus Steffan.",
+    "Trapping him gets you a Weakness, so use blades instead of traps.",
+    "He hits the first-position wizard with Sandstorm and a Black Mantle accuracy debuff, so watch fizzles there.",
+    "Gaining 5 or more pip slots can trigger Mana Burn on you, so do not over-bank pips."
+  ],
+  "groupFight": false
+}

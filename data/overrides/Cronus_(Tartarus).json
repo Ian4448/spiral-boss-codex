@@ -1,0 +1,29 @@
+{
+  "strategy": [
+    "Team fight (24k, three Lost Shades, Tartarus finale). Assign a hitter; supports blade the hitter and manage traps, healer covers the Lord of Night hits. Hit with Myth, Life, or Death (+30%); never Balance (80% resist).",
+    "He counters two ways: attack him WITHOUT a trap on him and he fires his opposite-school natural attack; attack with a single-target spell and he Cleanse Wards off all traps plus his stun block. So always have a trap on him and set up plus hit the same round.",
+    "He lays a +40% trap every round — stack your own Feint the same round the hitter fires so the traps get cashed before he can cleanse.",
+    "Use DoTs to hold traps if needed — a DoT-only hit won't remove the mark or traps, but avoid single-target and AoE hits until you're committing the kill.",
+    "Watch round 4 and every 4th: Lord of Night on a random wizard — keep health topped.",
+    "Funnel blades to the hitter and burst him through the setup window."
+  ],
+  "cheatNotes": [
+    "Every round he lays a +40% trap (rotating schools) — extra damage if you can hit into them.",
+    "",
+    "He may add an invisible universal-acting trap too; treat his stacked traps as free damage.",
+    "Every 4 rounds he interrupt-casts Lord of Night on a random wizard — keep health up.",
+    "Trapping him makes him put a Marked Stun Block on himself.",
+    "He keeps only one stun block no matter how many traps, and holds it until hit by a non-DoT spell.",
+    "A single-target attack makes him Cleanse Ward off all traps and the stun block — set up and hit the same round.",
+    "Vaporize can dispel the cleanse cheat.",
+    "A DoT-only hit won't remove the mark or traps — useful for keeping traps up.",
+    "Attack without a trap on him and he fires his opposite-school natural attack at you — always trap him first.",
+    "Hitting with Balance makes him use his Storm natural attack in return.",
+    "Multi-hit spells like Minotaur make him fire his natural attack twice.",
+    "AoE attacks also trigger the natural-attack counter.",
+    "DoT spells trigger the counter only on the initial hit.",
+    "Astral spells trigger an unknown-school counter — risky.",
+    "Shadow spells trigger an unknown-school counter — risky."
+  ],
+  "groupFight": true
+}

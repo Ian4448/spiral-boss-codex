@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "Run this as a team with a dedicated hitter and supports. The Broodmother is a Rank 13 Fire boss (18,360 health) with 80% Fire resist, so hit with Ice or Storm (35% boost). Fire wizards must carry a Fire Prism to punch through her resistance.",
+    "Kill the Royal Guard minion first. Once it is defeated the Yellow Jacket Drones stop spawning, which cuts off her healing engine, so prioritize the Guard before committing to the boss.",
+    "Deny her heals: whenever a Yellow Jacket Drone exists she may Sacrifice it to heal herself 1,500. Drones also Sacrifice themselves whenever they attack (even on a fizzle). Clear drones or race the Guard down so she cannot cash them in.",
+    "Play around her Smoke Screens (-45% accuracy) and Weakness; keep Cleanse Charm in the side deck to strip Weakness and the Royal Guard's PowerNova debuffs, and bring accuracy or sniper enchants so your setup does not fizzle.",
+    "Supports stack blades and Feints on the hitter while the hitter clears the Guard, then reload blades for the boss. Handle her Glacial Shields with shield-removal (Ice/Storm) or conversions before the big hit.",
+    "Finish with one large bladed AoE once the Guard and drones are gone, so any remaining adds die alongside her and she gets no last-second Sacrifice heal."
+  ],
+  "cheatNotes": [
+    "At the end of round 1 she summons a Royal Guard minion. This Guard is the real problem, so plan to focus it down first.",
+    "Each round after that the Royal Guard summons a Yellow Jacket Drone, steadily building a swarm of fodder she can heal from. Kill the Guard to stop the summons.",
+    "She can order a Yellow Jacket Drone to Sacrifice itself to heal her 1,500 at the end of a round, so leaving drones alive lets her claw back health. Clear drones or end the fight before she cashes them in.",
+    "A Yellow Jacket Drone is destroyed whenever it attacks, even if the attack fizzles, so their damage is a one-time thing and they mainly exist as heal fuel.",
+    "Once the Royal Guard is dead, no new Yellow Jacket Drones spawn. Killing the Guard is the single most important step to shutting off her minion and healing loop."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

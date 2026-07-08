@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "Tymen is an Ice boss with 80% Ice resist that takes 35% extra from Fire and Myth, so hit with Fire or Myth. Ice wizards must pack an Ice Prism to get through his resist.",
+    "Bring Unbalancer. Casting Unbalance on Tymen dispels his Mana Burn cheat outright, which is the single most useful tool for the fight.",
+    "Do not cast healing spells. Any heal spell stuns the caster for two rounds. Instead wear high-resist gear and use a healing pet; pet heals and pet item cards do not trigger the stun. Note Guardian Spirit does trigger it.",
+    "Carry stun protection anyway: Stun Shield, Conviction, or Stun Resist, and consider Vaporize as an alternative that avoids the stun trigger.",
+    "Bring ward-stripping. Tymen stacks Fortify, Volcanic Shield, and Legion Shield (-35%), so pack Shatter, Pierce, or Steal Ward. Fire, Ice, and Storm wizards especially get their Feints blocked by Volcanic Shield.",
+    "Beat the Mana Burn timer: every third round the wizard with the most pips gets Mana Burned. If you queue your spell before the Mana Burn lands, it still fires regardless of remaining pips, so time big hits for just before that window and plan overkill damage."
+  ],
+  "cheatNotes": [
+    "Every third round Tymen Mana Burns whichever wizard is holding the most pips, draining their pips. Spread pips or dump them before rounds 3, 6, and 9.",
+    "Casting Unbalance on Tymen removes the Mana Burn cheat entirely, so bring an Unbalancer.",
+    "If you have already queued a spell before the Mana Burn hits, that spell still goes off even if you no longer have the pips for it. Queue your hit ahead of the Mana Burn round.",
+    "If any wizard casts a healing spell, Tymen stuns that wizard for two rounds. Avoid heal spells and rely on resist gear plus a healing pet.",
+    "Pet-cast heals and item cards received from your pet do not trigger the stun, so pet healing is safe.",
+    "Guardian Spirit counts as a healing spell and will trigger the two-round stun, so leave it out of your deck."
+  ],
+  "groupFight": false,
+  "guideSourced": true
+}

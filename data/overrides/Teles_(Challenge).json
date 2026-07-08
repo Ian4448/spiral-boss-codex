@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Solo-friendly (6,025 health). Never hit Fire; he resists it 80%. Hit with Ice, his boost school.",
+    "Do not trap him: any harmful ward triggers Brimstone Revenant on you, and all-enemies traps trigger it too.",
+    "Do not shield: any helpful ward makes him Helephant the recipient, and all-allies shields hit the caster.",
+    "Clear or AoE the Siren minion alongside him.",
+    "Stack Ice blades (charms are safe), skip traps and shields, then land one big Ice hit."
+  ],
+  "cheatNotes": [
+    "Putting a trap or weakness on Teles gets you hit with Brimstone Revenant. Blade instead of trap.",
+    "An all-enemies trap, like a group Feint, still triggers it.",
+    "Casting any shield makes Teles hit the shielded wizard with Helephant.",
+    "An all-allies shield triggers it too, hitting the caster."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Team fight at 34,000 health: run one hitter, supports who feed blades late, and a healer who watches Power Play and Scald.",
+    "He resists every school 39% and has no boost school, so hit with your highest-damage school or a Spectral hit and burst through in one shot.",
+    "Every Blade a Wizard casts makes Belloq Balanceblade himself, buffing his own attacks. Keep blades on the hitter only and stack them in the last setup round.",
+    "Every Trap a Wizard casts drops an Elemental Trap on that caster. Minimize traps or cleanse them off.",
+    "Expect Power Play on the opening global and plan pip economy around the conversion. Clear Scald with Triage if it lands."
+  ],
+  "cheatNotes": [
+    "He opens with Power Play, converting normal pips to power pips. Plan your pip usage around the shift.",
+    "Casting a Trap makes him drop an Elemental Trap on you, the caster. Avoid trap stacking or expect the counter.",
+    "Every Blade you cast gives him a Balanceblade, buffing his own hits. Keep blades on the hitter only and stack them late.",
+    "He casts Scald, a Fire damage-over-time, on an unknown trigger. Clear it with Triage."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Life boss with a heavy healing gimmick; hit with Storm or Death (+6%) and avoid the schools in his 44% resist.",
+    "His Heartbeat heals 1,500 per Round (3,000 with his outgoing healing) until full; shut it down with Entangle, which prevents the cheat, and lean on Doom and Gloom or infections to cut healing.",
+    "Do not chip him past 50% of his max health carelessly; taking more than 50% makes him Choke you, which you can pre-empt by dispelling with Quench.",
+    "He also Blessing-heals to full if he is defeated before his trim cheat triggers, so work him down rather than bursting from full unexpectedly.",
+    "Enter on time; a late wizard makes him full-heal immediately.",
+    "Suppress his healing with Entangle and Doom and Gloom, stack Storm or Death blades, then finish him."
+  ],
+  "cheatNotes": [
+    "Joining after Round one makes him full-heal; enter with the group.",
+    "Taking more than half his max health in one blow makes him Choke you; pre-dispel it with Quench.",
+    "Quench dispels the Choke before it lands.",
+    "His Heartbeat heals 1,500 a Round (3,000 with his boost) until full; block it with Entangle and cut it with Doom and Gloom.",
+    "Doom and Gloom lowers how much his Heartbeat restores; keep one active.",
+    "Entangle stops the Heartbeat cheat entirely; it is the key tool for this fight.",
+    "",
+    "If you kill him before his trim and Choke cheat has triggered, he Blessing-heals to full; do not burst him from full unexpectedly, work him down."
+  ],
+  "groupFight": false
+}

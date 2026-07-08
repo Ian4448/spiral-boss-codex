@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "He is immune to globals, so skip Doom and Gloom or global buffs; they will not stick.",
+    "He repeatedly casts an all-team Mana Burn (Shadow) that also strips a Shadow Pip, so do not hoard pips - build blades and hit before he burns them off.",
+    "Attacking him makes him interrupt-cast Orthrus back at the team, so expect a counter every time you commit a hit.",
+    "Shielding is fine and even helpful - it makes him cast Guidance (accuracy) on all wizards - but that response only fires once per round.",
+    "At 4,500 health with no listed resist, stack a couple of blades plus Feint and end it in one hit before the pip drain and Banish cards pile up."
+  ],
+  "cheatNotes": [
+    "Join late and he hands the whole team a Banish! (7 Pip) card - arrive on time to skip it.",
+    "",
+    "The Banish card auto-fires when picked rather than letting you aim it.",
+    "After Round 1 he gives every wizard a Banish! (7 Pip) card regardless, so expect it in your hand.",
+    "Any attack on him makes him interrupt-cast Orthrus at the team.",
+    "If a wizard shields, he casts Guidance (accuracy buff) on all wizards - harmless to you.",
+    "That Guidance response only fires once per round.",
+    "He repeatedly casts an all-team Mana Burn (Shadow) that also strips one Shadow Pip, so do not sit on pips.",
+    "Expect the Mana Burn to keep coming round after round.",
+    ""
+  ],
+  "groupFight": false
+}

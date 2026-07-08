@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Focus everything on Lorcan and ignore the Elder Magus minions. They kill themselves anyway - three rounds after being summoned they cast a 0-pip Sacrifice for 6,000 Fire damage to themselves, healing Lorcan 1,500 each. Killing Lorcan stops the whole loop.",
+    "This is a race against his healing. Every sacrifice cycle refunds up to 3,000-4,500 health, so supports blade the hitter fast rather than spending rounds on Feint stacking.",
+    "Keep the group at two wizards if you can - more than two players means he summons three Elder Magus instead of two, which means more sacrifice healing.",
+    "Hit with Myth, Life, or Death - he takes +30% from all three. Never hit Balance into his 80% resist.",
+    "Watch for Shadow Sentinel once he has a shadow pip (every three rounds after). Each Sentinel round comes with a fresh pair of minion summons, so the longer the fight runs the more healing he gets. Aim to burst him down within the first sacrifice cycle."
+  ],
+  "cheatNotes": [
+    "At the end of round 1 (and any round he casts Shadow Sentinel) he summons two Elder Magus minions that wake up the following round. Do not waste hits on them - they are healing batteries, not threats worth killing.",
+    "",
+    "With three or four wizards in the fight he summons three minions instead of two. Smaller groups literally reduce his healing.",
+    "Once he earns a shadow pip he casts Shadow Sentinel every three rounds, and each cast brings fresh minion summons. His Sentinel also carries +15 backlash, so it costs him health to use.",
+    "Three rounds after appearing, each Elder Magus sacrifices itself for 6,000 Fire self-damage and heals Lorcan 1,500. You cannot profitably stop this by killing minions - they replace themselves - so outpace it.",
+    "The sacrifice healing ends the moment Lorcan dies. Kill the boss first; leftover minions are irrelevant."
+  ],
+  "groupFight": true
+}

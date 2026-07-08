@@ -1,0 +1,11 @@
+{
+  "strategy": [
+    "Life boss (3660) that is stunable and beguilable. Hit with Death (+30%); never Life (60% resist).",
+    "He drops a -30% Weakness on everyone at the start and again every 3rd round. Carry a Cleanse Charm or over-blade so the weakness does not gut your hit.",
+    "Clear the Brume Goblin or AoE both, stack blades, and land a Death hit. He is low health."
+  ],
+  "cheatNotes": [
+    "He puts a -30% Weakness on all wizards on round 1 and every 3rd round after. Cleanse it before your big hit, or stack extra blades to cover the loss."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Wally is invulnerable under a -300% aura and summons two fake Wallys and one real Wally with hidden health on Round 1.",
+    "Hit the summons with single-target spells to find the real Wally. Damaging a fake makes Wally cast Colossafrog on you, but damaging the real one makes him Supernova off his own aura and expel the minions.",
+    "Do not AoE to find him; all-enemy spells will not trigger the reveal. Poke each summon single-target.",
+    "Once the aura is gone and minions expelled, blade up and hit Wally with Life (+30%, resists Death 67%).",
+    "Burst him down in the vulnerable window."
+  ],
+  "cheatNotes": [
+    "He is invulnerable under a -300% aura and hides among two fake Wallys and one real one, so you must find the real Wally to break it.",
+    "Damaging a fake Wally gets you Colossafrog, so expect a Death hit each time you guess wrong.",
+    "Damaging the real Wally makes him Supernova off his own aura and expel the minions, which is how you make him vulnerable.",
+    "AoE spells will not trigger the reveal, so poke each summon with single-target hits to find the real one."
+  ],
+  "groupFight": false
+}

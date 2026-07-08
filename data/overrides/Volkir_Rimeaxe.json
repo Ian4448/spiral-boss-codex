@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Hit with Storm (+35%), avoid Myth (35% resist).",
+    "Blades, globals, traps (including Feint), and shields all make him Hex (+35%) the caster, so every normal buff puts a damage-trap on you. Buff with Auras and pet-cast spells instead, which do not trigger the Hex.",
+    "At only 3,590 health you do not need much setup, an Aura plus one Storm hit ends it.",
+    "If you must blade, accept that each Hex is only on you, and hit before it matters or cleanse it.",
+    "Open with an aura, then land a single big Storm attack."
+  ],
+  "cheatNotes": [
+    "Cast a blade and he interrupt-Hexes (+35%) you, buff with auras or pets instead.",
+    "Globals also trigger the Hex, but Auras do NOT, use auras to buff safely.",
+    "Pet-cast spells do not trigger the Hex either.",
+    "Cast a trap (Feint included) or a shield and he Hexes you the same way.",
+    "The cheat text only shows up after he casts the Hex, so expect it whenever you buff or trap."
+  ],
+  "groupFight": false
+}

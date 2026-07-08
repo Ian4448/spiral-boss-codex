@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Exalted challenge team fight. Hit with Fire (boosted); avoid Ice (80% resist).",
+    "Do not cast shields. Universal shields get stolen, and school shields are stolen then destroyed. Rely on direct heals and fast damage.",
+    "Avoid Heal-over-time spells and pet HoTs; each triggers a Snow Drift on the target. Use direct heals instead.",
+    "Skip DoTs. When his side takes DoT damage he casts Cooldown (a heal) on that ally.",
+    "Blade and Feint funneled to the hitter, then burst the 13,850 health."
+  ],
+  "cheatNotes": [
+    "Any universal shield you cast gets stolen off the receiver immediately. Do not bother shielding.",
+    "School-specific shields are stolen and then destroyed, so they are gone for good. Skip shields entirely.",
+    "Heal-over-time spells make him Snow Drift the target. Use direct heals instead.",
+    "Pet HoTs trigger the Snow Drift too.",
+    "Landing a DoT on his side makes him Cooldown that ally, healing it. Avoid DoTs and hit direct."
+  ],
+  "groupFight": true
+}

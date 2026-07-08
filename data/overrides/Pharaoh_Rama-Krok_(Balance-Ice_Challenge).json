@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "The whole fight is about the 'Krok Ankh' hanging effects: at Round 1 and every third Round he drops a random one (Shield, Trap, Blade, HoT, DoT, or Weakness) on himself or a wizard.",
+    "Never defeat him while any Krok Ankh is still active, or he heals to 100%, and that heal ignores Doom and Gloom and Infection.",
+    "Clear every Krok Ankh with spells or treasure cards that specifically remove that effect type before you go for the kill; damage will not clear the Shield Ankh and self-damage will not clear the Weakness Ankh.",
+    "Assign one wizard to track and clear Ankhs each cycle while the hitter builds blades, then burst him only on a clean Round.",
+    "He resists Storm and Balance 69% and Ice, Myth, Life, and Death 49%, taking least resist to Fire (29%), so Fire is your best hitting school."
+  ],
+  "cheatNotes": [
+    "At Round 1 and every third Round after, he casts a random 'Krok Ankh' hanging effect (Shield, Trap, Blade, HoT, DoT, or Weakness) on himself or a wizard.",
+    "Krok Ankh effects only come off with spells or treasure cards that specifically clear that type; damage will not remove the Shield Ankh and self-damage will not remove the Weakness Ankh.",
+    "If he is defeated while any Krok Ankh is still active, he restores himself to 100% Health.",
+    "That heal is a max-percentage heal, so Doom and Gloom and Infection cannot reduce it."
+  ],
+  "groupFight": true
+}

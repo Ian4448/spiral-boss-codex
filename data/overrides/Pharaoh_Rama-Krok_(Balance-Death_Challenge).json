@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Attack with Myth, his lowest resist at 29%; avoid Life and Balance (69% resist) and expect 49% on most other schools.",
+    "Track every Krok Ankh. On Round 1 and every third Round after, he drops a random hanging effect (shield, trap, blade, heal-over-time, damage-over-time, or weakness) on himself or a wizard.",
+    "Clear every Ankh before the kill. If he dies while any Krok Ankh still hangs, he restores 100% of his Health, and that heal ignores Doom and Gloom and Infection, so you cannot cut it.",
+    "Bring the right removal for each Ankh: Shatter or Steal Ward for the shield, Cleanse Charm for the weakness, Triage for the DOT, and so on. Self-damage and plain attacks will not clear them.",
+    "Right before the kill Round, sweep all active Krok Ankhs, then hit through with your bladed Myth hitter.",
+    "At 32,085 Health this is a team fight: assign someone to track and clear Ankhs while the hitter sets up."
+  ],
+  "cheatNotes": [
+    "Round 1 and every third Round he applies a random Krok Ankh hanging effect (shield, trap, blade, heal-over-time, damage-over-time, or weakness) on himself or a random wizard.",
+    "Each Krok Ankh must be removed with the specific spell or treasure card for that effect; for example the weakness Ankh will not clear from self-damage, and the shield Ankhs will not clear from damage.",
+    "Kill him while any Krok Ankh is still active and he restores 100% of his Health, so clear them all before the finishing hit.",
+    "That revive heal is a max-percentage heal, so Doom and Gloom and Infection cannot weaken it; clearing the Ankhs is the only counter."
+  ],
+  "groupFight": true
+}

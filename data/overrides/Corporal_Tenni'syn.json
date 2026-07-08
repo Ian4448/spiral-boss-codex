@@ -1,0 +1,31 @@
+{
+  "strategy": [
+    "A team fight against a 64,000-health boss whose cheats snowball the longer it runs. The classic answer is a coordinated Fire two-round burst: the team stacks Backdrafts and Feints onto one Fire hitter (bring Fire-mastery amulets for off-school wizards) so the boss dies before Lord of the Squall. (A solo clear is possible with the same lines, but the setup is built for a team.)",
+    "Do NOT use any Damage-over-Time. The guide is flagged outdated because DoTs are now reflected, and a DoT cast the same turn as a Feint triggers a brutal storm barrage (Windstorm, Supercharge, Storm Hound on all, Shift, Incindiate) plus a full trap wipe.",
+    "Only place ONE Feint per round. A second Feint in the same round makes him Cleanse Ward off your last two traps, so split your two Feints across the two rounds or protect one with Indemnity.",
+    "Round 1: Feint, Backdraft, Frenzy or Berserk aura on the hitter, then a Fire Trap.",
+    "Round 2: a DIFFERENT Backdraft (trained and potent Backdraft do not stack, so use one item/TC Backdraft), a different Feint, then Heckhound followed by Incindiate as the finish.",
+    "Advanced line: Round 1 potent Feint, Indemnity Backdraft, Frenzy, Indemnity Feint; Round 2 item Backdraft, item/TC Feint, Heckhound, Incindiate.",
+    "Enter on round 1 and hold your entry position: latecomers eat an interrupt natural attack, and he gains extra power pips per extra wizard, so a slow fight lets him reach seven Shadow pips and cast Lord of the Squall which strips all your charms, wards, and pips."
+  ],
+  "cheatNotes": [
+    "Any wizard joining after round 2 gets interrupt-hit by his natural attack. Enter on round 1.",
+    "He gains bonus power pips each round equal to the number of wizards minus one, so more wizards means he powers up faster. Keep the fight to two rounds so he never banks enough.",
+    "When he reaches his seventh Shadow pip he casts Lord of the Squall, wiping every wizard's charms, wards, pips, and shadow pips. Kill him before he gets there.",
+    "",
+    "The first Dispel each cycle just makes him Cleanse Charm it off himself. Dispels are largely wasted here.",
+    "The second Dispel again gets cleansed off with Cleanse Charm.",
+    "The third Dispel is cleansed off the same way, so stacking dispels does not lock him down.",
+    "The fourth Dispel makes him Cleanse Charm and heal himself with Healing Current, actively undoing your progress. Avoid dispel strategies entirely.",
+    "After that fourth-dispel heal he cleanses again, fires his natural attack, and rolls into the Wild Bolt spam below. Do not push the dispel cycle this far.",
+    "He then repeatedly casts Wild Bolt on random wizards up to seven times, which can one-shot squishy wizards. This is why the dispel cycle is not worth triggering.",
+    "",
+    "The first Feint each round just gets his warning line and is safe. One Feint per round is fine.",
+    "Every second Feint in the same round makes him Cleanse Ward off two of your traps, so never double-Feint in one round.",
+    "Casting a Damage-over-Time on the same turn as a Feint triggers a devastating storm combo (Windstorm, Supercharge, +12% Stormspear, Storm Hound on all, Shift, Incindiate) and a total trap wipe. Keep DoTs out of your deck.",
+    "Every four rounds he fires his natural attack for Storm damage, another reason to finish inside two rounds.",
+    "If you damage him the round before that four-round natural attack, he adds a Wild Bolt for each trap consumed by your hit, so time your burst carefully."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

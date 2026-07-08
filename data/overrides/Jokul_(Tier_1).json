@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Fire is your damage — he takes +30% from it — but every Fire hit normally triggers a +40% Ice Trap on your whole team plus Blizzard.",
+    "Use the exemption: the Fire punish is off during round 2 of the duel. Blade on round 1, then kill him with a boosted Fire hit on round 2 — at 2,400 health that is very doable.",
+    "No prisms. He strips the prism and all your traps at the end of the round.",
+    "If the fight runs long, leave the two Wildclaws alive until Jokul is dead — defeating both triggers the same Ice Trap plus Blizzard punish.",
+    "He is stunable if you need to buy a safe setup round."
+  ],
+  "cheatNotes": [
+    "Prisms are wasted here — he removes the prism and every trap on him at the end of the round. Build for raw Fire damage instead.",
+    "Each Fire damage spell you land triggers a +40% Ice Trap on all wizards followed by Blizzard. Painful if you chip him; irrelevant if your Fire hit kills him.",
+    "Round 2 is the free window — the Fire punish does not apply that round. Blade round 1, kill with Fire round 2.",
+    "Defeating both Wildclaws triggers the same Ice Trap plus Blizzard punish. Either kill Jokul first or accept one punish while cleaning up."
+  ],
+  "groupFight": false
+}

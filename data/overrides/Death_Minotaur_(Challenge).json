@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Hit Life. He takes boosted Life damage and resists 80% Death, so never attack into Death without a prism.",
+    "Do not use helpful charms or auras. Each one makes him cast Headless Horseman on whoever received it.",
+    "Do not put harmful auras on him - that returns a Weakness on you.",
+    "Avoid healing spells. A heal puts a +70% incoming Death damage aura for 4 rounds on the recipient (or on the caster if it was a group heal), which sets up his Death natural attacks to spike.",
+    "Since charms, auras, and heals are all punished, keep setup lean: use Feints (traps are not punished here) and a Life hit to burst him and his lone Serpentine minion down fast."
+  ],
+  "cheatNotes": [
+    "Casting a helpful charm or helpful aura makes him hit that recipient with Headless Horseman (Tier 2b). Skip blades and offensive auras.",
+    "Putting a harmful aura on him returns a Weakness onto you, the caster.",
+    "Casting any healing spell places a +70% incoming Death damage aura for 4 rounds on the recipient - or on the caster if it was an all-allies heal - amplifying his next Death hit."
+  ],
+  "groupFight": false
+}

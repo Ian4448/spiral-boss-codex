@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "Team fight (~15,000 health, two Shadow Guardians): hit with Life (+30%); the Prophet resists Death 71%.",
+    "Do not heal with normal spells. His Acrimony turns all incoming healing into damage for the fight. Recover with Death drain spells instead, which are not converted.",
+    "Kill the Shadow Guardians first. Their permanent Shadow Sentinel intercepts 90% of your damage, so hits on the Prophet are mostly wasted until the Guardians are gone.",
+    "Be careful with Auras. Casting one after Round 1 makes him Supernova it off and reapply Acrimony to everyone. Only overwrite it on Round 1 if you plan for it.",
+    "With the Guardians down, stack blades and Feint, then land one big Life hit."
+  ],
+  "cheatNotes": [
+    "",
+    "On Round 1, and on late joins, he casts Acrimony on all Wizards, turning your healing into damage for the fight. Heal with Death drains instead.",
+    "Casting an Aura on Round 1 replaces one Acrimony and shortens the timer to 4 Rounds, matching your Aura.",
+    "Casting an Aura on any later turn makes him Supernova it off and re-apply Acrimony to everyone.",
+    "Healing received from drain spells is not converted, so drains still heal you.",
+    "",
+    "Both Shadow Guardians cast a permanent Shadow Sentinel (intercept 90%, +80 block, -30% incoming). Kill them before hitting the Prophet."
+  ],
+  "groupFight": true
+}

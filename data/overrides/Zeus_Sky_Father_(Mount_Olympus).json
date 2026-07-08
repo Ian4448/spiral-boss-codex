@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Don't cast spells costing 6+ pips — Zeus counters each one with a Minotaur (75 + 525 Myth) on you.",
+    "Keep your attacks at 5 pips or fewer and rely on blades for damage, and avoid Shadow-enhanced spells (they trigger an extra Minotaur).",
+    "Attack with Storm (he takes +50%); he resists Myth 80%.",
+    "He is stunable, so stun him to skip a turn if you need breathing room.",
+    "Stack a couple of blades and traps, then finish his 4,000 health with a cheap (5-pip-or-less) Storm hit."
+  ],
+  "cheatNotes": [
+    "Any spell costing 6+ pips makes him cheat-cast a Minotaur (75 + 525 Myth) on you — keep attacks at 5 pips or fewer and rely on blades.",
+    "Shadow-enhanced spells trigger an extra Minotaur on top — skip shadow spells here."
+  ],
+  "groupFight": false
+}

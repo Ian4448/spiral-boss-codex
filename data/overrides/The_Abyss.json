@@ -1,0 +1,32 @@
+{
+  "strategy": [
+    "Anti-heal boss: Doom and Gloom (-75%) is up from round 1, your incoming healing sits at -200%, and healing triggers punishment spells — survive on shields and absorbs, not heals, and kill fast.",
+    "He's immune to Globals, so don't waste time on global prisms or auras — buff with blades and traps instead.",
+    "Every 2nd round he Beguiles a wizard by slot in order (slot 1 round 2, slot 2 round 4, and so on); keep the beguiled wizard from wasting your setup, and note empty slots are skipped.",
+    "He shields himself -80% against healing every 3rd round and recasts Doom and Gloom from round 4 on — again, don't build around heals.",
+    "Blade and Feint him, then land a big hit before beguiles and the anti-heal grind you down."
+  ],
+  "cheatNotes": [
+    "Late wizards get a protected -75% Mass Infection — join on time.",
+    "",
+    "Round 1 he casts Doom and Gloom (-75%), crushing all healing.",
+    "Round 1 he also casts a Shadow Guardian Spirit (unknown effect).",
+    "Every 2nd round he Beguiles a wizard for two rounds, going slot by slot.",
+    "Round 2 he beguiles slot 1.",
+    "Round 4 he beguiles slot 2.",
+    "Round 6 he beguiles slot 3.",
+    "Round 8 he beguiles slot 4, then the cycle repeats.",
+    "",
+    "If the targeted slot is empty he skips the beguile.",
+    "Every 3rd round he puts a -80% healing shield on himself.",
+    "From round 4 on he recasts Doom and Gloom (-75%) every 2nd round — don't rely on heals.",
+    "Cast a heal and he may punish you with one of the spells below.",
+    "",
+    "",
+    "",
+    "",
+    "He also applies a -20% incoming healing aura for 6 rounds — stack shields instead of healing.",
+    ""
+  ],
+  "groupFight": false
+}

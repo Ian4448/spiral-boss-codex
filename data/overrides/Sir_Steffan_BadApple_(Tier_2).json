@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "He heals 500 (Sap Health from a Mander) whenever a wizard deals 300+ direct damage. Use DoT spells, which do not trigger the cheat, or just burst through it since he is only 2560 health.",
+    "Do not place Traps on him; a trap triggers a Weakness on you. Set up with blades instead.",
+    "Hit with Myth, Life, or Death (+6% incoming); avoid Balance (50% resist).",
+    "He summons a Conscripted Mander at the end of round 1 and another at the end of round 2. AoE to catch them, or kill his Manders to deny the Sap heal."
+  ],
+  "cheatNotes": [
+    "He summons a Conscripted Mander at the end of round 1.",
+    "He summons a second Mander at the end of round 2.",
+    "Dealing 300+ direct damage makes him Sap a Mander for 500 health and resummon it. Use DoTs or just burst through it.",
+    "DoT spells do not trigger the Sap heal, the clean way to damage him.",
+    "The cheat still fires with no minions up, but the 500 heal fails, so killing his Manders first denies the heal.",
+    "Placing a Trap on him triggers a Weakness on you. Set up with blades, not traps."
+  ],
+  "groupFight": false
+}

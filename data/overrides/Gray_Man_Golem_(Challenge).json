@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "This is a multi-golem Darkmoor Challenge fight - bring a team with an AoE hitter, since each golem gets Guardian Spirit and revives once on death.",
+    "Hit Life. The golems take boosted Life damage and resist Death, so Life is your damage school.",
+    "Minimize positive charms. At the end of each round, if any wizard holds a positive charm, a golem steals power pips - more charms means more pips fed to them.",
+    "Because a golem's self-blade grows as its health drops (up to a protected 100% Bladestorm near death), do not leave one lingering at low health. Plan an AoE that finishes them together rather than chipping.",
+    "Set up with Feints and traps (not blades) to avoid the pip-steal, then land one big Life AoE. Account for Guardian Spirit - be ready to hit again to put them down past the revive."
+  ],
+  "cheatNotes": [
+    "On round 1 each Gray Man Golem gains Guardian Spirit, so it revives once when defeated. Plan to finish them past that.",
+    "At the end of each round, if any wizard holds a positive charm, a golem steals power pips from a random wizard - more charms steal more pips.",
+    "",
+    "",
+    "",
+    "While below full health, each round a golem self-casts a Bladestorm that grows the lower its health falls.",
+    "The self-blade ranges from 20% up to 100%, and a 100% blade is also protected - so a low-health golem gets very dangerous.",
+    "Only one golem blades per round, based on the health of the first golem in the circle.",
+    ""
+  ],
+  "groupFight": true
+}

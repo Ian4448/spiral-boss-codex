@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "This is a dance-cycle fight: at the start of each cycle he marks every wizard with a Stun Shield. Clear your mark in the first two rounds or eat Dr. Von's Monster (820) and a -25% healing charm at Round 3.",
+    "The simplest mark remover is damaging him; even a small hit clears it. A Global like Sanctuary or Wyldfire also makes him remove the mark, and Melt dispels it being placed at all.",
+    "He resists Death 80% and takes +35% from Ice and Life, and he is stunnable and beguilable. Bring Ice or Life hits and consider a stun to skip a turn.",
+    "Shields only stick on the wizard in the first (Sun) position; wards on other spots vanish. Legion Shield only covers its caster here.",
+    "Feint's self-trap is stripped instantly, so Feint gives you the full +70% trap on him with no -30% drawback. Use it freely.",
+    "Blade up across the safe rounds, clear each mark with a chip hit or Global, then land your Ice or Life nuke."
+  ],
+  "cheatNotes": [
+    "",
+    "Each cycle he marks you with a Stun Shield. Clear it by Round 2 of the cycle or he hits you for 820 and adds a -25% healing charm. Damaging him removes the mark.",
+    "If you still have the mark at Round 3 he fires Dr. Von's Monster at you. Chip him each cycle to stay clean.",
+    "Melt cast on him dispels the mark before it is even placed, handy if you cannot spare a hit that round.",
+    "Only the first-position (Sun spot) wizard can be warded; shields on anyone else vanish. Plan defense around the front slot.",
+    "Legion Shield only protects its caster here, not the team.",
+    "Feint's self-trap is removed immediately, so you get the full +70% trap on him with no -30% on yourself. Use Feint freely.",
+    "Casting a Global like Sanctuary or Wyldfire makes him remove your mark, a no-attack way to clear it.",
+    "His minion's Earthquake also clears your mark.",
+    "Auras like Galvanic Field or Sleet Storm do NOT clear the mark, so do not count on them for it.",
+    "Pet-cast spells do NOT clear the mark.",
+    "Item and gear cards do NOT clear the mark."
+  ],
+  "groupFight": false
+}

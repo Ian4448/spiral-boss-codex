@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "He shields himself every round on a 3-round cycle: -25% Tower Shield (rounds 1, 4, 7...), -50% (rounds 2, 5, 8...), then -90% (rounds 3, 6, 9...). Only one shield is up at a time, so it blocks one hit.",
+    "Never fire your big hit into a -90% shield round. Aim your kill for a -25% shield round, or strip the shield first.",
+    "Use a cheap hit or Shatter/Steal Ward to remove the current Tower Shield, then land the real hit the same round.",
+    "Hit with Myth - he resists it only 28%, less than any other school (48% for most, 68% Death).",
+    "As a team, stack blades on one hitter, have a support pop the shield, then hit; his 48,935 health likely needs more than one big hit."
+  ],
+  "cheatNotes": [
+    "",
+    "Round 1 (and every 3rd round after) he casts a -25% Tower Shield. This is the weakest shield and the best window to hit.",
+    "Round 2 (and every 3rd round after) a -50% Tower Shield goes up.",
+    "Round 3 (and every 3rd round after) a -90% Tower Shield goes up. Do not hit into this round; strip it or wait."
+  ],
+  "groupFight": true
+}

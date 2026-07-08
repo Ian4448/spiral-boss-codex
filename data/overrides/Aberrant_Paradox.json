@@ -1,0 +1,43 @@
+{
+  "strategy": [
+    "Enter together and on time. Anyone who joins late eats a single-target Power Nova for their maximum health that ignores resist and wards - an instant defeat.",
+    "Bring multiple hitters, not one. The fight runs three continuous waves with no reset, so the guide favors several hitters over the usual one-hitter setup; a healer helps but is optional if you clear fast.",
+    "Kill order is the fight: every Aberration must die before the boss. Each slot spawns three waves (Fire/Ice/Storm, then Myth/Death/Life, then Shadow/Balance/Balance). If the boss dies before the last Aberration, or on the same turn as it, he respawns with 5,775 health.",
+    "Pack AoE hits that land around 5,000-6,000 damage to wipe each minion wave quickly; the minions carry large spell arsenals and are the real threat. Hitters want 20-30% pierce because the boss resists 70% to every school except Balance (5% boost) - Balance wizards actually boost on him.",
+    "Do not cast the offensive cursed cards the Divine Paradox forces into your hands each global phase - they burn shadow pips and help the boss. Instead exploit the harmless ones: play Cursed Stun while beguiled/confused so it hits enemies, pair Cursed Infection with Cursed Pigsie to strip debuffs, and dump Anti-Tower Shield on a jade player for near-zero cost. The cards cannot be discarded and survive Reshuffle.",
+    "Time hits around the rotating school globals: the round-1 global lasts two rounds, later ones last three. Hit while your school is boosted, hold when weakened. Do not overwrite the global (he recasts the previous one) - only Gaze of Fate changes it without a recast.",
+    "Keep the hitters bladed through the waves and save the finishing Balance/high-pierce hit until the ninth Aberration is confirmed dead, then kill the boss on a later turn."
+  ],
+  "cheatNotes": [
+    "Joining the duel late means a Power Nova for your full health bar that ignores all resist and wards. Never join mid-fight; enter as a group from the start.",
+    "A random school global goes up at round 1 and rotates. It boosts one school's damage and weakens the opposite school (a Balance global weakens everyone). First global lasts two rounds, the rest last three - plan your hit for a phase that favors you.",
+    "Each global phase shoves a cursed card into your hand that cannot be discarded and survives Reshuffle. These cards help the boss or hurt your team - just leave them in hand.",
+    "If you replace the global with your own, the boss immediately recasts the previous one, wasting your pips. Do not bother casting globals.",
+    "Globals changed by a spell like Gaze of Fate do not get recast, so a Gaze of Fate hit is the one safe way to clear a phase that hurts you.",
+    "During the Fire global you receive one of the listed cursed/anti cards. Do not cast it.",
+    "",
+    "During the Ice global you receive one of the listed cursed/anti cards. Do not cast it.",
+    "",
+    "During the Storm global you receive one of the listed cursed/anti cards. Do not cast it.",
+    "",
+    "During the Myth global you receive one of the listed cursed/anti cards. Do not cast it.",
+    "",
+    "During the Life global you receive one of the listed cursed/anti cards. Do not cast it.",
+    "",
+    "During the Death global you receive one of the listed cursed/anti cards. Do not cast it.",
+    "",
+    "During the Balance global you receive one of the listed cursed/anti cards. Do not cast it.",
+    "",
+    "If any Aberration is still alive when the boss dies - including one killed on the same turn - he comes back with 5,775 health. Confirm all minions are dead, wait a turn, then kill the boss.",
+    "Killing a first-wave Aberration spawns a second-wave minion in the same slot (Myth, Death, or Life depending on the slot). Expect the fight to refill as you clear.",
+    "",
+    "",
+    "",
+    "Killing a second-wave Aberration spawns the third and final wave in that slot (Shadow or Balance). After these die, no more spawn - that is your window to finish the boss.",
+    "",
+    "",
+    ""
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

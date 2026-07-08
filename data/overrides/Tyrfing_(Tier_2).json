@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "He resists Myth 50% and Death 25%, and takes +20% from Storm and Life. Hit with Storm or Life.",
+    "His Grendel minions buff and heal him: Ransacker Tower Shields him, Cracknail Dragonblades him, Scavenger Sprites him, every 3 rounds. Expect him to be shielded and bladed.",
+    "Killing minions triggers counters: defeating the Ransacker or Scavenger gives him Blinding Light next round (accuracy debuff on you); defeating the Cracknail gives him an enhanced Humongofrog (AoE). Bring accuracy so Blinding Light does not fizzle your hit.",
+    "The cleanest line is a Storm or Life AoE that drops the minions and Tyrfing together, rather than picking them off one at a time and eating each counter.",
+    "Blade up and land one big AoE."
+  ],
+  "cheatNotes": [
+    "",
+    "He cheat-casts based on which minion dies, so kill order changes what he throws back. Prefer an AoE that clears everything at once.",
+    "Killing the Ransacker or Scavenger gives him Blinding Light next round, lowering your accuracy. Bring accuracy or hit before it lands.",
+    "Killing the Cracknail gives him an enhanced Humongofrog AoE next round. Be ready to heal it.",
+    "Every 3 rounds his minions buff him. Expect stacked shields and blades on Tyrfing.",
+    "The Ransacker Tower Shields him (-55%) from Round 1. Punch through or strip it.",
+    "The Cracknail Dragonblades him (+35%) from Round 2, raising his hits.",
+    "The Scavenger Sprites him for healing from Round 3. Pressure him faster than the heals."
+  ],
+  "groupFight": false
+}

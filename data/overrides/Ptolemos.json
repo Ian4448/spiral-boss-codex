@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "Attack with Fire (+35%); he resists Ice and Death 35%.",
+    "He shields himself with a -90% Tower Shield on round 1 and after every direct attack, so do not chip him with single hits.",
+    "Exploit his charm cheat: casting a Charm (a blade) or a Global makes him strip all wards off himself, including that Tower Shield. Blade up to clear his shield, then hit.",
+    "Alternatively use an All-Enemy spell or Steal spell, which do not trigger the shield replace, or Pierce and Steal Ward to remove the shield safely.",
+    "Note casting a Charm also removes your own traps from him, so rely on blades, then finish him."
+  ],
+  "cheatNotes": [
+    "He drops a -90% Tower Shield round 1 and after every direct attack, so single hits just refresh it. Strip it before hitting.",
+    "Melt prevents this shield cheat.",
+    "Pierce or Steal Ward removes the Tower Shield without triggering a replace.",
+    "All-enemy spells and Steal spells do not trigger the shield at all, so they are safe ways to damage him.",
+    "Casting any Charm makes him strip every ward off himself, including his Tower Shield. Blade to clear his shield, then hit.",
+    "Globals like Sanctuary also trigger that self-strip.",
+    "Pet-cast spells do not trigger the ward-strip cheat.",
+    "He will also strip harmful wards like traps and prisms off himself when this triggers, so your traps come off too.",
+    "Vaporize prevents the ward-strip cheat.",
+    "Multi-target traps like Mass Feint do not trigger the strip, a way to trap him safely.",
+    "On a multi-trap spell only the first ward gets removed.",
+    "Indemnity protects a trap from removal once."
+  ],
+  "groupFight": false
+}

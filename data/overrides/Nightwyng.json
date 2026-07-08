@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Shadow boss (7080). Hit with Myth (+10%); avoid Storm and Shadow (50% resist).",
+    "Free tempo: whenever he gains a Shadow Pip he tries Infinite Shadow, always fizzles, and loses the pip. He burns turns on this, so use them to set up.",
+    "Careful with charms: the first wizard to cast a Charm each round gets it stolen (Damage Globals count; AoE charms only lose the caster's copy). Blade and hit the same round, or Aegis the key blade.",
+    "Do not bother with Weakness-type debuffs; he Cleanses them off and may Steal Charm instead.",
+    "Stack a couple of blades and land a Myth hit. He is low health and wastes turns on his own fizzle."
+  ],
+  "cheatNotes": [
+    "Late joiners take a 1000 Moon Insane Bolt. Be in on round 1.",
+    "Every time he gains a Shadow Pip he tries Infinite Shadow, always fizzles, and loses the pip. Free wasted turns for him, so use them to build.",
+    "",
+    "The first wizard to cast any Charm each round gets it stolen. Blade and hit the same round, or Aegis your main blade.",
+    "Only the first charm each round is punished, so a second wizard can blade safely after the first draws the steal.",
+    "Damage Globals also count as charms for the steal. Watch what you open with.",
+    "AoE charms only lose the caster's copy, so a team blade still buffs everyone else.",
+    "Put a Weakness on him and he Cleanses it off. Skip damage debuffs.",
+    ""
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,28 @@
+{
+  "strategy": [
+    "Fire boss: hit with Ice, the only school he takes extra from (+5%); Fire is resisted 73%. Neither he nor the White Tiger can be stunned.",
+    "Equalize caps all damage at 3,000, so forget one-shots and plan to chip both enemies down under the cap.",
+    "Never hit with an all-enemies spell: Power Recharge heals every enemy to full when he is hit by AoE. Use single-target hits, or a drain AoE like Scarecrow, which does not trigger it.",
+    "Every third round Power Stunner stuns your team for a round and adds -40% accuracy, so bring stun blocks and accuracy.",
+    "Hitting the White Tiger resets and delays its ROAR (Insane Bolt, up to 1,550 Moon to your team), so chip the Tiger to keep pushing that nuke back.",
+    "Grind both enemies down under the 3,000 cap and finish."
+  ],
+  "cheatNotes": [
+    "",
+    "Join by Round 2 or he hits the latecomer with Impede.",
+    "Equalize caps every hit at 3,000 damage, so big single-shot kills are off the table; plan to chip.",
+    "Trying to swap out his Equalize global just makes him recast it, so leave it.",
+    "Every third round Power Stunner stuns your whole team for a round and adds -40% accuracy; pack stun blocks.",
+    "Hitting him with any all-enemies spell heals every enemy to full, so only ever use single-target hits here.",
+    "Drain AoEs like Scarecrow are the exception and do not trigger the full heal.",
+    "",
+    "A late wizard also eats a Sabertooth from the White Tiger.",
+    "When the Tiger says WARNING ROAR, its big ROAR nuke lands next turn.",
+    "ROAR is a Moon Insane Bolt to your whole team for 550, 1,050, or 1,550 every two rounds.",
+    "Hitting the Tiger delays ROAR and resets its two-round timer, so chip it to stall the nuke.",
+    "SNARL means the Tiger Empowered itself; watch for a stronger follow-up.",
+    "Putting a negative charm on the Tiger triggers that Empower.",
+    "The Tiger also Empowers after it casts Grim Reader or after Draconian casts Lord of the Jungle."
+  ],
+  "groupFight": false
+}

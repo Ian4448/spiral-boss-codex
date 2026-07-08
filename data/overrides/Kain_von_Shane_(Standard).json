@@ -1,0 +1,26 @@
+{
+  "strategy": [
+    "This is a 16,190-health Darkmoor finale, so run it as a team: a hitter, supports who trap and blade, and a healer who avoids healing him into a punish. He resists Death 67%, so hit with Life (+30%).",
+    "Use Mass Feint (+75%), not single Feint. A single Feint triggers Dark Tribute, which clears your traps and blades him; Mass Feint does not trigger it.",
+    "Keep chip damage on Kain to control his interrupt cycle. Any attack pauses the cycle a round and resets it to the start, so steady hits stall the Star dispel and Monster Mash.",
+    "Do not heal, Drain him, or cast harmful Charms on him: heals trigger an interrupt Vampire (even pet may-cast heals), Drains make him Aegis-blade, and harmful Charms Disarm the caster. Avoid sun spells too, since they give him a protected universal dispel.",
+    "Set up traps with Mass Feint and blades on the hitter, keep resetting his cycle with attacks, then land one big Life hit."
+  ],
+  "cheatNotes": [
+    "A single Feint on Kain triggers Dark Tribute: he clears your universal traps and blades himself +30%. Use Mass Feint (+75%) instead, which does not trigger this.",
+    "Any harmful Charm on Kain gets the caster Disarmed. Do not weaken or curse him directly.",
+    "A Drain spell makes him Aegis-protect a +100% Balanceblade on himself. Do not drain him.",
+    "Any heal triggers an interrupt Vampire that drains a wizard and heals the caster. Avoid healing during the fight.",
+    "Pet may-cast heals also trigger the Vampire. Bench heal-casting pets.",
+    "The heal cheat does not fire for a beguiled wizard.",
+    "A spell with a sun in it (Power Nova and the like) makes him protected-universal-dispel himself. Avoid sun spells.",
+    "His interrupt cycle begins on round 2 and repeats every 3 rounds until reset.",
+    "Cycle round 1: a Star Supercharge gives him a +10%-per-pip universal damage charm and a free pip.",
+    "Cycle round 2: a Star spell lands a same-school dispel on every wizard, so your next attack of that school fizzles.",
+    "Cycle round 3: Monster Mash on a random wizard.",
+    "",
+    "Attacking Kain pauses his cycle for a round and resets it to the beginning. Keep chip damage on him to stall the dispel and Monster Mash.",
+    "Damage-over-time spells only reset his cycle on the round you cast them, not on each tick."
+  ],
+  "groupFight": true
+}

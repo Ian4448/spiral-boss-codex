@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Play by his rules each round. Lucien announces a rule, rewards obeying it, and punishes breaking it, so follow the current rule for the buff and hit only when the rule allows.",
+    "Under the Blade rule, cast a blade to earn a Tower Shield; casting anything else draws a -50% Weakness. Use these forced blade turns to stack your hitter.",
+    "Under the Heal rule, heal to earn a +50% Universal Lightning Strike (a free damage boost); not healing gives you a -100% Black Mantle. Bank that Lightning Strike for your big hit.",
+    "Exploit the Manipulation rule: when he demands you strike your friends, casting an AoE damage spell that has targets makes him Insane Bolt himself for 33% of his own Health. Line up a real AoE finisher for that round.",
+    "He is Storm with 73% Storm resist and takes only 5% Myth, plus strong outgoing and incoming heals (41%/46%), so pack a Myth hitter or prisms and an Infection/Doom to cut his healing.",
+    "Come in on time (late wizards get Weakness, Black Mantle, and Beguile) and watch for the two-rule bug; when Beguiled you may break rules freely, so use those turns to set up, then burst him with your rule-sanctioned AoE."
+  ],
+  "cheatNotes": [
+    "A known bug can make him state two rules at once, so you may be rewarded and punished, or punished twice, in a single round.",
+    "A late wizard is hit with a -50% Weakness, a -100% Black Mantle, and Beguile; join before the fight begins.",
+    "At the end of Round 1 he declares the Blade rule.",
+    "While the Blade rule is active, blading earns you a Tower Shield.",
+    "Casting any non-blade under the Blade rule draws a -50% Weakness on you.",
+    "Maycast effects can make him apply the Weakness twice, so watch your pet procs.",
+    "At the end of a later round he declares the Heal rule.",
+    "While the Heal rule is active, healing earns you a +50% Universal Lightning Strike, a free blade for your next hit.",
+    "Not healing under the Heal rule gives you a -100% Black Mantle.",
+    "At the start of Round 3 he Beguiles a random wizard and demands you strike your friends.",
+    "Casting an AoE damage spell with valid targets under this rule makes Lucien Insane Bolt himself, removing 33% of his own Health. Save a real AoE for this round.",
+    "While Beguiled, you are allowed to cast rule-breaking spells until the Beguile wears off, so use those turns freely."
+  ],
+  "groupFight": false
+}

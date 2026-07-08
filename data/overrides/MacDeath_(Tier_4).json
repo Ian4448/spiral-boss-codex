@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Enter on time. A late join eats a stacked Feint, Curse, and Hex.",
+    "Attack with Life; he resists Death 80% and takes +35% from Life. He is stunable, so a stun can skip one of his interrupts.",
+    "His round-1 near -100% Fortify makes early hits barely dent him. Each Damage or Steal you land drops that Fortify 10%, so chip him repeatedly (multi-hit spells are ideal) until it is down to -10%, then land your real hit.",
+    "Do not cast Globals or Heals (he answers with -75% Doom and Gloom), do not Feint him (an understudy Swap Wards it off), and do not use DoTs (he Shifts them back onto the caster).",
+    "Clear his summoned MacStorm, MacLife, and MacDeath understudies with AoE and expect a Beguile on a random wizard."
+  ],
+  "cheatNotes": [
+    "Late arrivals eat a stacked +75%/+20% Feint, +25% Curse, and +35% Hex. Enter at the start.",
+    "Round 1 he puts up a -100% Fortify, so early hits barely dent him.",
+    "Each time you Damage or Steal on him, his Fortify drops 10% in strength. Keep hitting (multi-hit spells help) to peel it down to -10% before your kill shot.",
+    "He summons a MacStorm, MacLife, or MacDeath Understudy via a Moon spell. Clear them with AoE.",
+    "Casting any Heal or Global triggers a -75% Doom and Gloom. Skip globals and healing.",
+    "He Beguiles a random wizard, so expect to lose a turn to mind control.",
+    "Feinting MacDeath makes an understudy Swap Ward it off him. Blade your hitter instead of trapping him.",
+    "A DoT on MacDeath gets Shifted back onto the caster. Avoid damage-over-time.",
+    "An all-enemy DoT can Shift onto a wizard who was not the caster."
+  ],
+  "groupFight": false
+}

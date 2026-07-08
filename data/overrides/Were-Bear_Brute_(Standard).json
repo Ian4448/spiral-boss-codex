@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Hit with Myth - he takes a huge 66% more from Myth and resists Storm 66%. Myth wizards or a Myth prism shred him.",
+    "A Mysterious Werewolf backs him up, healing the team with Pigsie (round 1 of its cycle) and blading them with Bladestorm (round 4). Kill the Werewolf to stop the heals and blades.",
+    "The Werewolf revives once at full health when killed, then leaves combat at end of that turn - so kill it, let it revive and exit, then focus the boss uninterrupted.",
+    "Stack blades/Feint on your hitter and land a big Myth hit; time it so the Werewolf's fresh HoTs and blades do not undo your burst."
+  ],
+  "cheatNotes": [
+    "When the Mysterious Werewolf is defeated it revives at 100% health, then leaves combat at end of turn. Kill it once and let it exit.",
+    "",
+    "The Werewolf's support cycle repeats every 4 rounds until it is gone.",
+    "Cycle round 1: the Werewolf casts Pigsie, healing its team and adding 3 HoTs for 4 rounds. Kill it to stop the healing.",
+    "Cycle round 4: the Werewolf Bladestorms two +30% charms onto its team. Another reason to remove it early."
+  ],
+  "groupFight": false
+}

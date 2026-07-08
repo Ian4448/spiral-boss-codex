@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "He takes +15% from Storm and resists Myth and Balance 80%. Hit with Storm.",
+    "Do not single-Feint him: he Swap Wards it back onto you. Use Mass Feint (+75%), which does not trigger the swap, or protect Feint with Indemnity. Melt also dispels the swap cheat.",
+    "Leave his Attack Sea Lions alone. Attacking one makes him Berserk, and killing one gives him an enhanced Berserk (+45%/+35%). Trapping or charming the lions triggers Cleanse Ward or Cleanse Charm.",
+    "He summons a new Sea Lion every 4 rounds, so focus all damage on Ludus and ignore the pets.",
+    "Blade up, Mass Feint or Indemnity-Feint, and hit Ludus directly with Storm. Join on time; late arrival eats a Mana Burn."
+  ],
+  "cheatNotes": [
+    "Late arrival eats a Mana Burn. Zone in on time.",
+    "He summons an Attack Sea Lion every 4 rounds. Ignore them and keep hitting Ludus.",
+    "A Feint on Ludus gets Swap Warded back onto you. Use Mass Feint (+75%) instead, which does not trigger it.",
+    "Melt dispels this swap cheat if you want to Feint normally.",
+    "Indemnity also prevents the Feint swap.",
+    "Mass Feint (+75%) is safe; it never triggers the swap.",
+    "Trapping a Sea Lion makes him Cleanse Ward. Do not bother trapping the pets.",
+    "Vaporize dispels that Cleanse Ward cheat.",
+    "A single-target negative charm on a minion makes him Cleanse Charm. Keep debuffs off the pets.",
+    "Even secondary-effect debuffs trigger the Cleanse Charm. Aim clean single hits at Ludus.",
+    "Attacking a Sea Lion makes him Berserk (a damage buff). Never hit the pets.",
+    "Killing a Sea Lion gives him an enhanced Berserk (+45%/+35%). Leave the lions alive and burst Ludus."
+  ],
+  "groupFight": false
+}

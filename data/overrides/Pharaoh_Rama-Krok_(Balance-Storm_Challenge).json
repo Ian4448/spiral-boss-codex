@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "He drops a random Krok Ankh hanging effect (Shield, Trap, Blade, HoT, DoT, or Weakness) on himself or a wizard at round 1 and every 3rd round. Each must be cleared with a spell that specifically removes that effect type.",
+    "Do not kill him while any Krok Ankh is active. He revives at 100% health, and that heal cannot be reduced by Doom and Gloom or Infection.",
+    "Assign one wizard to track and cleanse the active Ankhs, matching the right removal to each effect type, so the board is clean the round you go for the kill.",
+    "Big Balance boss (37,105 health, 179% damage boost). His lowest resist is to Ice (29%); build blades on one hitter and burst once all Ankhs are cleared."
+  ],
+  "cheatNotes": [
+    "At round 1 and every 3rd round after, he places a random Krok Ankh (Shield, Trap, Blade, HoT, DoT, or Weakness) on himself or a random wizard.",
+    "Each Krok Ankh only clears with a spell or treasure card that specifically removes that effect type; a Weakness Ankh will not go to self-damage, a Shield Ankh will not go to damage spells.",
+    "If he is defeated while any Krok Ankh is active, he revives at 100% health.",
+    "Because that revive is a max-percentage heal, Doom and Gloom and Infection cannot reduce it."
+  ],
+  "groupFight": true
+}

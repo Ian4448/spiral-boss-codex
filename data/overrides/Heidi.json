@@ -1,0 +1,26 @@
+{
+  "strategy": [
+    "Bring your full team in from Round 1; anyone who joins after Round 2 eats Fuel and Quench.",
+    "Put a cheap Damage over Time on yourself early (anything except Fire Dragon). Every turn you take with a DoT ticking, Heidi casts a free Balanceblade on you, one per DoT. This is the fight's best exploit.",
+    "Kill each Fire Elemental yourself before it casts Raging Bull. If it dies to her side, Heidi gains a stacking +20% to +100% permanent damage aura per minion lost.",
+    "She resists Fire 70% and takes +5% from Ice. Hit with Ice or any non-Fire school. She cannot be stunned.",
+    "Once you have farmed two or three Balanceblades and are keeping the Elemental down, stack your normal blades and finish her with one big hit."
+  ],
+  "cheatNotes": [
+    "Anyone entering after Round 2 gets Fuel and Quench cast on them. Start the fight with your whole team in the circle.",
+    "Timing note: if you go first, her Balanceblade lands after your turn, so plan to spend each farmed blade the following round.",
+    "Expect a Fire Elemental on Round 1 and a replacement every 3 rounds whenever one is missing. It costs her turn, not pips, so it never slows her damage.",
+    "The Elemental re-summons a replacement by casting Raging Bull. Kill it before it gets the chance.",
+    "Raging Bull is a suicide cast; the Elemental dies after using it, which counts against you and feeds her Amplify cycle.",
+    "Free blades: while any DoT except Fire Dragon is ticking on you, Heidi casts Balanceblade on you every turn you take, once per DoT. Deliberately keep a cheap DoT on yourself and farm blades.",
+    "If the Elemental dies to Raging Bull or to her side, she gains a permanent damage aura. Killing each Elemental yourself denies the whole cycle.",
+    "Defeating the minion with your own spells skips the Amplify entirely. Always take the Elemental out yourself.",
+    "Let the first Elemental die to her and she gains +20% outgoing damage for the rest of the fight.",
+    "+40% on the second. The auras stack, so her damage snowballs fast.",
+    "+60% on the third.",
+    "+80% on the fourth.",
+    "+100% on the fifth. With her base 135% boost her hits become lethal; never let it get here.",
+    "Cosmetic note: the auras look like Berserk, but treat them as the +damage Amplify described above."
+  ],
+  "groupFight": false
+}

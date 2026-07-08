@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Cleanse your trap first. It puts a protected +100% damage trap on each wizard, so incoming hits on you are doubled until you cast the Cleanse Ward it hands you.",
+    "Attack with Ice (it takes +30% Ice); never Fire (57% resist) and expect 27% resist on the other schools.",
+    "Blade, Feint, and hit as normal, just keep your personal +100% trap cleansed so its return hits do not spike.",
+    "At 14,485 Health with no minions and one simple cheat, this is soloable with a bladed Ice hitter."
+  ],
+  "cheatNotes": [
+    "It puts a protected +100% damage trap on each wizard and hands each of you a Cleanse Ward to remove it. The trap doubles damage you take, so cleanse it before it hits you.",
+    "",
+    "You are not required to cast the Cleanse Ward to win, but doing so prevents doubled incoming damage."
+  ],
+  "groupFight": false
+}

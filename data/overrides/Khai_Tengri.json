@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Hit with Ice (+35%); he resists Fire 35%.",
+    "Every blade you cast makes him Hex you (+35% incoming damage), and every trap or shield does the same — so minimize charms and wards.",
+    "Use Aura spells for your damage boost instead — auras don't trigger the Hex, and pet-cast blades are safe too.",
+    "He's low health (3,435); a single buffed Ice hit ends it.",
+    "If you must blade, accept one Hex and hit the same round before it matters."
+  ],
+  "cheatNotes": [
+    "Cast a blade and he interrupt-Hexes you (+35% incoming damage) — lean on auras instead, which don't trigger it.",
+    "Global spells also trigger the Hex; auras do not.",
+    "Pet-cast spells won't trigger it.",
+    "Cast a trap (Feint included) or a shield and he Hexes you the same way — keep setup minimal.",
+    ""
+  ],
+  "groupFight": false
+}

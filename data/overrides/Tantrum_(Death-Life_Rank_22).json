@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "He is stunable and beguilable, so a stun buys safe setup rounds.",
+    "His only cheat occasionally sets a Death Equalize capping your damage at 500, so a single giant hit can get wasted. If the cap is up, plan several 500 hits; if it is not, burst normally.",
+    "Watch the Global before committing your big hit. If the 500 cap is active, replace it with your own Global or grind him down in 500-damage chunks.",
+    "No resist is listed, so attack with your strongest school; Life boosts against his Death side.",
+    "Stack blades and a Feint, then hit when the cap is down."
+  ],
+  "cheatNotes": [
+    "He occasionally drops a Death Equalize capping all damage at 500. Check the Global before your kill shot; if it is up, overwrite it or hit in 500-damage chunks."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Team fight (15,000 health). Bring Fire: it takes +30% from Fire and resists Ice 83% and everything else 53%.",
+    "It opens round 1 by stacking three -200% Tower Shields on itself, so no real damage lands until all three are gone.",
+    "Break all three shields in a single round using wand hits, low-pip spells, or a shield-shatter, then land your real hit the same round. Any shield you destroy reapplies 3 rounds later.",
+    "It is stunable, so a stun buys a round to finish clearing shields or set up the hitter.",
+    "Blade the hitter while the support breaks the towers, then unload Fire once the shields are down."
+  ],
+  "cheatNotes": [
+    "Round 1 it puts three -200% Tower Shields on itself. Clear all three before your damage counts.",
+    "Each destroyed shield comes back 3 rounds after it breaks, so break all three and hit in the same round."
+  ],
+  "groupFight": true
+}

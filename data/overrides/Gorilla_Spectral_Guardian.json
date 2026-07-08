@@ -1,0 +1,11 @@
+{
+  "strategy": [
+    "Small Fire boss (3,380). He takes +30% from Ice and Storm; hit with either.",
+    "His one cheat: if you are marked and do not cast a charm within two rounds, he lands a -50% Smoke Screen. After being marked, just cast any blade within two rounds to avoid it.",
+    "Blade up (which also satisfies the charm requirement), then hit with an Ice or Storm attack."
+  ],
+  "cheatNotes": [
+    "If you are marked and cast no charm within two rounds, he hits you with a -50% Smoke Screen. Simply blade within the window; your setup blade doubles as the counter."
+  ],
+  "groupFight": false
+}

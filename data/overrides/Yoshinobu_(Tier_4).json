@@ -1,0 +1,27 @@
+{
+  "strategy": [
+    "Attack with Myth or Life; Yoshinobu takes +30% from both. Avoid Storm hits (40% resist) and do not plan around stuns, he is not stunable. There are three minions: Hisamoto, Kensaburo, and Takazane.",
+    "Keep every hit under 8 Pips, or clear the minions first. Any single spell of 8+ Pips that damages Yoshinobu triggers the Chain Reaction: a -60% Smoke Screen on you, a 750-Health Rebirth heal from Hisamoto, and Kensaburo's Power Nova for 550 Balance plus a -50% Weakness on your whole team.",
+    "Plan for the free Round 1 casts. Yoshinobu opens with Mass Infection (cut your healing) and Hisamoto lays a Legion Shield absorb; Hisamoto recasts Legion Shield every three Rounds, so time your damage right after a recast or chip through the absorb.",
+    "Follow the kill order. Defeat Hisamoto first to stop the Legion Shield recasts and the Rebirth heal, then Kensaburo to stop Power Nova and the 175-Health Minor Blessing heals on the minions.",
+    "With Hisamoto and Kensaburo gone, an 8+ Pip hit only draws a non-stunning Storm Lord (690) plus Ra (565-645); no more enemy heals. Stack blades and traps, then finish Yoshinobu with one large Myth or Life hit and tank the counter."
+  ],
+  "cheatNotes": [
+    "The bosses each take a free Round 1 setup cast that costs them no Pips, so expect their opening spells to land before you can respond.",
+    "You start the fight under a Mass Infection that weakens your heals; cleanse it before you rely on any healing spell.",
+    "Hisamoto's free Legion Shield puts a shared damage-absorb on the enemy side, so your first hits are partly soaked.",
+    "The Legion Shield comes back every third Round after the first. If you break or waste it, wait or expect a fresh absorb on Rounds 4, 7, and so on.",
+    "This is the core rule: any single spell of 8 or more Pips that damages Yoshinobu sets off the full chain below. Hit for 7 Pips or less, or kill the minions first.",
+    "The chain drops a -60% Smoke Screen on you, so your next spells may fizzle. Carry accuracy or a Sniper enchant if you must hit big.",
+    "Hisamoto heals the enemy side for 750 and adds a 250 absorb ward, which can undo a chunk of your damage; killing Hisamoto removes this from the chain.",
+    "Power Nova hits your whole team for 550 Balance and stacks a -50% Weakness, cutting your next attack; killing Kensaburo removes it.",
+    "After Hisamoto is dead, an 8+ Pip hit triggers a different chain, shown below.",
+    "While Kensaburo is still alive, the post-Hisamoto chain includes both of the following.",
+    "You eat a 690 Storm Lord, but note it does not Stun, so you can act normally next Round.",
+    "Kensaburo heals each remaining Samoorai for 175, slowly undoing minion damage; defeat him to end it.",
+    "Once Kensaburo is also dead, the 8+ Pip chain switches to the following pair.",
+    "With both Hisamoto and Kensaburo down, an 8+ Pip hit only costs you a 690 Storm Lord and a 565-645 Ra, both non-stunning and with no Weakness; this is safe to tank on your finishing turn.",
+    "These interrupt hits scale with certain buffs: Storm Lord answers Empowerment, and Ra answers both Empowerment and Adapt, so avoid feeding them those before you take the hit."
+  ],
+  "groupFight": false
+}

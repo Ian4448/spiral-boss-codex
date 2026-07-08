@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Hit with Balance; he takes +75% from it. Fire, Myth, and Life also work (+5%); avoid Ice, Storm, and Death (70% resist).",
+    "Clear the Round-1 Tower Shields with double Shatter. He opens with six -50% shields; two Shatters (or Shatter Treasure Cards if no Myth wizard is present) strip them. Once gone, he never recasts them.",
+    "Play around the -50% Fortify aura. Healing, blading, and trapping all re-trigger it, so accept it will be up and plan to punch through rather than remove it. Do not cast Supernova, which only makes him recast the aura.",
+    "Use Shadow Shrike to beat the aura. Have the hitter cast Shadow Shrike before the big hit; support can add Shatter on the boss.",
+    "Blade and Feint like a normal boss once the shields are down, then a few rounds in have the hitter Shrike and land the kill. He is stunable, so stuns can buy setup Rounds.",
+    "He carries an Aegis-protected Balanceblade, so a single steal won't take it. Keep a heal ready for the Round-9-then-every-10 Chimera cast."
+  ],
+  "cheatNotes": [
+    "Joining late gets Impede plus two Indemnity-protected universal traps (+25% and +35%) on you; enter on time.",
+    "On turn 1 he puts up a Star Tower Shield (six -50% shields total) and a -50% Fortify aura, recast at the end of each cycle; casting Supernova forces an extra recast. Double Shatter removes the shields for good, and Shadow Shrike punches through the aura.",
+    "Every tenth Round (starting Round 9) he Chimeras a random wizard; keep a heal ready on that timer."
+  ],
+  "groupFight": false,
+  "guideSourced": true
+}

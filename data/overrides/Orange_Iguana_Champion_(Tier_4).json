@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "This is a 16,000-health Balance gauntlet boss - bring a team with a hitter and support. He is stunable, so a stun can buy a setup round.",
+    "Hit Myth, Life, or Death - all take +30% here. He resists 69% Balance and 39% elsewhere, so avoid Balance.",
+    "Every helpful charm - yours or a minion's - makes him self-cast a +45% Balanceblade and a Tower Shield. Blade sparingly to limit how much he ramps and shields.",
+    "Blade and hit on the same turn so he only gets one round of counter-buff and tower before your hit lands.",
+    "Because he towers himself off your charms, plan your kill shot to break a Tower Shield: over-blade the hitter in one turn, then swing hard enough to punch through the tower and his 16,000 health."
+  ],
+  "cheatNotes": [
+    "When any wizard or minion casts a helpful charm, he self-casts a +45% Balanceblade and a Tower Shield. Blade sparingly and hit the same turn, expecting to break a tower on your kill shot."
+  ],
+  "groupFight": true
+}

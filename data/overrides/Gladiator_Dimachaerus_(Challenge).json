@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Every round he hits the lowest-health wizard for 180 Balance plus a school-based rider. Keep everyone topped so the target stays predictable and the riders stay manageable.",
+    "Low 3,220 health means you do not need much setup; one or two blades and a hit end it before riders pile up.",
+    "Balance resists itself 27%, so hit with an off-school or Spectral hit.",
+    "Clear the Doomed Bones minion in the same AoE."
+  ],
+  "cheatNotes": [
+    "Every round he Natural-Attacks the lowest-health wizard for 180 Balance, adding a rider based on that wizard's school.",
+    "A Storm or Death wizard takes a +55% Hex from the rider.",
+    "An Ice or Myth wizard takes a DoT dealing 150 Balance over 3 rounds.",
+    "A Life, Fire, or Balance wizard takes a -35% Weakness."
+  ],
+  "groupFight": false
+}

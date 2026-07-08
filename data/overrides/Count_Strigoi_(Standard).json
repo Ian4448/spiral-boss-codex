@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "Team Darkmoor fight. The win condition is killing Strigoi from FULL health in a single attack. If he is below full when defeated, or survives the shot, he Scarecrows and revives.",
+    "He heals 6600 to full every round anyway, so do not chip him. Treat every attack on him as the finisher while supports pile blades on one hitter and Feint Strigoi.",
+    "Hit with Life (+30%); he resists everything else 37% and Death 67%.",
+    "Leave his Ascended Guards alone. Hitting a guard without killing it heals Strigoi 5000, and killing one makes him Sacrifice-revive it for 2000 of his own HP.",
+    "Expect Confusion on a random wizard each round, so the hitter should not gamble the kill shot on a Confused turn.",
+    "When blades are stacked and he says he is overstuffed (full HP), the hitter lands one huge Life hit big enough to kill him outright from full."
+  ],
+  "cheatNotes": [
+    "He opens by summoning three Ascended Guards, so expect a full board immediately.",
+    "Every round he Confuses a random wizard and heals 6600 back toward full. Your hitter should not risk a Confused turn on the kill shot.",
+    "Killing an Ascended Guard makes him revive it with Sacrifice at the cost of 2000 of his HP. Do not clear guards unless you can end the whole fight that turn.",
+    "Hitting a guard without killing it heals Strigoi 5000. Never tickle the guards; hit only Strigoi, and only to kill.",
+    "When he says he is overstuffed he is at full HP. That is the state you must kill him in, so this is your green light.",
+    "If he says he feels hunger pangs he is below full HP; killing him now just makes him Scarecrow and revive. Wait for full.",
+    "He must be dropped from full HP in ONE attack. A hit that leaves him alive triggers Scarecrow and a revive, so build enough to one-shot roughly 20000.",
+    "Avoid Drain spells on him or the guards; the target counters as noted below.",
+    "If a Drain does not kill him, he Aegis-shields a +100% Balanceblade onto himself, making his next hit far worse. Skip Drain attacks.",
+    "If a Drain kills him he just Minor-Blessings back to full health. Drains cannot finish this fight; use a straight Life hit.",
+    "Hitting him with a Sun-infused spell (Sun Serpent, Ra, Climaclysm) that does not kill makes him self-cast a protected universal dispel, wasting your setup. Use a non-Sun finisher."
+  ],
+  "groupFight": true
+}

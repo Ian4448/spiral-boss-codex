@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Raid boss. Hit with your strongest school (no listed resist) and bring a team with a hitter and support.",
+    "Every round she stacks two -25% damage and two -50% healing charms on two random wizards. Track them, because at 4+ negative damage or 4+ negative healing charms on any wizard she Storm Owls the whole team then clears all your charms.",
+    "Her Storm Owl reset also wipes your blades, so time the hitter's burst to land BEFORE anyone hits the 4-charm threshold, or right after she resets you.",
+    "Spread the incoming charms since they hit random wizards, and cleanse damage charms off the hitter before the big hit.",
+    "Blade the hitter, Feint the boss, and burst in one round between her Owl resets."
+  ],
+  "cheatNotes": [
+    "Each round she piles two -25% damage and two -50% healing charms onto two random wizards, your damage and healing erode fast.",
+    "The round any wizard reaches 4+ negative healing or 4+ negative damage charms, she Storm Owls the whole team and strips ALL your charms, blades included. Burst before that threshold or right after the reset."
+  ],
+  "groupFight": true
+}

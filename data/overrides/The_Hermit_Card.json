@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Purge the weaknesses first. It stacks protected -100% damage weaknesses on each wizard (one per wizard present), which zero out your hits until you cast the Purge it hands you.",
+    "Attack with Myth, Life, or Death (it takes +30% each); never Balance (63% resist) and expect 33% resist on the other schools.",
+    "Purge off the weaknesses, then blade and hit as normal.",
+    "At 16,820 Health with no minions and one simple cheat, this is soloable once the weaknesses are cleared."
+  ],
+  "cheatNotes": [
+    "It puts protected -100% damage weaknesses on each wizard, as many as there are wizards, and hands each of you a Purge to remove them. Your hits do nothing until you Purge them off.",
+    "",
+    "You are not required to cast the Purge to win, but you must clear the weaknesses to deal damage."
+  ],
+  "groupFight": false
+}

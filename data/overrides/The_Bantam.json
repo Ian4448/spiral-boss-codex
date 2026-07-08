@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "He takes +5% from Death and resists Life 73%. Hit with Death or a prism.",
+    "He periodically uses his Natural Attack, then becomes Pacified and untargetable for 3 rounds. You cannot damage him during that window, so bank blades and hit the moment he is targetable again.",
+    "Blades cast on ANOTHER wizard get downgraded to a half-value Balanceblade, so blade the hitter directly (or keep blades on yourself as the solo hitter) rather than passing them.",
+    "Watch for his 'Get ready, Angel' shout; the next round the Angel casts Mass Sacred Charge (840 absorb). His Lifeblade and the Angel's Absorb are Aegis-protected.",
+    "Blade up during his untargetable window, then unload a Death hit as soon as he can be targeted."
+  ],
+  "cheatNotes": [
+    "Late arrival gets Infection plus an Entangle from the Angel. Zone in on time.",
+    "He periodically Natural Attacks, then goes Pacified and untargetable for 3 rounds. Bank your setup and hit the instant he is targetable again.",
+    "A blade cast on another wizard becomes a half-value Balanceblade. Blade the hitter directly; do not pass blades.",
+    "For Elemental and Spirit blades, only the first of the three gets downgraded, a partial workaround.",
+    "When he shouts 'Get ready, Angel,' the Angel casts Mass Sacred Charge next round. Expect an 840 team absorb to appear.",
+    "That Mass Sacred Charge (840) lands as a team shield. Hit hard enough to punch through it, or strip it first."
+  ],
+  "groupFight": false
+}

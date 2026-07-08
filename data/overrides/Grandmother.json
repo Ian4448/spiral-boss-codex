@@ -1,0 +1,26 @@
+{
+  "strategy": [
+    "This is a two-stage fight: clear the Big Bad Wolf (~4,780 HP) first, then Grandmother, a rank 17 Shadow boss.",
+    "She resists 70% to nearly every school and only takes a slight boost from Life and Balance, and has just 45% incoming healing, so prism into Life/Balance or bring reliable hits and don't count on out-healing her.",
+    "She is beguilable: Beguile shuts off the polymorph cheat entirely. Otherwise plan around it, since from the end of Round 1 she turns one wizard into a confused Grandmother for four rounds.",
+    "When polymorphed solo, cast Knitted Sweater (it only ever stuns Grandmother, never you) or Amigurumi to heal 1,500; avoid the self-damaging cards and carry a Cleanse Charm to strip the Bad Juju weakness Amigurumi leaves.",
+    "In a team, the polymorphed player should spam Curse of Grandma every turn to just pass the curse along while the rest keep blading and Feinting the boss normally.",
+    "Otherwise play the standard loop: stack blades, Feint, then hit. She mostly passes and casts predictable Storm's Iron Giant and Glowbug Squall, so she is not threatening between polymorphs."
+  ],
+  "cheatNotes": [
+    "Join before the duel starts; late arrivals get polymorphed into a Grandmother copy right away.",
+    "From the end of Round 1 she polymorphs one wizard into a confused Grandmother (7,500 HP) for four rounds, handing them a special junk deck.",
+    "Beguiling her prevents the polymorph cheat entirely, and she is beguilable, so this is a clean counter.",
+    "",
+    "Curse of Grandma makes her re-polymorph a wizard. As the polymorphed player, spamming it just passes the curse instead of hurting teammates.",
+    "Knitted Sweater stuns for one round, and cast while polymorphed it only ever stuns Grandmother, never you, making it the safe pick.",
+    "Amigurumi heals 1,500 to self but applies a -90% Weakness (Bad Juju) to the target, so keep a Cleanse Charm ready.",
+    "Overfeed lays a three-round Shadow poison DoT on a target.",
+    "Smooches deals Shadow damage to a target.",
+    "Shiny Nickel deals Shadow damage plus a -25% Weakness to the target.",
+    "If a wizard casts Curse of Grandma she says 'Yes' and resets the polymorph and confusion onto a different wizard.",
+    "Cast on an already-polymorphed wizard it refreshes the polymorph's duration without confusing them, unless it lands on the last turn."
+  ],
+  "groupFight": false,
+  "guideSourced": true
+}

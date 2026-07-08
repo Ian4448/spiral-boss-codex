@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Pack Mass Feint (+75%) — it is the centerpiece here. A normal Feint makes him Cleanse Ward all traps off himself; Mass Feint does not trigger the cheat at all. Alternatively, Indemnity-protect single Feints.",
+    "Be on time. Late wizards get a Cloaked negative charm cast on the whole team.",
+    "Leave his Gobblorean Guards alone. Attacking one (even with a secondary all-enemies effect like Winged Sorrow) makes him Aegis a Mander Armor and Healing Current onto it, and he resummons a new guard every round anyway. Ignore them and build.",
+    "Killing his first minion triggers a one-time Berserk (+45% incoming / +35% outgoing) on him — he takes 45% more damage afterward. Time this for your kill turn: hit with a big AoE so the minion dies and the boosted hit lands together, or accept it as a bonus on the final AoE.",
+    "Hit with Ice — he takes +15% from it and resists Fire 30%.",
+    "Expect a Cloaked negative charm on your team after each of his natural attacks; keep a Cleanse Charm handy for your hitter's turn."
+  ],
+  "cheatNotes": [
+    "Anyone who joins the fight late causes a hidden (Cloaked) negative charm to land on every wizard.",
+    "On round 1 he summons one Gobblorean Guard (Balance, Death, or Storm). You cannot prevent this.",
+    "The first time one of his minions dies, he gains a Berserk that makes him take +45% damage but deal +35% more. Net win for you — your kill hit gets a big boost. It only happens once.",
+    "He never runs out of guards — any round he starts without a minion, he summons a new random one. Don't waste turns clearing them.",
+    "If you attack a Guard, he gives it an Aegis-protected Mander Armor plus Healing Current. Attacking minions directly is a losing trade.",
+    "Even AoE side-effects count as attacking the Guard — spells like Winged Sorrow with an all-enemies secondary effect still trigger the protection cheat.",
+    "After each of his natural attacks he puts a Cloaked negative charm on all wizards. Assume you have a hidden weakness before big hits.",
+    "",
+    "A standard Feint on him triggers Cleanse Ward, wiping ALL traps off him — including ones you placed earlier.",
+    "Pet-cast Feints also set off the trap wipe, so consider benching Feint pets.",
+    "Mass Feint (+75%) does NOT trigger the cleanse. This is the safe way to Feint him — build your whole trap plan around it.",
+    "Indemnity on a regular Feint also stops the removal if you don't have Mass Feint."
+  ],
+  "groupFight": false
+}

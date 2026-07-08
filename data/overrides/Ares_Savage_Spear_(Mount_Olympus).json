@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "Deck Ice AoE hits (Blizzard-style, all-enemies). He takes +50% from Ice, resists Fire at 80%, and his counter cheat only punishes SINGLE-target damage — AoE spells dodge it entirely.",
+    "Never single-target him. Any single-target damage spell triggers a free 0-pip natural attack back at you. Steal, drain, and pet spells are safe; a DoT only triggers it once, on the initial hit.",
+    "Skip wand hits — a wand hit plus a wand may-cast can make him counter twice.",
+    "He Amplifies himself on round 1 and every fourth round after, so his hits ramp. He is stunable — a stun buys a safe blading round.",
+    "Blade up with Ice for 2-3 rounds, then kill with one boosted Ice AoE. At 3,600 health he folds fast to +50% boost."
+  ],
+  "cheatNotes": [
+    "He starts round 1 with Amplify on himself and refreshes it every 4 rounds, so his outgoing damage is always buffed. Expect harder hits than his rank suggests.",
+    "Any single-target damage spell on him triggers an instant free natural attack on you. Use all-enemy (AoE) spells only and this cheat never fires.",
+    "A DoT like Fire Elf only triggers the counter once, when it first lands — the tick rounds are safe.",
+    "Frostbite has been observed to trigger the counter, so treat it like any other single-target hit.",
+    "Steal spells are safe — no counter.",
+    "Pet spells are safe — no counter.",
+    "Drain spells are safe — no counter.",
+    "A wand hit whose may-cast also fires can make him use his natural attack twice in one round. Avoid wand-poking him."
+  ],
+  "groupFight": false
+}

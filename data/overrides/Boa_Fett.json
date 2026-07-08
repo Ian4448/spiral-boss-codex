@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Pack Indemnity for your Feint. Any single trap you place makes him Ice Cleanse Ward every trap off himself and his minions, and Mass Feint triggers it too; Indemnity-protect the Feint so it sticks.",
+    "Avoid plain damage-over-time hits. Casting a DoT triggers Repel, which moves your DoT onto a random wizard. Use direct-damage spells instead.",
+    "Exploit Repel: after his Round-5 Power Link puts a heal-over-time on himself, a DoT can bounce that heal onto a wizard, giving you free healing.",
+    "Expect Freeze (80%) after his Ice natural attack or Smoke Screen (-45%) after his Fire one, so carry accuracy insurance or expect a fizzle.",
+    "Blade up and finish with a non-Fire, non-Ice school (he only resists those 15%) before Power Link out-heals you."
+  ],
+  "cheatNotes": [
+    "He shields himself with a protected Mander Armor on Round 1; strip it with a manipulation spell or just blade through it.",
+    "After his Ice natural attack the whole team gets Freeze (80%) accuracy debuff, so your next spell may fizzle. Carry accuracy or expect a miss.",
+    "After his Fire natural attack you all get Smoke Screen (-45%) accuracy; same problem, plan for a possible fizzle.",
+    "Every fifth round he heals with Power Link (75+375), and with 75% outgoing healing he mends fast, so time your kill or use an infection.",
+    "Any single trap you place makes him Ice Cleanse Ward, wiping all traps off himself and his minions. Protect your Feint with Indemnity.",
+    "Mass Feint counts as placing a trap and sets off the Cleanse Ward, so it needs Indemnity too.",
+    "Indemnity on your Feint stops the Cleanse Ward from removing it.",
+    "Casting a damage-over-time makes him Repel it onto a random wizard, so prefer direct hits over DoTs.",
+    "That same Repel can bounce his own Power Link heal-over-time onto a wizard, so cast a DoT after he Power Links to steal the heal."
+  ],
+  "groupFight": false
+}

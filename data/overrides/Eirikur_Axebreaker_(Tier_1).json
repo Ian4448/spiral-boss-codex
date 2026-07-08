@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "Fire boss (3200) that is stunable and beguilable. Hit with Balance or Life (+20%); avoid Ice (50%), Fire (30%), and Death (20% resist).",
+    "He wears a Frozen Armor absorb (200) from round 1, gaining a 400 absorb when two minions die and an 800 absorb when the last minion dies. Use Pierce or Shatter to strip these rather than wasting hits into them.",
+    "Do not Steal Ward his first absorb; that makes him Brimstone Revenant for 240 unblocked Fire damage. Pierce or Shatter instead.",
+    "Beguiling him or clearing all his minions stacks the last two absorbs at once, so time your break for after they are all up if you want one clean strip.",
+    "Stack blades, strip the armor, and burst him down."
+  ],
+  "cheatNotes": [
+    "He starts with a 200-damage Frozen Armor. Chip or pierce it before your real hit or the shot is wasted.",
+    "Killing two of his minions gives him a 400 absorb. Factor it in before committing a big hit.",
+    "Dropping his last minion grants an 800 absorb, his biggest shield. Plan a Shatter for this.",
+    "Clearing all minions or beguiling him adds both remaining absorbs at once, so you can break them in a single Shatter.",
+    "Do NOT Steal Ward the first absorb; he counters with Brimstone Revenant for 240 unblockable Fire damage. Use Pierce or Shatter.",
+    "",
+    "Pierce and Shatter cleanly remove the Frozen Armor with no counter. These are your tools for every absorb."
+  ],
+  "groupFight": false
+}

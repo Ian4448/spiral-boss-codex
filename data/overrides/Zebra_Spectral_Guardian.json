@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Attack with Fire or Myth (+30%); it resists Ice 40%.",
+    "Watch for the mark: a marked wizard must cast a Charm (any blade) within 2 rounds or take a 0-pip Colossal Blizzard. Always keep a blade in hand to dump when marked, which doubles as setup.",
+    "Since the required Charm is just a blade, stack blades naturally to satisfy the mark while building damage.",
+    "It is only 4,225 health, so a couple of blades into a boosted Fire or Myth hit ends it.",
+    "Feint and finish."
+  ],
+  "cheatNotes": [
+    "When you are marked, cast any Charm (a blade works) within 2 rounds or eat a huge 0-pip Blizzard. Keep a blade ready, which also builds your setup."
+  ],
+  "groupFight": false
+}

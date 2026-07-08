@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Solo-friendly (12,515 health). Blading is punished: universal blades, multi-blades, or any blade of a school other than your own draw Ice Enfeeble, and Aegis will not protect it.",
+    "Use only single mono-school blades of your own school; blades with secondary effects like Savage Paw are also safe.",
+    "Hit with Fire (he takes boosted Fire damage and resists Ice); use a Fire prism if you are an Ice wizard.",
+    "Set up with safe blades and a Feint, then land one big Fire hit.",
+    "Avoid Elemental, Spirit, and universal blades entirely."
+  ],
+  "cheatNotes": [
+    "Casting a universal blade or a multi-school blade like Elemental Blade gets the recipient hit with Ice Enfeeble; use single mono-school blades of your own school.",
+    "Multi-target blades like Bladestorm draw an all-enemies Enfeeble.",
+    "Even a normal blade of a school other than your own triggers it.",
+    "Blades with secondary effects like Savage Paw are safe from this cheat.",
+    "Aegis will not save a blade here; it gets removed anyway."
+  ],
+  "groupFight": false
+}

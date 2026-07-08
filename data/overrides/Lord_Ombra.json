@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Team fight at 17,365 health: hitter, supports, and a healer. Hit with Myth, Life, or Death (+30% incoming); never attack into his 80% Balance resist.",
+    "He steals 3 pips from whoever has the most at the start of every 4th round. Plan the big hit for round 3 or 4 so the hitter spends pips before the steal.",
+    "If you cannot hit in time, keep pips low: he skips the steal entirely when every wizard has 4 or fewer pips.",
+    "Supports Feint and blade the hitter; clear the Arachna Gladiator with AoE or focus the boss.",
+    "Funnel to one big hit to grind the 17,365 health."
+  ],
+  "cheatNotes": [
+    "Every 4th round he steals 3 pips from the wizard holding the most. Time your hit before it, or keep the hitter's pips spent.",
+    "Sometimes the pip-steal deals no damage, just takes pips.",
+    "If every wizard has 4 or fewer pips, he skips the steal entirely, a way to deny it.",
+    "He also casts a normal Mana Burn separately from the cheat, so expect occasional pip loss anyway."
+  ],
+  "groupFight": true
+}

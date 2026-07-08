@@ -1,0 +1,27 @@
+{
+  "strategy": [
+    "He resists 20% to every school, so any strong hit works. Expect big AoE Oni gambits from each minion.",
+    "Each Oni charges a gambit and unleashes an AoE at its threshold: Jade at 4 Spirit Blades (Primal Oni), Death at 4 Shields (Doom Oni), Plague at 2 blades plus 2 harmful charms on you (Tribunal Oni), War at 2 HoTs (Infernal Oni). The Your Doom is Imminent line warns a gambit is one step away.",
+    "Kill the minions before they complete gambits, prioritizing whichever is closest. AoE damage thins all of them at once.",
+    "Deny Plague Oni's Tribunal by keeping harmful charms off yourself, cleanse weaknesses and infections so its condition never completes.",
+    "Jade Oni self-heals hard (60% outgoing healing, Spirit Armor on Round 5), so save your burst to drop him after the minions and hit through his heals with one large blow."
+  ],
+  "cheatNotes": [
+    "",
+    "On Round 5 Jade Oni shields himself with Spirit Armor.",
+    "Jade Oni gives himself a Spirit Blade, warning his 4-blade gambit is near.",
+    "At 4 blades Jade Oni casts Primal Oni (big AoE), then loses the blades, kill him or strip blades before he gets there.",
+    "",
+    "Death Oni adds a Spirit Shield to himself whenever he shields.",
+    "At 4 shields Death Oni casts Doom Oni (AoE), then loses the wards, pierce or race it down.",
+    "",
+    "On Round 3 Plague Oni casts Plague on your team.",
+    "Plague Oni casts Balanceblade and Mass Infection when it has a blade and you carry a negative charm, warning its gambit is building.",
+    "That Balanceblade stacks with the one it casts from hand, so it ramps damage quickly.",
+    "At 2 blades on itself plus 2 harmful charms on you, Plague Oni casts Tribunal Oni and wipes all charms on both sides, keep harmful charms cleansed to deny it.",
+    "",
+    "War Oni adds a Sprite HoT to itself whenever it has a heal-over-time.",
+    "At 2 HoTs War Oni casts Infernal Oni (AoE), then loses the HoTs, kill it or apply Infection to block its heals."
+  ],
+  "groupFight": false
+}

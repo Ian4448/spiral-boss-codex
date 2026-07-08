@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Kill him round 1 or 2 if you can — his minions don't spawn until round 2, and at 1,640 health with 20% Storm boost one buffed Storm hit ends it before the cheats start.",
+    "If the fight goes past round 2, expect a cheat Tempest (160-400 Storm damage) at the end of the enemy turn every round the minions are up, fed by a Balanceblade chain down his line.",
+    "Don't pick minions off one at a time — every dead minion is replaced by a fresh Rude Goblin (750 health). Use one AoE that kills the boss and both minions together.",
+    "He resists Myth 50%, so Myth wizards should pack a prism or off-school hits."
+  ],
+  "cheatNotes": [
+    "You get one free round: the Rude Goblin and Edacious Ogre only appear on round 2.",
+    "Minion health for planning your AoE: Rude Goblin 750, Edacious Ogre 830.",
+    "While minions are alive, the enemy team chains a +35% Balanceblade down the line each round and the last creature cheats a Tempest for 160-400 Storm damage. Expect this hit every round the minions stand — shield or outpace it.",
+    "If the boss doesn't act first, the blade chain starts with the first minion instead (the boss skips his blade), but the Tempest still comes.",
+    "Dead minions are replaced with a new Rude Goblin, so clearing them one by one gains nothing. Save damage for one AoE finish."
+  ],
+  "groupFight": false
+}

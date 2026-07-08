@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "Shadow boss (11000) with 70% universal resist. Over-stack blades and traps; +5% Balance is the only boost school, so lean on setup rather than raw school damage.",
+    "Round 1 he wipes everyone's pips, gives all wizards 7 Power Pips, and slaps a 99-round Impede aura on you that chokes pip gain. Treat those 7 power pips as your budget: build and spend them.",
+    "Every round after the first he Power Novas the team for 15% of max health. Your healing is cut 45%, so race him and hit before the chip adds up.",
+    "Do not waste turns replacing the Impede aura; he re-applies it immediately. Work through it.",
+    "Stack blades and a Feint in one or two rounds and unload your 7-pip hit."
+  ],
+  "cheatNotes": [
+    "A wizard who joins after round 1 is instantly defeated by a full-health Power Nova. Everyone must be in from the start.",
+    "Round 1 he zeroes your pips, hands everyone 7 Power Pips, applies a 99-round Impede that throttles pip gain, and Blinding Lights you. Plan to win on those 7 pips and carry accuracy for the fizzle risk.",
+    "Every round after the first he Power Novas the whole team for 15% max health (and 10% of his own). Your healing is reduced 45%, so end it fast.",
+    "His own Power Nova can feed him a Power Pip via Adapt, so he may hit harder than expected. Do not stall.",
+    "",
+    "If anyone loses the Impede aura he immediately re-applies it. Do not waste a turn clearing it; play through the pip choke.",
+    "",
+    ""
+  ],
+  "groupFight": false
+}

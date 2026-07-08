@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Hit with Storm — he takes +10% from it — and never attack into his 60% Myth resist.",
+    "Do not Feint him. Any Feint triggers Cleanse Ward that strips all traps off him. Stack blades instead of traps.",
+    "Grendelynn casts a 75% Intercept Shadow Sentinel on King Borr at the start, so single-target hits mostly land on the minion. Use an AoE to damage the boss directly.",
+    "Do not kill Grendelynn first — King Borr heals her to 100% and she recasts the Sentinel. Focus the boss; when he dies she is defeated too (Avenge Me).",
+    "Blade up and drop one boosted Storm AoE to finish King Borr through the intercept."
+  ],
+  "cheatNotes": [
+    "Grendelynn puts a 75% Intercept Sentinel on King Borr, so most of a single-target hit is soaked by the minion. Use AoEs to hit the boss directly.",
+    "Feinting him backfires: he Cleanse Wards off all your traps. Skip traps and use blades.",
+    "If you kill Grendelynn before the boss, he heals her to full and she re-shields him. Do not bother killing the minion.",
+    "Join on time or the latecomer eats a Medusa (865).",
+    "Killing King Borr defeats Grendelynn automatically, so you never need to kill the minion yourself."
+  ],
+  "groupFight": false
+}

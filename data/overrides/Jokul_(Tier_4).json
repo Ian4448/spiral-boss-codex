@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Build with blades, not single traps - any single trap or prism on him gets Cleanse Warded away. If you want wards on him, use mass traps or mass prisms; those do not trigger the cheat.",
+    "Hit with Fire (+35%) or Myth (+25%). He resists Ice 80% and Storm 40% - Ice and Storm wizards need prisms, applied as mass versions or on the hit round.",
+    "Avoid mid-size chip hits: around 2,000 damage he can answer with +40% Ice Traps on your whole team plus a 400-500 Blizzard. One big finishing hit skips that response entirely.",
+    "He is stunable - a stun on your setup or hit round keeps him quiet. Clear the two Wildclaws with an AoE finish."
+  ],
+  "cheatNotes": [
+    "Hitting him for around 2,000 damage can trigger +40% Ice Traps on your whole team plus a 400-500 Blizzard (exact conditions unverified). Prefer one big finish over repeated medium hits, and keep health topped.",
+    "Any single trap or prism you put on him gets removed with Cleanse Ward, so a standard Feint setup is wasted.",
+    "Mass traps and mass prisms slip through - use those versions if you want wards on him.",
+    "Vaporize (Ice dispel) can block the Cleanse Ward response, letting a trap stick."
+  ],
+  "groupFight": false
+}

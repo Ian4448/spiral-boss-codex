@@ -1,0 +1,26 @@
+{
+  "strategy": [
+    "Death boss (19825) with 100% incoming healing, so never heal him and expect drains to rebound. Hit with Life (+10%); never Death (75% resist).",
+    "Blading a teammate triggers a cycle on that target: Bad Juju, then Virulent Plague, then Metalops. Use All-Ally blade spells (Bladestorm etc.), which do not trigger it, or blade-and-hit in one round.",
+    "Do not chain heals: the first two heals get you Infected, the third Mass-Infects the team. Cleanse infections and heal only when needed.",
+    "After his Natural Attack he Feints his target for +75%. The hitter should avoid being the follow-up target, or clear it before the next big incoming hit.",
+    "Funnel blades to the hitter via all-ally spells and burst him. Watch for his Beguile on late joiners."
+  ],
+  "cheatNotes": [
+    "A late joiner (or the last wizard standing) gets Metalops: a +200% protected Death Trap and a 3-round Beguile. Arrive on time.",
+    "",
+    "Blading another wizard triggers a punish on that target. Use all-ally blade spells or blade the same round you hit.",
+    "First offense: Bad Juju on the target.",
+    "Second offense: Virulent Plague, cutting that wizard's damage.",
+    "Third offense: Metalops. Then the cycle repeats.",
+    "",
+    "All-Ally blade spells like Bladestorm do not trigger this, so they are the safe way to buff your hitter.",
+    "Healing triggers an infection cycle on the healer or target.",
+    "First heal: Infection on you.",
+    "Second heal: another Infection.",
+    "Third heal: Mass Infection on the whole team. Cleanse and heal sparingly.",
+    "After his Natural Attack he Feints his target +75%. If that is your hitter, clear it before the next big enemy hit lands.",
+    ""
+  ],
+  "groupFight": true
+}

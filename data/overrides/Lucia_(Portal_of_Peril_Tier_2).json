@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Enter on Round 1. Joining late eats a 500-damage Star Mana Burn that pierces all resist.",
+    "Hit with Myth (+30%); she resists Storm most (51%).",
+    "She summons a Clockworker on Round 1. Plan an AoE finish to catch it, or kill it before your burst.",
+    "Burst before Round 4. At the start of every 4th Round she steals all Charms and all Wards from every Wizard. Stack and hit within a 3-round window.",
+    "Skip Feint on Lucia; it makes her Cleanse Ward all harmful wards off herself. Build with blades and non-Feint setup, then hit."
+  ],
+  "cheatNotes": [
+    "Joining after Round 1 draws a Star Mana Burn that pierces all resist for 500. Be in from the start.",
+    "She summons a Clockworker on Round 1 (more with 3+ Wizards). Plan to AoE or clear it.",
+    "At the start of every 4th Round she steals every Charm and every Ward from all Wizards. Land your hit inside the 3-round window.",
+    "Casting Feint on her makes her Cleanse Ward it right off herself. Use other setup instead."
+  ],
+  "groupFight": false
+}

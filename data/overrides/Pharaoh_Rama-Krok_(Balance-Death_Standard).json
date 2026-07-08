@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "This is a 45,340-health Wallaru finale, so run it as a team: a hitter, supports who blade and Feint, and a healer to track his Krok Ankhs. He resists Balance 67%, so hit with Myth, Life, or Death (+30%).",
+    "Every few rounds he drops a random Krok Ankh (Shield, Trap, Blade, DoT, or Weakness) on himself or a wizard. These need spells or treasure cards made to clear that exact effect.",
+    "The core rule: if he is defeated while any Krok Ankh is still active, he heals to full. That revive heal is a max-percentage heal, so Doom and Gloom and Infection cannot cut it.",
+    "Enter on time. Joining late spawns extra ankhs, one per late wizard.",
+    "Clear every active Krok Ankh the round you plan to kill him, then burst him from full so the revive never fires."
+  ],
+  "cheatNotes": [
+    "At round 1, round 3, then every third round, he drops a random Krok Ankh (Shield, Trap, Blade, DoT, or Weakness) on himself or a wizard.",
+    "Joining late also triggers this, once per late wizard in the same round. Enter together at the start.",
+    "Krok Ankhs only come off with spells or treasure cards made to clear that specific effect: a weakness ankh will not self-damage off, a shield ankh will not pop to a hit.",
+    "If he dies while any Krok Ankh is still active, he heals to full. Clear every active ankh the round you kill him.",
+    "That revive heal is a max-percentage heal, so Doom and Gloom and Infection cannot reduce it. Clearing the ankhs is the only counter."
+  ],
+  "groupFight": true
+}

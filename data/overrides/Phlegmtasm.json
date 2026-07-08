@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Attack with Storm or Life, its lowest resists at 40%; never Ice or Myth (100% resist, fully immune).",
+    "Do not over-stack blades. It casts a Blizzard that removes three positive charms from your whole team, so Aegis your key blade or set up and hit before the Blizzard strips you.",
+    "End it before it snowballs. It casts Power Current on itself every Round, ramping its own damage.",
+    "Bring shields for its Ice Blizzard (555 Ice) and burst with a Storm or Life hitter.",
+    "As a Raid boss at 14,000 Health, run it as a team: one hitter, supports feeding blades that survive the charm-strip, and a healer."
+  ],
+  "cheatNotes": [
+    "At the end of every Round it casts Power Current on itself, ramping its own damage each Round, so kill it before it snowballs."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "This is a long fight: 64,870 Health behind a shield every single Round (-25%, then -50%, then -90% on a three-Round cycle), so plan to break shields constantly.",
+    "Time your big hits for the Round it drops the weak -25% shield, or carry shield-breakers and pierce; a single -90% Tower will otherwise eat most of your damage.",
+    "It resists Myth 66% and everything else 36% but takes 30% more from Storm, so Storm is the school of choice.",
+    "If you run damage-over-time, expect it to Shift the first one back to you. Shift it back onto the dragon and it cannot Shift again, so the effect sticks.",
+    "With a team, funnel all blades to one Storm hitter and break the shield the same Round you hit."
+  ],
+  "cheatNotes": [
+    "Cast a damage-over-time on it and it answers with Shift, bouncing the effect back to you.",
+    "If you then Shift that effect back onto it, it will not Shift a second time, so a double-Shift makes your damage-over-time stick.",
+    "",
+    "At Round 1 and every third Round after it puts up a -25% Tower Shield.",
+    "At Round 2 and every third Round after it puts up a -50% Tower Shield.",
+    "At Round 3 and every third Round after it puts up a -90% Tower Shield."
+  ],
+  "groupFight": true
+}

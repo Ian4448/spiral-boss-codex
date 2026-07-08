@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Bring two hitters plus two support. The primary hitter uses a big Damage-over-Time spell (Fire Heckhound, Ice Snow Angel, Death Skeletal Dragon, Life Spinysaur, Myth King Artorius, or a Storm Thunderstorm item card); the secondary hitter is the minion killer.",
+    "The Trident fully heals each time it takes 7,750 damage and you must trigger that heal three separate times before the third crossing destroys it, so a single burst is useless. A large DoT crosses one threshold per tick and defeats it over three rounds.",
+    "The Round 1 Equalize Global caps damage at 7,999, so you cannot out-burst it. Either live with the cap or dispel it with Unbalance; a Nightbringer-enchant trick also lets one hit ignore the cap before it resets.",
+    "Spend Rounds 1-3 stacking 13+ buffs on the primary hitter (tri-blades regular/sharp/TC/item, school blade, Dark Pact or Balanceblade, Elemental/Spirit blade, a damage aura), aiming for 40,000+ total DoT damage.",
+    "Round 4 the primary hitter lands the DoT; its ticks trigger the three Paradox Chain restores over the following rounds and the third defeats the Trident.",
+    "Myth minions spawn after the first DoT tick with shields and Earthquakes. The secondary hitter clears them (a Storm wizard needs only two blades for Epic Sirens or Glowbug Squall).",
+    "Hitters hold 45%+ global resist, support 60%+; recast Brace/Fortify each round before the trident swings, use Death's Indemnity Juju since it is the only buff that survives the trident attack, and Storm hitters must Prism through the 70% Storm resist."
+  ],
+  "cheatNotes": [
+    "On Round 1 it casts an Equalize Global that caps all damage at 7,999 per hit, and recasts it if you replace it, so you cannot one-shot the boss.",
+    "You can remove that damage-cap Global by dispelling it with Unbalance.",
+    "If you use a Nightbringer-enchanted attack and then change the Global the following round, it will not revert until after your next hit lands, letting you sneak a hit under a friendlier Global.",
+    "After it takes more than 7,750 damage, the Storm Titan surfaces at end of round and fully heals the Trident by grasping the Paradox Chain, so you must cross that threshold three times rather than burst it once.",
+    "",
+    "After another 7,750 damage the Titan fully heals the Trident a second time; a DoT ticking each round naturally supplies these repeated thresholds.",
+    "The third time the Trident takes 7,750 damage, a cutscene plays where Mellori breaks the Paradox Chain and the boss is defeated."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

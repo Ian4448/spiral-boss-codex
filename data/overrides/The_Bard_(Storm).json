@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Hit Myth. He takes +20% Myth and resists 54% Storm and 24% elsewhere, so Myth is your damage school.",
+    "Race the clock. From the end of round 12 he casts Insane Bolt every other round, so aim to close the fight before then.",
+    "Play around his 3-round Windstorm: every third round he casts it to boost his side's Storm damage. Do not let setup drag through several Windstorms.",
+    "Expect him to self-buff with Storm Fuel or a +35% Storm Trap, so shield or heal for a bigger natural attack.",
+    "Clear the Malcontent minion, stack Myth blades and Feints on your hitter, and land one big Myth hit inside the first ten rounds."
+  ],
+  "cheatNotes": [
+    "He self-buffs with one of two spells.",
+    "",
+    "",
+    "",
+    "Every third round he casts Windstorm, boosting his side's Storm damage.",
+    "From the end of round 12 and every other round after, he casts Insane Bolt. Close the fight before then."
+  ],
+  "groupFight": false
+}

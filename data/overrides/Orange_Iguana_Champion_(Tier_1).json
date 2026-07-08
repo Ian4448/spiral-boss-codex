@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Delay your helpful charms. Any helpful charm you cast (blades included) makes the Iguana self-cast a +45% Balanceblade and a Tower Shield, buffing its hits and blocking yours.",
+    "Blade and hit in the same window. If you must blade, do it the turn you swing so its free Tower Shield does not sit between your setup and your finisher.",
+    "Use Feints and traps instead of charms where you can, since traps do not trigger the charm cheat.",
+    "It is Balance with 35% Balance resist and takes 35% boosted Myth, Life, and Death, so a Myth, Life, or Death hitter is ideal.",
+    "It is stunnable and beguilable, so a stun or beguile buys a clean setup round on its 7,500 Health.",
+    "Set up with traps and a same-turn blade, then burst it in one hit before it can stack Balanceblades and Towers on itself."
+  ],
+  "cheatNotes": [
+    "Whenever a wizard or minion casts a helpful charm, the Iguana self-casts a +45% Balanceblade and a Tower Shield, so avoid blading until the turn you hit."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "He heals via an interrupt Satyr whenever he's below full health, so either Entangle him to shut off the heal for the next round, then hit, or one-shot him from full so the Satyr never fires.",
+    "Attack with Myth, Life, or Death (he takes +25% from all three); never hit into his 80% Balance resist without a prism.",
+    "Bring Quench to stop his Meteor Strike (600-750 every 2-3 rounds).",
+    "Stack blades and a Feint, then burst his 5,015 health in one big hit."
+  ],
+  "cheatNotes": [
+    "While he's below full health a Satyr heals him by interrupt — Entangle him or one-shot him from full so the heal can't keep up.",
+    "Casting Entangle on Shaka dispels the Satyr for the next round — your window to hit safely.",
+    "",
+    "",
+    "Every 2-3 rounds he interrupt-casts Meteor Strike for 600-750 — Quench prevents it.",
+    ""
+  ],
+  "groupFight": false
+}

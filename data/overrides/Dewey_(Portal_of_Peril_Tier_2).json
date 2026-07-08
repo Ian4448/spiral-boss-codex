@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Dewey is stunable and beguilable. Beguile or stun him to steal his cheat turns and set up safely.",
+    "Track your Blades and damage Globals. On a 4-step cycle the 2nd casts Plague and the 4th casts Virulent Plague on you, so cast them sparingly.",
+    "Skip DoTs. Any Damage-over-Time triggers Mass Triage that wipes it.",
+    "Each damage spell drops a same-school Shield on its target, and multi-hit spells shield per hit. Set up with Feint and traps, then land one oversized hit that punches through a single shield.",
+    "Do not join late; a latecomer eats a Mana Burn for 2 pips. He resists Death 80%, so hit off-school."
+  ],
+  "cheatNotes": [
+    "Joining the duel after round 1 makes Dewey cast a no-damage Mana Burn that strips 2 pips.",
+    "Every damage spell you cast makes him interrupt-cast a Shield of that damage's school on the target.",
+    "Multi-hit or multi-target damage spells make him cast one shield per hit, stacking protection fast.",
+    "Balance damage specifically makes him drop a Tower Shield on the target.",
+    "Any Damage-over-Time you cast makes him interrupt-cast Mass Triage, clearing DoTs from the board.",
+    "The first Blade or damage Global cast by anyone makes him Tower Shield himself.",
+    "The second Blade or damage Global makes him cast Plague.",
+    "The third Blade or damage Global makes him cast Legion Shield.",
+    "The fourth Blade or damage Global makes him cast Virulent Plague.",
+    "A fifth Blade or damage Global resets the cycle back to the Tower Shield step."
+  ],
+  "groupFight": false
+}

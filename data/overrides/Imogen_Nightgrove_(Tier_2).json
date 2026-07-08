@@ -1,0 +1,12 @@
+{
+  "strategy": [
+    "At round 1 and every 3 rounds after, she casts Arcane Deduction on a random wizard and gives herself a -20% Brace Aura matching that wizard's school, cutting your damage of that school.",
+    "She is stunable and beguilable; lock her down to skip cheat turns and buy setup time.",
+    "If you can choose your hitter, attack off the -20% school she braced; she resists Life 60% and takes +30% from Death.",
+    "Low 6,200 health: blade, Feint, and land one hit before the Braces stack up."
+  ],
+  "cheatNotes": [
+    "At round 1 and every 3rd round after, she casts Arcane Deduction on a random wizard, then braces herself -20% against that wizard's school for 4 rounds."
+  ],
+  "groupFight": false
+}

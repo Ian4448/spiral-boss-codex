@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "This is a two-boss mirror: Utterson (Ice) and Poole (Fire) copy each other's blades, traps, and attacks, and both punish your wards.",
+    "Casting a harmful or helpful Ward makes Poole plant a delayed Fire hit (75, or 120 with his boost) that lands on all wizards after 4 Rounds, so minimize ward use or be ready to heal the delayed tick.",
+    "They feed each other spears and traps automatically, so expect matching Ice and Fire debuffs to stack on you regardless of what you do.",
+    "This is a low-Health Challenge (3,450 each), so blade a hitter and burst them down quickly rather than out-trading their reactive casts.",
+    "Utterson is Ice, so hit him with Fire; hit Poole with Ice, and try to drop them close together."
+  ],
+  "cheatNotes": [
+    "",
+    "When Poole casts Fireblade, Utterson answers with Icespear on himself.",
+    "When Poole casts Fire Trap on a wizard, Utterson adds Ice Trap on the same wizard.",
+    "When Poole lands his natural attack on a wizard, Utterson hits the same wizard with his own attack.",
+    "",
+    "Casting a harmful Ward makes Poole plant a delayed Fire hit (75, or 120 with his boost) that strikes all wizards after 4 Rounds.",
+    "Casting a helpful Ward makes Poole plant the same delayed Fire hit on all wizards after 4 Rounds.",
+    "When Utterson casts Iceblade, Poole answers with Firespear on himself.",
+    "When Utterson casts Ice Trap on a wizard, Poole adds Fire Trap on the same wizard.",
+    "When Utterson casts Legion Shield, he follows with Fuel on a random wizard.",
+    "When Utterson lands his natural attack on a wizard, Poole hits the same wizard with his own attack."
+  ],
+  "groupFight": false
+}

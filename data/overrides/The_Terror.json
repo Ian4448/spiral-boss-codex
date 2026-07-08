@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Enter on time. A late join eats a Sun Mana Burn that pierces all your resistance and drains pips.",
+    "Attack with Myth, Life, or Death (+5%); he resists Fire, Ice, Storm, and Balance 50%. He is stunable, so stun to deny a setup turn.",
+    "Beat him inside five rounds. Every fifth round he blades himself +100% (Fire, Ice, Storm, or Universal), so kill him before the blades stack or Steal and Shatter them off.",
+    "Expect a Mass Hex weakness on your team, so cleanse it or plan around the reduced damage.",
+    "Stack blades and land one big off-Fire/Ice/Storm hit before his fifth-round blade lands."
+  ],
+  "cheatNotes": [
+    "Joining after round 1 gets you a Sun Mana Burn that pierces all resistance and drains pips. Enter at the start.",
+    "At the end of every fifth round he applies a protected +100% Fire, Ice, Storm, or Universal blade on himself. Kill him before round 5, or Steal/Shatter the blade off."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "This is a Waterworks fight, so coordinate as a team and expect the Doom & Gloom cycle (healing cut); once Sylster Glowstorm falls, this Sorcerer takes over casting it.",
+    "Use all-enemies AoE attacks — a single-target hit that doesn't activate a Trap (white Doom & Gloom) or Blade (black) makes the target counter-cast.",
+    "Attack with Ice or Life (he takes +35% from both); never hit into his 80% Death resist without a prism.",
+    "Funnel blades to one hitter, run an AoE to clear the room, and pack Infections or pet heals to work around Doom & Gloom.",
+    "Note that spells hitting one target then all (Sun Serpent) count as single-target and DO trigger the counter."
+  ],
+  "cheatNotes": [
+    "Once Sylster Glowstorm is defeated, this Sorcerer takes over the Doom & Gloom cycle (starting with the 3-round white Doom & Gloom) — plan healing around the cut.",
+    "A single-target attack that doesn't activate a Trap (white phase) or Blade (black phase) makes the target counter-cast — use AoE, or make sure a trap/blade pops with the hit.",
+    "All-enemies attack spells don't trigger the counter — the safe way to deal damage here.",
+    "Spells that hit one target then all (Sun Serpent) DO trigger it — treat them as single-target for this cheat."
+  ],
+  "groupFight": true
+}

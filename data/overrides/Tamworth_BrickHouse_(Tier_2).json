@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Kill everything in one AoE. Defeating Lacombe makes Berkshire Sandstorm the team every round, and defeating Berkshire makes Tamworth cast Big Bad Hound every round.",
+    "Do not Beguile the minions either; beguiling Berkshire or Lacombe triggers the Sandstorm cheat.",
+    "Stack a blade or trap and drop one AoE so the boss and both houses fall together.",
+    "Balance resists itself 50%, so hit off-school."
+  ],
+  "cheatNotes": [
+    "Once Lacombe is defeated, Berkshire interrupt-casts Sandstorm on the team every round.",
+    "Beguiling Berkshire or Lacombe triggers that Sandstorm cheat too.",
+    "Once Berkshire is defeated, Tamworth interrupt-casts Big Bad Hound every round."
+  ],
+  "groupFight": false
+}

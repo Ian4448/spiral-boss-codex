@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "No resist or boost listed — use your strongest reliable school.",
+    "He builds a Moon Blade on himself round 1 and a Moon Trap round 2, then end of round 3 he Defuses your blades (Elemental Defuse, Spirit Defuse, or Unbalance) — set up and hit by round 3 before your blades get stripped.",
+    "Pick blades the defuse won't catch (a single-school blade rather than the matching Elemental/Spirit/Balance stack he removes).",
+    "Blade over rounds 1-2 and land your big hit end of round 2 or start of round 3.",
+    "He can't be stunned, so rely on speed rather than control."
+  ],
+  "cheatNotes": [
+    "End of round 1 he gives himself a Moon Blade.",
+    "End of round 2 he lays a Moon Trap.",
+    "End of round 3 he Defuses your blades with one of the following — hit before then.",
+    ""
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Pack Storm hits (she takes +35% from Storm) plus accuracy enchants, and avoid Fire and Myth (35% resist). She cannot be stunned.",
+    "Expect the Round 1 -50% Smoke Screen on your whole team, so do not throw a big hit while your accuracy is down.",
+    "Turn off her interrupt loop fast: put one Blade on yourself and one Trap on her. Once both are up, she stops interrupt-casting Smoke Mantle on every cast.",
+    "With the accuracy loop shut off, stack the rest of your Storm blades and traps safely.",
+    "Finish with one enchanted Storm hit."
+  ],
+  "cheatNotes": [
+    "Round 1 she hits your whole team with a -50% Smoke Screen, so expect early fizzles; carry an accuracy enchant before committing a big hit.",
+    "Every spell you land earns the caster a -50% Smoke Mantle accuracy debuff, so fizzle chance climbs the more you cast; set up in as few casts as possible.",
+    "Even a pet may-cast counts as a successful cast and stacks another accuracy debuff on you.",
+    "This is the exploit: get one blade on yourself and one trap on her and she stops interrupt-casting Smoke Mantle entirely. Blade up, trap her, and the rest of your casts land clean."
+  ],
+  "groupFight": false
+}

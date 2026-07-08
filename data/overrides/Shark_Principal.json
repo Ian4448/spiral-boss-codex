@@ -1,0 +1,26 @@
+{
+  "strategy": [
+    "Hit with Myth or any non-Storm school; he resists Storm 73% and takes only +5% Myth.",
+    "He Steals a Pip at the end of every Round, so your pip economy is slower. Bring blades and Feint you can afford and hit inside four rounds.",
+    "Every 5th turn he strips all Charms, Wards, and Auras from a Wizard and devours them (a 3-round Shadow Tempest for 3,000). Land your kill before that strip.",
+    "If you Feint him, protect it with Indemnity or use the Balance Feint; otherwise the Shark Student moves your Feint onto himself.",
+    "Expect Shadow Tempests after any combatant dies, including at his own death. Shield Storm or top off before and after the kill."
+  ],
+  "cheatNotes": [
+    "Joining late gets you devoured by a Storm Shark for three turns.",
+    "He Steals a Pip from a Wizard at the end of every Round. Expect slower setup.",
+    "He can cast a Shadow Storm Shark to devour a Wizard.",
+    "Feint on him is moved onto the Shark Student instead.",
+    "Indemnity protects your Feint from being moved.",
+    "The Balance version of Feint does not trigger the move.",
+    "Every 5th turn he strips all Charms, Wards, and Auras off a Wizard, then devours them.",
+    "A devoured Wizard gains and loses no Pips and cannot see their cards.",
+    "A devoured Wizard's turn is skipped, and they do not lose a Pip to his steal while eaten.",
+    "After three rounds devoured, the Shark hits that Wizard with a 3,000 Shadow Tempest.",
+    "When he dies, a Shadow Tempest hits all Wizards. Shield before the kill.",
+    "Any combatant dying triggers a free Shadow Tempest on all Wizards.",
+    "This can happen several times.",
+    "These Tempests hit even devoured Wizards."
+  ],
+  "groupFight": false
+}

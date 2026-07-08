@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "Join by Round 2 (late joiners eat Burning Rampage) and keep the team small. Her Fortify aura is -60% incoming solo and grows +20% per extra wizard up to -120%, so more wizards means she takes far less.",
+    "The aura cannot be removed, so bring hard-hitting Ice or Life spells (she takes +5% from both, resists Fire and Death 70%) to punch through the reduction.",
+    "Before you clear the minions, load Feint and universal traps on her. The turn after the last minion dies she Frenzies and Supernovas herself, and universal traps amplify that self-damage.",
+    "Do not Beguile her minions with 3 or fewer wizards; it counts the minion as an extra wizard and boosts her aura.",
+    "Expect Incindiate and an AoE Poison; heal through them and land your amplified hit."
+  ],
+  "cheatNotes": [
+    "Joining after Round 2 gets you hit with Burning Rampage, so join early.",
+    "From Round 1 she has a permanent Fortify cutting her incoming damage by 60%, rising 20% per extra wizard to 120%; the more wizards, the tankier she is.",
+    "That aura cannot be stripped, so plan on out-damaging it rather than removing it.",
+    "She updates the aura when wizards join or flee, and Beguiling a minion with 3 or fewer wizards counts it as an extra wizard, worsening the aura.",
+    "",
+    "The turn after the last minion dies she Frenzies and Supernovas herself, so pre-load traps to make her take big self-damage then.",
+    "Universal traps like Feint amplify that self-Supernova, so stack them on her before clearing minions.",
+    "She also throws Incindiate; nothing to do but expect the extra fire damage."
+  ],
+  "groupFight": false
+}

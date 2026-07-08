@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Attack with Myth, Life, or Death (+25%); he resists Balance 80%.",
+    "Target the correct brother, the one wearing the Stun Shield. Hitting a boss that lacks the Stun Shield triggers Sudri's Hydra (190 Fire, Ice, and Storm).",
+    "Watch which target has the Stun Shield each round and funnel your attacks there.",
+    "Stack blades and a Feint, then hit the shielded target to avoid the Hydra counter.",
+    "With only 3,520 health, a focused boosted hit ends it quickly."
+  ],
+  "cheatNotes": [
+    "Attacking a boss that does not have the Stun Shield makes Sudri cast Hydra (190 each of Fire, Ice, Storm). Always target the brother wearing the Stun Shield."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Hit with Storm, Life, or Death (+5%); avoid Myth (65%) and Balance (70%).",
+    "His Earthquake at end of round 1 (and round 5) strips one positive charm and one ward from everyone — don't stack blades before round 1's quake; build after it.",
+    "Set up rounds 2-4 and land your hit before the round-5 Earthquake wipes your blades again.",
+    "Watch the delayed Balance bomb from round 3: 1,000 damage that lands three rounds later — shield for it.",
+    "Blade after the quake and burst him with a Storm/Life/Death hit."
+  ],
+  "cheatNotes": [
+    "Late wizards eat his Shadow natural attack — join on time.",
+    "",
+    "End of round 1 and round 5 he Earthquakes, removing a positive charm and ward from everyone — build blades after each quake.",
+    "Starting round 3 he casts a delayed Balance spell that hits for 1,000 three rounds later — shield for it.",
+    "His Earthquake deals 145 Myth and strips one charm and one ward.",
+    "His Shadow natural attack triggers an Immolate that strips a charm and a ward."
+  ],
+  "groupFight": false
+}

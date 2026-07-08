@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "Normally a team fight: Medulla is a high-HP dungeon finale flanked by Pork, Beans, and Sparck. Standard setup is a hitter, supports feeding blades and Feints, and a healer who plans around Sparck's Essence Cannon. (An expert solo clear is possible; the guide shows a Storm solo route that keeps Aura of Fortification and Aura of Brace up to cancel the pierce and buy a free cast when Confused.)",
+    "Use the three Clear Mind cards handed to your team at the end of Round 1 to pull Pork, Beans, or Sparck off Medulla's team and onto yours, flipping their cheats to your side.",
+    "Never heal a minion on the same round you Clear Mind it, or it snaps back to full health and stays on Medulla's team.",
+    "Kill order: Sparck first. His Essence Cannon deals 6,000 Shadow to your whole team and strips a Shadow Pip, so convert or drop him before he fires.",
+    "Beans second: his Pigsie heals otherwise keep the enemy team topped off, and he pulls traps off Medulla.",
+    "Take Pork third, then Medulla last. Between Sparck's Essence Cannon rounds, have supports stack Feints and blades so the hitter can burst each target down.",
+    "Once the minions are gone the fight opens up. Funnel the stacked Feints and blades into Medulla and hit with Storm (+10% in) around her 50% Myth resist to finish."
+  ],
+  "cheatNotes": [
+    "At the end of Round 1 your team is handed three Clear Mind cards; casting one on Pork, Beans, or Sparck instantly pulls that minion off Medulla's team and onto yours.",
+    "",
+    "If you heal a minion the same round you cast Clear Mind on it, it regains its old health and stays loyal to Medulla, so never heal them on the conversion round.",
+    "When Pork is defeated (or freed) he switches to fight for the wizard team.",
+    "While allied to you, Pork randomly opens the round with Smoke Screen (-45% accuracy) on Medulla's team.",
+    "When Beans is defeated (or freed) he joins the wizard team.",
+    "Beans randomly casts a version of Pigsie, healing all wizards 550; this same healing makes him a priority kill while he is on Medulla's side.",
+    "When Sparck is defeated (or freed) he joins the wizard team.",
+    "Sparck's Essence Cannon is a Shadow spell fired at end of round that deals 6,000 Shadow to the whole enemy team and removes one Shadow Pip from each, which is why you eliminate or convert him first."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

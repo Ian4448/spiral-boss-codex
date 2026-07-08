@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Team fight at ~58,000 health: one hitter, supports who blade and Feint, and someone carrying shield removal.",
+    "Hit with Ice or Life. He resists those only 28%, versus 48% Storm/Myth/Balance and 68% Fire/Death.",
+    "He stacks a Tower Shield every Round in a 3-Round cycle: -25% on Round 1, -50% on Round 2, -90% on Round 3, then resets. They pile up, so a clean hit needs them gone.",
+    "Strip his Tower Shields with Shatter or Steal Ward (or overload with pierce) the same round the hitter fires.",
+    "Time the kill early in a cycle before the -90% lands, and stack blades and Feint so one shot ends it."
+  ],
+  "cheatNotes": [
+    "",
+    "Round 1 of each 3-Round cycle he adds a -25% Tower Shield, which blocks every school.",
+    "Round 2 he adds a -50% Tower Shield on top. Strip the shields before hitting.",
+    "Round 3 he adds a -90% Tower Shield, the big wall. Kill before it lands or Shatter through it."
+  ],
+  "groupFight": true
+}

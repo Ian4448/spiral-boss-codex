@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "Storm boss (2400). Hit with Myth (+40%); never Storm (70% resist). She is fragile, so focus her, not the Thralls.",
+    "Blades are a trap here: if you have a blade on you she Beguiles you, and repeats every other round until the blade is gone. Either skip blades and lean on traps and Feint, or blade and hit the same round.",
+    "Avoid AoE in a group; she Beguiles the AoE caster before it fires. Use single-target on her.",
+    "Do not use DoTs (Thrall Mass Triage), and expect her to Supercharge and get Dark Pact from her Thralls, so keep healthy.",
+    "Trap her and land one Myth hit to end it before the Thralls snowball."
+  ],
+  "cheatNotes": [
+    "In a group she Beguiles you right before you fire an all-enemies spell, turning it on your team. Use single-target attacks on her.",
+    "",
+    "Kill a Thrall before Krokopatra and she summons a replacement. Do not waste time on Thralls; kill her first.",
+    "",
+    "If you are carrying a blade she Beguiles you, and keeps doing it every other round until the blade is gone. Blade and hit the same round, or skip blades.",
+    "She randomly Supercharges herself, scaling with her pips, so her hits can jump. Keep your health up.",
+    "Throw a Weakness or Plague and a Thrall Cleanses it off. Damage charms are wasted here.",
+    "Killing Thralls together makes a Thrall Unicorn-heal the team. Another reason to ignore them and focus the boss.",
+    "Cast a DoT and a Thrall Mass Triages it away. Skip damage-over-time.",
+    "A Thrall Dark-Pacts Krokopatra every other round, giving her pips at the cost of its own health. Expect her to hit sooner than her pip count suggests.",
+    ""
+  ],
+  "groupFight": false
+}

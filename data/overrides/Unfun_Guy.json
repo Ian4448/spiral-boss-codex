@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Raid boss; you can use the Inspired Casts offered this battle (Brush Fire, Dismal Seraph, Fabled Revenant, Levin Bruin, Rotting Fomori, War Oracle) as free hits, so work them into your plan.",
+    "He resists Globals 70%, so Doom and Gloom and similar barely stick; do not rely on them.",
+    "Do not cast blades. A blade makes him cast Eye of Vigilance.",
+    "Do not cast damage-over-time; a DoT makes him cast Jinn's Fortune (currently bugged, so low risk, but avoid feeding it).",
+    "He self-feeds pips with Power Current every Round and Donate Power (+4), so he ramps; end the fight before his damage spikes.",
+    "Set up without blades or DoTs, lean on the Inspired Casts, and burst him down."
+  ],
+  "cheatNotes": [
+    "You have access to powerful Inspired Cast spells this fight; use them as free damage in your rotation.",
+    "He Power-Currents himself for pips every Round, so he ramps quickly; do not let the fight drag.",
+    "He can heal with Sprite and hand himself 4 power pips with Donate Power; expect steady pip gain.",
+    "Casting a blade makes him cast Eye of Vigilance; keep blade use minimal.",
+    "A damage-over-time makes him cast Jinn's Fortune, currently bugged; low risk but avoid feeding it."
+  ],
+  "groupFight": false
+}

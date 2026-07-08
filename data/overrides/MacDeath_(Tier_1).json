@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Hit with Life — he takes +20% from it — and avoid his 50% Death resist.",
+    "Do not waste turns picking off the Understudy minions. He resummons any that die and adds more with 3 wizards, so an AoE that clears everything at once is far better.",
+    "Never cast a DoT on MacDeath — he immediately Shifts it back onto you. Use direct hits only.",
+    "He is stunable if you need to buy a turn. Blade up, then finish with one Life AoE to take out MacDeath and his minions together (2,400 health)."
+  ],
+  "cheatNotes": [
+    "He summons an Understudy minion (Death, Life, or Storm). Do not over-invest in killing minions.",
+    "With 3 wizards he summons a second minion, so expect a fuller enemy board.",
+    "Any minion you defeat gets replaced the next turn, which is why an AoE finish beats killing them one at a time.",
+    "A DoT cast on him bounces straight back onto you. Skip DoTs and use direct damage."
+  ],
+  "groupFight": false
+}

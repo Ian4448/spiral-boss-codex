@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "This is a raid boss with 16,760 health. Bring a full group with set roles: one hitter, blade supports, and someone assigned to watch trap counts.",
+    "Every round he spreads two Ice Traps and two Fire Traps across two random wizards. Track the count on every player, every round.",
+    "Never let anyone reach four Ice Traps or four Fire Traps. At four, he fires an all-enemy Lord of Winter and then strips every ward from your team.",
+    "Supports clear traps before anyone hits four while the hitter builds blades. Don't invest in shields you can't afford to lose if the ward wipe fires.",
+    "He is Ice school, so favor Fire damage. Set up quickly and hit hard; the trap pressure only builds the longer the fight runs."
+  ],
+  "cheatNotes": [
+    "Start of every round, two random wizards gain Ice and Fire Traps. In a full group the traps spread out more slowly per player; count them carefully anyway.",
+    "The fourth Ice or Fire Trap on any one wizard triggers an all-enemy Lord of Winter plus a full ward wipe on your team at the end of that round. Clear traps before anyone reaches four."
+  ],
+  "groupFight": true
+}

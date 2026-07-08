@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "She counters almost everything with an AoE Moon Insane Bolt (550/1,050/1,550), so plan to kill in as few actions as possible and keep the team's health buffered.",
+    "Skip blades and Globals (she answers with AoE Enfeeble or a self-heal), Feints (double Insane Bolt), DoTs (she casts Kraken), damage debuffs (Hammer of Thor), and Dissipate (Insane Bolt).",
+    "Set up with Auras and at most one trap instead, since those are your only quiet tools.",
+    "She resists all schools 40% and self-pierces 60%, so bring raw damage and accuracy rather than a stacked charm setup.",
+    "Enter on time (late is a free Insane Bolt), then land one big single hit and heal through the counter."
+  ],
+  "cheatNotes": [
+    "Join late and she opens with an AoE Moon Insane Bolt (550/1,050/1,550) — always enter on time.",
+    "Whenever she has a heal-over-time up she casts Thundering Jinn at the end of the round — don't let her sit on a HoT.",
+    "Any damage to her triggers an AoE Moon Insane Bolt (up to 1,550) — minimize your number of hits and keep the team healthy for the counter.",
+    "A DoT on her makes her cast Kraken — use direct damage, not damage-over-time.",
+    "Blades and Globals make her AoE-Enfeeble the team or heal herself — set up with Auras instead of charms or globals.",
+    "Damage debuffs on her trigger Hammer of Thor — don't Weaken or debuff her.",
+    "Feint makes her double up: Insane Bolt then an AoE Moon Insane Bolt — skip Feint entirely.",
+    "Dissipate also triggers an AoE Insane Bolt — leave it out of your deck."
+  ],
+  "groupFight": false
+}

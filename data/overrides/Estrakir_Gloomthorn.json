@@ -1,0 +1,30 @@
+{
+  "strategy": [
+    "Hit with Ice - he takes +50% from it and resists 80% of Fire; never attack into his Fire resist.",
+    "Handle the Rat Illusionists' -90% Tower Shields: they reshield Knuckles and Estrakir every turn until a boss dies, so either kill both Rats first or plan an AoE that clears everything in one round.",
+    "Set traps with all-enemy spells like Windstorm or Mass Fire Prism - he Cleanse Wards single traps and shields but cannot remove AoE traps.",
+    "Do not heal - Knuckles answers any heal with a 750 Rebirth; use absorbs or resist instead.",
+    "Clear Knuckles before landing a big single hit on Estrakir, or attacking Estrakir first gives him a free out-of-turn Fire Dragon.",
+    "Keep a Global on the field to stop his 770 Fire Power Nova, and burst fast once minions fall since he starts Scarecrow-draining every other turn."
+  ],
+  "cheatNotes": [
+    "Attacking or defeating Estrakir while Knuckles McCloud is still up makes Knuckles hand him a Helping Hands and Estrakir fire a Fire Dragon out of turn. Clear Knuckles first, or AoE both at once.",
+    "His own Meteor Strike also sets off that out-of-turn Fire Dragon.",
+    "He may throw a Fire Dragon at you even on rounds you did not hit him, so keep some resist or a shield up.",
+    "Morganthe's Requiem is a safe hit - it does not set off the Helping Hands or Fire Dragon cheat.",
+    "He Cleanse Wards off any Shield placed on him or his minions, so single shields on him are wasted.",
+    "Only the first trap of a tri-trap spell gets removed, so the other two stick.",
+    "All-enemy trap spells like Windstorm or Mass Fire Prism are NOT cleansed - use these to keep traps on him.",
+    "Pet-cast spells do not trigger the cleanse, though he may still strip the traps on a later turn.",
+    "Linked secondary effects (Brimstone Revenant, Keeper of the Flame) get removed too.",
+    "If no global is on the field he casts a Fire Power Nova for 770 to the team every three turns, so keeping a global up suppresses it.",
+    "",
+    "Once his minions are down he starts casting Scarecrow (600 drain) every other turn, so finish him quickly after.",
+    "The Rat Illusionists put -90% Tower Shields on Knuckles and Estrakir on turn one and instantly replace any that break.",
+    "Each Rat picks one boss to shield; if only one Rat is left it shields Knuckles before Estrakir.",
+    "Defeating Estrakir or Knuckles ends the Rat shielding loop.",
+    "If any wizard heals, Knuckles counter-casts a 750 Rebirth heal, so avoid healing spells.",
+    "Pet heals do not set off Knuckles' counter-heal."
+  ],
+  "groupFight": false
+}

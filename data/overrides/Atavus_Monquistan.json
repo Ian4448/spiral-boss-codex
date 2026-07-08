@@ -1,0 +1,28 @@
+{
+  "strategy": [
+    "Novus finale for a full team of four. On entry everyone is forced to pass, then devoured and polymorphed into one of four forms (Dog/Balance, Unicorn/Storm-Life, Monquistan/Fire-Myth, Pingouin/Ice-Death), each 30,000 health, 170% damage, 70% resist. You only revert by killing a boss, so do not over-invest before the devour fires.",
+    "Follow the guide's kill order: attack the boss your form boosts against. Dog hits Dog, Unicorn hits Monquistan, Monquistan hits Pingouin, Pingouin hits Unicorn. The whole team funnels onto that single target.",
+    "Build the polymorph deck around tri-school conditional hits: each needs your two primary hanging effects plus one secondary or tertiary effect. Keep four copies of the 1-pip Damage Aura (25% boost) and the matching ramp spells; discard single-school hits and off-school ramps.",
+    "Rounds 1-3: discard aggressively to find your ramp spells and conditional hit, and stack self-hanging effects (blades, shields, heals) first since they land fastest. Prioritize school pips for your primary schools.",
+    "Round 4 onward: once all three required hanging effects are up, cast the Damage Aura, then unleash the tri-school conditional for roughly 12,000 damage into your boosted boss.",
+    "Killing that one boss instantly unpolymorphs the whole team. Return to normal stats and AoE the remaining three down together.",
+    "For fast farming, coordinate pet willcasts (Frozen Kraken Trained, Earth Walker, Link Trained, or Sword and Shield Trained) to pre-apply hanging effects. Don't waste deck slots on traps, DoTs, or weaknesses; let teammates handle enemy-side effects."
+  ],
+  "cheatNotes": [
+    "",
+    "This fires at the start and every time a wizard joins, stripping every blade, trap, and ward from the team and polymorphing you. Have all four wizards join on Round 1 so it only triggers once.",
+    "Defeating the boss does not end it cleanly; the devour cheat jumps to whichever enemy takes the first turn, so expect it to keep happening.",
+    "You are locked into an Atavus polymorph form for 20 rounds unless you break out early by defeating an enemy.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Expect 750 Shadow damage to the whole team whenever this triggers; keep everyone healed above that.",
+    "",
+    "Defeating any one enemy instantly unpolymorphs the whole team, so funnel damage onto a single target to free yourselves fast.",
+    ""
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

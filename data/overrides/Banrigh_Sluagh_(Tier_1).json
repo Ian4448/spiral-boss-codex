@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Hit with Life (+5% incoming); never attack into Death (73% resist).",
+    "Don't arrive late — late wizards eat a +100% Curse.",
+    "Exploit the minions: on round 2 and every 4 rounds the Balance minion drops a +30% Mass Hex on the boss side (free damage traps for you), and on round 3 and every 5 rounds the Star minion casts Magnify on all wizards — line up your hit right after round 3 to cash in both.",
+    "Watch the boss's Mass Infection/Plague (end of round 2 and every 3 rounds) cutting your healing — bring Cleanse Charm or don't lean on heals.",
+    "Blade up, wait for the Magnify and Hex traps, then land a big Life hit."
+  ],
+  "cheatNotes": [
+    "Late wizards eat a +100% Curse — join on time.",
+    "Round 2 and every 4 rounds the Balance minion drops a +30% Mass Hex trap on the boss side — free damage traps, so line up a hit to use them.",
+    "End of round 2 and every 3 rounds he casts Mass Infection or Plague, weakening you and cutting healing — bring Cleanse Charm.",
+    "Round 3 and every 5 rounds the Star minion casts Magnify on all wizards, boosting your next spell — hit the same round to use it."
+  ],
+  "groupFight": false
+}

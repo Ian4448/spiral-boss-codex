@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Attack Hades with Life. He resists Death 80% and takes boosted Life damage, so Life is your damage school.",
+    "Play with minimal buffs. A helpful charm or aura gives him a Tower Shield, a healing spell gives him a Deathblade, a helpful ward makes Zeus hit you with Minotaur, and a harmful aura makes him hit the caster.",
+    "Avoid mid-fight healing. It hands Hades free Deathblades, and pet may-cast heals count too, so bring shields and pre-heals instead.",
+    "Watch the +70% incoming Death aura he drops on a random wizard each Round for 4 Rounds. That wizard takes a much bigger hit, so keep them topped up rather than over-committed.",
+    "Burst everything together. Whenever a wizard, Poseidon, or Zeus dies, Hades gains a protected +40% Deathblade, so do not kill his minions early unless you can finish the whole board.",
+    "This is a team Challenge: one hitter, supports funneling blades, and a healer who avoids triggering his heal cheats while managing the incoming Death aura."
+  ],
+  "cheatNotes": [
+    "Each Round he puts a +70% incoming Death damage aura on a random wizard for 4 Rounds, so that wizard takes a much bigger hit; keep them healed and shielded.",
+    "Poseidon casts Infallible on Round 1, giving the enemy side armor piercing.",
+    "Casting a helpful charm or aura makes Hades Tower Shield himself, blocking your next hit, so avoid self-blades and auras.",
+    "Casting a harmful aura makes Hades hit the caster with his Natural Attack.",
+    "Damage-increasing auras like Berserk or Galvanic Field count as harmful here and trigger that same counterhit.",
+    "Casting any healing spell gives Hades a Deathblade, so avoid mid-fight heals.",
+    "Casting a helpful ward makes Zeus hit the recipient with Minotaur, so skip shields.",
+    "Every time a wizard, Poseidon, or Zeus is defeated, Hades gains a protected +40% Deathblade, so killing his minions makes him hit harder; burst everything together."
+  ],
+  "groupFight": true
+}

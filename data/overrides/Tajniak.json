@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Two-bear puzzle: defeat the LIAR, Jawniak, before the honest bear Tajniak. If Tajniak dies first, Jawniak wipes the team with a ~33,000 Death Poison detonation.",
+    "Focus all damage on Jawniak. Tajniak takes +15% from Death (resists Life 50%), so Death hits work, but keep Tajniak alive until Jawniak is dead.",
+    "Jawniak cloaks negative charms and Tajniak cloaks positive charms; the bears shout hints about each other's attacks.",
+    "Do not single-Feint Tajniak; he Swap Wards it onto you (Melt dispels, Mass Feint +75% does not trigger it).",
+    "Blade up, funnel damage into Jawniak, kill him first, then clean up Tajniak."
+  ],
+  "cheatNotes": [
+    "The whole fight: kill the liar Jawniak before the honest bear Tajniak. Reverse that order and Jawniak wipes you with a ~33,000 Poison.",
+    "This boss shouts hints about Jawniak's attacks. Read them to track the puzzle.",
+    "Jawniak shouts hints about Tajniak's attacks in turn.",
+    "",
+    "Tajniak always cloaks his positive charms, so you will not see his buffs coming. Expect hidden charms.",
+    "A Feint on Tajniak gets Swap Warded onto you. Use Mass Feint (+75%) instead, which does not trigger it.",
+    "Melt dispels this swap cheat if you want to Feint normally.",
+    "Mass Feint (+75%) is safe against the swap.",
+    "",
+    "Jawniak always cloaks his negative charms. Expect hidden weaknesses and traps from him.",
+    "If Tajniak dies first, Jawniak Poisons the front wizard and detonates it for ~33,000 Death, a wipe. Always kill Jawniak first.",
+    "After that he Poisons the next wizard each round down the line. There is no recovering once Tajniak is dead.",
+    "Fleeing or porting does not stop the Poison chain. Get the kill order right the first time."
+  ],
+  "groupFight": false
+}

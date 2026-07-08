@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "Hit with Ice (+50% incoming); avoid Fire (80% resist).",
+    "Do not use Ice, Fire, or universal Blades unprotected. He steals them off the receiver. Set up with traps and Feint instead, or Aegis your one key blade.",
+    "Skip universal shields and single-target Absorbs too; he steals those wards as well.",
+    "He is only 4860 health and stunable, so burst him down well before round 4 to dodge his Frost Giant, and use a stun if you need to skip a turn.",
+    "Blade (Aegis-protected) or trap, Feint, then one big Ice hit."
+  ],
+  "cheatNotes": [
+    "Casting a universal Shield or single-target Absorb makes him steal that ward instantly. Skip tower/absorb setup or Aegis it.",
+    "Multi-target universal shields like Legion Shield only lose the caster's copy, so allies keep theirs.",
+    "Any Ice, Fire, or universal Blade gets stolen off the receiver. Use traps and Feint instead, or Aegis the blade.",
+    "A multi-target universal blade like Bladestorm only loses the caster's copy; teammates keep theirs.",
+    "Aegis on the blade or ward blocks the steal entirely. Aegis your one key blade before the hit.",
+    "Pet may-casts and pet spells also trigger the steals, so watch pet blades.",
+    "At the end of round 4 and every 8th round after he casts Frost Giant (Ice AoE). Race him down before then.",
+    "At round 8 he casts an enhanced Fire Dragon for 495 plus 395 over three rounds; you should be long done by then.",
+    "After his big Fire hits he may drop a Fire Prism on a random wizard and natural-attack them; a Fire Prism on you only matters if you plan to hit Fire.",
+    "If this triggers while he has no pips, his natural attack still hits as though he had one pip.",
+    "",
+    "The natural attack from this cheat can still be Dispelled; a Fire Dispel on Billy blanks it."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Avoid casting Wards. Both harmful and helpful Wards make Billy drop a delayed ~125 Fire hit on all wizards after 4 rounds.",
+    "Expect Legion Shields on him at round 1 and every 6 rounds; pack pierce or shatter, or hit off-school since he resists Fire only 3% but takes +17% from Storm and Life.",
+    "Keep helpful Charms minimal. Each one you cast draws a Weakness onto that wizard.",
+    "Any damage on Billy or his Butcher returns his Natural Attack, so do your setup in as few damaging actions as possible.",
+    "He is not stunable and only has 3,350 health; one blade plus a trap and an AoE clears him and the Butcher together."
+  ],
+  "cheatNotes": [
+    "Casting a harmful Ward makes Billy set a Fire hit that lands ~125 on all wizards 4 rounds later.",
+    "Casting a helpful Ward triggers the same delayed ~125 Fire hit on all wizards after 4 rounds.",
+    "He shields himself with three Legion Shields at round 1 and repeats every 6 rounds; be ready to break or pierce them.",
+    "At round 3 he lays a +25% Mass Fire Trap on the wizards, raising the Fire damage you take.",
+    "Every helpful Charm you cast makes him hit that recipient with a Weakness.",
+    "Any time you damage Billy or his Butcher he answers with his Natural Attack on that wizard."
+  ],
+  "groupFight": false
+}

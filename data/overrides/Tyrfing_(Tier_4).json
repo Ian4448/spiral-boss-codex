@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Hit with Storm or Life (+30%), avoid Myth (70% resist). He is stunable and beguilable, so use that to skip his turns.",
+    "His three Grendels buff him every 3 rounds (Ransacker: -70% Tower Shield, Cracknail: +45% Dragonblade, Scavenger: Regenerate). Kill them to stop the ramp, but each death triggers a punish.",
+    "Killing the Ransacker gives you a Deer Knight DoT, the Cracknail another Deer Knight, and the Scavenger a Blinding Light. Killing all three in one round fires all three punishes back-to-back.",
+    "Prefer clearing minions on separate rounds so you eat the punishes one at a time, and Triage the Deer Knight DoTs.",
+    "With minions handled, blade up and land one big Storm or Life hit, and stun Tyrfing to buy setup rounds."
+  ],
+  "cheatNotes": [
+    "Defeating any of his Grendel minions triggers an interrupt spell on you.",
+    "Kill the Grendel Ransacker and he hits you with a 325+351 Deer Knight DoT.",
+    "Kill the Grendel Cracknail and he hits you with a 300+300 Deer Knight DoT.",
+    "Kill the Grendel Scavenger and he casts Blinding Light (accuracy down) on you.",
+    "Killing all three in one round fires all three punishes in succession, spread the kills out to eat them one at a time.",
+    "Every 3 rounds his minions buff him, so clear them to stop his ramp.",
+    "The Ransacker gives him a -70% Tower Shield starting Round 1, pierce or strip it before hitting.",
+    "The Cracknail gives him a +45% Dragonblade starting Round 2.",
+    "The Scavenger heals him with Regenerate (60+1,130) starting Round 3, kill it to cut the healing."
+  ],
+  "groupFight": false
+}

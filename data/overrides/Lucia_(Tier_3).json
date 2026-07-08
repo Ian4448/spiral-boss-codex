@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "She only has 2,805 health - kill her before round 4, when she steals all helpful charms and wards from every wizard.",
+    "Do not trap her: any Trap makes her buff her whole team (blade, accuracy, spear, healing). Do not Feint her either - she cleanses it.",
+    "Hit with Myth, Life, or Death - she takes 15% more from those and resists Fire/Ice/Storm 30%.",
+    "Blade up fast (blades are only stolen at round 4) and burst her down in the first three rounds before the steal.",
+    "Do not join late - a latecomer eats a 500-damage Star Mana Burn that pierces all resist."
+  ],
+  "cheatNotes": [
+    "A wizard who joins late eats a Star Mana Burn that pierces all resist for 500 damage. Enter on time.",
+    "Round 1 she summons a Clockworker, and with more than two wizards she keeps summoning until her side is full.",
+    "Every 4th round she steals all helpful charms AND wards from every wizard. Kill her or hit before round 4.",
+    "Feinting her makes her Cleanse Ward off all her harmful wards. Skip Feint.",
+    "Casting any Trap on her buffs her entire team with the charms below. Do not trap her.",
+    "Part of the trap punish: a +30% universal Blade on her allies.",
+    "Part of the trap punish: a +20% Accuracy Charm.",
+    "Part of the trap punish: a +10% universal Spear.",
+    "Part of the trap punish: a +30% Healing Charm."
+  ],
+  "groupFight": false
+}

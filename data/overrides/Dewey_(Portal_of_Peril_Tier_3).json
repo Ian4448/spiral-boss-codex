@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Attack with Life. Dewey takes +30% Life and resists Death 62% and everything else 32%.",
+    "Every time you damage him he shields himself in that school, so chipping gets walled. Funnel blades to one hitter and land a single overwhelming Life hit instead of many small ones.",
+    "Do not cast damage-over-time: any DoT triggers Mass Triage, healing his side and cleansing it.",
+    "Keep single blades to two. A third individual blade drops Bad Juju on the last one. Use Bladestorm or Aegis to stack safely.",
+    "Never let him sit on four or more shields at end of round, when he casts Orthrus on the top-threat wizard and converts shields into two deferred DoTs. Use Pierce and quick kills so shields never pile up.",
+    "Join on round 1 to dodge the late Mana Burn, then burst him before his minion so the fight stays simple."
+  ],
+  "cheatNotes": [
+    "Join on round 1; arriving late costs you 2 pips to a Mana Burn.",
+    "Every damage spell makes him drop a matching Shield on himself, blunting your next same-school hit. Hit once, big, rather than chipping.",
+    "Multi-hit spells give him a shield per hit, stacking his defense fast.",
+    "Balance attacks give him a Tower Shield instead, so off-school hitting does not dodge the shield.",
+    "Any DoT you cast triggers Mass Triage, healing his side and stripping the DoT. Leave DoTs out of your deck.",
+    "Casting three separate single blades makes him Bad Juju the third recipient. Keep to two singles or use Bladestorm and Aegis.",
+    "If Dewey dies before his minion, the Bad Juju cheat stops firing.",
+    "Four or more shields on him at round's end triggers Orthrus on your top-threat wizard plus two deferred DoTs. Use Pierce and quick kills so shields never pile up."
+  ],
+  "groupFight": true
+}

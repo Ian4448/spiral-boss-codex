@@ -1,0 +1,32 @@
+{
+  "strategy": [
+    "Hit with Myth (+40%), avoid Storm (70% resist).",
+    "Blades get Disarmed off the receiver. Use a triple blade (only the last is removed) or a multi-target blade (only the caster's is removed) so you keep buffs.",
+    "Do not cast Storm, Volcanic, or Glacial Shield on yourself, he answers with a Storm Prism on the receiver, which would flip your Storm resist.",
+    "Kill the Bladeless Ronin. It casts Defuse spells based on your attack school, mainly stripping prisms, so if you are not relying on prisms just hit hard Myth and clear it.",
+    "Deny his ramp: at 5 pips he Supercharges and at 6+ he Darkwinds, so burst him (4,920 health) before he stacks pips."
+  ],
+  "cheatNotes": [
+    "",
+    "Cast a blade and he Disarms it off the receiver.",
+    "On a triple blade he only removes the last blade, so you keep two.",
+    "On a multi-target blade he only removes the caster's blade.",
+    "Cast a Storm, Volcanic, or Glacial Shield and he puts a Storm Prism on the receiver, skip those shields.",
+    "If he reaches 5 pips at end of round he Supercharges himself, burst him before he ramps.",
+    "At 6+ pips at the start of a round he casts Darkwind.",
+    "",
+    "Attack with a Balance spell and the first Ronin casts Unbalance on you.",
+    "An all-enemy Balance attack draws an Unbalance for each enemy hit.",
+    "Chimera makes the Ronin cast three Spirit Defuses.",
+    "Hydra makes the Ronin cast three Elemental Defuses.",
+    "No-damage aura attacks like Scald or Heck Hound do not trigger any Ronin cheat.",
+    "Attack with Fire, Ice, or Storm and the second Ronin casts Elemental Defuse, stripping elemental prisms.",
+    "An all-enemy elemental attack draws an Elemental Defuse per enemy.",
+    "Triggering a prism to Life, Death, or Myth makes it cast Spirit Defuse instead.",
+    "Attack with Life, Death, or Myth and the third Ronin casts Spirit Defuse.",
+    "An all-enemy spirit attack draws a Spirit Defuse per enemy.",
+    "Multi-hit attacks like Minotaur draw a separate Spirit Defuse per hit.",
+    "Triggering a prism to Fire, Ice, or Storm makes it cast Elemental Defuse instead."
+  ],
+  "groupFight": false
+}

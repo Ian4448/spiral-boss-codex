@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Bring Fire. Cyphurr is Ice with 30% Ice resist and takes 15% boosted Fire, so a Fire hitter is the clean pick.",
+    "Delay blades. His pet counters any Blade spell with Steal Charm, so wait to blade until the turn you plan to hit, or use Aegis on the key blade so it survives the steal.",
+    "Plan around the turn-2 and turn-3/4 pet plays. Icewind lands as an aura on turn 2, and a Stun hits a random wizard on turn 3 or 4, so carry a stun block for your hitter.",
+    "Expect a Precision item card on his pet at Round 1 and every 4 rounds, boosting his accuracy; there is no fizzle to bait, so just out-pace him.",
+    "Set up quickly, blade and hit in the same window to dodge the Steal Charm, and burst him with one large Fire attack."
+  ],
+  "cheatNotes": [
+    "At Round 1 and every 4th round after, his pet gives him an Item Card Precision, raising his accuracy for the coming attacks.",
+    "Cast any Blade and his pet immediately Steal Charms it. Blade the same turn you hit, or Aegis-protect the blade you need.",
+    "On turn 3 or 4 his pet Stuns a random wizard, so keep a stun block ready for your hitter.",
+    "On turn 2 his pet casts Icewind as an aura; account for the extra Ice output that turn."
+  ],
+  "groupFight": false
+}

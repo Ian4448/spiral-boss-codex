@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Attack with Myth; Goliath takes +30% from it and resists Storm 60%, everything else 30%. He is not stunable.",
+    "Round 1 he hits the whole team for 50% max health and applies a -50% outgoing damage aura for 99 rounds, so enter at full health and expect your damage halved until you clear it.",
+    "Strip the -50% aura with a conditional spell like Poison (Tier 2b) or Shu (Tier 2b). Those remove it without him recasting it.",
+    "Do not cast any helpful Aura of your own (Berserk, Empowerment). He re-applies the -50% aura on anyone who does.",
+    "Once the aura is cleared with Poison or Shu, stack blades and finish with one big Myth hit."
+  ],
+  "cheatNotes": [
+    "Round 1 he deals 50% max-health damage to all wizards and applies a -50% outgoing damage aura for 99 rounds. Come in at full health; your damage is halved until you clear the aura.",
+    "Late arrivals get the same round-1 hit and aura, but present wizards are not re-hit. Enter as a group at the start.",
+    "Casting any helpful Aura (Berserk, Empowerment, and the like) makes him re-cast the -50% aura on you. Skip auras entirely.",
+    "Removing the aura with a conditional spell like Poison (Tier 2b) or Shu (Tier 2b) does NOT make him recast it. Use those to clear it safely."
+  ],
+  "groupFight": false
+}

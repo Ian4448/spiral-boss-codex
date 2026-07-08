@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "Pack Ice or Life hits — she takes +35% from both — and skip Feint entirely: any negative charm on Ammit triggers Sacrifice, healing her.",
+    "Kill the Pit Vipers first, and kill them fast. While any viper lives she heals 300 every round off her end-of-round drain, and a viper left at low health can feed her a 2,735 or 2,375 damage cheat combo.",
+    "Burst each viper from healthy to dead in one hit so it never sits at low health.",
+    "With the vipers gone the round-end healing stops. Now blade up (blades on yourself are safe), use ordinary traps if you like but no Feint, no weaknesses.",
+    "Budget healing for the 0-pip Judgement she throws at a random wizard every second round for 1,000 Balance damage — keep everyone above that line.",
+    "Hit with a big Ice or Life attack. Her 80% Death resist makes Death hits pointless without a prism."
+  ],
+  "cheatNotes": [
+    "Every round she chips 300 Death damage off herself or a Pit Viper and heals herself for all of it. While vipers are up this is a free 300 heal per round for her.",
+    "Infection-style negative healing charms do nothing against this cheat — you cannot shut it down that way.",
+    "Kill all the Pit Vipers and the round-end drain-heal stops completely. That is the reason to clear minions first.",
+    "Every second round a random wizard takes a free 1,000 Balance damage Judgement. Keep health topped so nobody drops to it.",
+    "A viper at low health can cast Brilliant Light and feed Ammit a 2,735 Balance damage Sap Health. Never leave a viper barely alive — finish it in one hit.",
+    "Same idea with Donate Power: a low-health viper can feed her a 2,375 Fire damage Take Power. Burst vipers, don't chip them.",
+    "If you put a weakness, Feint, or any negative charm on Ammit, she casts Sacrifice on herself and heals. Blade yourself instead of trapping her with charms.",
+    "Unbalance is the one negative charm that slips through without triggering the Sacrifice.",
+    "AoE debuffs like Plague and Virulent Plague are also safe — they do not trigger the Sacrifice.",
+    "Spirit Shields (and possibly Death Prism or Feint interactions) have also set off the Sacrifice. Safest play: put nothing on Ammit except plain traps you are about to use."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Discard the junk. On Round 1 he jams three random cards into every hand, so drop them before they clog your draws.",
+    "He resists all schools 40% and only gives a small +10% boost to Ice, so bring Ice or use a prism to convert.",
+    "Keep Triage or heals ready for his Scald, a Fire DOT he casts every fifth Round.",
+    "Blade and Feint onto one hitter, clear the junk cards, and land your hit before the round-five Scald pressure stacks.",
+    "He is not stunable, so you cannot skip his Scald turns; time your kill window instead."
+  ],
+  "cheatNotes": [
+    "On Round 1 he shadow-casts three random junk cards into everyone's hand, so discard them to keep your draws clean.",
+    "A wizard who joins late gets the same three cards on their next Round.",
+    "",
+    "Every fifth Round he casts Scald, a Fire damage-over-time, so keep Triage or heals ready."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "She takes +35% from Ice and Life and resists Death 80%. Hit with Ice or Life. She is stunnable, so a stun can buy a setup round.",
+    "Round 1 she casts a +35% Death-damage global. Since you are not attacking with Death, it barely helps her; leave it up rather than fighting it.",
+    "If you do NOT try to replace the global she periodically Scarecrows the team (620 drain, about every 4 rounds), and from Round 30 she Scarecrows regardless. Heal through the occasional Scarecrow and race her down before Round 30.",
+    "If you replace her global she simply recasts it; Strangle dispels that recast if you want it gone.",
+    "Blade up, stun if handy, and land an Ice or Life nuke."
+  ],
+  "cheatNotes": [
+    "Her Round 1 +35% Death global only helps Death damage, which you are not using. Leave it and save cards.",
+    "Replace her global and she just recasts it. Do not waste turns fighting it.",
+    "Strangle dispels her recast global if you insist on removing it.",
+    "Leaving the global alone lets her Scarecrow the team every ~4 rounds, and always from Round 30 on. Heal through it and kill her before Round 30."
+  ],
+  "groupFight": false
+}

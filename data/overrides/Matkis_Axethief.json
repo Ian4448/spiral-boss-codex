@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "Use Mass traps and Mass prisms only (Mass Fire Prism, Windstorm). A single-target Trap or Prism makes him Cleanse off all his harmful Wards.",
+    "He resists Fire 80%; convert with a mass prism and hit Ice or Storm, which he takes +35% from.",
+    "Avoid fizzling. A fizzle triggers an enhanced Link on you (about 700 Fire, healing him ~630), so run accuracy and do not swing at low base chance.",
+    "Expect frequent free Reshuffles on your team (round 1 and randomly per cast), so keep key cards early and do not rely on a stable hand.",
+    "Set up with mass effects, then burst; 9,040 health falls to one blade-stacked hit."
+  ],
+  "cheatNotes": [
+    "During round 1 he casts a free Reshuffle on all wizards, redrawing your hands.",
+    "Casting a single-target Trap or Prism on him makes him Cleanse away all his harmful Wards.",
+    "Mass versions like Mass Fire Prism and Windstorm do not trigger that Cleanse, so use those instead.",
+    "For any spell cast by wizards, pets, or enemies there is a random chance he free-Reshuffles all wizards.",
+    "That random Reshuffle can trigger several times in a row.",
+    "Wizards under an Empowerment aura gain a pip when he Reshuffles them.",
+    "If a wizard fizzles, he casts an enhanced Link on them for about 700 Fire while healing himself ~630."
+  ],
+  "groupFight": false
+}

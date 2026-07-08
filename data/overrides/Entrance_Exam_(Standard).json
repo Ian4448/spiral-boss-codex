@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "Read its Round 1 opener. It casts one of two things on itself, and both must be cleared before it dies, or it revives.",
+    "If it opens with seven -80% damage shields (one per school), strip them with the Shatter card it hands you before you commit your hit.",
+    "Keep setup minimal. Every damage charm you put on yourself and every damage trap you put on it costs you 20% of your max Health, so use a couple of high-value buffs, not a full stack.",
+    "Attack with Life (it takes +30% Life); never Death (72% resist) and expect 42% resist on the other schools.",
+    "Clear the opening hanging effects (Shatter the shields or remove the heal-over-times with the given cards), then hit through to the kill so it cannot revive.",
+    "At 35,000 Health and not stunable, run this as a team: one hitter, supports keeping buffs light, and the removal cards ready before the finisher."
+  ],
+  "cheatNotes": [
+    "On Round 1 it casts one of two openers on itself (see the next two lines), and both must be cleared before it dies.",
+    "One opener is seven -80% damage shields, one for every school including Balance, so any single hit is heavily blocked. Shatter them off first.",
+    "The other opener is four heal-over-times restoring 52 Health each over 50 Rounds. Minor, but they still count as the hanging effect that triggers its revive.",
+    "If you defeat it while either opener still hangs, it revives at half Health, reapplies the effects, and hands everyone a spell to remove them, so remove them before the kill.",
+    "",
+    "Every damage charm you put on yourself or damage trap you put on it costs you 20% of your max Health, so blade and Feint sparingly.",
+    "After it triggers that self-damage cheat more than twice it just changes its taunt line; the effect is the same."
+  ],
+  "groupFight": true
+}

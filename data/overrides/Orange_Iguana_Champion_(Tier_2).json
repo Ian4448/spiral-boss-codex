@@ -1,0 +1,12 @@
+{
+  "strategy": [
+    "Every helpful Charm you cast hands it a +45% Balanceblade and a Tower Shield, so keep your blading minimal and enchant single blades for efficiency.",
+    "It is stunable and beguilable, so a stun or beguile buys you safe setup Rounds.",
+    "It resists Balance 51% and other schools 21% but takes 30% more from Myth, Life, and Death, so bring one of those.",
+    "Hit soon after buffing so it cannot pile up Balanceblades and Towers."
+  ],
+  "cheatNotes": [
+    "Any helpful Charm you or a mob casts makes it give itself a +45% Balanceblade and a Tower Shield."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,27 @@
+{
+  "strategy": [
+    "Team fight. Bring a Fire hitter — she takes +30% from Fire and resists everything else (75% Ice, 63% Storm, 45% to the rest).",
+    "Supports stack blades on the hitter and Feints on the boss. She cannot be stunned, and her random Chain Lightning interrupts land whenever they like — keep the team topped up.",
+    "Let her forced-cast cycle play out. Each cycle she forces a random wizard to cast a minor effect: a 15% Elemental Weakness, a tiny Fire bomb DoT, a small HoT, or a 15% Spirit Blade. None of these matter much on their own.",
+    "Two rounds after the forced cast she clears those effects and deals 10% of max health per effect cleared. Spend or remove the forced effects before that round (use the blade, cleanse the weakness) to shrink the punish.",
+    "If minions are present, remember they copy every buff she casts — blades, traps, auras, even a Stormblade global. Clear them early or the enemy side snowballs together.",
+    "Build to one big Fire AoE and end it. Do not trade chip damage into 20,220 health and 45%+ resist."
+  ],
+  "cheatNotes": [
+    "Whenever she buffs herself, any minions with her immediately copy the same kind of buff. Her setup rounds buff the whole enemy side, not just her.",
+    "The minions' copy when she casts a Global: Stormblade.",
+    "The minions' copy when she casts an Aura: Magnify, Sleet Storm, or Empowerment.",
+    "The minions' copy when she casts a Trap: Ice Trap or Storm Trap.",
+    "The minions' copy when she casts a Blade: Balanceblade, Iceblade (+45%), or Stormblade.",
+    "At random she interrupts with Chain Lightning. You cannot prevent it — keep health high enough to absorb a surprise Storm hit.",
+    "",
+    "The forced-cast cycle starts on round 1 and loops for the whole fight.",
+    "She takes over a random wizard's turn and makes them cast one of four minor spells. You do not choose the target or the spell.",
+    "One forced option: a 15% Elemental Weakness. Weak on its own, but it counts as a hanging effect for her punish two rounds later.",
+    "One forced option: a triple bomb DoT dealing only 50 Fire after 5 rounds. The damage is trivial — the punish counting is what matters.",
+    "One forced option: a small HoT healing 50 over 5 rounds. Harmless, but it still counts toward the punish.",
+    "One forced option: a 15% Spirit Blade. Use it on your next attack if you can — a spent blade cannot be cleared for punish damage.",
+    "Two rounds after the forced cast she clears all remaining forced effects and deals 10% of your max health per effect cleared. Spend or remove the forced effects early to blunt this hit."
+  ],
+  "groupFight": true
+}

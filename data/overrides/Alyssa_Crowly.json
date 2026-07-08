@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Round 1 she casts a Dispel of your school on each wizard, disguised to look like a +100% Damage Charm. Do not treat it as a blade - your next spell of that school will fizzle.",
+    "Burn the Dispel first with a cheap same-school cast (a wand hit or 0-1 pip spell). She says \"Why... isn't this working?\" when it triggers harmlessly.",
+    "Only after the Dispel is gone should you start stacking blades and traps as normal.",
+    "Hit with Storm - she resists Myth and takes 30% more from Storm. Prism if you are off-school.",
+    "Feint plus blades on one hitter, then a single big hit to close it out."
+  ],
+  "cheatNotes": [
+    "Round 1 she puts a Dispel of YOUR school on each wizard; your next spell of that school fizzles. Clear it with a cheap same-school cast before your real hit.",
+    "The Dispel is disguised as a +100% Damage Charm of your school. It is not a blade - do not build around it.",
+    ""
+  ],
+  "groupFight": true
+}

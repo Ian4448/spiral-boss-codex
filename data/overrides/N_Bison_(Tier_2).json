@@ -1,0 +1,29 @@
+{
+  "strategy": [
+    "Trap with mass/all-enemies spells (Mass Feint) — single traps get Cleansed off by Ms. Felicity.",
+    "Don't cast Auras: Kenny Rooster destroys any aura with a 300 Fire hit.",
+    "Attacking N. Bison makes him retaliate for 20% of your max health, so keep healed and plan to burst rather than trade pokes.",
+    "N. Bison confuses every wizard on round 1 and every 7 rounds; hit hard in the clear windows and stun him (he's stunable) when you can.",
+    "With only 2,595 health and low-health minions, stack blades and drop a blade-boosted AoE to clear the whole gauntlet at once; attack with Storm (+20%)."
+  ],
+  "cheatNotes": [
+    "",
+    "Join late and N. Bison confuses you for two rounds — enter on time.",
+    "",
+    "Round 1 and every 7th round he confuses every wizard for two rounds (random targeting) — don't rely on precise targeting during confusion.",
+    "Attacking N. Bison makes him retaliate for 20% of your max health — expect chip damage every time you hit him; keep healed and burst fast.",
+    "",
+    "Ms. Felicity Disarms a wizard who receives a blade from a teammate — funnel blades carefully or use self-buffs.",
+    "A single Trap gets Cleansed off its target by Ms. Felicity — use mass or all-enemies traps instead.",
+    "Mass Feint and other all-enemies traps don't trigger the Cleanse — use those.",
+    "",
+    "",
+    "Daniel hands the team Free Sample and Snake Oil cards — junk that clogs your hand; discard them.",
+    "",
+    "",
+    "",
+    "Casting any Aura makes Kenny destroy it with a 300 Fire hit — don't bother with Auras in this fight.",
+    ""
+  ],
+  "groupFight": false
+}

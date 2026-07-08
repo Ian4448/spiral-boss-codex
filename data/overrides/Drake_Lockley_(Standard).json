@@ -1,0 +1,30 @@
+{
+  "strategy": [
+    "Both bosses punish setup, so buff carefully. Drake answers any damage or pierce Charm, Trap, Aura, or Global with a 500 Storm Duck Savage, and even secondary effects count.",
+    "Quentin mirrors your hanging effects: single blades draw Weakness, shields draw Hex, and AoE versions draw the mass versions, so avoid mass buffs and mass Feints.",
+    "Prefer clean, enchanted single blades and hit quickly rather than stacking many charms and traps. Multi-target charms bounce Drake's Duck Savage back onto the caster.",
+    "Drake is Storm and resists Storm 57% and other schools 27%, taking 30% more from Myth, so bring Myth to hit through his resist.",
+    "Funnel blades to one hitter and hit the same Round you set up to minimize the reactive punishes."
+  ],
+  "cheatNotes": [
+    "",
+    "If you cast any damage or pierce Charm, Trap, Aura, or Global, Drake hits the recipient with a 500-damage Storm Duck Savage.",
+    "Multi-target versions land the Duck Savage on you, the caster, instead.",
+    "Even secondary effects, like a blade tacked onto another spell, set off this cheat.",
+    "",
+    "Quentin answers your hanging effects with a matching cheat cast, listed below.",
+    "Secondary effects, such as the blade on Sound of Musicology, also trigger Quentin.",
+    "A single helpful Charm makes Quentin hit that ally with Weakness.",
+    "A helpful Charm on all allies makes Quentin cast Mass Weakness.",
+    "A single harmful Charm on an enemy makes Quentin give it a Balanceblade.",
+    "Starfall also triggers this cheat.",
+    "A harmful Charm on all enemies makes Quentin cast a +25% Bladestorm on them.",
+    "A single helpful Ward makes Quentin cast Hex on that ally.",
+    "A helpful Ward on all allies makes Quentin cast Mass Hex.",
+    "A single harmful Ward on an enemy makes Quentin give it a Tower Shield.",
+    "Attenuate also triggers this cheat.",
+    "A harmful Ward on all enemies makes Quentin cast Legion Shield on them.",
+    "Mass Feint also triggers this cheat."
+  ],
+  "groupFight": true
+}

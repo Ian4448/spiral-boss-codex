@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Three heads fight together: the Balance boss plus Fire and Myth heads. Bring an AoE hitter to clear all three at once, plus support to blade and Feint.",
+    "Hit Myth, Life, or Death - all three heads take boosted damage from these. The Balance head resists 80% Balance, so never attack into Balance.",
+    "Round 1 and every 4th round the Balance and Myth heads strip their harmful wards and buff (Donate Power, a heal, and three -40% towers on the Myth head). Time your burst just after this window so your Feints and traps are not wiped.",
+    "Do not shield yourself. Casting a helpful ward makes the Fire and Myth heads natural-attack whoever received it.",
+    "Keep harmful wards off the Fire head as your win condition - if you trap it, it cleanses all traps off itself. Instead stack blades and Feints on the Myth or Death-boosted line and finish with one AoE that clears all three heads together."
+  ],
+  "cheatNotes": [
+    "On round 1 and every 4th round after, the Balance and Myth heads remove all harmful wards from themselves and each head buffs. Burst right after this window, not before.",
+    "The Balance head gives itself Donate Power for extra pips.",
+    "The Fire head heals itself 250 over 5 rounds (307 with its healing boost).",
+    "The Myth head shields itself with three -40% damage wards.",
+    "If any wizard casts a helpful ward, the Fire and Myth heads both natural-attack the recipient. Do not shield up.",
+    "If you place a harmful ward on the Fire head, it cleanses every trap off itself, wasting your Feints."
+  ],
+  "groupFight": true
+}

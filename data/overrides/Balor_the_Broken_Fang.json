@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Team fight, 15,545 health plus a Behemoth minion. Bring Myth or Life damage — he takes +35% from both and resists Storm at 80%.",
+    "Know the intimidation rule: every third round his 3-round DoT natural attack targets whoever has the most blades and traps cast. Decide up front who eats it — either the tankiest player deliberately carries visible buffs, or the hitter accepts it and the team packs Triage.",
+    "Pack Pierce. Every second or third round he hides a -70% Sun Tower Shield on himself or the Behemoth. Melt does not work on it; a plain Pierce strips it safely.",
+    "Supports blade the hitter and Feint Balor; healer keeps Triage ready for the DoT target and heals through the Shadow Shrike chip.",
+    "Strip the Tower Shield with Pierce the round before the hit, then kill boss and Behemoth together with a bladed Myth or Life AoE."
+  ],
+  "cheatNotes": [
+    "Every second or third round he sneaks a -70% Sun Tower Shield onto himself or his Behemoth. Assume a shield is up before any big hit and strip it first.",
+    "Melt will not remove this Tower Shield — do not waste the card.",
+    "Pierce removes the shield cleanly with no counter. Keep one in the deck at all times.",
+    "Every third round his 3-round DoT natural attack goes at the wizard with the most blades and traps cast. Whoever stacks buffs is volunteering — have Triage ready for them."
+  ],
+  "groupFight": true
+}

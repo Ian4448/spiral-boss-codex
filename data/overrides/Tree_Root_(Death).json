@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Four Tree Roots (Death, Life, Myth, Balance); hit with Ice or Life (+35%) and avoid Death (80% resist on the Death root).",
+    "Killing any Tree Root makes a surviving one spawn an Elite Minion of the dead root's school three Rounds later, so every kill creates a delayed reinforcement.",
+    "Use AoE to damage all four together rather than picking them off one at a time, aiming to end the fight before the Elite reinforcements arrive.",
+    "Stack universal blades and a Feint, then deliver one big AoE (Ice or Life) to drop multiple roots at once.",
+    "If you must go one at a time, plan for the Elite that spawns three Rounds after each kill."
+  ],
+  "cheatNotes": [
+    "Killing any Tree Root makes a survivor spawn an Elite Minion of that school three Rounds later; every pick-off adds a reinforcement, so favor AoE and finish fast.",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "groupFight": false
+}

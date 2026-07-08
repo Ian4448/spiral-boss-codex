@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Expect two enemies. Mr. Carver is Life and Ms. Carver is Ice, and both throw Daybreaker-enchanted spells at random wizards plus follow-up hits, so this is a team fight with sustained incoming damage.",
+    "Watch their tells. Carver's 'whatever I can' line means a small Imp (85) next; his 'help yourself' line means a hard The World (930) is coming. Ms. Carver's lines similarly telegraph a small Frost Beetle (85) or a big The Hierophant (930).",
+    "Keep the healer active. Damage comes every round from both Carvers on random targets, so spread-shield and pre-heal rather than reacting after the 930s land.",
+    "Play the schools: Mr. Carver is Life and takes boosted Death, Ms. Carver is Ice and takes boosted Fire. Split hitters or use prisms so both fall on the same burst.",
+    "Stack on one hitter, blade and Feint over two or three rounds, then AoE both Carvers together so neither is left to keep chipping the team.",
+    "Since both attack from turn one (Ms. Carver from Round 2), do not over-extend setup; burst on schedule before the 930-damage hits stack up."
+  ],
+  "cheatNotes": [
+    "",
+    "",
+    "The 'whatever I can' line telegraphs a small follow-up: he casts an Imp for 85 Life before his next turn.",
+    "The 'help yourself' line telegraphs a heavy follow-up: he casts The World for 930 Life before his next turn.",
+    "",
+    "",
+    "The 'never let my child go' line telegraphs a small follow-up: Frost Beetle for 85 Ice after her next turn.",
+    "The 'do not do enough' line telegraphs a heavy follow-up: The Hierophant for 930 Ice after her next turn."
+  ],
+  "groupFight": true
+}

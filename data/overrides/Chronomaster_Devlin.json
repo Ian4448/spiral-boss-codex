@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "Don't cast global spells — he recasts Power Play (round 1+) or, from round 5, the pip-limiting Balance global in response.",
+    "Don't trap him or his minion; any trap slaps Weakness (-30%) and Black Mantle (-55%) on the caster. Build with blades instead.",
+    "His round-5 global caps you at 2 pips once you spend down, but wizards holding more than 3 pips are unaffected until they spend — stockpile pips and land your big hit before or right as round 5 hits.",
+    "Hit with Myth, Life, or Death (+5%); he only resists Balance 30%.",
+    "Shadow pips still charge under the global, so keep a shadow finisher online."
+  ],
+  "cheatNotes": [
+    "Late wizards get Mana Burned — join on time.",
+    "Round 1 and every 10th round he casts a +45% Power Play for faster pips.",
+    "Casting any global while Power Play is up makes him recast it — skip globals.",
+    "End of round 5 and every 10th he swaps to a Balance global that cuts power-pip gain and caps you at 2 pips once you spend down — burst before it locks you.",
+    "Shadow pips still charge under that global, so keep a shadow finisher ready.",
+    "If you hold more than 3 pips you're unaffected until you spend — stockpile before round 5.",
+    "Casting a global under this second global makes him recast it too — avoid globals entirely.",
+    "Trapping him or his minion hits you with Weakness (-30%) and Black Mantle (-55%) — skip traps and blade up instead."
+  ],
+  "groupFight": false
+}

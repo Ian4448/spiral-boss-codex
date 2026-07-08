@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Attack with Storm (it takes +30% Storm); never Myth (66% resist) and expect 36% resist on everything else.",
+    "Respect his shield cycle: -25% Tower Shield on Round 1, -50% on Round 2, -90% on Round 3, then repeating every three Rounds. Never hit into a fresh shield.",
+    "Strip his Tower Shields with Shatter or Steal Ward right before your hit, and aim your bladed hit at the round the shield is weakest or already cleared.",
+    "If you want DOT pressure, plan the Shift counter: cast a DOT, he Shifts it off, then cast Shift yourself to push it back and he will not Shift again.",
+    "At 64,870 Health this is a team fight. Funnel blades and Feints onto one hitter, clear the shield, then land the Storm hit."
+  ],
+  "cheatNotes": [
+    "Cast a damage-over-time on him and he immediately Shifts it off himself.",
+    "Counter it by casting Shift yourself to push the DOT back onto him; after that he will not Shift again, so your DOT sticks.",
+    "",
+    "Round 1 and every third Round after, he puts up a -25% Tower Shield.",
+    "Round 2 and every third Round after, a -50% Tower Shield.",
+    "Round 3 and every third Round after, a -90% Tower Shield, so clear it before any Storm hit or it is wasted."
+  ],
+  "groupFight": true
+}

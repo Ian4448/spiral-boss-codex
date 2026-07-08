@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Team fight at 45,340 Health. Hit Myth, Life, or Death, each +30%, and never Balance, which he resists 67%.",
+    "Track every Krok Ankh he hangs, on Round 1 and every third Round. He revives to full if killed while any remain.",
+    "Clear Ankhs with the matching removal: Cleanse Charm for curses, Shatter for wards, Triage for damage-over-time. A damage spell will not strip them.",
+    "His revive heal is percentage-based, so infections and Doom cannot stop it. Removal is the only answer.",
+    "On the kill Round, have supports scrub all remaining Ankhs first, then the hitter fires a stacked Myth, Life, or Death hit."
+  ],
+  "cheatNotes": [
+    "On Round 1, every third Round, and on late joins, he hangs a random Krok Ankh effect on himself or a Wizard.",
+    "Ankhs on himself are a Charm or a Ward. Remove them with charm or ward removal before you kill him.",
+    "Ankhs on a Wizard are a Curse, Jinx, or Damage over Time.",
+    "Krok Ankhs only come off with spells that specifically remove that effect type, so a damage spell will not clear the charm. Pack Cleanse Charm, Shatter, and Triage.",
+    "If Rama-Krok dies with any Krok Ankh still present, he fully revives. Clear every Ankh before the killing blow.",
+    "His revive heal is percentage-based, so infections and Doom cannot reduce it. Removal is the only answer."
+  ],
+  "groupFight": true
+}

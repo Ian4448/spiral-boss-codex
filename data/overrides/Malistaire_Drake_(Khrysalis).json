@@ -1,0 +1,12 @@
+{
+  "strategy": [
+    "You have a hard time limit: the duel ends automatically at the end of Round 11, so kill Malistaire (4,800 health) before then.",
+    "Every fourth round he cheat-casts a Death Prism. If you hit with Death, expect the prism to convert your damage, so plan around it or use another school.",
+    "Blade up quickly and land a hit well before Round 11; his natural attack is modest, so prioritize speed over heavy setup."
+  ],
+  "cheatNotes": [
+    "Every fourth round he cheat-casts a Death Prism. If you hit with Death, expect the prism to convert your damage; plan around it or use another school.",
+    "The duel auto-ends at the end of Round 11. Burst his 4,800 health down before the timer, and do not over-setup."
+  ],
+  "groupFight": false
+}

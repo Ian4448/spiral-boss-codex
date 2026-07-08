@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "Solo-friendly (4,000 health, stunable). Round 1 each Mimic polymorphs into a random school and, due to a bug, cannot earn power pips while transformed, so their damage output stays slow.",
+    "It has no resist, so hit with your strongest school and burst before the round-3 re-polymorph.",
+    "Stun to skip their turns and keep the pressure on.",
+    "Enter on time: late entry lets each Mimic steal a pip.",
+    "Blade up rounds 1 and 2 and finish before round 3."
+  ],
+  "cheatNotes": [
+    "Round 1 each Mimic transforms into a random school; you will not know which until it flips.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "While transformed they cannot gain power pips, so their attacks come slowly.",
+    "Wizards joining late each get a pip stolen by every Mimic.",
+    "",
+    "Every third round they re-cast their polymorph."
+  ],
+  "groupFight": false
+}

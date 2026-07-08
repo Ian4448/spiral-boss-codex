@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "This is an 11,705-health Empyrea boss with two minions - bring a team with a hitter and support, and everyone joins from the start to dodge Mana Burn.",
+    "Hit Life or Myth. She takes +10% Life and +5% Myth while resisting 50% Balance and 45% Death, so avoid those two.",
+    "Do not use auras. Any aura makes her hit you with Supernova.",
+    "After her Balance natural attack she Steal Charms and Steal Wards from a wizard, so do not over-invest blades and shields on someone she is about to swing at.",
+    "Keep setup aura-free: stack blades and Feints on your hitter, clear the two Globulin minions with an AoE, and burst her before her charm and ward steals unwind your setup."
+  ],
+  "cheatNotes": [
+    "A wizard who joins after round 1 gets hit with Mana Burn, draining pips. Enter from the start.",
+    "Casting any aura makes her hit you with Supernova. Skip auras.",
+    "After her Balance natural attack she Steal Charms and Steal Wards from the wizard, so do not stack extra blades or shields on the target she just hit."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Join by round 2; arriving later triggers a 100,000 Moon Ship of Fools that wipes you.",
+    "He runs an escalating Equalize cycle capping your damage: 250, then 500, 1,000, 2,000, then Doom and Gloom, and finally a 100,000 Deer Knight every round that ends the fight. You have a hard timer.",
+    "With only 4,500 health, set up blades during the low-cap rounds and burst him during the 2,000-cap window (a few 2,000 hits clear him) before the doom phase.",
+    "Do not change the Global; it triggers a -70% Tower Shield plus two -85% Tower Shields on him (the -85% ones need Melt) and does not even remove the Equalize.",
+    "Stack your setup early, then unload the moment the cap allows a kill."
+  ],
+  "cheatNotes": [
+    "",
+    "Join after round 2 and he casts a 100,000 Moon Ship of Fools, a guaranteed wipe. Be on time.",
+    "",
+    "He caps your damage at 250 early, so do not try to burst yet; just set up.",
+    "The cap rises to 500.",
+    "Then to 1,000.",
+    "Then to 2,000; this is your kill window, and a couple of hits clear his 4,500 health.",
+    "After that he casts Doom and Gloom, cutting healing, so be past the kill by now.",
+    "Changing the Global makes him drop a -70% Tower Shield and two -85% Tower Shields on himself without removing the Equalize. Do not touch the Global.",
+    "Those -85% Tower Shields can each be removed with Melt if you are forced to deal with them.",
+    "",
+    "",
+    "His finisher is a 100,000 Moon Deer Knight every round, so kill him before this phase or you die."
+  ],
+  "groupFight": false
+}

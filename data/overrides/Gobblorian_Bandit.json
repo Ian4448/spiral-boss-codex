@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Voracious Void raid boss, so coordinate as a team with a hitter, blading supports, and utility.",
+    "Attack with Ice or Death — those are only 40% resisted, while Fire and Life are fully immune (100%) and Storm, Myth, Balance, and Astral/Shadow are 70% resisted.",
+    "Lean on the inspired casts unlocked here (Brush Fire, Dismal Seraph, Fabled Revenant, Levin Bruin, Rotting Fomori, War Oracle) since your normal schools are heavily resisted.",
+    "He self-buffs Power Current every round and can Sprite himself to set up a Gambit, so don't let the fight drag and watch for his charm/ward strips (Blizzard removes 3 of your charms, Ratatoskr's Spin removes wards).",
+    "Hold blades to the hitting round so his Blizzard doesn't strip them early, then commit one big Ice or Death hit."
+  ],
+  "cheatNotes": [
+    "You get access to inspired casts here (Brush Fire, Dismal Seraph, Fabled Revenant, Levin Bruin, Rotting Fomori, War Oracle) — lean on them since your normal schools are heavily resisted.",
+    "He stacks Power Current on himself every round, building his own damage and gambit — don't let the fight drag; his hit grows each round.",
+    "He may Sprite himself to set up a Gambit — treat the heal-over-time as a tell that a gambit payoff is coming."
+  ],
+  "groupFight": true
+}

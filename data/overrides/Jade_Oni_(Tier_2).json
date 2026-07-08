@@ -1,0 +1,27 @@
+{
+  "strategy": [
+    "Minimize blading and shielding until your hit Round. Each blade triggers Death Oni's Putrefaction, and each shield triggers War Oni's Oni's Forge, which strips up to three shields.",
+    "Expect Plague on Round 3 from Plague Oni. A Cleanse Charm clears it before you set up.",
+    "Do your blading and hit in one burst so Putrefaction cannot cut your damage or healing first.",
+    "AoE to clear the three Onis with the boss. All take 20% resist, so no prism is needed.",
+    "Bring a hitter with AoE and let a teammate handle the Plague and the Onis' self-heals."
+  ],
+  "cheatNotes": [
+    "",
+    "Jade Oni blades himself with Spirit Blade.",
+    "Jade Oni attacks with Primal Oni.",
+    "",
+    "Every blade you cast makes Death Oni cast Putrefaction, cutting your damage and healing. Blade the same Round you hit.",
+    "Damage-boosting globals also trigger the Putrefaction cheat.",
+    "Death Oni shields itself with Spirit Shield.",
+    "Death Oni attacks with Doom Oni.",
+    "",
+    "On Round 3 Plague Oni casts Plague, weakening your whole team.",
+    "Plague Oni casts a version of Oni's Shadow that hands both a Wizard and itself a Shadow Pip without draining pips.",
+    "",
+    "Every shield you cast makes War Oni cast Oni's Forge.",
+    "Oni's Forge strips up to three of your shields and heals War Oni over five Rounds per shield removed, so do not spam shields.",
+    "War Oni heals itself with Sprite."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,32 @@
+{
+  "strategy": [
+    "He is immune to all damage until you crack his code, so do not waste turns attacking through the Invulnerability aura.",
+    "Kill the Sunken Sam minions to reveal the code. Each minion defeated reveals the next of four numbers.",
+    "The four numbers are pip costs. Cast spells of exactly those pip costs at Dan, in order. A 0 means a 0-pip spell like a wand hit or 0-pip Treasure Card.",
+    "Match all four correctly to strip the Invulnerability, then burst him. A wrong pip cost resets the sequence to the start.",
+    "Hit with Death (+25% incoming) once he is vulnerable; avoid Life (45% resist). He is only 6140 health."
+  ],
+  "cheatNotes": [
+    "He starts immune to all damage via a -300% Invulnerability aura. You cannot hurt him until you crack the code.",
+    "The code is four pip-costs you must hit him with in order. Each Sunken Sam you defeat reveals the next number, so kill minions to read it.",
+    "",
+    "He picks one of nine possible codes. Cast spells whose pip costs match the revealed digits, in order; a 0 means a 0-pip spell like a wand hit.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Getting the fourth digit right strips his Invulnerability (he casts a harmless Supernova). Burst him through the 6140 health now.",
+    "",
+    "A wrong pip cost resets the whole sequence back to the first digit, so input carefully."
+  ],
+  "groupFight": false
+}

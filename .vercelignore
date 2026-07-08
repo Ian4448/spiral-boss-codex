@@ -1,0 +1,3 @@
+# Portraits are served from jsDelivr (GitHub-backed) — keep them out of the
+# Vercel deploy so the upload stays small and fast. See IMG_BASE in site/src/app.js.
+site/img/

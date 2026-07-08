@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Hit with Ice or Myth, he takes +10% from each, and avoid Storm (45%) and Fire (50% resist).",
+    "He keeps his minion count up to your team size, re-summoning at the end of any round he is short. Do not chase minions, they self-destruct on their own.",
+    "Every third round his Clockwork Spanners sacrifice themselves to blast all wizards for 700 each (Death, Fire, or Storm). Shield the whole team before Rounds 3, 6, 9 and so on.",
+    "Build blades and a Feint across the safe rounds, then land one big Ice or Myth hit.",
+    "Heal up right after each triple-Spanner detonation window."
+  ],
+  "cheatNotes": [
+    "Join late and he hits you with Winter Moon.",
+    "At the end of any round he has fewer minions than wizards, he summons another Clockwork Spanner.",
+    "Every three rounds his Spanners self-destruct to blast the team, pre-shield on Rounds 3, 6, 9 and so on.",
+    "The Death Spanner casts Poison for 700 Death to all wizards while killing itself.",
+    "The Fire Spanner casts Immolate for 700 Fire to all wizards while killing itself.",
+    "The Storm Spanner casts Insane Bolt for 700 Storm to all wizards while killing itself."
+  ],
+  "groupFight": false
+}

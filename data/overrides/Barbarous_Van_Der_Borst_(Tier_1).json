@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "He has only 840 health. If you can, burst him down before the second Round, before he spawns his minions.",
+    "Hit with Storm; he only lightly resists Myth (40%) and takes a small Storm boost.",
+    "If the Edacious Ogre and Rude Goblin appear, they chain Dragonblades down the line each Round and end with a Tempest for up to 320 Storm. Kill the minions to break the chain.",
+    "Open with a blade, then AoE on Round 2 to clear Barbarous and both summons together."
+  ],
+  "cheatNotes": [
+    "He summons the Edacious Ogre and Rude Goblin on Round 2. Kill him before then and they never appear.",
+    "While any minions are alive, each creature passes a Dragonblade left down the line and the last one casts Tempest for up to 320 Storm. Clearing the minions stops it.",
+    ""
+  ],
+  "groupFight": false
+}

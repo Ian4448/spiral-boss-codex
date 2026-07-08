@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Always keep a Shield on yourself before you damage Kurokage. Hitting him unshielded triggers a Vampire drain back on you.",
+    "He strips all Wards from a random wizard every other round, so do not over-invest in shields; refresh the one you attack behind.",
+    "He resists Myth 70% and takes +40% from Storm, so hit with Storm.",
+    "Only 1,935 health across the boss; blade once and AoE to clear him and the treant, monk, and wildclaw minions together."
+  ],
+  "cheatNotes": [
+    "Damaging Kurokage while you have no Shield up makes him interrupt-cast Vampire on you, draining you.",
+    "Every other round he casts a Myth spell that removes all Wards from a random wizard."
+  ],
+  "groupFight": false
+}

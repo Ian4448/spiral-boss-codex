@@ -1,0 +1,30 @@
+{
+  "strategy": [
+    "Kravenly punishes shields with Shatter and cleans off any weakness or dispel you place, so protect the team by racing damage and using Triage rather than wards.",
+    "He fires Spirit Blast at the whole team at 75%, 50%, and 25% health, so burst through each threshold in one hit rather than parking just above it.",
+    "Manage the DoTs: he lays a 400-Death-per-round DoT at the end of Round 2 and every 5 rounds after, and detonates 5 DoTs for 2800 Death at the end of Round 5 and every 5 after. Use Shift or Triage to clear the DoT between detonates.",
+    "The hitter holding the most blades or traps draws his attacks, so keep that wizard healed and funnel blades to them late.",
+    "Blade the hitter and hit with Fire or Death (+35%, resists Life 80%), aiming to cross the 50% and 25% thresholds with big hits."
+  ],
+  "cheatNotes": [
+    "Weakness, dispels, and other negative charms on him are removed instantly, so do not rely on them.",
+    "Every other round he hits a random wizard with 340 Life plus a 630 DoT, so keep the team topped up.",
+    "Stunning him does not stop that attack.",
+    "At 75% health he Spirit Blasts the whole team for over 1000, so heal for it or push past 75% fast.",
+    "At 50% he Spirit Blasts again; blow through this threshold in one hit.",
+    "At 25% he Spirit Blasts a third time; burst through it too.",
+    "His own Backlash can drop him past a threshold and trigger the blast.",
+    "Crossing multiple thresholds in one hit fires each blast in turn, so plan heals for a possible double blast.",
+    "End of Round 1 the Ghost Dog summons two minions that go active on Round 3, so clear or manage them.",
+    "End of Round 2 and every 5 rounds after he lays a 400-Death-per-round DoT for 10 rounds.",
+    "End of Round 5 and every 5 after he detonates 5 DoTs for 2800 Death to all, so clear DoTs before it lands.",
+    "Whoever holds the most blades or traps is his target, so keep that wizard healed.",
+    "",
+    "Shift or Triage safely removes his DoT; time it between the Round-5 detonates.",
+    "Casting a shield makes him Shatter it off with a 0-pip cheat, so skip shields.",
+    "",
+    "Mass Feint triggers the Shatter too, so protect it or avoid it.",
+    "Team shields like Legion Shield or Rebirth's armor trigger the Shatter for the caster only."
+  ],
+  "groupFight": true
+}

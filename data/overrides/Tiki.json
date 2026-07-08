@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Two bosses: Tiki (Life) heals and counters your damage-over-time, while Ricky steals your blades.",
+    "Cast a Blade and Ricky steals it off whoever received it; protect key blades with Aegis, or use Steal Charm to take it back without penalty. Supercharge does not trigger the steal, and on a tri-blade only the last part is taken.",
+    "Avoid DoTs, including pet spells: any damage-over-time makes Tiki Lifeblade, remove the effect, and heal with Sprite Swarm, undoing your work.",
+    "Join on time; late joins give Tiki free Guiding Light and Aegis Spirit Armor and let Ricky triple-heal up to 1,500.",
+    "Tiki resists Life 30% and takes 15% more from Death, so hit with Death, blade with Aegis-protected charms, and burst them down."
+  ],
+  "cheatNotes": [
+    "",
+    "A late-joining wizard lets Tiki cast Guiding Light on his team and an Aegis Spirit Armor on a random ally.",
+    "If any damage-over-time is cast, Tiki casts Lifeblade, removes the effect, and heals with a 2-pip Sprite Swarm.",
+    "Even pet spells trigger this damage-over-time cheat.",
+    "",
+    "A late-joining wizard lets Ricky triple-cast Healing Current on himself, healing 100, 400, then 1,000.",
+    "Cast a Blade and Ricky casts Steal Charm on whoever received it.",
+    "Quench can dispel this steal cheat.",
+    "Aegis can prevent the blade from being removed.",
+    "On a tri-blade spell only the last part is stolen (Fire for Elemental, Life for Spirit).",
+    "On a multi-target blade like Bladestorm, only the casting wizard is affected.",
+    "Steal Charm can be used to take the blade back without penalty.",
+    "Supercharge does not trigger this steal cheat."
+  ],
+  "groupFight": false
+}

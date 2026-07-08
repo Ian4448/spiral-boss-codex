@@ -1,0 +1,33 @@
+{
+  "strategy": [
+    "Solo-friendly (7,530 health, one Bladeless Ronin). Hit with Myth (+40%); he resists Storm 70%, so never hit Storm.",
+    "Blades get Disarmed off the receiver, so over-stack or re-blade the same round you hit rather than banking blades.",
+    "Do not cast elemental shields (Storm, Volcanic, or Glacial); he cheat-casts a Storm Prism on you instead.",
+    "Keep his pips low: at 5 pips end of round he Supercharges, and at 6+ pips he opens with Darkwind. Pressure him so he cannot bank pips.",
+    "Mind the Ronin: it Defuses your traps and prisms based on your attack school (elemental hits draw Elemental Defuse, spirit hits draw Spirit Defuse), and Balance attacks draw Unbalance. Attack with straight Myth to keep it simple.",
+    "Blade the same round you hit and burst the boss with Myth."
+  ],
+  "cheatNotes": [
+    "",
+    "Casting any blade gets that wizard Disarmed, with the blade removed.",
+    "A triple blade like Elemental or Spirit Blade only loses its last blade (Fire or Life).",
+    "A multi-target blade like Bladestorm only loses the caster's copy.",
+    "Casting Storm, Volcanic, or Glacial Shield gets you a Storm Prism instead of protection.",
+    "If he ends a round on 5 pips he casts Supercharge to pip up.",
+    "At 6+ pips at the start of a round he casts Darkwind.",
+    "",
+    "Attacking with a Balance spell makes the first Ronin (Dagger) hit you with Unbalance.",
+    "An all-enemies Balance attack draws one Unbalance per enemy hit.",
+    "Chimera triggers three separate Spirit Defuses.",
+    "Hydra triggers three separate Elemental Defuses.",
+    "Pure-aura attacks like Scald or Heck Hound do not set off any Ronin cheat.",
+    "Attacking with Fire, Ice, or Storm makes the second Ronin (Key) cast Elemental Defuse, stripping your elemental traps and prisms.",
+    "An all-enemies elemental attack draws one Elemental Defuse per enemy hit.",
+    "A prism converting to Life, Death, or Myth flips it to a Spirit Defuse instead.",
+    "Attacking with Life, Death, or Myth makes the third Ronin (Gem) cast Spirit Defuse, stripping your spirit traps and prisms.",
+    "An all-enemies spirit attack draws one Spirit Defuse per enemy hit.",
+    "Multi-hit spells like Minotaur trigger a separate Spirit Defuse per hit.",
+    "A prism converting to Fire, Ice, or Storm flips it to an Elemental Defuse instead."
+  ],
+  "groupFight": false
+}

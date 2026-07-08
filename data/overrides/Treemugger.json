@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "Life boss (11650). Hit with Death (+5%); never Life (70% resist).",
+    "Round 1 he wipes your pips, applies a 99-round Impede aura, and Blinding Lights you. He then donates escalating pips each round (one more per round, up to 7 power pips), so you build toward a big hit even though Impede blocks normal gain.",
+    "Ride the donated pips: by the later rounds you will have 7 power pips. Stack a blade or two and unload a Death hit when your pip count peaks.",
+    "Do not waste turns clearing the Impede aura; casting a spell just makes him re-apply it. Bring accuracy for the Blinding Light so your hit does not fizzle."
+  ],
+  "cheatNotes": [
+    "Late joiners get Stunned. Be in on round 1.",
+    "Round 1 he strips your pips, applies a 99-round Impede (chokes pip gain), and Blinding Lights you. Bring accuracy and plan around donated pips.",
+    "On odd rounds he resets and donates pips based on the round number, so your pips grow each cycle toward 7 power pips.",
+    "Same on even rounds; he keeps donating an increasing number of pips. Save them for one big hit.",
+    "He removes then re-donates pips sequentially each round, so you gain more the longer it goes. Time your hit for the peak.",
+    "",
+    "",
+    "If anyone lacks the Impede aura and any wizard casts, he re-applies Impede to all. Do not bother stripping it.",
+    "Replacing the aura lets you regain pips briefly, until any wizard casts and he re-Impedes. Not worth chasing; just use donated pips."
+  ],
+  "groupFight": false
+}

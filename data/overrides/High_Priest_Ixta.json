@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Raid fight. Hit with Death — he resists it only 45% versus 65% on most schools and 85% on Ice/Myth.",
+    "He puts a heal-over-time on himself every round; once he holds two he fires a Sun Serpent at the whole team and clears them, so the AoE lands every other round — pre-shield and keep health buffered.",
+    "Bring Infection or Doom and Gloom to blunt his self-healing.",
+    "He can't be stunned, so time your burst for the round right after his Sun Serpent when he's reset.",
+    "Blade the hitter, Feint him, and land a big Death hit."
+  ],
+  "cheatNotes": [
+    "Every round he puts a ~500 (940 buffed) 5-round heal-over-time on himself — chip his healing with Infection or Doom and Gloom.",
+    "Once he holds two heal-over-times he hits the whole team with Sun Serpent and clears them, so expect that AoE every other round and pre-shield."
+  ],
+  "groupFight": true
+}

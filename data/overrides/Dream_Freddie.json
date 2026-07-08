@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Hit with Myth (+30%); never Storm (54% resist), and everything else is 24% resist.",
+    "Beguile the Confusion minion to flip it to your side — a wizard Beguile gives it an Infallible aura and it works for you. Freddie re-Beguiles it every 4th round, so refresh control.",
+    "When you attack Freddie he throws up a -90% Sun Tower Shield; strip it with Pierce, Shatter, or Steal Ward before your real hit, or chip with a DoT (DoTs don't trigger the shield).",
+    "Blade and trap up, remove the shield, then land a Myth hit.",
+    "Killing Freddie ends Confusion's beguile cheats — it Supernovas its aura off."
+  ],
+  "cheatNotes": [
+    "",
+    "Confusion casts Saga of Heroes round 1 and recasts it if replaced.",
+    "Whoever Beguiles Confusion gets its spells — controlled by the boss it blocks your hits and heals him, controlled by you it helps you.",
+    "If Freddie Beguiles it, it gives itself an Empowerment aura for his side.",
+    "If you Beguile it, it gives itself an Infallible aura and works for you — do this.",
+    "Spells that Beguile as a side effect (like Crow) also flip it.",
+    "When not Beguiled it just heals whichever side it likes — take control.",
+    "Killing Freddie makes Confusion Supernova its aura off and end its beguile cheats.",
+    "",
+    "Every 4th round Freddie Beguiles Confusion back to his side — re-Beguile to keep it.",
+    "Attack Freddie and he shields himself with a -90% Sun Tower Shield.",
+    "Strip that shield with Pierce, Shatter, or Steal Ward before your main hit.",
+    "DoTs don't trigger the shield, so they chip him freely."
+  ],
+  "groupFight": false
+}

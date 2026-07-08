@@ -1,0 +1,30 @@
+{
+  "strategy": [
+    "Do not join late; a latecomer eats Grim Grrnadier.",
+    "Expect Polymorphs. One wizard gets veg-formed at the end of round 1, then randomly on a timer that speeds up with team size (every 9th round solo down to every 3rd with four wizards). Set up before it lands on your hitter.",
+    "Feint still works, but it triggers a Cleanse that strips negative Wards off him, so do not rely on stacked weaknesses or infections.",
+    "Hit him with Storm or Death (only 16% resist); avoid Fire and Myth (56% resist).",
+    "Blade, trap, and burst in one hit before a Polymorph disrupts your setup."
+  ],
+  "cheatNotes": [
+    "Joining after round 1 makes him interrupt-cast Grim Grrnadier (Tier 3b) on the late wizard.",
+    "Casting a Feint or Mass Feint on him makes him Cleanse away all negative Wards on himself.",
+    "At the end of round 1 he Polymorphs a random wizard into a Vegetable form for 15 rounds.",
+    "",
+    "",
+    "",
+    "",
+    "He also Polymorphs a random wizard on a recurring timer set by how many wizards are in the fight.",
+    "Solo, the recurring Polymorph hits every 9th round.",
+    "With 2 wizards, it hits every 7th round.",
+    "With 3 wizards, it hits every 5th round.",
+    "With 4 wizards, it hits every 3rd round.",
+    "",
+    "\"Bringing down the Veghammer\" means he uses his turn to cast Lamassu on the lowest-health wizard.",
+    "\"As the World Turnips!\" means he uses his turn to cast Wings of Night.",
+    "\"Green Beanzooka!\" means he casts Grim Grrnadier (Tier 3b) on the highest-health wizard.",
+    "\"I find you in contempt of corn\" means he casts Hungry Caterpillar on a random wizard (needs confirmation).",
+    "Even if several of these lines trigger at once, only one of the spells actually fires that turn."
+  ],
+  "groupFight": false
+}

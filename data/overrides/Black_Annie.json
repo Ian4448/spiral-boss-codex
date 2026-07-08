@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Hit with Myth or Life, she takes +35% from both, and never attack into her 80% Storm resist.",
+    "She opens with a free 0-pip Darkwind global on Round 1 and instantly renews it if you overwrite it, so bring your own damage instead of fighting her global.",
+    "Any single-target spell of 3 pips or less at her (cheap attacks, blades on her, traps, weaknesses) makes her interrupt-cast Vampire and stun you for a round. Keep single-target casts at 4+ pips.",
+    "Self-target blades are safe. Stack blades on yourself, then hit big.",
+    "Traps stick since she never removes them, so if you Feint her expect the one-round stun, then follow with a 4+ pip Myth or Life hit next turn. A stun block helps."
+  ],
+  "cheatNotes": [
+    "She casts a free 0-pip Darkwind global on Round 1. It is her buff, not yours to fix.",
+    "If you overwrite her global with your own, she instantly re-casts Darkwind for free, do not bother replacing it.",
+    "Her minion's Time of Legend global does not count as replacing her global, so it will not trigger the renew.",
+    "Pet-cast spells do not trigger the renew, so pet globals are safe.",
+    "Cast a single-target spell of 3 pips or less at her and she interrupt-casts Vampire and stuns you for a round. Keep hits and traps at 4+ pips or bring a stun block.",
+    "Wand maycast spells do not provoke the Vampire-stun, so wand hits are safe pokes.",
+    "Arcane Deduction does trigger the Vampire-stun, so avoid casting it.",
+    "Backdraft at 4 or more pips is safe and will not trigger the Vampire-stun.",
+    "She never removes traps she is given, so a Feint you land will stay, just plan around the stun when you place it."
+  ],
+  "groupFight": false
+}

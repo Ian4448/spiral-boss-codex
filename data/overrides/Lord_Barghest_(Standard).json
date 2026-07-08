@@ -1,0 +1,43 @@
+{
+  "strategy": [
+    "Darkmoor team fight (25000). He swaps forms: wolf form is Fire (hit him with Ice, +30%; he resists Fire 64%), human form is Ice (hit with Fire; he resists Ice 76%). Match your hitter's school to his current form.",
+    "Fire Dispels prevent his big protected Damage-over-Time cheats (17775 over 60 rounds) at round 1 and when he polymorphs. Bring them, and heal the team if a DoT lands.",
+    "Go easy on positive charms: every round a wizard casts one, his polymorph and Incindiate cheats trigger a round earlier. Blade minimally, right before the hit.",
+    "Traps: the first negative ward on him is fine, but the second removes ALL traps from him and his minion. Keep to a single trap at a time and re-trap only after his minion signals it is safe.",
+    "His minion buffs, heals, and shields the enemy side and revives once. Clear or out-pace it, and remember the dungeon clue NPCs grant your team helpful auras if chosen correctly.",
+    "Funnel blades to the hitter and burst him within a single form, healing through the DoTs."
+  ],
+  "cheatNotes": [
+    "The first trap on him or his minion is allowed, so placing one is fine.",
+    "The second trap triggers removal of ALL traps from him and his minion. Never stack more than one trap at a time.",
+    "His minion says a line to signal it is safe to trap again after you have hit. Wait for it before re-trapping.",
+    "",
+    "Round 1 he lays a protected DoT dealing 17775 over 60 rounds. A Fire Dispel beforehand prevents it; keep the team healed if it lands.",
+    "At the end of round 3 he becomes human (Ice school) and stacks another 17775/60 DoT. Switch your hitter to Fire and Dispel if you can.",
+    "Fire Dispels stop these DoT cheats. Carry a couple for the team.",
+    "Each positive charm a wizard casts pulls his next form or DoT cheat one round earlier. Minimize blades and cast them just before hitting.",
+    "In human form he is Ice: hit him with Fire; he now resists Ice 76% and boosts 30% Fire.",
+    "",
+    "",
+    "At the end of round 7 he reverts to wolf and casts a Sun Incindiate. Have the team's incoming-damage buffs or heals ready.",
+    "Every round with a positive charm keeps pulling the Incindiate and form cheats earlier. Keep charm use lean.",
+    "",
+    "His minion acts every other round from round 1 with one of the support cheats below. Account for enemy buffs and heals.",
+    "The minion can Bladestorm the enemy side with two +30% charms, so his hits ramp. Re-Feint and keep healing.",
+    "The minion can Mass Tower Shield the enemy side. Over-stack blades or pierce through it.",
+    "The minion can Pigsie-heal his allies with heal-over-times. Burst the boss faster than the minion heals.",
+    "The minion revives once at full HP then leaves at end of turn. Do not over-invest in killing it.",
+    "",
+    "The dungeon hides three clues; finding one clears an NPC as innocent. Correct choices unlock the helpful cheats below.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Choosing correctly can grant your team a 6-round Quicken at the end of round 1, a big tempo boost.",
+    "You may also get a Guardian Spirit that restores 100% HP to all wizards. Rely on it only if your choices were right.",
+    "Before his Incindiate you may get a Fortify cutting incoming damage -135%, which blunts that hit. Time your defense around it.",
+    "After the first Incindiate the 6-round Quicken can re-apply. Use the tempo to set up your kill."
+  ],
+  "groupFight": true
+}

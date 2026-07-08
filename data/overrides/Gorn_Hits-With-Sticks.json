@@ -1,0 +1,37 @@
+{
+  "strategy": [
+    "Do not try to damage Gorn. He self-casts a -300% Invulnerability Brace aura for 99 rounds and re-casts it whenever he has no aura, so your attacks do almost nothing.",
+    "This fight is won by Captain Pork, not by you. Your job is to feed him the pips he asks for so he can cast Pork's Plan, which strips Gorn's aura, deals 3,001 Fire, and traps him for +30,000 damage.",
+    "Answer Pork's requests in order: a Life Pip on Round 1, a Fire Pip on Round 2, an Ice Pip on Round 3, using the Pork's Request cards he provides. Once he holds all three he casts Pork's Plan.",
+    "Keep Captain Pork alive. If he dies before removing the aura he revives at 100% via Blessing, but if he dies on or after the turn he removes the aura, the battle is lost and you are sent back to the Oasis.",
+    "Survive Gorn's scripted casts (Nature's Wrath, Drop Bear Fury, Centaur, Forest Lord, Bonetree Lord) on their fixed rounds; his damage is on a timer regardless of pips, so shield and heal through it.",
+    "After Pork's Plan lands the aura is gone and the +30,000 trap is up. Then any hit ends Gorn; he is Life with 71% Life resist, so swing with a boosted school (Death) into that trap."
+  ],
+  "cheatNotes": [
+    "",
+    "On Round 1, or any round he has no aura, Gorn self-casts a -300% Invulnerability Brace for 99 rounds, making him effectively immune to your damage until the aura is removed.",
+    "The invulnerability cheat only stops once Captain Pork strips Gorn's aura, which is the real win condition.",
+    "This line just flags his natural attack; expect scripted damage on the timer below.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "When Pork joins he tells you he needs preparation; you supply the pips he requests over the next rounds.",
+    "If Pork dies before he removes the aura, he revives himself to 100% with Blessing, so an early death is recoverable.",
+    "On Round 1 Pork asks for a Life Pip; give it using the Pork's Request (Life) card.",
+    "",
+    "On Round 2 Pork asks for a Fire Pip; give it using the Pork's Request (Fire) card.",
+    "",
+    "On Round 3 Pork asks for an Ice Pip; give it using the Pork's Request (Ice) card.",
+    "",
+    "Once Pork holds a Life, Fire, and Ice Pip he casts Pork's Plan: it removes Gorn's aura, deals 3,001 Fire, and lays a +30,000 damage Trap on all enemies. Hit Gorn right after.",
+    "If Pork dies on the turn he removes the aura or any turn after, the fight is declared lost the next turn, so protect him hardest at the finish."
+  ],
+  "groupFight": false
+}

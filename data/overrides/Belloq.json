@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Belloq punishes stalling: any round he takes zero damage, he interrupt-casts Ra for ~1,460-1,540 the next round. Deal at least some damage every round.",
+    "Attack with Myth, Life, or Death; he takes +25% from those and resists Balance 80%.",
+    "Keep a wand hit or small spell to chip him on setup rounds so the Ra never triggers.",
+    "Blade up across a couple of rounds while chipping, then finish with one boosted hit.",
+    "If you would rather burst, just shield for Ra (~1,500) and hit hard next round."
+  ],
+  "cheatNotes": [
+    "If he takes no damage in a round he hits back with Ra (~1,500). Throw a wand or small chip every round so this never fires, or shield up for it."
+  ],
+  "groupFight": false
+}

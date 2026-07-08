@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Grendelynn keeps a 75% Intercept Shadow Sentinel on King Borr, so single-target hits get soaked. Use AoE to hit past it.",
+    "Do not kill Grendelynn first; King Borr revives her at 100% health and she re-casts the Sentinel. Kill Borr through AoE or drop both in the same round.",
+    "Feint triggers an AoE Cleanse Ward, so skip Feint or protect it with Indemnity; blade-only setup is cleaner.",
+    "Blade up and AoE with Storm (+15%, resists Myth 50%)."
+  ],
+  "cheatNotes": [
+    "Latecomers get hit with Medusa, so join on Round 1.",
+    "Grendelynn's Shadow Sentinel intercepts 75% of single-target hits on Borr; use AoE to reach him.",
+    "Feinting Borr makes him AoE Cleanse Ward it off, so skip Feint or protect it with Indemnity.",
+    "Killing Grendelynn before Borr fully heals her and she re-Sentinels, so take Borr down with AoE instead.",
+    ""
+  ],
+  "groupFight": false
+}

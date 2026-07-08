@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "Life boss (10,240). Hit with Death or a non-Life school (no boost is listed, so use your strongest off-Life hitter or a prism).",
+    "Charm limit: he warns on each charm and after your THIRD charm he Chivalrous Centaurs you and destroys three of your charms (pet blades count). Keep to two blades, then hit.",
+    "Do not trap him; a trap makes him Legend Shield and Dream Shield himself.",
+    "Avoid heals: a healing spell (pet heals too) makes his pet Guiding Light him. Pre-shield instead of healing during setup.",
+    "Two blades, no traps, then land a big hit; watch for his Hungry Caterpillar DoT."
+  ],
+  "cheatNotes": [
+    "Late arrival gets a +30% Spirit Trap slapped on you. Zone in on time.",
+    "After your third charm he Chivalrous Centaurs you and destroys three of your charms. Stop at two blades, then hit.",
+    "Pet-cast blades count toward that third-charm trigger. Watch your pet.",
+    "Trapping him makes him Legend Shield and Dream Shield himself. Skip traps and rely on blades.",
+    "Any heal makes his pet Guiding Light him. Pre-shield during setup instead of healing.",
+    "Pet heals also trigger the Guiding Light. Turn off healing pets here.",
+    "He casts Hungry Caterpillar for DoT pressure. Carry Triage or heal after his charm count resets."
+  ],
+  "groupFight": false
+}

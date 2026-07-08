@@ -1,0 +1,29 @@
+{
+  "strategy": [
+    "Run a 4-wizard team: a Storm or Fire hammer with 60%+ damage and Colossal/Epic-tier AoE, plus three supports who Feint and blade. The Storm player takes the last position in turn order to avoid Enfeeble debuffs.",
+    "Do not put prisms on Death Morganthe. A prism makes her Cleanse Ward it off and put a 350 DoT on herself, so it just wastes your setup. Keep Globals off the field too, since they punish Storm Morganthe for no gain to you.",
+    "Target Ice Morganthe. She is the one casting the every-fourth-round Shadow Morganthe hit for 600 to all wizards, and her roughly 27,390 health is what your one big hit must exceed.",
+    "Spend Rounds 1-3 stacking Feints on the minions and elemental/Storm blades on the hammer: Feint on Ice and Balance early, then Sharpened Elemental Blade, item blades, and TC blades funneled to the hammer while the hammer self-blades with Stormblade.",
+    "Round 4, fire Colossal Sirens off the stacked buffs. With full stacking it hits roughly 33,229, clearing Ice Morganthe's 27,390 pool and heavily denting the rest.",
+    "Watch the 4-round Shadow timer: if you cannot kill in one shot, the 600 shadow hit lands on the whole team, so keep buff discipline and be ready to heal through it."
+  ],
+  "cheatNotes": [
+    "Putting any prism (including Mass Prism) on Death Morganthe makes her Cleanse Ward it away and take a 350 non-Death DoT on herself, so the prism is wasted. Don't prism her.",
+    "Storm Morganthe punishes Globals by dropping the same DoT on herself after any Global is cast. Keep Globals off the field to avoid feeding this.",
+    "Ice Morganthe counters your offense: she reacts to any enemy attack, so expect a response whenever you hit.",
+    "Every fourth round Ice Morganthe summons the giant background Shadow Morganthe to hit all wizards for 600 Shadow at once. Time your kill to land before this, or heal through it.",
+    "The every-fourth-round 600 Shadow hit does not stop when Ice dies. Death picks it up next, then Storm, then Balance, so killing one form just passes the duty along.",
+    "Each Morganthe has a normal spider-web Natural Attack plus a personalized giant-spider special attack (neither deals actual Shadow damage). These are her filler turns.",
+    "",
+    "",
+    "",
+    "",
+    "Once a Morganthe reaches 2 Shadow Pips she spends her turn on a Shadow Spell instead of her normal cast, even if she already has a pact active.",
+    "Balance and Ice Morganthe are set to cast Dark Fiend at 2 Shadow Pips, though a targeting bug usually makes them pass instead.",
+    "Death Morganthe is set to cast Dark Shepherd at 2 Shadow Pips, but the targeting bug usually makes her pass instead.",
+    "Storm Morganthe actually lands her Shadow cast, Dark Nova, at 2 Shadow Pips, so she is the one whose Shadow spell to respect.",
+    "Because of Shadow Creature changes, every form except Storm just passes when it tries its Shadow spell, so in practice only Storm's Dark Nova goes off."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

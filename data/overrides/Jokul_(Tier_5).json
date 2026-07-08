@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Team gauntlet (20k). Hit with Fire (+40%) or Myth (+25%); never attack into Ice (80% resist).",
+    "He strips any single-target trap you place on him (prisms included) — protect Feint with Indemnity, or use multi-target traps he can't remove.",
+    "Every few rounds his Blizzard hits everyone for 600-1,000 and stamps a +50% Ice Trap on all wizards — heal through it and avoid taking Ice hits into that trap afterward.",
+    "Supports Indemnity-Feint the boss and blade the hitter; hitter blades Fire or Myth.",
+    "Clear the Wildclaw minions or AoE through, then burst Jokul with the protected traps up."
+  ],
+  "cheatNotes": [
+    "Every few rounds his Blizzard hits all wizards for ~600-1,000 and lands a +50% Ice Trap on each of you — heal up and avoid taking Ice hits into that trap.",
+    "He removes any single-target trap (and prisms) you place on him — use Indemnity or multi-target traps.",
+    "Indemnity on your Feint stops him from stripping it."
+  ],
+  "groupFight": true
+}

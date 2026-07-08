@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "This is a one-shot puzzle: any hit under 500,000 damage (less than 50% of his health) makes him full-heal and Triage himself. You must land a single hit over 500,000 or reset.",
+    "Never chip him and never cast a damage-over-time or Scald-style DoT - a DoT with no upfront hit also triggers the full heal.",
+    "Stack everything on one hitter - every blade, Feint, and trap - over several rounds. He resists Death 65% and takes 15% more from Life, so hit with Life or prism off Death.",
+    "Feinting is fine but each Feint draws a 420 Death natural attack on the caster; heal through it, the +70% trap is worth it.",
+    "When your hitter can clear 500,000 in one cast, fire the single hit. Anything less full-heals him back to 1,000,000."
+  ],
+  "cheatNotes": [
+    "Feinting him triggers a 420 Death natural attack on the caster. Minor - heal through it, the trap is worth it.",
+    "Any damage or steal spell under 500,000 (less than 50% of his health) makes him full-heal and Triage himself. Only a single hit over 500,000 works.",
+    "A DoT with no upfront hit (like Scald) counts as a sub-500k hit and triggers the full heal. Avoid all DoTs.",
+    "The heal does NOT trigger when your hit exceeds 500,000 - that one huge hit is the entire fight."
+  ],
+  "groupFight": true
+}

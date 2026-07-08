@@ -1,0 +1,30 @@
+{
+  "strategy": [
+    "Expect two phases. Bodleian starts Balance, then Polymorphs into a Storm version once the Balance form dies, so plan for a longer fight than the 3,250 Health suggests.",
+    "Do not lean on Traps or harmful Charms in phase one. Either triggers a Cleanse Ward that wipes your setup, and Traps additionally get a Hex applied to all enemies. Build damage with blades on yourself instead.",
+    "He is Balance and takes boosted Myth (30%) and Life (80%). A Life hitter with self-blades cuts through both forms fast; avoid dumping curses onto him.",
+    "In phase one, set up with blades and burst the Balance form down in one hit rather than feeding the Trap and Charm cleanse cheats round after round.",
+    "After the Polymorph he summons two random minions on his first Storm round and re-summons when they all die. Use AoE to clear minions and hit the boss together.",
+    "Watch the round-4 Siphon: he sacrifices a minion to heal 400. Kill minions on your terms and finish him before he stalls with heals."
+  ],
+  "cheatNotes": [
+    "",
+    "",
+    "Cast a harmful Charm and he Cleanse-Wards off all harmful Charms on himself, so Weakness-style setup is wasted.",
+    "Cast a Trap and he Cleanse-Wards off all Traps on himself, so pure trap stacking does not stick in phase one.",
+    "When the Balance form dies he does not die; he Polymorphs into a Storm version and the fight continues.",
+    "",
+    "On his first round after Polymorphing he summons two random minions from the Tier 1 list.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "In the Storm phase, casting a Trap makes him Cleanse off his harmful Charms and then Hex all enemies, so traps stay risky after the shift too.",
+    "Every 4th round after summoning he Siphon-Healths a minion, killing it to heal himself 400, so don't let the fight drag.",
+    "When all his minions are dead he re-summons more the next round; clear them only when you can also close out the boss."
+  ],
+  "groupFight": false
+}

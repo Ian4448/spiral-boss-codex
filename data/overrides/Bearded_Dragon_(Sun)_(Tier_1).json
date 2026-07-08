@@ -1,0 +1,29 @@
+{
+  "strategy": [
+    "Enter before round 1. Joining late triggers a Sun Blessing that fully heals every dragon.",
+    "Kill order is everything: defeat the Moon and Star dragons first and leave Sun, the boss, for last. Killing Sun before or with the others triggers a Sun Ra or Power Nova AoE plus a full heal for the survivors.",
+    "It has no boost weakness and 15% universal resist, so pick your strongest reliable school and stack blades.",
+    "Expect the round-2 cycle: a Sun Trap on the boss, a Star Blade and Moon Shield on the dragons, then buffs and heals like Unicorn, Restoring Rain, or Guardian Spirit. Bring infection or a heal-cut, or just out-pace their healing.",
+    "Burst the two minions down together, then finish Sun alone so no afterlife cheat fires."
+  ],
+  "cheatNotes": [
+    "Joining after round 1 triggers a Sun Blessing that restores all three dragons to full health.",
+    "",
+    "Kill Sun before or at the same time as both Moon and Star and he fires a Sun Ra for 75% of your max health, then fully heals the group.",
+    "Kill Sun before or with just one other dragon and he fires a Sun Power Nova for 50% max health plus a full group heal. Sun must die last and alone.",
+    "",
+    "",
+    "Round 2 he puts a +25% Sun Trap on himself.",
+    "Round 2 a Moon or Star dragon gives a random ally a Star Blade.",
+    "Round 2 a Moon or Star dragon gives a random ally a Moon Shield.",
+    "",
+    "End of round 2 the Sun dragon casts one of Blinding Light, Guardian Spirit, or Smoke Screen.",
+    "",
+    "",
+    "End of round 2 a Moon or Star dragon casts one of Unicorn, Restoring Rain 2, or Virulent Plague.",
+    "",
+    "End of round 2 a Moon or Star dragon casts one of Legion Shield, Grendel's Amends, or Mass Infection.",
+    ""
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Every wizard action draws a themed Ice Wyvern, Woolly Mammoth, Minotaur, or Centaur cheat cast, so plan who casts what and keep buffing tight.",
+    "Helpful Charms make the Order Preceptor Wyvern the recipient, harmful Charms on it draw a Woolly Mammoth on the caster, and shields, wards, traps, and DoTs each trigger their own punish, so avoid stacking these on the wrong Preceptor.",
+    "Kill the Life Preceptor of Decadence carefully: the first time it dies it heals all Preceptors 50% max Health, so time it to die last or burst it through with the others.",
+    "The Order boss resists Ice 83% and other schools 53% but takes 30% more from Fire, so bring Fire hitters.",
+    "Funnel blades to one hitter, Feint the target the same Round you hit to dodge the reactive casts, and AoE the Preceptors down together where possible."
+  ],
+  "cheatNotes": [
+    "",
+    "Cast a helpful Charm and the Order Preceptor throws an Ice Wyvern at whoever received it.",
+    "Cast a harmful Charm on the Order Preceptor and it hits the caster with Woolly Mammoth.",
+    "After you cast a Shield, the Order Preceptor casts Frozen Armor for free.",
+    "",
+    "Cast a helpful Ward and the Deviousness Preceptor throws a Minotaur at whoever received it.",
+    "Cast a helpful Charm while you have a damage-over-time on you and the Deviousness Preceptor casts Incindiate.",
+    "",
+    "Cast a harmful Ward on the Decadence Preceptor and it hits the caster with Centaur.",
+    "Cast a damage-over-time on the Decadence Preceptor and it hits the caster with Spinysaur.",
+    "The first time the Decadence Preceptor dies, it restores 50% max Health to all of the Preceptors.",
+    "",
+    ""
+  ],
+  "groupFight": true
+}

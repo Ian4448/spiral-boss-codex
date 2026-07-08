@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Expect a Ghulture minion each of the first three Rounds, then Guardian Spirit on all three (revive at 33% after defeat).",
+    "Carry Entangle to strip one Guardian Spirit per cast before you kill the minions, or AoE the whole board at once so they fall together.",
+    "Attack with Fire, Ice, Storm, or Myth. She only resists Life and Death (15%), so hit into anything else.",
+    "At 4,560 Health, blade once and AoE everything after clearing the Guardian Spirits.",
+    "Enter on time so you do not eat her late-join Luminous Weaver."
+  ],
+  "cheatNotes": [
+    "",
+    "On each of the first three Rounds she shadow-summons a Death or Myth Ghulture minion.",
+    "Once all three are out she gives them Guardian Spirit, reviving each at 33% Health after defeat.",
+    "Cast Entangle to strip one Guardian Spirit per cast before you kill the minions.",
+    "A wizard who joins late gets hit with Luminous Weaver."
+  ],
+  "groupFight": false
+}

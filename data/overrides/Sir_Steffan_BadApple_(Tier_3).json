@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Hit with Myth, Life, or Death (+13%), avoid Balance (70% resist).",
+    "He heals 500 health per minion by sacrificing his Conscripted Manders whenever he is attacked, and he keeps re-summoning them, so use an AoE to kill the minions and hit him in the same blow so his sacrifice heal is wasted.",
+    "Skip traps: placing a trap on him puts a Weakness on you. Buff with blades instead.",
+    "At only 3,070 health, one bladed AoE that clears the board ends it before his heals matter.",
+    "Watch for an occasional Sandstorm plus Black Mantle on a wizard when he is attacked, shield or accept the accuracy hit."
+  ],
+  "cheatNotes": [
+    "He summons a Conscripted Mander at the end of Round 1.",
+    "He summons another at the end of Round 2 and keeps replacing any minion that dies or is sacrificed.",
+    "When attacked he sacrifices his minions for 500 health each, kill the minions with an AoE in the same hit so he cannot heal off them.",
+    "Place a trap on him and he puts a Weakness on you, use blades, not traps.",
+    "When attacked he occasionally casts Sandstorm and a Black Mantle on one wizard, shield for the accuracy debuff."
+  ],
+  "groupFight": false
+}

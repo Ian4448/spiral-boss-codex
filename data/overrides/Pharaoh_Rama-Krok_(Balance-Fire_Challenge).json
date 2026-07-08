@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Team fight (37,105 health). Hit with Storm (only 29% resist); he resists Ice and Balance 69% and everything else 49%.",
+    "His kill condition: if any Krok Ankh hanging effect is on the board when he dies, he heals to full, and Doom and Gloom or Infection cannot stop that heal.",
+    "Round 1 and every third round he drops a random Krok Ankh (shield, trap, blade, HoT, DoT, or weakness) on himself or a wizard, and each needs a spell or TC that specifically clears that effect type.",
+    "Before the killing blow, clear every Krok Ankh with the right removals (shatter shields, cleanse weakness, triage DoT, and so on).",
+    "Time your burst for the round right after you have cleared the Ankhs and before the next set drops on round 3, 6, or 9.",
+    "Funnel Storm blades to one hitter and finish clean."
+  ],
+  "cheatNotes": [
+    "Round 1 and every third round he drops a random Krok Ankh hanging effect (shield, trap, blade, HoT, DoT, or weakness) on himself or a wizard.",
+    "Krok Ankh effects only come off with a spell or TC that specifically clears that type; you cannot burn a shield Ankh off with damage or a weakness Ankh off with self-hits.",
+    "If any Krok Ankh is still up when he dies, he heals to full. Clear every Ankh the round before your kill shot.",
+    "That revival heal is a max-percentage heal, so Doom and Gloom and Infection cannot reduce it."
+  ],
+  "groupFight": true
+}

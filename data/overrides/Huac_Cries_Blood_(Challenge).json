@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "This is a three-enemy puzzle fight (Huac plus Skurkis and Yacate) with a lethal kill-order trap - bring a full team with a hitter, support, and a healer running strong absorbs.",
+    "Hit Life. Huac takes +55% Life and +8% Storm; he only resists 32% Ice and 12% elsewhere, so Life is your damage school.",
+    "Do not AoE them down together. Defeating two or more enemies on the same turn (or all at once) makes every enemy full-heal with Blessing. But defeating just one triggers a 100%-max-health Meteor Strike on the whole team.",
+    "Because both a single kill and a multi-kill are punished, kill them one at a time with big absorbs/shields already up to survive each Meteor, and save Huac for last.",
+    "Avoid the trigger cheats while setting up: no shields (Helephant on lowest health), no Heal-over-Times (Skeletal Pirate on lowest health), no harmful charms on Yacate (Stone Colossus), and no dispels or curses on the bosses (Glacial Fortress or free protected blades). Melt can remove Yacate's Glacial Fortress if it goes up."
+  ],
+  "cheatNotes": [
+    "Defeating any one enemy makes the boss that scored the kill hit the entire team with a Meteor Strike for 100% of max health. Keep absorbs up before any kill.",
+    "Defeating two or more enemies on the same turn - or all at once - makes every enemy cast Blessing and heal back to full. Never AoE them down together.",
+    "Casting a Shield makes Huac drop a Helephant on your lowest-health wizard.",
+    "Casting a Heal-over-Time makes Skurkis drop Skeletal Pirate on your lowest-health wizard.",
+    "A harmful charm on Yacate makes Yacate cast Stone Colossus on your lowest-health wizard.",
+    "Dispels and harmful accuracy charms do not trigger that Stone Colossus cheat.",
+    "A harmful charm on Huac or Skurkis makes Yacate shield that boss with Glacial Fortress.",
+    "A Dispel specifically makes the dispelled boss self-blade: a protected +35% Fireblade on Huac, or a protected +40% Deathblade on Skurkis.",
+    "Harmful accuracy charms do not trigger that self-blade cheat.",
+    "A multi-target curse like Plague makes Yacate cast only Stone Colossus and skip Glacial Fortress.",
+    "Yacate's Glacial Fortress can be removed with Melt."
+  ],
+  "groupFight": true
+}

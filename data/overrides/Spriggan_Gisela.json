@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Hit Death. She takes +40% Death and resists 70% Life, so Death is your clean damage.",
+    "She only has 1,920 health, so this is a race - kill her before her round-5 Meteor Strike.",
+    "Her sole cheat fires every fifth round, so a fast blade and one Death hit ends it inside the first cycle.",
+    "No traps, charms, or heals are punished here, so set up normally with a blade or two and swing.",
+    "If the fight drags past round 5, expect a free 215-245 Fire Meteor on the team each fifth round - just heal through it and finish."
+  ],
+  "cheatNotes": [
+    "At the start of every fifth round she casts a 0-pip Meteor Strike for 215-245 Fire damage to the team. With only 1,920 health, kill her well before round 5."
+  ],
+  "groupFight": false
+}

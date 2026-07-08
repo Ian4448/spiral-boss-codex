@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Hit with Myth (+15%); he lightly resists Storm (25%).",
+    "He Steal Charms any blade you cast (off the receiver) — use Supercharge (which doesn't trigger it) or triple blades where only the last part is taken.",
+    "Alternatively blade and hit the same round so there's nothing to steal.",
+    "He's stunable and beguilable — a stun buys a safe setup round.",
+    "Blade up and burst his 5,600 health with a Myth hit."
+  ],
+  "cheatNotes": [
+    "Late wizards let him Healing Current himself three times (100, 400, 1,000) — join on time.",
+    "Cast a blade and he Steal Charms it off whoever received it — use Supercharge or hit the same round.",
+    "A triple blade only loses its last part (Fire or Life).",
+    "An all-allies blade only gets stolen from the caster.",
+    "Supercharge doesn't trigger the steal at all — safe to use."
+  ],
+  "groupFight": false
+}

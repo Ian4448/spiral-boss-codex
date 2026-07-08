@@ -1,0 +1,29 @@
+{
+  "strategy": [
+    "Hit with Storm; he takes +50% and resists Myth 80%.",
+    "He shields himself with a -65% Tower Shield on Round 1 and re-shields when hit or every few Rounds; use Steal Ward to bypass it rather than wasting a hit on the shield.",
+    "At the end of Round 1 he Earthquakes and summons three minions that constantly heal and buff him and each other.",
+    "Do not poke the Tired Fighter or Stormclaw directly early; his minions cheat-cast Rebirth heals, Colossus, and Storm Lord in response. Clear the minions first.",
+    "Because minion cheats fire once per hit, use single-hit spells while minions are alive, not multi-hit spells like Hydra.",
+    "After all three minions die he cheat-casts Frost Giant (475); with the board clear, Steal Ward his shield and finish with a Storm hit."
+  ],
+  "cheatNotes": [
+    "He wears a -65% Tower Shield and replaces it when hit; Steal Ward it off instead of hitting into it.",
+    "He also refreshes a Tower Shield every three to four Rounds, so keep a Steal Ward handy.",
+    "Steal Ward removes the shield without triggering a replacement; it is the clean answer to his shielding.",
+    "At the end of Round 1 he Earthquakes (stripping your blades) and summons his three minions; delay heavy setup until after.",
+    "Placing a Trap on him or his minions makes him Cleanse two wards and strip Weaknesses; avoid traps while minions live.",
+    "Attacking the Tired Fighter sets off interrupt heals and buffs from the other minions; leave it for last or clear the board together.",
+    "The Lazy Henchman cheat-heals 750 with no absorbs when you poke the minions.",
+    "The Half-Witted Skeleton follows with Colossus after that Rebirth.",
+    "All-enemy spells from your team do not trigger this interrupt, so AoE is safer than single-target pokes.",
+    "When the skeleton casts Blizzard or the fighter casts Tempest, only the Rebirth heal fires.",
+    "Hitting Stormclaw himself makes his minions respond with heals and Storm Lord, so kill minions first.",
+    "The Lazy Henchman Rebirth-heals whenever Stormclaw or any minion is attacked.",
+    "The Tired Fighter answers with Storm Lord on your team.",
+    "Multi-hit spells like Hydra make the minions cheat once per hit, multiplying their heals; use single hits while minions live.",
+    "Once all three minions are down he cheat-casts Frost Giant for 475; expect it the Round after you clear them.",
+    "If you clear all minions in one Round while going first, the Frost Giant lands that same turn."
+  ],
+  "groupFight": false
+}

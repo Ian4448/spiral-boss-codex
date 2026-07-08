@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Bring Life damage (he takes +30%) and heavy blades; skip Death spells into his 45% resist.",
+    "Do not open with Feint on him. A Feint makes him counter with a Death natural attack of up to 420.",
+    "Any hit or steal under 25,000 (half his health) fully heals him with Blessing and Triages your damage-over-time off, so never chip him.",
+    "Stack blades until a single hit clears 25,000, then fire; repeat once more to finish his 50,000 health.",
+    "Avoid pure damage-over-time spells like Scald; a DoT with no upfront hit counts as a sub-threshold hit and heals him."
+  ],
+  "cheatNotes": [
+    "Casting Feint on him triggers a Death natural attack of 210, 315, or 420 on you; rely on blades instead of Feint here.",
+    "Any damage or steal under 25,000 (half his max health) makes him Blessing to full-heal and Triage off your DoTs; every hit must exceed 25,000.",
+    "A damage-over-time with no initial hit, like Scald, counts as a low hit and triggers the full heal; do not use bare DoTs.",
+    "Hits above 25,000 are safe and skip the heal, so build blades until one shot clears the threshold."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "This is a big-health fight (64,870); bring a dedicated hitter. Hit with Storm, which he takes +30% from, since he resists Myth 66%.",
+    "He raises a Tower Shield every round on a 3-round loop: -25% on round 1, -50% on round 2, -90% on round 3. Time your hit for the -25% round or pierce/shatter the shield first.",
+    "Avoid DoTs. Casting one makes him Shift it onto a wizard; if you must, be ready to Shift it back, since he will not Shift a second time.",
+    "Stack blades and Feints across the team, break the current Tower Shield, then land one Storm burst over 64,870."
+  ],
+  "cheatNotes": [
+    "Casting a Damage-over-Time on him makes him cast Shift, pushing it onto a wizard.",
+    "If you Shift the DoT back onto him yourself, he will not Shift it a second time.",
+    "",
+    "At round 1 and every 3rd round after, he raises a -25% universal Tower Shield.",
+    "At round 2 and every 3rd round after, he raises a -50% universal Tower Shield.",
+    "At round 3 and every 3rd round after, he raises a -90% universal Tower Shield."
+  ],
+  "groupFight": true
+}

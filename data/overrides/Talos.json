@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Hit with Myth, Life, or Death (+35% each) and avoid Balance (35% resist).",
+    "Do not cast blades or Globals; each makes him Hex you (+35% trap on you). Auras are the safe exception.",
+    "Do not cast Traps or Shields either; those also draw a +35% Hex on the caster.",
+    "Set up with Auras and pet-cast blades (which do not trigger him), then land one hit.",
+    "At 4,140 health a single blade-and-hit setup ends him quickly."
+  ],
+  "cheatNotes": [
+    "Casting a blade makes him Hex you with a +35% trap; buff with Auras instead.",
+    "Globals trigger the Hex but Auras do not, so use Auras to set up.",
+    "Pet-cast blades do not trigger the Hex; a safe way to gain a blade.",
+    "Casting a Trap (even Feint) or a Shield also earns a +35% Hex; skip them and burst him.",
+    ""
+  ],
+  "groupFight": false
+}

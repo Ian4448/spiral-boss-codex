@@ -1,0 +1,26 @@
+{
+  "strategy": [
+    "Hit with Myth (+50%); Yoshinobu resists Storm 80%.",
+    "Never damage Yoshinobu with a spell costing 7 or more Pips. The Chain Reaction answers with a -60% Smoke Screen, a 650 Rebirth heal plus a 250 Absorb on the enemies, and a 500 Ice Frost Giant that stuns your whole team. Use cheap sub-7-pip hits.",
+    "Hisamoto Legion Shields the enemies on Round 1 and every 3rd Round after. Break or pierce those shields, or hit between them.",
+    "At only 1,505 health, chip Yoshinobu and the minions down with low-pip Myth spells rather than one big AoE.",
+    "If you must go through Hisamoto and Kensaburo, expect the follow-up Earthquake and Scarecrow chains on 7+ pip hits. Keep spells cheap throughout."
+  ],
+  "cheatNotes": [
+    "On Round 1 the bosses take free scripted turns, spending no pips.",
+    "Round 1: Yoshinobu casts Mass Infection, cutting your healing.",
+    "Round 1: Hisamoto casts Legion Shield on the enemies.",
+    "Hisamoto re-casts Legion Shield every 3rd Round after. Pierce or break through it.",
+    "Hitting Yoshinobu with a 7+ pip spell triggers the Chain Reaction below. Keep hits cheap.",
+    "Chain: Yoshinobu casts a -60% Smoke Screen on you.",
+    "Chain: Hisamoto Rebirths the enemies for 650 and adds a 250 Absorb.",
+    "Chain: Kensaburo hits all enemies for 500 Ice and Stuns them.",
+    "After Hisamoto is dead, a 7+ pip hit on Yoshinobu triggers a new chain.",
+    "",
+    "Chain (Kensaburo alive): Yoshinobu Earthquakes for 350 Myth.",
+    "Chain (Kensaburo alive): Kensaburo heals each Samoorai 150.",
+    "",
+    "Chain (Kensaburo dead): Yoshinobu Earthquakes for 350 Myth and Scarecrows for 425 Death drain."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Attack with Storm; he takes +30% from it and resists Myth 36%, everything else only 6%.",
+    "Round 1 Blinding Light lowers your accuracy, so bring accuracy enchants or Sniper to avoid fizzles.",
+    "From round 2 he carries Guardian Spirit, a full-health revive after the first defeat. Plan to kill him twice.",
+    "Break his shields before hitting. Starting round 2 and every three rounds he casts Legion Shield on himself.",
+    "Stack blades, pop the Legion Shield, hit once, then set up again and kill him a second time after the Guardian Spirit revive."
+  ],
+  "cheatNotes": [
+    "Round 1 he interrupt-casts Blinding Light, dropping your accuracy. Bring accuracy enchants or Sniper to avoid fizzles.",
+    "Round 2 he gives himself a Star Guardian Spirit, a full-health revive after the first defeat. Expect to kill him twice.",
+    "Starting round 2 and every three rounds he casts Legion Shield. Pop the shields before your hit."
+  ],
+  "groupFight": false
+}

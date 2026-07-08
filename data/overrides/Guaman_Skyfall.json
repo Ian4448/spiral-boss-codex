@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "High-health Storm boss (18040). Hit with Myth or Life (+35%); never Storm (80% resist).",
+    "Easiest line: hit him with All-Enemies (AoE) attacks. The Leviathan punish and the wand-mark gate only apply to single-target attacks, so an AoE finisher skips the whole mechanic.",
+    "If you do want single-target damage, first land a Wand attack to earn the Stun Shield mark, then attack. An unmarked single-target hit eats a 2030 Storm Leviathan.",
+    "A single-target hit also strips the mark and all your wards, so you would have to re-wand each time. Prefer AoE.",
+    "Stack Myth or Life blades and traps, then finish with a big AoE hit."
+  ],
+  "cheatNotes": [
+    "Landing a Wand attack marks you as safe to hit him with single-target spells. Wand first if you plan to go single-target.",
+    "A single-target hit spends the mark and strips all your other wards, so you must re-wand before your next single-target attack. AoE avoids this.",
+    "",
+    "Hit him single-target without a mark and he counters with a 2030 Storm Leviathan. Either wand-mark first, or just use AoE attacks, which never trigger it.",
+    "Enemy-cast spells like Scarecrow and Humongofrog do not trigger the punish, and neither do AoE attacks. An all-enemies hit sidesteps the wand mechanic entirely."
+  ],
+  "groupFight": false
+}

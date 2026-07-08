@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Spiral Boss Codex</title>
+<meta name="description" content="Wizard101 boss cheats, searchable.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./style.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M16 2 L19.5 12.5 L30 16 L19.5 19.5 L16 30 L12.5 19.5 L2 16 L12.5 12.5 Z' fill='%238b7bf7'/%3E%3C/svg%3E">
+</head>
+<body data-view="home">
+
+<div class="bg" aria-hidden="true">
+  <div class="blob blob-violet"></div>
+  <div class="blob blob-teal"></div>
+  <div class="blob blob-gold"></div>
+  <div class="stars"></div>
+  <div class="stars stars-far"></div>
+</div>
+
+<!-- ============ HOME ============ -->
+<section class="view-home" id="viewHome">
+  <div class="hero">
+    <h1 class="wordmark">Spiral&nbsp;Boss&nbsp;Codex</h1>
+
+    <div class="searchbox" id="homeBox">
+      <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+        <circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/>
+      </svg>
+      <input id="homeSearch" type="text" autocomplete="off" spellcheck="false" autofocus
+             placeholder="Search a boss…" aria-label="Search bosses">
+      <kbd class="slash-hint">/</kbd>
+      <div class="dropdown" id="homeDropdown" hidden></div>
+    </div>
+
+    <div class="quick-row" id="quickRow">
+      <button class="quick-chip" data-q="Rattlebones">Rattlebones</button>
+      <button class="quick-chip" data-q="punishes healing">punishes healing</button>
+      <a class="quick-chip browse-link" href="#browse">Browse all</a>
+    </div>
+
+    <button class="smart-pill" id="smartPill" title="Loads a small language model in your browser to understand descriptive queries">
+      <span class="smart-dot"></span>Smart search<span class="smart-status" id="smartStatus"></span>
+    </button>
+  </div>
+
+  <footer class="hero-foot">
+    <p>Fan-made · Data from the <a href="https://wiki.wizard101central.com/wiki/Category:Boss" target="_blank" rel="noopener">Wizard101 Central Wiki</a> via the Internet Archive · Not affiliated with KingsIsle</p>
+  </footer>
+</section>
+
+<!-- ============ APP (boss / browse) ============ -->
+<section class="view-app" id="viewApp" hidden>
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="Home">
+      <svg viewBox="0 0 32 32" class="brand-glyph" aria-hidden="true">
+        <path d="M16 2 L19.5 12.5 L30 16 L19.5 19.5 L16 30 L12.5 19.5 L2 16 L12.5 12.5 Z"/>
+      </svg>
+      <span>Spiral Boss Codex</span>
+    </a>
+    <div class="searchbox compact" id="topBox">
+      <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+        <circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/>
+      </svg>
+      <input id="topSearch" type="text" autocomplete="off" spellcheck="false"
+             placeholder="Search a boss…" aria-label="Search bosses">
+      <div class="dropdown" id="topDropdown" hidden></div>
+    </div>
+    <button class="smart-pill compact" id="smartPillTop">
+      <span class="smart-dot"></span><span class="smart-pill-text">Smart</span>
+    </button>
+  </header>
+
+  <main class="app-main">
+    <article id="bossPage" hidden></article>
+    <div id="browsePage" hidden></div>
+  </main>
+
+  <footer class="site-footer">
+    <p>Fan-made and non-commercial · Boss data © its contributors at the
+      <a href="https://wiki.wizard101central.com" target="_blank" rel="noopener">Wizard101 Central Wiki</a>,
+      retrieved via the <a href="https://web.archive.org" target="_blank" rel="noopener">Internet Archive</a> ·
+      Wizard101 is a trademark of KingsIsle Entertainment · Not affiliated</p>
+  </footer>
+</section>
+
+<script type="module" src="./app.js"></script>
+</body>
+</html>

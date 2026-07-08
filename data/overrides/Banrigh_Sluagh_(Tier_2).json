@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Join on time. Arriving late hits the whole team with a +100% Curse.",
+    "She is Death, resists Death 73% and takes only +5% from Life. Pack Life hits or a prism and blade up.",
+    "On Round 2 her own Unforgiven Dead (Balance) drops a +30% Hex on the bosses for you. Build your own traps on top of that free trap and hold your hit.",
+    "Carry Cleanse Charm for her Mass Infection or Plague, which cut your outgoing damage before you can swing.",
+    "When the Star Dead casts Magnify on your team, hit that round or the next. The round after the Magnify she fires Mass Supernova and strips your charms.",
+    "Her Deathblade is Aegis-protected, so a single shatter will not remove it. Plan to hit through it."
+  ],
+  "cheatNotes": [
+    "Being late hits everyone with a +100% Curse. Zone in promptly.",
+    "At the start of Round 2 her Unforgiven Dead lands a +30% Hex on the bosses, a free trap for you. Build on it instead of wasting a trap card.",
+    "Her Mass Infection or Plague cuts your outgoing damage. Cleanse Charm it off before your setup hit or the damage falls short.",
+    "The Star Dead's Magnify boosts your charms, but it is bait. Hit while it is up.",
+    "The round after that Magnify she casts Mass Supernova and strips your blades. Fire your attack before Supernova lands, not after."
+  ],
+  "groupFight": false
+}

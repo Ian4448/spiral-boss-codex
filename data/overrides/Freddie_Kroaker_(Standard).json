@@ -1,0 +1,32 @@
+{
+  "strategy": [
+    "Team fight (17,135, Moon). He takes +30% from Life and resists Death 67%. Hit with Life or another non-Death school.",
+    "He builds GROWTH charms (a Moon Balanceblade) every second round. At 3 GROWTH stacks he fires a Shadow Skeletal Dragon for 40% of everyone's max health. Keep the count under 3.",
+    "The clean counter: a healing spell makes him Enfeeble himself, removing ALL his charms including every GROWTH stack, and Cleanse Ward removes all wards from the caster, clearing their Nightmare Prone mark. Time a heal to wipe his GROWTH before the third stack.",
+    "Alternatively, Impair or Enfeeble from your side stops the Skeletal Dragon cheat, and Aegis protects a blade from his removal.",
+    "Watch the Nightmare Prone mark: the marked wizard eats a random heavy Shadow spell at the end of each round until it is cleared (a heal clears it).",
+    "Avoid All-Allies spells; each one dispels the whole team's school. Astral and Shadow monstrology minions are immune to the dispel.",
+    "Supports blade the hitter, the healer doubles as GROWTH-cleaner, and the hitter lands a Life AoE. Note the Arcane Toad keeps handing out Living Nightmare cards even after Freddie dies."
+  ],
+  "cheatNotes": [
+    "",
+    "At the start, or on late join, he dispels each wizard's school and drops a Nightmare Prone mark on someone. Expect a fizzle risk and a marked target to protect.",
+    "While marked, that wizard eats a random heavy Shadow spell (Call of Khrulhu, Monster Mash, etc.) at the end of every round. Clear the mark fast; a heal removes it.",
+    "",
+    "",
+    "",
+    "",
+    "Every second round he adds a GROWTH charm to himself. Track the stacks.",
+    "At 3 GROWTH charms he hits the whole team for 40% max health with a Shadow Skeletal Dragon. Strip his charms or Impair/Enfeeble him before the third stack.",
+    "Impair or Enfeeble on him stops the 3-GROWTH Skeletal Dragon. Keep one ready.",
+    "This is the key trick: any heal makes him Enfeeble away ALL his own charms (all GROWTH stacks) and Cleanse Ward removes all wards from the caster, clearing their Nightmare mark. Heal to reset his GROWTH and your mark at once.",
+    "Aegis on a blade stops his removal from stripping it.",
+    "Casting an All-Allies spell dispels every wizard's school. Avoid team-wide buffs unless you can eat the dispel.",
+    "Astral or Shadow monstrology minions dodge the dispel.",
+    "",
+    "Targeting Freddie or using an all-enemies spell makes the Arcane Toad hand everyone a Living Nightmare card.",
+    "",
+    "The Toad's card cheat still fires even after Freddie is dead, so finish the fight expecting it."
+  ],
+  "groupFight": true
+}

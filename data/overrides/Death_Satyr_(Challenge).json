@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Hit with Life. He is Death, resists Death 80%, and takes boosted Life damage.",
+    "Build damage with Traps and Feint, not Blades or Auras. Every helpful Charm or Aura you cast earns a Weakness on that Wizard.",
+    "Avoid harmful Auras; he answers them with Monk of Mourning on the caster.",
+    "Heal only when you must; any Healing spell triggers Attenuate on the healed Wizard.",
+    "Stack traps over 2-3 rounds, then finish with one Life AoE to take the Satyr and its three minions together."
+  ],
+  "cheatNotes": [
+    "Any helpful Charm or Aura you cast gets that Wizard a Weakness. Set up with Traps instead of Blades.",
+    "A harmful Aura makes him cast Monk of Mourning on the caster. Skip damage auras.",
+    "Healing triggers Attenuate on the healed Wizard (or on the caster for all-allies heals). Heal only when necessary."
+  ],
+  "groupFight": false
+}

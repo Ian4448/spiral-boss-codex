@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Use a hard-hitting off-Death school, she is Death with no listed weakness.",
+    "Both Feint and Mass Feint make her Sacrifice to remove them, so protect your Feint with Indemnity, or skip traps and stack blades instead.",
+    "Solo, her Beguile cheat is dormant since it needs two or more filled positions, so a solo run avoids the mind-control entirely.",
+    "She casts Mass Infection at the end of every fifth round, halving your healing, cleanse it or time heals off that round.",
+    "Set up two to three rounds with blades (Indemnity-Feint if used), then land one big hit."
+  ],
+  "cheatNotes": [
+    "Join late and she hits you with a +25% Curse and a +35% Hex.",
+    "From Round 1 and every third round she Beguiles a random target, but only when two or more positions are filled, solo this never fires.",
+    "With three or more wizards the Beguile fires every round, stay aware of mind-control in a full group.",
+    "Feint her and she Sacrifices to strip it, protect it with Indemnity.",
+    "Mass Feint also triggers the Sacrifice, so even the AoE trap gets removed unless protected.",
+    "She casts Mass Infection at the end of every fifth round, cutting your healing in half, cleanse before you heal."
+  ],
+  "groupFight": false
+}

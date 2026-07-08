@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Enter on time. A wizard who joins after Round 1 takes a 90% max-Health hit and eats a refreshed Doom and Gloom.",
+    "Plan to out-damage, not out-heal. On Round 1 he casts Doom and Gloom and strips 50% of everyone's max Health, so healing is weak and your effective Health is low.",
+    "Keep the fight short. Every third Round he removes another 5% max Health and casts Mass Infection, which stacks against you over time.",
+    "He has only 5,000 Health and resists every school just 15%, so blade once and hit with your strongest school.",
+    "Clear the two Gator minions with an AoE so they do not add pressure while you burst the boss."
+  ],
+  "cheatNotes": [
+    "If you join after Round 1 you take a 90% max-Health hit and he refreshes Doom and Gloom on you, so enter on time.",
+    "On Round 1 he casts Doom and Gloom and a Moon spell that strips 50% of everyone's max Health, cutting both your effective Health and your healing early.",
+    "Every third Round he removes another 5% max Health and casts Mass Infection, so burst him down before this stacks."
+  ],
+  "groupFight": false
+}

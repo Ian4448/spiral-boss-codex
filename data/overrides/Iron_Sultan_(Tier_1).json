@@ -1,0 +1,12 @@
+{
+  "strategy": [
+    "Hit with Myth — he takes +20% from it, and his Storm resist is 40%.",
+    "The Gold Dragon opens with a self Shadow Sentinel: 75% intercept, 100 critical block, and -30% incoming damage. Most damage aimed at the Sultan gets redirected into the Dragon at a discount.",
+    "Kill the Gold Dragon first, or simply AoE — the intercepted damage still wears the Dragon down, and an AoE hits Sultan, Dragon, and Steeleton at once.",
+    "Once the Dragon is down, blade and finish the Sultan. At 3,760 health, one boosted Myth hit ends it."
+  ],
+  "cheatNotes": [
+    "Round 1 the Gold Dragon shields the group: it intercepts 75% of damage aimed at the Sultan and takes it at -30%. Either burn the Dragon down first or use AoEs so the redirect does not matter."
+  ],
+  "groupFight": false
+}

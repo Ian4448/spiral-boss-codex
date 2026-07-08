@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Use the three Malughast's Feints he gives you rather than your own Feints; a normal Feint just makes him strip it with a double Cleanse Ward that Indemnity cannot protect.",
+    "Casting Malughast's Feint triggers his all-ally Sacrifice, which hits allies for 1,000 but heals your whole team 1,000 (1,370 with outgoing healing), so it doubles as sustain when your Health is up.",
+    "Stack Malughast's Feints on him, blade your hitter, and land one big hit into the piled traps.",
+    "He resists Balance 68% and has strong outgoing and incoming healing, so cut his healing where you can and pack Cleanse or Triage if his Curse and Sacrifice pressure you."
+  ],
+  "cheatNotes": [
+    "At the start he gives every wizard three copies of 'Malughast's Feint'; these are the traps you actually want to use.",
+    "",
+    "Casting a Malughast's Feint makes him cast an all-ally Sacrifice: 1,000 damage to all allies but also 1,000 healing to every wizard (1,370 with outgoing healing).",
+    "Casting any normal Feint makes him Cleanse Ward himself twice, and Indemnity cannot protect the removal.",
+    ""
+  ],
+  "groupFight": false
+}

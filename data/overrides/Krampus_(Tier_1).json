@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "He steals all your charms when you cast a blade (and occasionally on his own), so blade and hit the same round, or protect with Aegis.",
+    "Feint is double-Cleansed and Indemnity won't save it — trap him with regular traps or rely on blades timed with the hit instead.",
+    "At the start of every 3rd round he Dimension Shifts the traps hanging on him onto a random target, so don't over-invest in traps on him before round 3, 6, or 9.",
+    "Round 5 he summons Chilling/Stormy Helpers and resummons any defeated minion after a round — AoE to clear them with him.",
+    "Blade up and finish Krampus (3,920) with one AoE before the minion cycle drags on."
+  ],
+  "cheatNotes": [
+    "Late wizards get an enhanced Power Link — join on time.",
+    "Cast a blade and he may Steal Charm all your charms — hit the same round or protect with Aegis.",
+    "He also throws this steal out occasionally on his own.",
+    "Pet-cast blades can trigger the steal too.",
+    "Cast Feint and he Cleanse Wards twice, and Indemnity won't protect it — don't rely on Feint here.",
+    "Every 3rd round he Dimension Shifts the traps on him to a random friend or foe, so traps on him may vanish or move.",
+    "Round 5 he summons Chilling and Stormy Helpers.",
+    "Any defeated minion is resummoned one round later — AoE everything together."
+  ],
+  "groupFight": false
+}

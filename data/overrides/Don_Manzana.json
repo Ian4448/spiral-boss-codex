@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Attack with Death; his resist list covers every school except Death, so Death hits for full while everything else is halved.",
+    "Keep your finisher at 3 pips or fewer. Any damage spell of 4+ pips fully heals him with Blessing, and 4+ pip X-spells or DoTs also Triage off your effects.",
+    "School pips do not count toward the pip cost, so a Death wizard can power a cheap spell with school pips and stay under the limit.",
+    "Stack Death blades and a Feint, then deliver one 3-pip-or-less Death hit that ends him; if it is not enough, chip only with sub-4-pip spells."
+  ],
+  "cheatNotes": [
+    "A damage spell costing 4 or more pips fully heals him even if it would kill him; keep your attacks at 3 pips or fewer.",
+    "X-pip spells and DoTs of 4+ pips also make him Triage off all your damage-over-time, including protected ones; avoid big-pip DoTs.",
+    "Spells costing 3 pips or less do no such thing, so a small enchanted hit is safe.",
+    "Only regular pips count toward the 4-pip line; school pips are free, letting a Death wizard fuel a cheap hit under the limit."
+  ],
+  "groupFight": false
+}

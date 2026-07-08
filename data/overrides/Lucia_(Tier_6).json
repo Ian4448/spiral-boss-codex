@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "Hit with Myth, Life, or Death (+15%); avoid Fire, Ice, and Storm (45% resist).",
+    "Every 4th round she steals ALL your positive charms and wards — set up and land your hit before round 4 (or right after a steal on round 5+).",
+    "Don't trap her: any trap buffs all her minions (+30% damage, +20% accuracy, +10% pierce, +30% healing), and Feint additionally makes her Cleanse Ward herself. Protect a Feint with Indemnity if you must, otherwise rely on blades.",
+    "She's low health (5,045) — blade up fast and burst her before the round-4 steal.",
+    "AoE to hit her and the Clockwork minions together."
+  ],
+  "cheatNotes": [
+    "Late wizards get Mana Burned — join on time.",
+    "She summons a Clockworker at the start, and more minions if more than two wizards are present.",
+    "Every 4th round she strips all your positive charms and wards — hit before round 4.",
+    "Put a Feint on her and she Cleanse Wards herself, then runs the trap-buff cheat below — use Indemnity or skip Feint.",
+    "Indemnity avoids that Feint cheat.",
+    "Any trap on her buffs all her minions with damage, accuracy, pierce, and healing charms — don't trap her.",
+    ""
+  ],
+  "groupFight": false
+}

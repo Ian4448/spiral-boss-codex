@@ -1,0 +1,27 @@
+{
+  "strategy": [
+    "Trap him with Mass Feint or Mass Hex — those slip past his cheats, while any universal single-target trap makes him Immolate you.",
+    "Avoid stacking blades on yourself: non-Fire blades make him Brimstone Revenant you, universal blades get Steal-Charmed off, and Fire blades can trigger the Steam cheat. Lean on mass traps and a Feint instead.",
+    "Ignore the Skirker Busters — he resummons all of them every round; just race Lambent.",
+    "Attack with Ice (he takes +30%); he resists Fire 60%.",
+    "His Skirker death cycle buffs him (Dark Pact round 1, Sacrifice round 2) and Bad Jujus a wizard on round 3, so burst him down fast and pack a Cleanse."
+  ],
+  "cheatNotes": [
+    "After he casts a damage spell he gains a Firespear, so his hits ramp up the longer the fight runs.",
+    "A non-Fire, non-universal blade on a wizard makes him Brimstone Revenant the receiver — don't stack school blades openly.",
+    "A universal blade (Elemental, Balanceblade) gets Steal-Charmed off the receiver, handing him your blade.",
+    "Any Fire damage blade (including Elemental Blade) can randomly trigger the Steam Charm cheat — avoid Fire blades here.",
+    "",
+    "A universal Trap on him makes him Immolate the caster — use Mass Feint or Mass Hex instead.",
+    "Mass Feint and Mass Hex slip past that Immolate cheat — they're your safe trapping tools.",
+    "",
+    "He resummons all downed Skirker Busters every round — don't bother clearing them, focus Lambent.",
+    "",
+    "",
+    "End of round 1 a Skirker Dark Pacts him for +30% — expect a bigger hit; burst him fast.",
+    "End of round 2 a Skirker Sacrifices to heal him — another reason to race him down.",
+    "End of round 3 a Skirker throws Bad Juju on a random wizard — have a Cleanse ready or finish before round 3.",
+    ""
+  ],
+  "groupFight": false
+}

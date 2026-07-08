@@ -1,0 +1,31 @@
+{
+  "strategy": [
+    "Huge Sun boss (39680) that gets stronger every round via a Polymorph cycle (+5% damage, pierce, and resist per stage, up to +50%). This is a race, so set up efficiently and burst.",
+    "Hit with Ice, Storm, or Death (+5%); avoid Fire, Myth, and Life (70% resist). Funnel blades to one hitter.",
+    "Cast Feints only on round 1, while his Trash minions are not active yet. After that, a Feint (or Mass Feint) makes a minion shift the trap onto itself.",
+    "He Steal-Healths his own minions to heal himself and re-summons Trash whenever he runs out. Do not chase minions endlessly; AoE them alongside him.",
+    "Because he escalates, plan your kill window early. Over-stack blades and traps on the hitter and drop one massive hit before his auras stack too high."
+  ],
+  "cheatNotes": [
+    "A late joiner makes him summon an extra minion, Steal Health, and jump a polymorph stage (stronger). Everyone in on time.",
+    "With no minions out he Steal-Healths a random wizard instead, healing himself. Expect self-healing either way.",
+    "Feint him after round 1 and a minion shifts the trap onto itself. Cast Feints only on round 1 while minions are still inactive.",
+    "Mass Feint triggers the same trap-dodge. Same rule: round 1 only.",
+    "Round 1 he summons one Trash minion per wizard. Bring AoE to manage the board.",
+    "He sacrifices his own minions with Steal Health to heal 100% of the damage dealt. His minions are healing batteries, so AoE them with him rather than one at a time.",
+    "Whenever he is out of minions he summons another, so you cannot fully clear the board. Focus the boss.",
+    "He Polymorphs into bigger forms that trade his stats for escalating damage, pierce, and resist auras. The fight gets harder each stage, so win quickly.",
+    "Stage 1 aura is +5% damage, pierce, and resist. Every stage adds more, so treat the clock as your enemy.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "By the later stages he is at +30% and climbing to +50%. If the fight has run this long, reset your setup and commit to a kill.",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "groupFight": true
+}

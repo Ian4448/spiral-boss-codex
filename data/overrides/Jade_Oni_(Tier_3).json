@@ -1,0 +1,39 @@
+{
+  "strategy": [
+    "Rematch team fight: Jade Oni resists 40% of every school and has three Oni minions that each punish a different setup tool - coordinate roles and a kill order.",
+    "Almost every tool is punished: DoTs get shifted back to the caster (Jade), blades draw Putrefaction from Death Oni (Aegis will not stop it), HoTs draw Oni's Morbidity, shields draw War Oni's Forge, and traps draw counters even from AoE like Windstorm.",
+    "Kill Death Oni early so the hitter can blade safely, then favor auras (Frenzy, Amplify) over charms where possible to buff without triggering punishes.",
+    "Avoid HoTs and DoTs entirely; heal with direct heals only, and note that casting Feint may make him Dark Pact himself (unconfirmed).",
+    "Jade Oni casts Spirit Armor on Round 5 - burst him before or straight through that absorb, and AoE to clear the minions with him.",
+    "Watch Plague on Round 3 and Tribunal Oni aimed at the highest-pip wizard; keep the hitter from over-stacking pips before the strike."
+  ],
+  "cheatNotes": [
+    "",
+    "On Round 5 he gives himself Spirit Armor (absorb) - time your big hit to break through it or land before it.",
+    "Cast a DoT and he shifts it off himself and back onto you via Seraph, so skip damage-over-time spells.",
+    "If the DoT's new target dies, that DoT is cleared from the whole team.",
+    "Cast any trap and he answers with Oni's Naturalism (a heal).",
+    "Even AoE traps like Windstorm set off that Naturalism heal, so there is no safe trap here.",
+    "He blades himself with a Spirit Blade.",
+    "He attacks with Primal Oni.",
+    "He may throw a Shadow Confuse on a wizard (trigger unclear), so accuracy can wobble.",
+    "",
+    "Cast a blade and Death Oni puts Putrefaction (a DoT) on whoever received it.",
+    "Aegis will not protect that blade from the Putrefaction response.",
+    "Cast a heal-over-time and Death Oni answers with Oni's Morbidity on the receiver.",
+    "Death Oni shields itself with a Spirit Shield.",
+    "Death Oni attacks with Doom Oni.",
+    "",
+    "Reportedly, casting Feint on him makes him Dark Pact himself (unconfirmed) - be cautious with Feint.",
+    "Mass Feint is said to trigger the same Dark Pact response.",
+    "",
+    "Plague Oni casts Oni's Shadow, handing both a wizard and itself a Shadow Pip.",
+    "On Round 3 Plague Oni casts Plague (team weakness).",
+    "Trap him and Plague Oni casts Righting the Scales.",
+    "Plague Oni casts Tribunal Oni on whoever holds the most pips - don't let your hitter sit on a huge pip pool.",
+    "",
+    "If a wizard shields, War Oni casts Oni's Forge - shielding is punished here.",
+    "War Oni heals itself with Sprite."
+  ],
+  "groupFight": true
+}

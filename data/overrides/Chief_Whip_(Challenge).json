@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Bring Death attacks. He is Life, resists his own school, and Death pressures his self-heals.",
+    "Build damage with Blades, not Traps or Damage-over-Time. Every harmful Ward or DoT you cast heals him 75 over 3 Rounds.",
+    "Focus the Chief Whip himself, not the Bulldog Sergeant Major. Killing the minion first revives it once and heals the whole enemy team 15%.",
+    "Expect him to reach his spells faster; the Bulldog Sergeant Major Donates Power to him.",
+    "Finish with one AoE so the Chief Whip and the minion die the same round, avoiding the revive."
+  ],
+  "cheatNotes": [
+    "Casting a harmful Ward (a Trap) heals him 75 over 3 Rounds. Build with Blades instead.",
+    "Casting a Damage-over-Time heals him 75 over 3 Rounds. Skip DoTs here.",
+    "The Bulldog Sergeant Major Donates Power to the Chief Whip, speeding up his bigger spells.",
+    "If you kill the Bulldog Sergeant Major before the Chief Whip, he heals all allies 15% and revives it once. Kill him first or AoE both together."
+  ],
+  "groupFight": false
+}

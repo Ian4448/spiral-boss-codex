@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Death boss (14000). Hit with Life (+35%); avoid Death (35%) and Balance (40% resist).",
+    "Blades are dangerous: any Blade (or Global, or pet cast) makes him steal ALL blades from every wizard. Aegis protects one blade, but a second charm makes him remove the first, so Aegis one key blade and hit, or stack blades and hit the same round.",
+    "Do not Feint him or his minions (Mass Feint included); he answers by Sacrificing himself, resetting your trap plan.",
+    "He opens round 1 by Steal-Healthing his own Ossuary Conscripts to heal up (or Blessing for 10000 if none are out). Expect him near full early, so favor clean setup over chipping.",
+    "Aegis a blade, add a Life hit through a trap, and burst him."
+  ],
+  "cheatNotes": [
+    "Late joiners take a 1596 pierce Steal Health that heals him. Arrive on time.",
+    "Round 1 he sacrifices his own minions with a 9378 Steal Health, healing himself fully. Expect him topped up early.",
+    "A minion in the first slot is not sacrificed, so one may survive the opening.",
+    "With no minions out he Blessings himself for 10000 instead. Either way he will be near full, so do not count on early chip damage.",
+    "Feint him or a minion and he Sacrifices himself, wrecking your trap setup. Skip Feint.",
+    "Mass Feint triggers it too. Use plain blades and hit.",
+    "Any Blade makes him steal ALL blades from the whole team. Aegis one key blade, or blade-and-hit in a single round.",
+    "Damage Globals trigger the blade-steal as well. Be careful what you open with.",
+    "Even pet-cast charms trigger the steal, so a May Cast blade can set it off unexpectedly.",
+    "Aegis saves one blade from the steal, but casting a second charm afterward makes him strip the first. Protect one, then hit."
+  ],
+  "groupFight": false
+}

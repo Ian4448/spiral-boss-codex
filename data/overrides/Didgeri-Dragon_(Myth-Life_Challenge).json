@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Challenge finale at 47,780 Health. He shields himself every Round on a three-Round cycle: -25% (R1), -50% (R2), -90% (R3), then repeating, and the shields pile up.",
+    "Plan your kill for Round 4 or 7, the start of a cycle, when only the fresh -25% Tower Shield is up.",
+    "Bring Shatter or a multi-hit spell to strip shields before your real hit lands.",
+    "Hit Life. He resists Myth 68% and most schools 48%, but only 28% to Life, so prism into Life if needed.",
+    "Do not slow-play. With 184% boost and 47% pierce on his side, funnel blades to one hitter and burst."
+  ],
+  "cheatNotes": [
+    "",
+    "Start of Round 1 and every three Rounds after, he casts a -25% Tower Shield on himself.",
+    "Start of Round 2 and every three Rounds after, he casts a -50% Tower Shield.",
+    "Start of Round 3 and every three Rounds after, he casts a -90% Tower Shield. Shields stack, so kill at the start of a cycle when only the -25% is fresh."
+  ],
+  "groupFight": true
+}

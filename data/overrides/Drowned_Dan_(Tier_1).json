@@ -1,0 +1,32 @@
+{
+  "strategy": [
+    "Drowned Dan is immune to damage under an Invulnerability aura. You cannot hurt him until you solve his four-number code.",
+    "The code is four pip costs. The first number is revealed at Round 2; each time you defeat his Sunken Sam minion the next number appears the following round.",
+    "To unlock him, target HIM with spells whose pip cost matches each code number in order (for example, code 1-5-2-7 means hit him with a 1-pip, then 5-pip, then 2-pip, then 7-pip spell).",
+    "Kill the minion, read the next digit, feed the matching pip-cost spell. A wrong answer resets the whole sequence, so go carefully.",
+    "Once all four are correct the aura drops. Then hit with Death (+30%) or any non-Life school to finish him off."
+  ],
+  "cheatNotes": [
+    "He wears an Invulnerability aura making him immune to all damage until you crack his code. Do not waste hits before it is down.",
+    "The code is four pip costs revealed one at a time: the first at Round 2, each next digit after you defeat a Sunken Sam. Cast spells at him whose pip cost matches each number in order to strip the aura.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "A wrong pip-cost answer resets the sequence to the start. Track the revealed digits carefully before responding."
+  ],
+  "groupFight": false
+}

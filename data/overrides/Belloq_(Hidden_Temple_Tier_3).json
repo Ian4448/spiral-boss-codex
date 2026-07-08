@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "This is a 30,000-health Balance boss who punishes the standard blade-and-trap loop. Bring a hitter, supports who buff without over-blading, and a healer to cover his Scald.",
+    "He resists 33% to every school, so there is no easy weakness. Use a pierce-heavy hitter with an off-school or Spectral hit rather than fighting into resist.",
+    "Minimize blades and traps. Every blade you cast gives him a free Balanceblade, and every trap you cast puts an Elemental Trap on the caster.",
+    "Lean on auras, pierce, and shadow-enhanced damage instead of stacked charms and traps, since those two tools feed him or backfire.",
+    "When you do set up, blade and hit on the same turn so he gains only one counter-Balanceblade before he dies. Keep a heal ready for his Scald DoT."
+  ],
+  "cheatNotes": [
+    "At the start of the fight he casts Power Play, a global that hands out extra pips - to both sides - so he ramps quickly.",
+    "If you cast a Trap, he retaliates with an Elemental Trap placed on you, the wizard who cast it.",
+    "If you cast a Blade, he gives himself a Balanceblade, growing his own hit.",
+    "He casts Scald, a Fire damage-over-time, on an unconfirmed trigger. Keep a Triage or heal available."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,12 @@
+{
+  "strategy": [
+    "Enter on time. The only cheat here punishes late joiners with a protected +35% Myth Trap, and with his 70% damage boost that trap makes his Myth hits hurt.",
+    "Hit with Storm - he takes +15% from it. Avoid Myth attacks into his 30% resist.",
+    "He is stunable and beguilable, so stuns are a legitimate way to buy setup rounds.",
+    "Stack blades and a Feint over 2-4 rounds, then finish with one big Storm hit. Nothing in the fight interferes with standard setup."
+  ],
+  "cheatNotes": [
+    "Only triggers on wizards who join after the fight starts: they get a protected +35% Myth Trap placed on them, boosting his next Myth hit on that wizard. Join from the start and this cheat never happens."
+  ],
+  "groupFight": false
+}

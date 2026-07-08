@@ -1,0 +1,11 @@
+{
+  "strategy": [
+    "He takes +35% from Fire and Death and resists Life 80%. Hit with Fire or Death.",
+    "His cheat: casting spells at a boss that does not have the Stun Shield makes Vestri Rebirth (750 heal). This is a multi-boss puzzle where you must target the correct, Stun-Shielded boss to avoid feeding heals.",
+    "Blade up and land a Fire or Death hit on the correct target."
+  ],
+  "cheatNotes": [
+    "Attacking a boss that lacks the Stun Shield makes Vestri Rebirth for 750 healing. Target the Stun-Shielded boss so you do not feed the heal."
+  ],
+  "groupFight": false
+}

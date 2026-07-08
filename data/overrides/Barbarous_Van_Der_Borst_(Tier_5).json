@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "His minions spawn at the end of Round 1, so plan for a full board of three creatures by Round 2.",
+    "From Round 3 on the creatures pass Balanceblades (+35%) down the line and the last one throws Tempest, so their damage climbs each round. End the fight before it stacks high.",
+    "Stack blades and Feint, then finish with an AoE. He is Myth, so hit with Storm to clear the boss and minions together.",
+    "Do not leave the boss for last. If the minions die first he summons a Rude Goblin every round until all spaces refill, so kill the boss with the same AoE or take him down first."
+  ],
+  "cheatNotes": [
+    "Minions arrive at the end of Round 1, so plan for a full board by Round 2.",
+    "",
+    "From Round 3 the creatures pass Balanceblades down the line and the last one casts Tempest, so their damage ramps every round; end the fight before it builds.",
+    "Clearing the minions first makes him spawn a Rude Goblin every round endlessly, so kill the boss with the AoE that hits the minions, or take him down first."
+  ],
+  "groupFight": false
+}

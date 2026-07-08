@@ -1,0 +1,41 @@
+{
+  "strategy": [
+    "This Challenge boss layers huge protected damage-over-time (17,775 over 60 Rounds) at Round 1, again at the end of Round 3 when he polymorphs to human (Ice) form, and returns to wolf form with an Incindiate at the end of Round 6. Fire dispels can prevent the DoT cheats, so bring them.",
+    "Trap carefully: the first negative ward is a warning, but the second time you trap him or his minion he removes all traps. Wait for the minion's '*growl* I'll get you yet' after you attack to know it is safe to trap again.",
+    "Positive Charms trigger the polymorph cheats a Round early, so coordinate blading with the phase timing.",
+    "The minion re-buffs him every other Round with a double +30% Bladestorm, Mass Tower, and a Pigsie group heal, and revives once at full Health before leaving, so deal with it but expect it back once.",
+    "Find the area clues and accuse the innocent NPC correctly to unlock the helpful cheats (6-Round Quicken, a 100% Guardian Spirit, and a -135% Fortify before Incindiate); wrong accusations strip these.",
+    "Funnel blades to one hitter and burst him during a manageable window; he hits hard with 196% boost and 52% pierce, so the group Fortify and heals matter."
+  ],
+  "cheatNotes": [
+    "The first negative ward you put on Barghest or his minion is just a warning.",
+    "The second negative ward you apply makes him remove all traps from himself and his minion.",
+    "After you attack Barghest while he has a trap, the minion says this to signal it is safe to trap him again.",
+    "",
+    "At the start of Round 1 he casts a protected damage-over-time dealing 17,775 over 60 Rounds, plus a second 118-over-60 effect.",
+    "At the end of Round 3 he polymorphs into his human form and lays down the same protected damage-over-time effects.",
+    "Fire dispels can prevent those protected DoT cheats.",
+    "Casting a positive Charm triggers this polymorph a Round early.",
+    "In human form his school changes to Ice and his boost and resist values differ.",
+    "At the end of Round 6 he polymorphs back to wolf form and casts a Sun version of Incindiate.",
+    "Casting a positive Charm triggers this polymorph a Round early.",
+    "",
+    "At Round 1 and every other Round after, his minion cheat-casts one of the effects below.",
+    "The minion casts a special Bladestorm giving two +30% damage charms to all allies.",
+    "The minion casts Mass Tower Shield.",
+    "The minion casts a Pigsie that heals all allies and applies three heal-over-times for 4 Rounds.",
+    "After it is defeated, the minion revives at 100% max Health and then leaves combat.",
+    "",
+    "Finding a clue in the area proves the matching NPC innocent.",
+    "",
+    "",
+    "",
+    "",
+    "Accusing the correct innocent NPC can activate the helpful cheats below; each wrong choice tends to remove one.",
+    "A 6-Round Quicken is applied to all wizards at the end of Round 1.",
+    "A Guardian Spirit restoring 100% HP is applied to all wizards at the end of Round 1.",
+    "A -135% Fortify is applied to all wizards just before he casts Incindiate.",
+    "The 6-Round Quicken is re-applied to all wizards after his first Incindiate."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Attack with Ice or Storm (he takes +35% from both); never hit into his 80% Fire resist without a prism.",
+    "His only cheats are slow self-blades (a Fireblade on round 5, another on round 6), so there is nothing to play around early.",
+    "Stack your blades and traps over rounds 1-4 and add a Feint for the big multiplier.",
+    "Land one Ice or Storm hit by round 4-5 and his Fireblades never matter."
+  ],
+  "cheatNotes": [
+    "He gives himself a Fireblade on round 5 — a minor self-buff. If your kill lands by round 4-5 it never matters; otherwise expect a slightly bigger Fire hit from him.",
+    "A second Fireblade (treasure card) on round 6. Same story — just finish before his buffs stack."
+  ],
+  "groupFight": false
+}

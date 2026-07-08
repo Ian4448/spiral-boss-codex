@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Do not try to clear the minions. Lyon resummons one every round, and once three are up he Blizzards the whole team every round. Race the boss instead.",
+    "Keep his health above 50% until you can burst; below 50% his new minions come in beefier (2000 health, extra pip).",
+    "Avoid triggering extra summons: HoTs make him remove the heal and summon another minion, and single traps or prisms make him Cleanse Ward. Use Indemnity or Vaporize, or multi-target versions like Windstorm and Mass Storm Prism.",
+    "Blade up and hit Lyon with Myth or Life (+35%, resists Storm 80%); AoE trims minions while you damage him.",
+    "Burst him down before the Blizzard chip adds up."
+  ],
+  "cheatNotes": [
+    "",
+    "He summons a 1200-health minion at the end of every round, so the board refills; focus him, not the adds.",
+    "Below 50% health his new minions arrive with 2000 health and an extra power pip, so try to burst him past 50%.",
+    "",
+    "",
+    "Any HoT you cast gets removed and makes him summon an extra minion, so heal with direct heals instead.",
+    "",
+    "",
+    "A single trap or prism on him triggers Cleanse Ward; use Indemnity or a multi-target version.",
+    "Multi-target traps or prisms like Windstorm and Mass Storm Prism do not trigger the Cleanse Ward.",
+    "Indemnity or Vaporize also avoids the Cleanse Ward.",
+    "Once he has three minions he Blizzards the team (750-790 Ice) every round, so do not let the board fill; AoE it down.",
+    "Clearing all minions just makes him resummon them each round, so race the boss rather than the adds."
+  ],
+  "groupFight": false
+}

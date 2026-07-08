@@ -1,0 +1,26 @@
+{
+  "strategy": [
+    "He takes +35% from Fire and resists Ice and Death 35%. Fire is your best school, but read his counters first.",
+    "When you damage him with a primary school he gives himself a blade and hits back with a matching creature (for example, an Ice hit brings Iceblade and a Colossus). Hitting with the SAME school twice in a row fires a 0-pip counter spell at you.",
+    "The clean solution is one big single hit to kill or near-kill, so his self-blade and counter never matter. Vary schools if you need multiple hits, and use Dispels to prevent the counter entirely.",
+    "Avoid DoTs; each tick counts as a hit and triggers the counter.",
+    "Blade up and drop one large Fire hit rather than pecking him repeatedly."
+  ],
+  "cheatNotes": [
+    "Damaging him with any primary school gives him a blade and a counter hit. Do not peck him; one big hit avoids the fallout.",
+    "The Fire entry: a Fire hit results in Fireblade and a Helephant in the exchange.",
+    "An Ice hit brings Iceblade and a Colossus (460-540 Ice).",
+    "A Storm hit brings Stormblade and a Stormzilla (650-730).",
+    "A Life hit brings Lifeblade and a Centaur.",
+    "A Myth hit brings Mythblade and an Orthrus.",
+    "A Death hit brings Deathblade and a Wraith.",
+    "Balance attacks give him a Deathblade.",
+    "Each DoT tick counts as a hit and triggers the blade and counter. Avoid damage-over-time.",
+    "Dispels prevent this counter. Keep one up if you must hit repeatedly.",
+    "Hitting him with the SAME school twice in a row fires a 0-pip opposite-school spell at you. Alternate schools or one-shot him.",
+    "Balance twice in a row draws a Wraith on you.",
+    "DoT ticks also trigger this same-school counter.",
+    "Dispels prevent this one too."
+  ],
+  "groupFight": false
+}

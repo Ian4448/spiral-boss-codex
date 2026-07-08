@@ -1,0 +1,31 @@
+{
+  "strategy": [
+    "You do not have to play his story. Progressing Thoth's tale is optional, so the simplest line is to ignore the aura puzzle and just stack and burst him down.",
+    "If you do engage the story, cast the aura matching the mentioned god to nullify his cheat spell. A correct aura makes you take 0 damage from the incoming hit and forces Thoth to Sacrifice 25% of his own Health.",
+    "Use the correct answers: Balance for the Ra verse, Ice for the Shu verse, Myth for the rebirth verse, and Storm for the Heqet verse. Wrong auras let his natural attack (700 then 1300 Myth) through.",
+    "He is Myth with 69% Myth resist and takes 30% boosted Storm, so a Storm hitter or Storm prisms works best; his own cheat spells often deal 0 damage when answered correctly.",
+    "Since correct answers make him Sacrifice 25% of his Health repeatedly, you can let the puzzle chip him while you build a stack, then finish with one Storm hit.",
+    "Set up blades and Feint over a few rounds, answer his verses to avoid his Myth natural attack, and burst his 13,410 Health when your stack is ready."
+  ],
+  "cheatNotes": [
+    "",
+    "Each cycle he references a god and hands you two auras of different schools; casting the aura matching that god's school progresses the story and sets up the next step.",
+    "",
+    "Casting the correct aura makes you take 0 damage from his cheat spell and forces Thoth to Sacrifice 25% of his own max Health.",
+    "Casting the wrong aura lets his natural attack through for 700 then 1300 Myth damage.",
+    "For the Ra verse he later casts Ra for 0 Balance damage plus a -45% Weakness blade.",
+    "",
+    "The correct aura for the Ra verse is Balance.",
+    "For the Shu verse he later casts an Ice Earthquake (525) that does not remove weaknesses.",
+    "",
+    "The correct aura for the Shu verse is Ice.",
+    "For the rebirth verse he later casts a Myth Rebirth restoring 0 Health with a 600 Absorb ward.",
+    "",
+    "The correct aura for the rebirth verse is Myth.",
+    "For the Heqet verse he later casts Sirens for 685 Storm damage.",
+    "",
+    "The correct aura for the Heqet verse is Storm.",
+    "You do not actually need to progress his story to win, so ignoring the puzzle and bursting him down is a valid line."
+  ],
+  "groupFight": false
+}

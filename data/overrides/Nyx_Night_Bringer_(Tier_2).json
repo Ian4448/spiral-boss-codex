@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Stack accuracy. At the end of Round 1 she puts a -50% accuracy Darkness aura on every wizard for 99 Rounds, so pack Sun accuracy enchants and accuracy gear to avoid fizzles.",
+    "Play to out-damage, not out-heal. Doom and Gloom is up from the start of combat, so your heals are weak.",
+    "Protect your Feint with Indemnity. Feinting Nyx makes her Shadow Cleanse Ward and strip every trap off herself, and Mass Feint and pet spells trigger it too.",
+    "Funnel blades to a hitter rather than buffing yourself. Casting on yourself only triggers her harmless interrupt nudging you to buff allies.",
+    "Manage pips and Health against her Dark Nova, Dark Fiend, Dark Shepherd, and pip-stealing Natural Attack.",
+    "At 41,100 Health this is a team fight: one hitter with accuracy stacked, supports blading and Feinting under Indemnity, and a healer working around Doom and Gloom."
+  ],
+  "cheatNotes": [
+    "Doom and Gloom is up from the start of combat, cutting all healing, so out-damage rather than out-heal.",
+    "At the end of Round 1 she puts a -50% accuracy Darkness aura on every wizard for 99 Rounds, so expect fizzles unless you stack accuracy enchants and gear.",
+    "She attacks with immediate Dark Nova, Dark Fiend, and Dark Shepherd, or a Natural Attack that also steals your pips.",
+    "If you cast a spell on yourself she interrupts to hint you should buff allies instead; no real effect, but funnel blades to your hitter anyway.",
+    "Feinting Nyx makes her Shadow Cleanse Ward and strip every trap off herself.",
+    "Protect the Feint with Indemnity to beat that cleanse.",
+    "Mass Feint (+75%) also triggers the cleanse.",
+    "Pet-cast spells trigger it as well, so watch your pet's Feint and trap casts."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Hit with Fire (+15%); he resists Ice 50%.",
+    "He opens with Frozen Armor. Break the Absorb with Shatter or pierce before your real hit.",
+    "He runs a fixed cycle, stacking Iceblades on himself (two per cycle after the first) and an Amplify Aura, then hitting with Hailstorm, Blizzard, Woolly Mammoth (600-700), or Judgement (125). Shield Ice and heal through the big hits.",
+    "His pet heals him with Availing Hands, so pressure him faster than he and the pet can recover, and consider an infection to cut the heal.",
+    "Set up blades behind the broken Absorb and finish with one Fire hit before his Iceblades and Tower Shield stack up."
+  ],
+  "cheatNotes": [
+    "Joining late gets you Frostbitten.",
+    "On Round 1 he shields himself with a Frozen Armor Absorb. Shatter or pierce it.",
+    "",
+    "Cycle: he Iceblades himself, two per cycle after the first loop.",
+    "Cycle: he casts Hailstorm.",
+    "Cycle: he casts Blizzard. Shield Ice.",
+    "Cycle: he casts Amplify to boost his damage.",
+    "Cycle: he casts Woolly Mammoth (600-700) if he has the pips, else passes.",
+    "Cycle: his pet casts Availing Hands (85+870 heal) and he casts Balanceblade.",
+    "Cycle: he passes a turn.",
+    "Cycle: he casts Judgement (125).",
+    "Cycle: he Tower Shields himself.",
+    "The cycle then repeats, giving him two Iceblades each loop."
+  ],
+  "groupFight": false
+}

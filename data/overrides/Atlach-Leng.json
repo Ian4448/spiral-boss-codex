@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Hit with Fire or Myth — he takes +35% from both and resists Ice at 80%.",
+    "You are on a timer: after round two he summons a Crypt Spider every other round. Each extra setup round adds a body to the field.",
+    "Build fast — blades and a Feint in the first 3-4 rounds — and finish with one big Fire or Myth AoE so the boss and every accumulated spider die together.",
+    "If the fight drags, keep using AoE hits; single-target kills on spiders just get replaced two rounds later.",
+    "He is not stunable, so don't pack stuns — spend those slots on blades and heals for the 18,920 health grind."
+  ],
+  "cheatNotes": [
+    "Starting after round two, a fresh Crypt Spider joins the fight every other round. There is no cap mentioned — the only real counter is ending the fight quickly with AoE damage."
+  ],
+  "groupFight": false
+}

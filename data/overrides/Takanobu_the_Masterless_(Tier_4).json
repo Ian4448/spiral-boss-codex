@@ -1,0 +1,31 @@
+{
+  "strategy": [
+    "The fight is easy once you respect the cheats: Takanobu Disarms any blade you cast, so buff with traps instead of blades.",
+    "Stack Feints on him, then have your hitter cash them in; the guide says this can be done in 1-2 turns by spamming Feints for the hitter.",
+    "Prefer a single-hit, single-target attack for the kill. Any all-enemies spell triggers a guaranteed 560 Storm Tempest on your team, and multi-hit spells trigger one dispel per hit.",
+    "Do not cast Storm shields (he answers with a Storm Prism on you) and mind his pips: at 6+ pips he opens with Darkwind, and at 5+ pips he ends the round with Supercharge, so kill fast.",
+    "Watch the Bladeless Ronin dispels: any Balance damage triggers Unbalance, any Fire/Ice/Storm damage triggers the matching Quench/Melt/Dissipate, and any Myth/Life/Death damage triggers Vaporize/Entangle/Strangle on your whole team.",
+    "A Damage-over-Time hit sidesteps all of it: DoT damage does not trigger the Ronins' dispel cheats, making a DoT hitter the cleanest kill. Hit with Myth (+40%) around his 70% Storm resist."
+  ],
+  "cheatNotes": [
+    "",
+    "Cast any blade and Takanobu instantly interrupt-casts Disarm on whoever received it, so buff with traps and Feints rather than blades.",
+    "A multi-target blade only loses the caster's copy; teammates keep theirs, so mass blades are the safer way to blade if you must.",
+    "Casting any Storm shield makes him interrupt-cast a Storm Prism on the shielded wizard, turning your Storm resist into a weakness.",
+    "Any all-enemies spell triggers a guaranteed Tempest that always deals 560 Storm damage to your team.",
+    "If he has 6 or more pips at the start of a round he interrupt-casts Darkwind (accuracy debuff), so keep his pips down or expect fizzles.",
+    "If he ends a round with 5 or more pips he Supercharges himself for extra pips, so pressure him fast.",
+    "",
+    "Deal any Balance damage and the Dagger Ronin hits your whole team with Unbalance (a Balance dispel).",
+    "Deal Fire, Ice, or Storm damage and the Key Ronin casts the matching all-enemies dispel: Quench, Melt, or Dissipate.",
+    "Deal Myth, Life, or Death damage and the Gem Ronin casts the matching all-enemies dispel: Vaporize, Entangle, or Strangle.",
+    "Damage-over-Time effects do not trigger the Ronins' dispel cheats, so a DoT hitter avoids all of them.",
+    "A spell that deals damage more than once triggers one dispel per hit, applied in the order the hits landed, so avoid multi-hit spells.",
+    "A spell hitting multiple enemies makes the relevant Ronin repeat its dispel cheat once per enemy struck.",
+    "Casting Hydra pulls all three elemental dispels from the Key Ronin: Quench, then Melt, then Dissipate.",
+    "Casting Scales of Destiny triggers Entangle from the Gem Ronin, Melt from the Key Ronin, and Unbalance from the Dagger Ronin, in that order.",
+    "Hitting through a Prism makes the Ronin cast the dispel matching the school after the prism converts, not your base school."
+  ],
+  "groupFight": false,
+  "guideSourced": true
+}

@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Azteca Twin Giants dungeon boss (18,670 health), so run it as a team: hitter, blading supports, and a healer.",
+    "Chip Belloq with a wand every single round you are setting up — if he takes no damage in a round he interrupt-casts a free Ra for ~1,460-1,520 Balance on the whole team.",
+    "Attack with Myth, Life, or Death (he takes +30% from all three); never hit into his 80% Balance resist without a prism.",
+    "Use direct damage, not DoTs — his minion Triages damage-over-time off him.",
+    "Stack blades and Feints on the hitter while keeping constant chip damage on Belloq, then commit one big boosted-school hit."
+  ],
+  "cheatNotes": [
+    "If Belloq takes no damage during a round, next round he interrupt-casts a free 0-pip Ra for ~1,460-1,520 Balance on the whole team. Keep a wand hit on him every setup round so he never gets the trigger.",
+    "Damage-over-time spells on Belloq get Triaged off by his minion — use direct damage instead of DoTs."
+  ],
+  "groupFight": true
+}

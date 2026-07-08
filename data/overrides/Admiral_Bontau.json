@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Bring Fire or Life attacks. He takes +15% from both and resists Ice and Death 30%, so never hit into his own school.",
+    "Expect his pet to open with a -50% Death Black Mantle on round 1 and again every 3-4 rounds, plus a Death Weakness on the off rounds. Pack accuracy enchants or a Cleanse Charm so your setup and final hit do not fizzle.",
+    "Keep single-target attacks to your final blow. Any single-target hit makes him counter with a -45% Virulent Plague on you.",
+    "He has no minions and only 9800 health, so stack blades and a Feint for 2-3 rounds, then land one blade-stacked Fire or Life hit."
+  ],
+  "cheatNotes": [
+    "His pet blinds a random wizard with -50% accuracy on round 1 and again every few rounds. Carry accuracy enchants or a Cleanse Charm so your setup and kill shot do not fizzle.",
+    "Hitting him with any single-target attack makes him drop a -45% Virulent Plague weakness on you, gutting your next hit. Do your damage in one blade-stacked shot rather than chipping.",
+    "On the rounds it is not casting Black Mantle, his pet throws a Death Weakness on a random wizard instead. Same fix: keep a Cleanse Charm ready or blade through it."
+  ],
+  "groupFight": false
+}

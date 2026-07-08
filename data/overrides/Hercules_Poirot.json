@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Enter the fight on time with your team. Joining late after Round 2 triggers Athena Battlesight, Witch's House Call (992-1,132), and Orthrus dumped onto the latecomer.",
+    "Keep at least some damage landing on Hercules every single round. As long as he takes damage he cannot end the round at full health, which shuts off his protected +100% Balanceblade cheat.",
+    "The cleanest way to keep chip damage flowing is a low-damage off-school damage-over-time each cycle: Fire Elf, Frostbite, Poison, Death Bat, Black Widow, or Steel Giant. The DoT ticks while your team blades safely.",
+    "In a group, assign one wizard as the consistent attacker who pokes Hercules each round, a hitter who charges multi-hits like Bugs, Raging Bull, or Mystic Colossus, and a healer running Satyr with Life mastery.",
+    "Wear Tower or Dream Shields and pack healing. Hercules has 35% universal pierce, so raw shields alone leak damage. Shadow spells like Shrike add pierce for the final hit.",
+    "Note his heal cheat when he is not at full health: a flat 1,518 Blessing that ignores Infection and Sanctuary and is not removed by Entangle. Do not waste rounds trying to block it; just out-damage it and burst him down."
+  ],
+  "cheatNotes": [
+    "If you enter after Round 2, Hercules immediately loads the latecomer with Athena Battlesight, a Witch's House Call hit for 992-1,132, and an Orthrus. Load in with your team from the start.",
+    "Any round he ends at full health, he gives himself a protected +100% Balanceblade. Keep a hit or a damage-over-time landing on him every round so he is never at full health at round's end.",
+    "When he is below full health he casts a special 1,518 Blessing (10% of his health) that ignores Infection, Sanctuary, and Entangle. You cannot stop this heal, so plan for extra damage rather than trying to block it."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "Death boss (4560) that is stunable and beguilable. Hit with Life (+50%); never Death (80% resist).",
+    "Do not Feint him. A minion shifts the trap onto itself (Mass Feint too). Use blades and hit instead.",
+    "Avoid healing and Global spells; he answers with Doom and Gloom (-75% healing). Top off before you engage, not mid-fight.",
+    "Expect a summoned Understudy minion and a Beguile on a wizard. Beguile or stun him back to control the tempo.",
+    "Stack blades and land a Life hit. He is low health."
+  ],
+  "cheatNotes": [
+    "He summons a Death, Life, or Storm Understudy minion. Be ready to clear it or AoE.",
+    "",
+    "Feint him (including Mass Feint) and a minion shifts the trap onto itself. Skip Feint here.",
+    "Late joiners eat Feint and two Curses. Arrive on time.",
+    "Cast a heal or a Global and he drops Doom and Gloom (-75% healing) on everyone. Top off before the fight, not during.",
+    "",
+    "He Beguiles a random wizard. Stun or beguile him first, and do not rely on a beguiled wizard for the kill."
+  ],
+  "groupFight": false
+}

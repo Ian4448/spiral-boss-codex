@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Plan for the Krok Ankh timer. On Round 1, again two rounds later, and every third round after, he lays a random Krok Ankh hanging effect (Shield, Trap, Blade, HoT, DoT, or Weakness) on himself or a wizard.",
+    "Never kill him while a Krok Ankh is active on him. Defeated with a Krok Ankh up, he restores 100% Health, so this is the whole fight: clear the Ankh before your finisher.",
+    "Clear Krok Ankhs only with effect-specific removal. A Shield Ankh cannot be popped by damage and a Weakness Ankh cannot be removed by self-damage, so carry the right cleanse/removal cards for each type.",
+    "Do not rely on healing debuffs for the revive: the 100% restore is a max-percentage heal, so Doom and Gloom and Infection cannot shrink it. Prevention (clearing the Ankh) is the only answer.",
+    "This is a team fight: 45,340 Health, 126% boost, and 67% Balance resist. It takes 30% boosted Myth, Life, and Death, so build one hitter of those schools with blades and Feints.",
+    "Time the burst for a round when no Krok Ankh is on the boss, or have a support strip his Ankh the same round the hitter swings, then kill him clean."
+  ],
+  "cheatNotes": [
+    "On Round 1, two rounds later, and every third round after, he casts a random Krok Ankh hanging effect (Shield, Trap, Blade, HoT, DoT, or Weakness) on himself or a random wizard.",
+    "A wizard joining after Round 1 also triggers the Krok Ankh cheat.",
+    "Krok Ankh effects only clear with spells or treasure cards that specifically remove that effect type; a Shield Ankh won't fall to damage and a Weakness Ankh won't fall to self-damage.",
+    "If he is defeated while any Krok Ankh is still active on him, he restores 100% of his Health, so strip the Ankh before the kill shot.",
+    "The revive is a max-percentage heal, so Doom and Gloom and Infection cannot reduce it; clearing the Ankh is the only way to stop the full heal."
+  ],
+  "groupFight": true
+}

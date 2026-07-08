@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Attack with Ice (he takes +50%); he resists Fire 80%.",
+    "Avoid healing spells — he Hexes whoever heals. Use pet heals instead (they don't trigger it).",
+    "Stack blades and traps, then burst his 3,040 health quickly.",
+    "If you must heal, use a group heal so only the caster eats the Hex, or route it through your pet."
+  ],
+  "cheatNotes": [
+    "Casting a heal makes him Hex the healed wizard — skip healing spells or route healing through your pet.",
+    "With a group heal only the caster gets Hexed — the healed allies are fine.",
+    "Pet heals don't trigger the Hex, so heal through your pet if you need it."
+  ],
+  "groupFight": false
+}

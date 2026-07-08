@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Small Death boss (4630) that is stunable and beguilable. Hit with Life (+50%); never Death (80% resist).",
+    "Every damage spell you cast makes him interrupt a Shield of that school on himself, so soft hits get blunted. Over-stack blades and one-shot him, or bring Pierce or Shatter to strip the shield.",
+    "Avoid blades and Damage Globals. The first puts a Tower Shield on him, then Plague, Legion Shield, and Virulent Plague on successive casts, walling you off and weakening your hits.",
+    "Do not use DoTs; he answers them with Mass Triage.",
+    "Beguile or stun him to buy a free setup round, then land one big blade-stacked Life hit through the shield."
+  ],
+  "cheatNotes": [
+    "Late joiners lose 2 pips to Mana Burn. Be in on round 1.",
+    "Any damage spell makes him self-shield in that exact school before your hit fully lands. Bring Pierce or Shatter, or over-stack so the shot kills anyway.",
+    "Multi-hit spells give him a shield per hit, so a many-hit Storm spell just walls itself. Prefer one big single hit.",
+    "Balance damage gets him a Tower Shield instead of a school shield, still a -50%, so pierce through it.",
+    "Cast a DoT and he Mass Triages it away. Skip damage-over-time here.",
+    "The first blade or Damage Global anyone casts puts a Tower Shield on him. Minimize globals.",
+    "The second blade or global makes him Plague you, cutting your damage. Keep charm counts low.",
+    "The third blade or global gives him a Legion Shield. Do not feed the cycle.",
+    "The fourth blade or global drops a Virulent Plague on you. Try to finish before stacking this many globals.",
+    "A fifth blade or global just restarts the cycle at Tower Shield, so there is no burning through it. Hit before you over-cast globals."
+  ],
+  "groupFight": false
+}

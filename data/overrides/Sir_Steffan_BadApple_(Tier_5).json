@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "Pack Myth, Life, or Death attacks. He takes bonus incoming damage from all three, and never hit into his 80% Balance resist.",
+    "Expect a Conscripted Mander at the end of Round 1 and another at the end of Round 2. He refuses to stay outnumbered and replaces any Mander that dies, so don't try to clear them all.",
+    "Don't set Traps on Steffan. Each Trap makes him cast a Weakness on you. Rely on Blades, or protect a trap with Indemnity.",
+    "Watch for Sandstorm plus a Black Mantle on the first Wizard, which cuts accuracy. Carry a Cleanse Charm or accuracy enchant so your finisher doesn't fizzle.",
+    "Blade up over 2-3 rounds, then burst his 5120 health with one big Myth, Life, or Death hit. Chipping just lets him sacrifice Manders for 500 health each and heal the difference back."
+  ],
+  "cheatNotes": [
+    "Expect a Conscripted Mander on the enemy side at the end of Round 1.",
+    "A second Mander arrives at the end of Round 2, and he replaces any Mander you kill, so don't try to grind them down.",
+    "Every time you hit him he eats a Mander for 500 health. Burst him in one big hit instead of chipping, or he heals the difference back.",
+    "Don't trap him. Each Trap you place earns you a Weakness. Rely on Blades, or protect a trap with Indemnity.",
+    "He can interrupt-cast Mana Burn to drain your pips. Hit soon after you build pips rather than sitting on a full bar.",
+    "Sandstorm plus a Black Mantle lands on one Wizard and cuts accuracy. Keep a Cleanse Charm or accuracy enchant ready so your hit lands.",
+    "The Black Mantle targets the first Wizard in the lineup, so put your least accuracy-dependent character in that slot."
+  ],
+  "groupFight": false
+}

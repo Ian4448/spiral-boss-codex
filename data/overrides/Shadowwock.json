@@ -1,0 +1,26 @@
+{
+  "strategy": [
+    "Attack with Ice (+10%); he resists Fire 40%.",
+    "Exploit his self-trap: every 3 rounds he casts a Shadow Meteor Strike (1,650-3,300) and drops a +200% universal Trap on himself. That trap is yours to use, so line up blades and hit into it right after for massive damage.",
+    "His Meteor Strike hurts, so soften it with Weakness-type spells and keep shields up on the 3-round timer.",
+    "He strips all traps off himself every 2nd round (round 4, 6, and so on), so protect your own traps with Indemnity or rely on the +200% self-trap instead.",
+    "Do not Feint him normally: he Swap Wards the trap onto you (Melt or Indemnity avoids it), though Mass Feint and Balance Feint do not trigger it.",
+    "Keep your accuracy up since every fizzle gives him 2 power pips. Set up blades, wait for his +200% self-trap, and burst."
+  ],
+  "cheatNotes": [
+    "Late arrivals eat a 3,000 Balance Mana Burn, so join on time.",
+    "Starting round 2, every second round (4, 6, and so on) he strips all traps off himself, so protect key traps with Indemnity.",
+    "Indemnity protects your traps from that removal.",
+    "Every 3 rounds he casts a Shadow Meteor Strike (1,650-3,300) and puts a +200% universal Trap on himself. Hit into that self-trap for huge damage.",
+    "He may skip the self-trap if the Meteor Strike defeats a wizard.",
+    "Weakness-type spells reduce his Meteor Strike damage, so pack one.",
+    "Feinting him makes him Swap Ward the trap onto you. Use Melt or Indemnity, or skip Feint.",
+    "Melt dispels the swapped trap.",
+    "Indemnity avoids the swap entirely.",
+    "Mass Feint (+75%) does not trigger the swap, a safe way to trap him.",
+    "The Balance version of Feint also does not trigger it.",
+    "Every fizzle hands him 2 power pips via an Empower, so keep your accuracy high.",
+    "After his Natural Attack he puts a protected Black Mantle on you (fizzle chance), so cleanse it or lean on accuracy."
+  ],
+  "groupFight": false
+}

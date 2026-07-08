@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Two health bars: the first time Crash dies he heals to full and drops an Equalize setting the damage cap to 4,000, so plan to grind him in 4,000-damage chunks after the revive.",
+    "He gains a random School Pip every round and, when he holds two of one school, opens the round with that school's big attack plus a strip that clears blades, wards, or traps depending on the school. Expect setup to get partially wiped, so hit fast and re-blade cheaply.",
+    "Hitter goes with blades funneled; supports re-apply blades each round since Crash keeps stripping charms and wards.",
+    "Because single hits cap at 4,000 after the revive, favor repeatable blade-plus-hit turns over one huge stacked setup that his strips can eat.",
+    "Healer manages the incoming Sun Serpent, Lord of Winter, Storm Owl and similar hits and keeps the hitter topped through both phases.",
+    "Do not bother replacing his Equalize Global; he recasts it immediately."
+  ],
+  "cheatNotes": [
+    "He gains a free random School Pip at the end of every round, feeding his Crash Attack, so the fight has a built-in clock.",
+    "When he has two matching School Pips he opens the round with that school's attack and a cleanse or strip. Watch his pips to predict which buffs you are about to lose.",
+    "Two Fire pips brings Sun Serpent and clears negative wards off his side.",
+    "Two Ice pips brings Lord of Winter and strips your negative charms, so weaknesses come off.",
+    "Two Storm pips brings Storm Owl and Disarms a charm from every wizard.",
+    "Two Myth pips brings Celestial Calendar and clears one ward from each of his allies.",
+    "Two Life pips brings Spinysaur and removes your protected wards.",
+    "Two Death pips brings Avenging Fossil and strips protected charms off enemies, so even Aegis'd blades on the boss are not safe.",
+    "Two Balance pips brings Sabertooth and just gives him another random pip.",
+    "All of this can fire more than once in a single round if he has multiple pip pairs.",
+    "His first death is not the end: he heals to 100% and sets a 4,000 damage cap, so pace your hits around that ceiling.",
+    "Replacing his Equalize Global is pointless; he recasts it."
+  ],
+  "groupFight": true
+}

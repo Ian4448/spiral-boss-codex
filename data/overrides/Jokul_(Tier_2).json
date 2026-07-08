@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Hit Fire. He takes +25% Fire (and +15% Myth) while resisting 60% Ice and 30% Storm, so Fire single-target hits are ideal.",
+    "Do not cast Attack-All-Enemies spells. An AoE makes him counter with an Ice Trap and then an enhanced Blizzard (290-330). Keep every hit single-target.",
+    "Watch your wand: a 125 Fire wand hit can sometimes set off the same Blizzard counter, so wand carefully.",
+    "Do not rely on traps. Any trap on Jokul is interrupted and removed, so Feint will not stick. Set up with blades instead.",
+    "He is stunable and beguilable, so a stun can buy a setup round. Stack Fire blades and finish with one single-target Fire hit through his low health."
+  ],
+  "cheatNotes": [
+    "Casting an Attack-All-Enemies spell makes him counter with an Ice Trap followed by an enhanced Blizzard (290-330, 80%). Use single-target hits.",
+    "A wand hit dealing 125 Fire damage can sometimes trigger that same Blizzard counter.",
+    "Any trap placed on Jokul is interrupted and removed, so Feints and traps will not hold."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "Hit with Life (+15%); he resists Death 40%.",
+    "Skip blades — each blade escalates his response: the 1st gives him a Tower Shield, the 2nd Plagues you, the 3rd gives Legion Shield, the 4th Virulent Plagues you. Set up with traps/Feint instead.",
+    "Don't lean on DoTs; a DoT on him makes him Mass Triage it off.",
+    "After any attack he shields whatever school hit him, so commit to one big Life hit rather than chipping.",
+    "Kill the Luminous Troglodyte before or the same round as Dewey — if Dewey dies while a minion is still up, he rejoins at full health next round."
+  ],
+  "cheatNotes": [
+    "Late wizards eat a damage-less Mana Burn — join on time.",
+    "Put a DoT on him and he Mass Triages it off — don't lean on damage-over-time.",
+    "Your first damage blade or damage global gives him a Tower Shield — avoid blades.",
+    "A second blade makes him Plague your team.",
+    "A third blade gives him Legion Shield.",
+    "A fourth blade hits you with Virulent Plague; after this the blade-punish cycle restarts.",
+    "",
+    "After you attack he shields the ally that got hit, in that damage school — one committed hit beats chipping.",
+    "Against an AoE he shields all three allies one by one.",
+    "Balance damage makes him place Tower Shields.",
+    "Multi-hit spells make him shield for each hit.",
+    "If Dewey dies while a minion is still alive, he rejoins at full health next round — kill the minion first or together."
+  ],
+  "groupFight": false
+}

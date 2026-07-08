@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "This is an exploit fight: his round-1 aura gives him -300% resist (immunity), but attacking him after round 1 gives YOU a +300% Armor Piercing Infallible aura that punches straight through it. Poke him with a cheap attack early to claim the aura.",
+    "Open round 1 with setup only, since the Invulnerability aura is up and hits are wasted. From round 2 on, throw a small, low-pip attack to trigger the +300% pierce aura on yourself.",
+    "Keep the pierce aura fresh on your hitter. If nobody has it, he reminds you every round that you will never break the armor. Re-attack to reapply before your kill turn.",
+    "Blade carefully: any Damage Blade you cast gets stolen with Steal Charm unless it is Aegis-protected. Use Aegis blades, or lean on traps that are not positive wards.",
+    "Do not cast positive wards (shields, absorbs) or heal-over-times. Wards get stolen and HoTs trigger Snow Drift on you.",
+    "Kill plan: cheap poke for the pierce aura, Aegis-protected blades, then one big hit while the +300% pierce aura is active. He has 16,810 health and cannot be stunned, so make the hit count."
+  ],
+  "cheatNotes": [
+    "At the start of round 1 he gives himself a -300% resist brace aura, making him effectively immune. Do not waste a real hit into it.",
+    "This is the fight's gift: after round 1, whoever attacks him gets a +300% Armor Piercing Infallible aura. Deliberately hit him with any cheap attack to gain it, then your real hits ignore his armor.",
+    "From round 2 on, he calls this out at the end of any round where no wizard holds the Armor Piercing aura. Treat it as a reminder to poke him again.",
+    "",
+    "If you cast a Damage Blade, he immediately casts Steal Charm on you and takes it. Unprotected blades feed him.",
+    "Spells that apply several blades at once only lose the first blade to the steal. Multi-blade spells like tri-blades are relatively efficient here.",
+    "Aegis-protected blades survive the Steal Charm. Put Aegis on the blades your hit actually depends on.",
+    "Casting a positive ward (shield, absorb) gets it stolen with Steal Ward. Skip shields; rely on the fast kill instead.",
+    "Casting a heal-over-time gets you hit with Snow Drift. Use flat heals only."
+  ],
+  "groupFight": false
+}

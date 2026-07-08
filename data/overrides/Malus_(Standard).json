@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Wallaru finale (150000). Full team: a hitter, supports funneling blades, and a healer/utility on cheats. Hit with anything but Fire (he resists Fire 59%, everything else 29%).",
+    "Watch his Flames of Hatred aura. Attacking him while it is up makes him self-Supernova and negate the moment, and KILLING him while it is active revives him with 75000 health and a +200% damage aura. Clear the aura with a cheap throwaway hit first, then commit real damage.",
+    "Round 1, if he has Ghost minions out, he Meteor Strikes the team for 100% max health (ignores resist). Bring absorbs, heals, or Dispels for the opening.",
+    "Every round he casts a control spell (Black Mantle, Choke, Efreet with a -95% Curse on the lowest-health wizard, Monster Mash beguiling the highest-health wizard, Muzzle, or a Tower Shield). Dispels prevent several, and the utility wizard should cleanse the -95% Curse.",
+    "Supports over-stack blades and Feints on the hitter between his cheats; the healer keeps the team above his Meteor and Nova math.",
+    "Once Flames of Hatred is cleared and blades are stacked, the hitter lands one massive hit. Never take the kill shot while that aura is up."
+  ],
+  "cheatNotes": [
+    "If he has minions on round 1 he Meteor Strikes the whole team for 100% max health, ignoring resist. Open with absorbs and heals, or Dispel it.",
+    "Every round he casts one control spell from the list below. Keep Dispels and cleanses ready.",
+    "One option is a -55% Black Mantle (accuracy down). Carry accuracy so your hitter does not fizzle the kill.",
+    "He may Choke a wizard. Plan around a lost turn.",
+    "His Efreet leaves a -95% Curse and always targets the lowest-health wizard. Cleanse it off the hitter before they swing.",
+    "His Monster Mash beguiles the highest-health wizard. Keep your hitter from being the top-health target that turn.",
+    "He may Muzzle a wizard. Do not rely on one wizard holding the only answer.",
+    "He may drop a -90% Sun Tower Shield on himself. Over-stack blades or pierce through it.",
+    "Dispels can stop several of these cheats. The utility wizard should keep them up.",
+    "Randomly he gives himself a Flames of Hatred aura. Do NOT attack or kill him while it is up.",
+    "Hitting him while Flames of Hatred is active makes him self-Supernova and wipe the aura for no damage. Use a cheap throwaway to clear it, then hit for real.",
+    "Killing him while the aura is up revives him at 75000 health with a +200% damage aura, a near-loss. Always clear Flames of Hatred before the kill shot."
+  ],
+  "groupFight": true
+}

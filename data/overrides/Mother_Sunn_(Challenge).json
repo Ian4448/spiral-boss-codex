@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "This is a 21,000-health Challenge boss, so run it as a team: a hitter, supports who blade and Feint, and a healer to manage her DoTs. She has no boost school and resists everything, with Storm the least (13%), so hit with Storm.",
+    "Attack Mother Sunn or Ghost Mander with a real hit every single round. If neither is attacked during a round, she Ra's the whole team for 460-540 plus a -65% accuracy charm.",
+    "A ticking DoT does not count as attacking, so keep a fresh chip hit going every round while your hitter builds.",
+    "Bring Triage for her every-second-round Scald (375 over 3 rounds) and cleanse the -40% damage charm from her every-fourth-round Power Nova before your big hit.",
+    "Stack blades and Feints while chipping each round, then finish with one large Storm AoE."
+  ],
+  "cheatNotes": [
+    "If nobody attacks Mother Sunn or Ghost Mander during a round, she Ra's the whole team for 460-540 Sun damage plus a -65% accuracy charm. Land a real hit every round.",
+    "A ticking DoT does not count as attacking. You still need a fresh hit each round to dodge the Ra.",
+    "",
+    "Every second round she Scalds the team for 375 Sun damage over 3 rounds. Bring Triage.",
+    "Every fourth round a Sun Power Nova hits for 665 and stacks a -40% damage charm on everyone. Cleanse it before your big hit."
+  ],
+  "groupFight": true
+}

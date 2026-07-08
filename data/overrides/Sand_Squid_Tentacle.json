@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Multiple Sand Squid Tentacles for a team. Minions respawn two rounds after death while a boss tentacle stands, so coordinate to defeat one boss tentacle and two minion tentacles to shut off respawns.",
+    "Avoid healing spells. Every heal makes each enemy cast Aftershock (an AoE that hits and strips blades). Use pet may-cast heals (which do not trigger it) or shields.",
+    "Hit with Storm or Death (+35%, resists Myth 80%); AoE to pressure all tentacles.",
+    "Funnel blades to the hitter and burst, timing your kills to hit the respawn-off condition."
+  ],
+  "cheatNotes": [
+    "Tentacle minions respawn two rounds after dying while any boss tentacle lives, so killing minions alone will not clear the board.",
+    "If a boss tentacle dies as this triggers, a minion spawns in its place.",
+    "Defeating one boss tentacle plus two minion tentacles stops all respawns, so aim for that combination.",
+    "Every heal makes all enemies cast Aftershock (an AoE that strips blades), so avoid healing spells here.",
+    "Pet may-cast heals do not trigger the Aftershock, so those are safe."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,33 @@
+{
+  "strategy": [
+    "Hit with Storm (+5%), avoid Myth (70% resist). This is a revive puzzle, so kill order is everything.",
+    "You must defeat all three minions (Young Morganthe, Roberto, Broodmother) before the Time Butterfly. If the Butterfly dies while any minion lives, it revives itself and all minions to full health.",
+    "Kill the minions first and save the Butterfly for last, it stops respawning only once all three minions are already dead.",
+    "Keep your pips under 7 (Young Morganthe Mana Burns anyone who hoards 7+) and do not cast wards (she answers with Power Nova and a 400-Myth Earthquake).",
+    "Use Mass Feint or an Indemnity/Melt-protected Feint (plain Feint gets Swap-Warded onto you), kill Broodmother early since she heals the Butterfly, then burst the Butterfly last."
+  ],
+  "cheatNotes": [
+    "Join late and it Stuns you for two turns.",
+    "It Mass-Empowers itself and its minions for a power pip and secretly swaps who goes first, expect turn order to flip.",
+    "Plain Feint gets Swap-Warded onto you, the traps move to the caster.",
+    "Melt dispels the Swap Ward cheat.",
+    "Mass Feint does not trigger the swap, use it to trap safely.",
+    "Indemnity also protects your Feint from the swap.",
+    "",
+    "It summons Shadow minions starting with Young Morganthe, sometimes three at once (resummoned once).",
+    "Kill the Butterfly while any minion lives and it revives itself and all minions to full health, minions must die first.",
+    "If all minions die before the Butterfly, it re-summons the fallen ones plus the next in order.",
+    "",
+    "",
+    "",
+    "",
+    "Once all three minions are dead before the Butterfly, it stops respawning, then finish the Butterfly.",
+    "If the Butterfly dies on a turn it summons minions, it will not revive (possibly a bug).",
+    "",
+    "Young Morganthe Mana Burns any wizard holding more than 7 pips, stay under 7.",
+    "Cast a ward and she answers with Power Nova and a 400-Myth Earthquake on the team, skip shields.",
+    "",
+    "Broodmother steals 15% health to heal the Butterfly, gives an ally a Dragonblade, and Mass Tower Shields the minions, kill her early to stop the healing."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "Do not cast positive charms or globals. Each one makes Bundozer Disarm you, and that can trigger an invisible attack with a chance to instantly defeat you. Set up with traps like Feint instead of blades.",
+    "Heed the warning ('gurgling in preparation') at the end of Round 3 and every third round after: you must deal damage to Bundozer the following round, or it hits with its Natural Attack plus a Mass Supernova removing 33%, then 66%, then 99% of everyone's health. Keep a hit ready each cycle.",
+    "Shields and weaknesses will not reduce the Supernova percentage, so triggering the 'Yes, do that!' line by hitting it in time is the only defense.",
+    "Hit with Fire, Storm, or Death (+5%, resists Ice, Myth, and Life 70%); trap-stack and burst.",
+    "Everyone join within two rounds; latecomers eat the natural attack plus Mass Supernova."
+  ],
+  "cheatNotes": [
+    "Joining late (or fleeing and returning) triggers its Natural Attack plus a Mass Supernova removing up to 99% of everyone's health, so join within two rounds and do not flee.",
+    "Any positive charm or global makes it Disarm you, so set up with traps, not blades.",
+    "Single blades on another wizard disarm the recipient; multi-target blades disarm the caster.",
+    "That disarm can come with an invisible attack that may instantly defeat a wizard, so avoid charms entirely.",
+    "This warning at end of Round 3 and every third round means you must damage Bundozer next round.",
+    "Damaging it the round after the warning cancels the Natural Attack and Mass Supernova, so always keep a hit ready.",
+    "If you do not hit it in time, it Natural Attacks and Mass Supernovas the team.",
+    "First trigger removes 33% of everyone's health.",
+    "Second trigger removes 66%.",
+    "Third trigger removes 99%, so you cannot survive stalling; hit every cycle.",
+    "Even on a normal turn its Natural Attack comes with a 33% Mass Supernova, so stay healed.",
+    "Shields and weaknesses do not reduce the percentage-based Supernova, so hitting it on time is the only defense."
+  ],
+  "groupFight": false
+}

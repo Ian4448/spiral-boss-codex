@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Do not join late - a latecomer eats a cheat Scald (Fire DoT). Enter on time and pack Triage.",
+    "Kill the Fallen Luphilim minion early or AoE both together; it hits Ice-Myth.",
+    "Hit with Ice - he takes 30% more from Ice and resists Fire 55%. Prism if you are a Fire wizard.",
+    "He hands each wizard a +25% Fireblade or Deathblade every 2nd round; only useful if you hit Fire or Death, otherwise ignore it and use your own Ice blades.",
+    "Expect a cheat Scald after he attacks and Incindiate every 5th round (both boost his Fire hits) - keep Fire shields up.",
+    "Buff freely: casting a positive charm just makes him heal YOU 500 over 4 rounds, which is harmless."
+  ],
+  "cheatNotes": [
+    "After Enki attacks, or if you join late, he cheat-casts Scald (a Fire damage-over-time) on you. Enter on time and pack Triage.",
+    "",
+    "Every 2nd round he gives each wizard a +25% Fireblade or Deathblade. Useful only if you hit Fire or Death; otherwise ignore it.",
+    "Every 5th round he casts Incindiate, boosting his own Fire damage. Keep Fire shields up around those rounds.",
+    "Casting a positive charm makes him cast an all-wizards Sprite that heals YOU 500 over 4 rounds - harmless, so buff freely."
+  ],
+  "groupFight": false
+}

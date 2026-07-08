@@ -1,0 +1,30 @@
+{
+  "strategy": [
+    "Big team dungeon fight (63,600). Hit with Life (+5%); he resists Death 70%. His healing is cut, so out-damaging is the plan.",
+    "Kill Squire Greggor first — he Quickens the boss side, recasts Quicken when it runs low, and Rebirths Sir Greggor when Sir Greggor is hit, undoing your damage.",
+    "His Shadow Sentinel gives his allies Intercept and -30% incoming damage, so clear the intercepting minion before committing on Sir Greggor.",
+    "Use single-target traps carefully: a trap on Squire (and Mass Feint) makes Sir Greggor steal it — Feint Sir Greggor directly.",
+    "He Cleanse Wards his own negative wards and stacks protected -55% Tower Shields, so bring Pierce/Shatter and overshoot the shields.",
+    "Every 4th round Squire Chromatic Blasts twice — shield the hitter. Funnel blades to one hitter and burst."
+  ],
+  "cheatNotes": [
+    "",
+    "Late wizards (after Squire is down) get three protected -55% Tower Shields on him — join on time.",
+    "",
+    "Round 1 he casts Shadow Sentinel giving his allies Intercept 75%, +100 crit block, and -30% incoming damage — clear the intercepting minion first.",
+    "Put a trap on Squire Greggor and he steals it onto himself — trap Sir Greggor directly.",
+    "Mass Feint also triggers that steal.",
+    "He Cleanse Wards all negative wards off himself and adds a protected Tower Shield — bring shield-breaking.",
+    "He stacks three protected -55% Mass Tower Shields — overshoot with a big hit.",
+    "",
+    "Late wizards let Squire Rebirth (Sun) the boss side — be on time.",
+    "Round 1 Squire casts Quicken (the boss side acts faster).",
+    "Squire recasts Quicken whenever it's about to expire — kill him to stop it.",
+    "When Sir Greggor is hit, Squire sometimes Rebirths him — another reason to drop Squire first.",
+    "The round after Sir Greggor dies, Squire's aura becomes +100% Amplify for 99 rounds; remove it and he recasts it.",
+    "",
+    "Every 4th round Squire Chromatic Blasts twice — shield up.",
+    "Once Sir Greggor is dead Squire only casts one blade instead."
+  ],
+  "groupFight": true
+}

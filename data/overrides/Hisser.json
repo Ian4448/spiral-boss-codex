@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Hit him with Ice or Storm — he takes +35% from both and resists Fire 80%.",
+    "Damage him every single round, even if it is just a wand hit. If he takes no damage in a round, he casts a free Tempest dealing 80 Storm per pip he holds — and it ignores your resist.",
+    "Leave DoTs out of your deck. Any DoT gets Shifted back onto you after its first tick.",
+    "Blade up while poking him each round, then finish with big direct Ice or Storm hits. He is stunable and beguilable if you need breathing room, but keep the chip damage going regardless — 18,720 health takes a few cycles."
+  ],
+  "cheatNotes": [
+    "Poke him every round — a wand hit counts. If a round ends without him taking damage, the free Tempest hits for 80 Storm per pip he is holding, and your resist will not reduce it.",
+    "Do not cast DoT spells on him. After the first damage tick he Shifts the whole DoT back onto you."
+  ],
+  "groupFight": false
+}

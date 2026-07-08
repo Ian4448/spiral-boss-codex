@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Low-health Star boss; hit with Myth, Life, or Death (+15%) and avoid Fire, Ice, and Storm.",
+    "Enter on time; a late wizard eats a Star Mana Burn that pierces all resist for 500.",
+    "She summons a Clockworker on Round 1 (more if the party is large); clear it or race her down.",
+    "At 1,310 health a couple of blades and one hit end her quickly."
+  ],
+  "cheatNotes": [
+    "Joining late gets a piercing Star Mana Burn for 500 with no resist to soften it; enter on time.",
+    "She summons a Clockworker on Round 1, and keeps summoning with three or more wizards; expect an extra minion."
+  ],
+  "groupFight": false
+}

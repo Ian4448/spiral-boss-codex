@@ -1,0 +1,32 @@
+{
+  "strategy": [
+    "Almost every spell you cast makes Lucia interrupt-heal all allies to full, and the heal ignores Doom and Gloom and infections, so plan to kill her in a single hit rather than chip her.",
+    "Set up with the exempt spell types: harmful Charms (weaknesses on her) and Minion spells do not trigger the heal.",
+    "Do not join late (a 500-pierce Mana Burn), and do not out-number her team early; if wizards outnumber enemies she summons Clockworkers to even it.",
+    "Every 5th round she steals all your helpful Charms and Wards, so blade in the same round you hit, never before.",
+    "Watch her 4-round cycle (self-heal, Magnify, team buff charms, then an all-enemy Mockenspiel for ~2,600-3,000) and heal through it.",
+    "Hit her with a single Myth burst (she takes +30% from Myth) big enough to kill through her full-heal in one shot."
+  ],
+  "cheatNotes": [
+    "Joining after round 1 makes her Mana Burn you for 500 damage that pierces all resist (about 1,585 after her boost).",
+    "Most spells you cast make her interrupt-cast a Blessing that heals every ally to full.",
+    "That heal cannot be weakened by harmful Charms, Wards, or Globals, so healing debuffs will not stop it.",
+    "The exceptions that do not trigger the heal are harmful Charms and Minion spells; use weaknesses and minions to set up safely.",
+    "",
+    "",
+    "At the start of any round where wizards outnumber enemies, she summons a Clockworker until the teams are even.",
+    "Summoning your own minion does not trigger her Clockworker cheat.",
+    "At the start of every 5th round she steals all helpful Charms and all helpful Wards from every wizard.",
+    "",
+    "Cycle step 1: she self-casts a Sprite for a small heal plus a HoT over 3 rounds.",
+    "Cycle step 2: she casts Magnify on herself.",
+    "Cycle step 3: she buffs all allies with a +30% Blade, +20% Accuracy, +10% Spear, and +30% Healing Charm.",
+    "",
+    "",
+    "",
+    "",
+    "Cycle step 4: she casts an all-enemies Mockenspiel dealing roughly 2,600-3,000 Balance to the team, then the cycle resets.",
+    ""
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Don't try to out-damage his 11,340 health — exploit his surrender cheat instead. When you attack Vanitus while he has no minions present (round 2+), he defeats himself.",
+    "Each time you attack him he sacrifices one of his own Justicon minions to absorb the hit, so keep hitting to burn through his minions.",
+    "Once he's minionless, land one more hit to trigger the self-defeat.",
+    "He resummons Justicons every round from round 2, so hit fast and repeatedly (single hits or AoE both chew through minions) to out-pace the summons.",
+    "Enter on time — late wizards get Beguiled for three rounds and he summons an extra Justicon."
+  ],
+  "cheatNotes": [
+    "Join late and he Beguiles you for three rounds and summons an extra Justicon — enter on time.",
+    "From round 2 he keeps summoning Justicon minions — you'll need to out-pace them to strip him down to zero minions.",
+    "When you attack him he sacrifices one of his own Justicons to absorb the hit, so every hit removes a minion — keep swinging to clear them all.",
+    "Once he has no minions and you attack him (round 2+), he interrupt-casts a spell that defeats himself — that's the win condition, not his health bar."
+  ],
+  "groupFight": false
+}

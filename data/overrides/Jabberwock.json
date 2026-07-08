@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Pack Ice or Storm - he takes +55% from both. Fire is resisted 120%, so Fire wizards need a prism.",
+    "Blade rounds 1-3 and budget a shield or heal for the end of round 3: he cheats an enhanced Meteor Strike for 1,500 Fire there and every third round after. Stay out of Shadow Shrike form on those rounds (-10 backlash).",
+    "Exploit the aftermath: a +200% universal trap appears on HIM after each Meteor. Rounds 4-5 are your kill window - unload into that free trap.",
+    "Do not bank your own traps or prisms long: starting round 6 (then 9, 12), he Cleanse Wards everything off himself at the start of the round. Place Feints and prisms the same round you hit.",
+    "Ideal solo line: set up rounds 1-3, eat the round-3 Meteor, then kill through the +200% trap on round 4 or 5 before the round-6 cleanse."
+  ],
+  "cheatNotes": [
+    "Every third round ends with a 1,500 Fire Meteor Strike - plan shields or heals for rounds 3, 6, 9 - and a +200% universal trap then appears on him. That trap is your kill window: hit hard the round after each Meteor. Avoid Shadow Shrike form on Meteor rounds (-10 backlash).",
+    "From round 6 on, every third round starts with him cleansing all traps and prisms off himself. Set traps the same round you hit, and spend the free +200% trap before the cleanse takes it."
+  ],
+  "groupFight": false
+}

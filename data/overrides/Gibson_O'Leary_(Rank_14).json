@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Hit with Ice or Storm (both +30%). Never Fire; he resists it 80%.",
+    "Blades are stolen. Any Blade you cast gets Steal Charm'd off the receiver, and universal, Elemental, or Fireblades go straight onto him. Protect your key blade with Aegis or lean on traps he does not punish.",
+    "Avoid universal Traps on Gibson. Each one hits the caster with Backdraft. Use school-specific traps instead.",
+    "Do not leave a single Damage-over-Time on any Wizard; he Detonates it for burst.",
+    "Stack an Aegis-protected blade plus safe traps, then fire one Ice or Storm hit."
+  ],
+  "cheatNotes": [
+    "Casting any Blade lets him Steal Charm it off the receiver and destroy it. Aegis-protect the blade you need.",
+    "Universal, Elemental, or Fireblades get stolen straight onto him, buffing his hits. Prefer other blades or protect them.",
+    "A universal Trap on him triggers Backdraft on the caster. Use school-specific traps instead.",
+    "A single DoT sitting on a Wizard gets Detonated for instant damage. Do not leave DoTs up."
+  ],
+  "groupFight": false
+}

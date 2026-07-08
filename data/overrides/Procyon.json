@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Myth boss (7690). Hit with Storm (+35%); avoid Myth (35% resist).",
+    "Do not cast heals: any heal makes him Meteor Strike the team (bigger the more wizards present). Heal before engaging, use pet heals (which do not trigger it), or Dispel the Meteor.",
+    "Stack blades and traps and land a Storm hit. Keep healing out of the fight and he is straightforward."
+  ],
+  "cheatNotes": [
+    "Any healing spell triggers a Meteor Strike on the whole team, scaling with how many wizards are present. Avoid heals or use pet heals instead.",
+    "Pet heals do NOT trigger the Meteor, so lean on your pet for healing here.",
+    "The Meteor Strike can be Dispelled even though he cheats it. A Dispel up front lets you heal safely once."
+  ],
+  "groupFight": false
+}

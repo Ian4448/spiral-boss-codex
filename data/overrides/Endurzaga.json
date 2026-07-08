@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Hit with Storm, he takes +15%, and avoid Myth (30% resist).",
+    "Skip shields for defense, casting a positive ward makes his Cave Chameleon Pierce it off you. Use resist gear and heals instead.",
+    "Do not DoT him. If you hit him while a DoT is on him, his pet Shifts the remaining ticks back onto you, so use burst damage.",
+    "He drains pips via Draw Power each round (his Djinns first, then you when they are gone), so do not sit on a huge pip pool, spend it.",
+    "Stack blades and a Feint, then land one direct Storm hit, and watch for the pet's Hydra."
+  ],
+  "cheatNotes": [
+    "Each round he Draws Power from a Dunes Djinn, or from a random wizard once the Djinns are gone, do not hoard pips.",
+    "Cast a shield or any positive ward and his Cave Chameleon Pierces it off you. Rely on resist and heals, not wards.",
+    "Hit him while a DoT is on him and his pet Shifts the remaining ticks onto you, use burst, not DoTs."
+  ],
+  "groupFight": false
+}

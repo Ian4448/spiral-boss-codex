@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "The guide runs a four-wizard team: three supports and one hitter (its example uses a Storm hitter).",
+    "The key trick is Nightbringer — the hitter casts it to nullify the bubble/Equalize cheat, which removes the damage cap and makes the fight simple.",
+    "Round 1: supports cast Elemental Blade, Feint, and Storm blade onto the hitter; the hitter opens with Frenzy.",
+    "Round 2: supports stack Sharpened Elemental Blade, Potent Feint, and Sharpened Storm blade; the hitter casts the Nightbringer 3-pip hit to strip the bubble.",
+    "Round 3: supports add TC/alternative Elemental Blade, Feint, and Storm blade; the hitter drops a 2-pip bubble and lands the big uncapped hit.",
+    "With enough stats the hitter clears it in one blow — the guide reports ~45,000 damage at 175% damage and 38% pierce even through a -40% weakness.",
+    "Do not otherwise replace the Global on your own; only Nightbringer is the intended way to clear the cap, and enter on time so the Equalize is up before you join."
+  ],
+  "cheatNotes": [
+    "",
+    "Join late after round 2 and he casts a 100,000 Moon Ship of Fools — enter on time so the Equalize cap is protecting you.",
+    "",
+    "Round 1 he caps all damage at 250. Your hits are limited too, so plan a many-round grind, not a burst.",
+    "Round 3 the cap rises to 500 — your per-hit ceiling climbs with it.",
+    "Round 5 the cap is 1,000.",
+    "Round 7 the cap is 2,000 — and his end-of-round Deer Knight now hits for 2,000, so aim to finish around here.",
+    "Round 10 he casts Doom & Gloom (Moon), cutting healing — try to win before this.",
+    "Don't replace the Global; changing it makes him recast Equalize.",
+    "Every round he interrupt-casts a Deer Knight (capped to the current damage cap) — that steady chip is your damage-race clock, so keep healed each round."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

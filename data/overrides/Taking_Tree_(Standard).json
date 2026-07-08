@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Hit with Death. The Tree takes +30% from Death, resists Life 67%, and resists everything else 37%. Funnel all setup to one hitter.",
+    "Understand the swap. Any helpful Charm, Ward, or heal-over-time a Wizard casts gets swapped onto the Tree, and any harmful Charm, Ward, or DoT (traps, Feint, weakness) swaps back onto the caster. Unprotected blades are stolen and unprotected Feints land on your own hitter.",
+    "Protect the key setup. Aegis the hitter's main blade and Indemnity the Feint so they survive the one swap. Supports should only feed the hitter through protected or secondary-effect charms.",
+    "Avoid DoT hitters and unprotected traps. The DoT tick (even the one from Fire Dragon) swaps to the caster, so stick to direct-damage hits.",
+    "Minimize how often you trigger the swap. Each triggered round the Tree buffs itself with a Dark Pact (which also hands it a +35% to +45% Damage Charm) or a 600 absorb. Stack protected blades plus Feint over a couple rounds, then land one Death nuke from the hitter."
+  ],
+  "cheatNotes": [
+    "",
+    "Cast an unprotected blade, shield, or heal-over-time on your hitter and the Tree steals it onto itself. Protect it with Aegis or it is gone.",
+    "Traps, Feint, weakness, and DoTs you put on the Tree bounce back onto whoever cast them. Protect with Indemnity or don't cast them raw.",
+    "Bladestorm and other mass effects only swap with the caster, sparing the rest of the team.",
+    "With a stacked charm like Elemental Blade only the final school (Fire) is swapped, so the others stick.",
+    "Side effects like the DoT on Fire Dragon also trigger the swap, so avoid DoT-based hitters here.",
+    "Aegis on your blade and Indemnity on your Feint let them survive the swap one time, which is enough to set up the hit.",
+    "At the end of Round 1, and every round you trigger the swap, the Tree buffs or heals itself. Minimize swaps to keep it from stacking.",
+    "",
+    "",
+    "One option is a Dark Pact that also gives the Tree a +35% Damage Charm, another reason to hold back on triggering it.",
+    "A bigger Dark Pact hands it +45% Damage, so expect harder hits back as the fight drags.",
+    "It can also shield itself with a 600 absorb, so your finishing hit needs to clear that buffer."
+  ],
+  "groupFight": true
+}

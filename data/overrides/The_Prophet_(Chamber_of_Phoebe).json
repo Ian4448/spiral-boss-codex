@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "His Acrimony turns all incoming healing into damage for the whole team for 99 rounds, so do not heal; win by bursting, not sustaining.",
+    "Cast an Aura on round 1 to overwrite one of the two Acrimony auras. Only round-1 auras help; any later Aura triggers a Supernova that strips it and re-applies Acrimony.",
+    "Do not cast positive Charms. Enki answers with a Sprite heal on your team, which becomes damage under Acrimony. Use Enki's free Fireblades and Deathblades (every 2nd round) as your buffs instead.",
+    "Watch Enki's timers (Incindiate every 5th round, Scald after he attacks) and burst the group down; the Prophet takes +Life and resists Death 71%.",
+    "Team: there is no healer role here, so run extra shields and absorbs behind a big hitter who AoEs the boss and minions together."
+  ],
+  "cheatNotes": [
+    "",
+    "At round 1 (or on a late join) he casts a negative Acrimony on all wizards that turns incoming healing into damage for 99 rounds; it is applied twice but does not stack.",
+    "Casting an Aura on round 1 overwrites one of the two Acrimony auras, and you get your own aura plus the remaining one.",
+    "Casting an Aura on any later turn makes him Supernova it away and re-apply the Acrimony to everyone.",
+    "",
+    "Every 2nd round Enki gives each wizard a +25% Fireblade or +25% Deathblade.",
+    "Every 5th round Enki casts Incindiate.",
+    "If a wizard casts a positive Charm, Enki casts an all-enemy Sprite that heals your team 500 over 4 rounds, which becomes damage under Acrimony.",
+    "After Enki attacks, or on a late join, he casts Scald on the wizards."
+  ],
+  "groupFight": true
+}

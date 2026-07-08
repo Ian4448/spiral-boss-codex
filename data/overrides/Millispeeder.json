@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Raid boss with 100% resist to every school, so you must break his resist with Shatter or heavy pierce and traps before damage lands. Bring a coordinated team.",
+    "He triple-Dispels your school at the start of combat and again every third round, so your school's spells get eaten. Attack with an off-school spell or a prism-converted hit that dodges the Dispels.",
+    "Have supports stack pierce and Shatter and traps, the hitter lands off-school damage once his resist is cracked.",
+    "Refresh your setup after each Round-3 Dispel wave, do not queue your main-school nuke into a Dispel.",
+    "Healer keeps the team alive through his 200% outgoing damage, burst him in the windows between Dispels."
+  ],
+  "cheatNotes": [
+    "At the start of combat he lands a triple Dispel on your school, so your next same-school casts get eaten, attack off-school or through a prism.",
+    "He re-Dispels your school every third round, do not queue your main-school nuke into Rounds 3, 6, 9 and so on."
+  ],
+  "groupFight": true
+}

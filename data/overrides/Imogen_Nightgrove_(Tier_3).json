@@ -1,0 +1,12 @@
+{
+  "strategy": [
+    "She takes +30% from Death and resists everything else (69% Life, 39% the rest). Bring Death damage or a prism.",
+    "Solo, her Arcane Deduction aura is always keyed to your school: every three rounds she gains -20% incoming damage from it for 4 rounds. It is effectively always up, so don't stall waiting for it to drop; the Death boost outweighs it.",
+    "She is stunable and beguilable. A stun on your setup or kill round denies her 80%-boosted hits for free.",
+    "Standard plan: blades plus Feint over a few rounds, then one big Death hit through her 9,100 health. Keep the fight short."
+  ],
+  "cheatNotes": [
+    "Round 1 and every three rounds after, she gives herself a -20% incoming damage aura keyed to a random wizard's school, lasting 4 rounds. Solo that always means your school; in a group, have a hitter whose school she hasn't deducted, or just power through with Death boost."
+  ],
+  "groupFight": false
+}

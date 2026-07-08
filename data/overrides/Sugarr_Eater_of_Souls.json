@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Kill every Sugar Cube before you kill Sugarr — defeating Sugarr while a Cube is alive revives him at 75% health and instantly defeats whoever killed him.",
+    "Expect a counter when you kill a Sugar Cube: it hits the killer with a 1,020 Shadow S'more Machine, strips pips, and Impedes — recover pips and health before going for Sugarr.",
+    "Minimize chip hits on Sugarr: any damage to him triggers Sugarr Rush, handing his side 5 pips and Quicken.",
+    "Attack with Life (his only boost at +5%; he resists Death 73%), stacking blades and a Feint to burst him once the Cubes are gone.",
+    "Enter on time — late wizards eat a 1,020 S'more that strips pips and Impedes."
+  ],
+  "cheatNotes": [
+    "Join late and he hits you with a 1,020 Shadow S'more Machine that removes your pips and Impedes you — enter on time.",
+    "Defeating Sugarr while any Sugar Cube is still alive revives him at 75% health and instantly defeats whoever killed him — clear all Cubes first.",
+    "Killing a Sugar Cube makes it counter-hit the killer for 1,020, strip their pips, and Impede them — expect to recover after clearing each Cube.",
+    "Any damage to Sugarr triggers Sugarr Rush, handing his side 5 pips and Quicken — don't poke him; burst him once the Cubes are down."
+  ],
+  "groupFight": false
+}

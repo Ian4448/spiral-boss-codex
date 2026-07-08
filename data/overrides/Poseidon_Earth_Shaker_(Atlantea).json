@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Trap Poseidon with multi-target spells only. Any single-target charm, prism, or trap makes him natural-attack and wipe all traps off himself; Windstorm and other AoE traps are safe.",
+    "He recasts Infallible whenever he has no aura, so he will not fizzle; do not rely on accuracy debuffs.",
+    "He is stunable, so a stun buys the team a safe setup round.",
+    "Hit with Myth or Life (+35%, resists Storm 80%); funnel blades to the hitter and use AoE traps.",
+    "Burst him down and clear the Atlantean Trierarch with the same AoE."
+  ],
+  "cheatNotes": [
+    "He recasts Infallible whenever he lacks an aura, so he will not fizzle; accuracy debuffs are wasted on him.",
+    "Any single-target charm, prism, or trap makes him natural-attack and strip all traps off himself, so trap him only with multi-target spells like Windstorm.",
+    "Spells with single-target secondary effects also trigger the trap-wipe, so watch enchanted hits."
+  ],
+  "groupFight": true
+}

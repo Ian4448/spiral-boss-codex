@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Everyone joins on Round 1 to dodge the Goat Monk ambush he throws at latecomers.",
+    "He is stunable and beguilable, so a stun or Beguile buys you safe setup rounds.",
+    "He self-buffs with a protected Lifeblade and Lifespear and throws a protected Ion Wind every third round that can strip your charms; set up and hit inside a Round 1-3 or 4-6 window.",
+    "Hit with Death (he takes only +5% but resists everything else as Life 70%); prism if you are off-school.",
+    "Stack blades and Feint and burst; his incoming healing is cut 75%, so he cannot out-heal you."
+  ],
+  "cheatNotes": [
+    "Latecomers eat a Goat Monk, so have everyone join on Round 1.",
+    "Every third round he casts a protected Ion Wind that can strip your blades; land your hit before Round 3 or 6, or rebuild fast after it fires."
+  ],
+  "groupFight": false
+}

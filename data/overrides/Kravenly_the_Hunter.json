@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "This is the final fight of the Banyan Tower; a team of Ice, Life, and Storm wizards clears the tower well. Kravenly is Rank 12 Life.",
+    "The winning plan is a one-shot: take him out in one hit and his interrupt Blasts and heals never come into play.",
+    "Blade up across the setup rounds and Feint him, then land one big attack. Life wizards must bring a Life Prism through his 80% Life resist; Fire and Death are boosted 35% against him.",
+    "Send a tank in alone the first round to soak the opening Natural Attack and avoid a double Entangle before the rest of the team engages.",
+    "Build some Life resist and lean on pet heals to shrug off his round-start Natural Attack DoT (up to 340 Life plus 630 over 3 rounds); you can also dispel that cheat outright.",
+    "If you cannot one-shot, expect an interrupt Spirit Blast at 75%, 50%, and 25% health (AoE up to 1,190 across schools) and possibly a Spectral Blast at 50% (up to 1,650 Storm), so heal and shield before crossing each threshold."
+  ],
+  "cheatNotes": [
+    "Every round he opens by casting Natural Attack on a random wizard, hitting for up to 340 Life plus 630 Life over three rounds; Life resist and pet heals cover it.",
+    "Stunning Kravenly does not stop the round-start Natural Attack, so do not rely on stuns to shut it down.",
+    "The Natural Attack cheat can be dispelled (a Life dispel) to turn it off.",
+    "",
+    "His Spirit Blast is a team-wide AoE dealing 1,120 Death, 1,095 Life, or 1,190 Myth damage.",
+    "His Spectral Blast is a team-wide AoE dealing 1,320 Fire, 1,095 Ice, or 1,650 Storm damage.",
+    "At 75% health (11,280 remaining) he interrupt-casts Spirit Blast, so blowing past this threshold in one hit avoids it.",
+    "At 50% health (7,520 remaining) he interrupt-casts Spirit Blast again.",
+    "The 50% trigger may fire the Spectral Blast instead of Spirit Blast.",
+    "At 25% health (3,760 remaining) he interrupt-casts another Spirit Blast.",
+    "Crossing several thresholds in one hit spreads the Blasts out over the following rounds rather than all at once, so a clean one-shot avoids them entirely."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

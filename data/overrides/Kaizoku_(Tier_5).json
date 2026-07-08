@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "Attack with Ice or Storm (+35%); he resists Fire 80%.",
+    "He sits behind a -90% Tower Shield and replaces it whenever damaged. Use Steal Ward or Pierce (manipulation that removes helpful wards) to strip it without triggering a replace, then hit the same round.",
+    "Do not Trap him: a trap makes him Cleanse Ward himself.",
+    "Exploit his Halberd cheat: if the wizard he Star-hits has a non-absorb ward up, the attack stops and he strips all wards from that wizard and himself. Hold a shield to make him blow off his own Tower Shield.",
+    "Clear the three minions to make the shield cheat stop, but note that once minions are down he strips his own wards and Star-hits every round, so burst him fast after.",
+    "Hitter funnels blades, a support Pierces or steals the shield, and the healer covers the 600 Star hits."
+  ],
+  "cheatNotes": [
+    "He opens round 1 with a -90% Tower Shield on himself, so you must strip or pierce it before hitting.",
+    "Damaging him makes him immediately replace the Tower Shield, so chipping just refreshes his defense.",
+    "Manipulation spells that remove helpful wards, like Steal Ward or Pierce, take the shield without letting him replace it. That is the safe way to strip it.",
+    "This shield cheat stops once all his minions are defeated.",
+    "Trapping him makes him Cleanse Ward himself, so set up with blades, not traps on him.",
+    "Every second round he hits all wizards for 600 Star damage, so shield up on those rounds.",
+    "The hit order flips each time the Star cheat fires, alternating right-to-left and left-to-right.",
+    "Once his minions are gone, that Star attack comes every round.",
+    "If the wizard he Star-hits has a non-absorb ward up, the attack fizzles on everyone else and he strips all wards from that wizard and himself. Hold a shield to force him to drop his own Tower Shield.",
+    "After his minions die he also strips all wards off himself, opening him up, so burst him down right after."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,27 @@
+{
+  "strategy": [
+    "Attack with Death (+5%) or use a prism; he resists Life 73%.",
+    "The core trap: every time he takes new damage he stacks a +10% resist aura, up to -100% and fully immune. You get essentially one real hit, so never chip him. Stack all your blades and Feints first, then land one massive hit.",
+    "Do not remove or change his aura; that triggers an instant -100% Fortify. Leave it alone.",
+    "Keep him below full health at end of round: at full health he Leafstorms your team for 15% of your health and Enfeebles everyone, while below full he only heals about 5% (+698).",
+    "Avoid healing; any heal, including pet may-casts, puts a +20% Dragonspear on the healer. Survive with shields.",
+    "He is stunable and beguilable, so stun to buy safe setup rounds, then unload your one big burst."
+  ],
+  "cheatNotes": [
+    "Arriving late gets you Camp Bandit, so join on time.",
+    "Each time he takes new damage he adds +10% resist (up to -100% and immune). Do not chip him; set up fully and hit once, hard.",
+    "Later ticks of a DoT do not add to that resist stack, so a DoT's follow-up ticks are free damage.",
+    "At full health at end of round he Leafstorms your team for 15% of your health, so keep him below full.",
+    "That Leafstorm is followed by an Enfeeble on all enemies, gutting your damage.",
+    "His Leafstorm also feeds his Adapt requirement, giving him a power pip.",
+    "If he is not at full health at end of round he just heals about 5% (+698) instead of Leafstorming.",
+    "Entangle will not stop that heal, so do not count on it.",
+    "Any heal you cast puts a +20% Dragonspear on the healer, buffing his next hit. Avoid healing.",
+    "Even pet may-cast heals trigger the Dragonspear cheat.",
+    "Removing or changing his aura triggers an instant -100% Fortify. Leave his aura alone.",
+    "Even overwriting it with a negative aura like Pathogen triggers the cheat, keeping the resist effect underneath.",
+    "If his Humango Assistant is still alive when his opening -10% aura expires, this immunity cheat fires, so pressure that add.",
+    "If the Assistant is dead in time, he swaps to a -20% Fortify and the cheat comes a round later instead."
+  ],
+  "groupFight": false
+}

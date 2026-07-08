@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Attack with Ice; it takes +30% and the card resists Fire 57%, everything else 27%. It is not stunable.",
+    "Round 1 it lays a protected DoT on each wizard (206,000 over 100 rounds, roughly 2,000 per round) and hands each of you a special Triage to remove it.",
+    "Cast that provided Triage early to clear the DoT, since a normal Triage cannot remove a protected DoT.",
+    "After the DoT is handled it is a straight race: stack Ice blades and end its 14,485 health with one big hit before the DoT wears you down.",
+    "If you can burst it fast, you can skip the Triage and simply out-damage it, but clearing the DoT is the safer line."
+  ],
+  "cheatNotes": [
+    "Round 1 it casts a protected DoT on each wizard (206,000 over 100 rounds, about 2,000 per round) and hands each of you a special Triage to remove it. Cast that Triage early or the DoT grinds you down.",
+    "",
+    "You do not have to cast the provided Triage to win. If you out-race the DoT you can ignore it, but casting it is the safe play."
+  ],
+  "groupFight": false
+}

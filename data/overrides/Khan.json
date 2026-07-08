@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "He takes +10% from Ice and Myth and resists Fire and Storm 50%. Hit with Ice or Myth.",
+    "Every 5th round he sacrifices one of his Fury minions to heal 7,000-11,000 and then hits the team with a +500% self-blade Wraith for 500. This is his big swing; try to kill him before Round 5.",
+    "Keeping minions dead reduces his sacrifice fuel, but he resummons, so the real answer is speed. Burst him down inside the first five rounds.",
+    "Traps on Khan get stolen onto a minion (even Mass Feint +75% triggers it here). Protect your Feint with Indemnity, or note the cheat cannot trigger when no minions are present.",
+    "Blade heavily, Indemnity your Feint, and land an Ice or Myth nuke before his 5th-round heal. Join on time; late arrival costs 4 pips."
+  ],
+  "cheatNotes": [
+    "Joining late costs you 4 pips (Mana Burn) and summons a minion. Arrive on time.",
+    "He opens by summoning at least one Fury minion, so expect an add from turn one.",
+    "He Cleanse Wards himself right after his first summon, stripping your early traps. Re-apply after his opener rather than before.",
+    "With two or more wizards he summons an extra minion, and replaces any minion you kill. Do not expect the board to stay clear.",
+    "Every 5th round he sacrifices a minion to heal 7,000-11,000 then buffs himself, his key swing. Kill him before Round 5 or burst through it.",
+    "",
+    "",
+    "A negative ward on Khan makes his minion steal the trap onto itself. Protect it with Indemnity.",
+    "Even Mass Feint (+75%) triggers this trap-steal here, unlike most bosses.",
+    "It cannot trigger when no minions are out, a window to trap him safely if you clear the board.",
+    "Only one trap is swapped per cast, so heavy trap stacks partially survive.",
+    "Indemnity prevents the trap-steal entirely."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Hit Fire or Life. He takes +10% from both and resists 40% Ice and Death, so those are your damage schools. Join by round 2 to avoid Mana Burn.",
+    "Set up Feints, but do it safely. A normal Feint on him gets swapped back onto you. Use Mass Feint (+75%), the Balance version of Feint, or cover a normal Feint with Indemnity.",
+    "Do not heal into him unprotected. Any heal - including pet heals - makes him cast Doom and Gloom (-75% healing).",
+    "Avoid Fairy spells from either side; a Fairy makes him Magnify himself for more damage.",
+    "He is not stunable and can Dark Convert three pips into a Shadow pip once, so do not stall. Stack blades, land a Mass Feint, then finish with one big Fire or Life hit through his 12,800 health."
+  ],
+  "cheatNotes": [
+    "A wizard who joins after round 2 gets hit with Mana Burn, draining pips.",
+    "Once per fight he randomly casts Dark Convert, turning three of his pips into a single Shadow pip.",
+    "Placing a normal Feint on him makes him Swap Ward it back onto you.",
+    "Mass Feint (+75%) is exempt - it does not get swapped back, so use it for setup.",
+    "The Balance version of Feint is also exempt from the swap.",
+    "Indemnity also protects a normal Feint from being swapped.",
+    "Casting any healing spell makes him cast Doom and Gloom (-75% healing).",
+    "Pet heals also trigger that Doom and Gloom.",
+    "Any Fairy spell used by either side makes him Magnify himself."
+  ],
+  "groupFight": false
+}

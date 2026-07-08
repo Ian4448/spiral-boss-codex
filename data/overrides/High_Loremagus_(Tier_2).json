@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Keep an Aura on yourself at all times. If you start any round without one, she gives you a -200% Accuracy Aura for 99 rounds and you fizzle everything. Open round 1 with an Aura and never let it drop.",
+    "She recasts your Aura on you when you cast one, so refreshing is cheap; just make sure one is always active.",
+    "Do not Feint her: any Feint, Mass Feint included, triggers Camp Bandit. Use other traps or stack blades instead.",
+    "Attack with Myth, Life, or Death (+15%); she resists Balance 40% and hits for +150%, so shield up.",
+    "Handle the three Fonts and finish with a boosted hit while your Aura keeps your accuracy safe."
+  ],
+  "cheatNotes": [
+    "If you start any round without an Aura, she gives you a -200% Accuracy Aura for 99 rounds. Keep an Aura up from round 1 on.",
+    "Astral or Shadow summoned minions get targeted but take no aura, since none exists for those schools.",
+    "Dual-school minions catch the -200% accuracy on their second school.",
+    "Casting an Aura makes her recast it on you, which is harmless and keeps you covered against the accuracy cheat.",
+    "Feinting her triggers Camp Bandit, so skip Feint entirely.",
+    "Mass Feint does not dodge it either, so use no Feint of any kind."
+  ],
+  "groupFight": true
+}

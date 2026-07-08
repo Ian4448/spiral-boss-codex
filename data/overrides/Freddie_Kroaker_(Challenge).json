@@ -1,0 +1,40 @@
+{
+  "strategy": [
+    "Team fight (17,140 health, two Arcane Toads). The fight is school-gated: each action type is allowed only for certain schools, and off-school actions get you hit by a Tier 5 minion. Match casters to allowed schools (blades: Storm/Death/Life; shields: Ice/Myth/Death; traps: Myth/Fire/Ice; DoTs: Fire/Myth/Life; heals: Life/Storm/Fire; pip spells: Balance).",
+    "The kill clock is his GROWTH charms: he adds one Balanceblade GROWTH to himself each round after round 2, and at 3 GROWTH charms he wipes the team for 1,000,000 damage.",
+    "Exploit the healing cheat: any heal you cast makes him Enfeeble himself, removing all his charms including the GROWTH stacks, and Cleanse Wards the target, clearing Nightmare Prone marks. Use a heal to reset his GROWTH before it reaches 3.",
+    "Watch the Nightmare Prone stun marks (round 1 and every fourth round). A marked wizard gets hit at end of round; Cleanse Ward removes the mark, or the healing cheat clears it.",
+    "Do not cast All-Allies spells (Equalize caps your damage at 3,000), and mind the toad limits: 3+ helpful charms draws Banshee, 3+ traps on an enemy draws Immolate.",
+    "Set up within the school rules, keep GROWTH cleared with heals, and burst him down between resets."
+  ],
+  "cheatNotes": [
+    "",
+    "Round 1 he puts a Dispel of your own school on each wizard and a Nightmare Prone stun mark on a random one.",
+    "Each round after round 2 he adds a Balanceblade GROWTH to himself and re-Dispels every wizard.",
+    "He skips that GROWTH cast if a GROWTH charm was cleared off him the previous turn.",
+    "At 3 GROWTH charms he ends the round with Call of Khrulhu for 1,000,000 damage to all wizards.",
+    "Any heal (spell, heal charm, heal global, or outgoing-heal aura) makes him Enfeeble off all his own charms and Cleanse Ward all wards off the target. Use it to strip his GROWTH and clear Nightmare marks.",
+    "Casting an All-Allies spell makes him Equalize the damage cap down to 3,000.",
+    "A helpful charm from a non-Storm/Death/Life wizard draws Ice Wyvern on the receiver.",
+    "A harmful charm from a non-Death/Storm/Ice wizard draws Stone Colossus on the caster.",
+    "A helpful ward from a non-Ice/Myth/Death wizard draws Helephant on the receiver.",
+    "A harmful ward from a non-Myth/Fire/Ice wizard draws Centaur on the caster.",
+    "A DoT from a non-Fire/Myth/Life wizard draws Stormzilla on the caster.",
+    "A HoT from a non-Life/Storm/Fire wizard draws Skeletal Pirate on the receiver.",
+    "A pip-manipulation spell from a non-Balance wizard draws Mana Burn on the receiver.",
+    "",
+    "A wizard holding 3+ helpful charms gets Banshee from the Star-Storm toad.",
+    "An enemy holding 3+ harmful wards gets its caster hit with Immolate.",
+    "Targeting Freddie or using an All-Enemies spell makes the toad give every wizard a Living Nightmare card.",
+    "",
+    "",
+    "Round 1 and end of every fourth round, the Moon-Storm toad casts Smoke Screen and marks a random wizard Nightmare Prone.",
+    "Cleanse Ward removes the Nightmare Prone mark.",
+    "End of each round, a marked wizard gets hit with one of the toad's listed nightmare spells.",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "groupFight": true
+}

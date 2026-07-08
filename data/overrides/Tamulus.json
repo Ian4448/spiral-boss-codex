@@ -1,0 +1,12 @@
+{
+  "strategy": [
+    "Storm boss (17965). Hit with Myth or Life (+35%); never Storm (80% resist).",
+    "Only two cheats, both on timers: every 4th round he Death-Fuels a random wizard and every 5th round he lands his Natural Attack Death DoT. Plan heals around those windows.",
+    "With no minions and predictable cheats, take your time: stack blades, Feint, and land one big Myth or Life hit. Bring Triage for his Death damage-over-time."
+  ],
+  "cheatNotes": [
+    "Every 4th round he casts Death Fuel (+35%) on a random wizard, setting up bigger Death damage. Cleanse it or heal through the follow-up.",
+    "Every 5th round he lands his Death damage-over-time on a random wizard. Keep a Triage handy and stay topped up around rounds 5 and 10."
+  ],
+  "groupFight": false
+}

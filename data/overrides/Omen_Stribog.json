@@ -1,0 +1,41 @@
+{
+  "strategy": [
+    "Fight this as a full team of four and join on the very first round. Anyone who joins late eats an enchanted Mana Burn for 1,500 base damage; casting Unbalance can bypass that penalty.",
+    "Kill the Dark Sentinel first. At the start of round 1 it cheat-casts an enhanced Shadow Sentinel that intercepts 75% of your damage for 99 rounds, so nothing sticks to the real targets until it is dead. Note: if you revive it with a Heal All, it will NOT re-cast the Sentinel.",
+    "Assign roles by column as the guide's chart shows: a Fire hitter is ideal for Backdraft traps, a Balance support for Hex traps and Bladestorms, plus a dedicated healer. Spend rounds 1-2 loading traps.",
+    "Handle blades carefully. If anyone casts a charm or global, the Dark Sentinel cheat-casts Enfeeble on caster and target (twice if you self-blade), so protect single-target blades with Aegis and have everyone else use Bladestorm instead of self-blades.",
+    "Feint must be Indemnity-enchanted, since Omen removes any unprotected Feint from himself and allies. The Balance version of Feint does not trigger the removal at all.",
+    "Never cast a Shadow Creature spell; Omen answers with a Moon spell adding backlash to that wizard (capped at 30 now). Also expect the Dark Seraph to drop an Absorb on all enemies whenever it heals.",
+    "Build to a burst: around round 4 Shatter and Aegis-blade, round 5 stack blades, then round 6 land the big AoE hit while feints are up. If Omen is the last one alive he stacks a Berserk-looking Amplify aura (+10% up to +50% damage) and recasts it if removed, so close him out fast rather than trading turns."
+  ],
+  "cheatNotes": [
+    "",
+    "Join before the duel starts. A wizard who runs in after combat begins gets hit with an enchanted Mana Burn for 1,500 base damage, draining pips and health.",
+    "Casting Unbalance neutralizes the late-join Mana Burn cheat if someone does arrive late.",
+    "Any unprotected Feint you place on Omen or his allies gets stripped off immediately. Enchant your Feint with Indemnity so it survives.",
+    "Mass Feint is punished by also removing the trap from the wizard who cast it, so it is not a safe way to feint here.",
+    "The Balance-school version of Feint is the exception: it does not trigger Omen's feint-removal cheat at all.",
+    "If you cast a Shadow Creature spell, Omen replies with a Moon spell that adds backlash to you. Avoid Shadow creature hits.",
+    "That backlash cheat is now capped and will not push your backlash past 30, so it is less punishing than it used to be.",
+    "When Omen is the only boss left he buffs himself with an Amplify aura; the exact tier and refresh timing vary.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "The self-buff aura looks like Berserk but is purely an outgoing damage boost, without Berserk's incoming-damage downside.",
+    "Removing Omen's damage aura is wasted effort because he simply recasts it. Just race him down instead.",
+    "",
+    "At the start of round 1 the Dark Sentinel shields the enemy team with an enhanced Shadow Sentinel that soaks 75% of incoming damage for 99 rounds. Kill the Sentinel first so your hits land on the real targets.",
+    "If you accidentally revive the Dark Sentinel with a Heal All spell, it will not re-cast its Shadow Sentinel, so a revived Sentinel is far less of a problem.",
+    "Casting any charm (blade) or global spell makes the Dark Sentinel Enfeeble both the caster and the receiver. Minimize charm and bubble casts near the Sentinel.",
+    "Self-blading is especially punished: the Sentinel casts Enfeeble on you twice. Use Aegis-protected blades from teammates or Bladestorm instead.",
+    "Negative charms like Entangle backfire, stripping every blade off both the target and the caster. Avoid casting negative charms on the enemies.",
+    "Multi-target buffs like Bladestorm are safer: the Sentinel only removes the blade from the caster, not the whole team, so most of your blades survive.",
+    "Casting any ward or shield risks the Dark Sentinel stealing that ward off you. Do not rely on shields for defense here.",
+    "",
+    "Whenever the Dark Seraph heals, it also drops an Absorb on all enemies, adding a damage shield you must chew through. Expect to overhit or strip it around Seraph heals."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

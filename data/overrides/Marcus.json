@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "This is a 19,660-health Ice boss - bring a team with a Fire hitter and support. He is stunable, so stuns can buy setup rounds.",
+    "Hit Fire. He takes +30% Fire and resists 72% Ice and 42% most schools, so Fire is your clean damage.",
+    "Every blade, global, or trap you cast gives him an 800-damage Frozen Armor absorb, and these stack. Keep setup lean and plan a hit big enough to punch through the absorbs you generate.",
+    "Do not let 3 or more helpful wards sit on him at end of round, or he self-casts a protected +40% Iceblade.",
+    "Because setup feeds his absorbs, funnel to a single Fire hitter, minimize charm/trap count, and overpower his stacked Frozen Armor with one large hit. Ratatoskr's Spin will Freeze him if you have it."
+  ],
+  "cheatNotes": [
+    "",
+    "Any blade, global, or trap you cast gives him a Frozen Armor absorbing 800 damage. These stack, so overpower them with a bigger hit rather than chipping.",
+    "If 3 or more helpful wards are on him at the end of a round, he self-casts a protected +40% Iceblade.",
+    "Damaging him with Ratatoskr's Spin makes him Freeze himself."
+  ],
+  "groupFight": true
+}

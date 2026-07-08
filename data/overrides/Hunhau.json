@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "This is a raid DPS race with heavy anti-healing. Hunhau seeds Healing Traps and -50% Healing Charms on wizards and often heals himself 400 per round, so bring Doom and Gloom or infections to shut down his healing and Cleanse Charm to clear the anti-heal off your team.",
+    "Do not attack with Life; many of his cheats give himself a -80% Life Shield. Hit with Storm, Fire, Ice, Myth, or Balance instead.",
+    "Every round he casts one of six random elemental effects mixing a Fire DoT, a self-shield, a self-heal, or a Stormblade. Expect a self-blade or shield most rounds and strip or pierce before the hitter goes.",
+    "Cleanse the 250 Healing Traps off wizards before your healer acts, or heals get undercut.",
+    "Prepare for his end-of-round Death Meteor Strike that hits all wizards for 100% max health. Keep everyone shielded, absorbed, and topped when it looms.",
+    "Hitter funnels blades and bursts; supports strip his self-shields and blades; healer fights the anti-heal."
+  ],
+  "cheatNotes": [
+    "Every round he fires one of the six elemental cheats below at a random wizard, so plan for a mix of self-buffs and anti-heal each turn.",
+    "His per-round cheat can land on any wizard, so nobody is safe from the healing debuffs.",
+    "Fire cheat: a 300 Fire DoT and a 250 Healing Trap on a wizard plus a 400 self-heal. Cleanse the trap and cut his heal.",
+    "Ice cheat: a Healing Trap on a wizard, a -80% Life Shield on himself, and a -50% Healing Charm on the wizard. Do not hit into that Life shield.",
+    "Storm cheat: a Stormblade on himself, a 400 self-heal, and a -50% Healing Charm on a wizard. Strip the blade before he swings.",
+    "Myth cheat: a 300 Fire DoT and Healing Trap on a wizard plus a -80% Life Shield on himself.",
+    "Life cheat: a Stormblade and self-heal for himself and a 300 Fire DoT on a wizard.",
+    "Death cheat: a Stormblade and -80% Life Shield on himself and a -50% Healing Charm on a wizard.",
+    "His end-of-round Death Meteor Strike hits every wizard for 100% max health. Be at full with shields up before it fires."
+  ],
+  "groupFight": true
+}

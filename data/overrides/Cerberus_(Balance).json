@@ -1,0 +1,31 @@
+{
+  "strategy": [
+    "Kill order is the strategy: focus the Fire head FIRST. It never shields, traps placed on it are cheat-free, and once it dies the Balance and Myth heads can no longer cheat-cast their Tower Shields at all.",
+    "While all three heads are up, never attack a shielded head. Every 5 rounds the Balance and Myth heads each get three -40% Tower Shields; hitting a shielded head makes BOTH other heads retaliate for ~750 each — and multi-target spells trigger it twice.",
+    "Supports: put all traps on the Fire head only. The Balance and Myth heads strip traps cast on them unless you enchant with Indemnity (or Vaporize their cleanse).",
+    "Hitter: build Myth, Life, or Death damage (+30% boost on the Balance head; never Balance into 80% resist). Blades funnel to the hitter as usual.",
+    "Once Fire is down, trap the remaining heads freely (Indemnity still helps), and clear Balance and Myth with boosted AoE hits. Both are stunable — stuns cover your setup rounds.",
+    "If you must hit through shields, dispel first — dispels stop the retaliation cheat."
+  ],
+  "cheatNotes": [
+    "",
+    "On a 5-round timer, the Balance and Myth heads each stack three -40% Tower Shields on themselves. Plan your burst for the rounds before the refresh.",
+    "Hitting a head that still has its cheat shields makes the other two heads counter for roughly 750 damage each. With three heads up that's ~1,500 per mistake.",
+    "Dispelling a head prevents its retaliation hit — useful if you have to swing into shields.",
+    "Shadow creature spells count as attacks and set off the retaliation, so time them for shield-free heads.",
+    "AoE spells and Beguile trigger the retaliation twice. Save your AoE for after the Fire head is dead or shields are gone.",
+    "Call of Khrulhu is the exception — it doesn't set off the retaliation.",
+    "The Balance and Myth heads remove any trap you place on them. Put traps on the Fire head instead.",
+    "Vaporize dispels their trap-removal cheat if you need traps on Balance or Myth.",
+    "With Elemental or Spirit Trap, only the last trap of the three gets removed — the first two stick.",
+    "Pet may-cast traps don't trigger the removal.",
+    "Windstorm-type multi-traps don't trigger the removal either.",
+    "Indemnity on any trap spell fully protects it from being removed. Enchant your Feints.",
+    "",
+    "The Fire head never casts Tower Shields — it's always safe to attack.",
+    "Shields sometimes trade between heads, so re-check who is shielded each round before committing a hit.",
+    "Traps on the Fire head are completely cheat-free. Stack everything there first.",
+    "Killing the Fire head shuts off the Tower Shield cheat for the other two heads permanently. This is why Fire dies first."
+  ],
+  "groupFight": true
+}

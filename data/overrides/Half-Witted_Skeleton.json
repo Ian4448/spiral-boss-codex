@@ -1,0 +1,11 @@
+{
+  "strategy": [
+    "Attack with Fire; it takes +40% and the skeleton resists Ice 40%.",
+    "With only 1,115 health, one bladed Fire hit should end it, so do not overinvest in setup.",
+    "Its only cheat is a reactive Colossus tied to a Tired Fighter being damaged, so focus it down before that chain matters."
+  ],
+  "cheatNotes": [
+    "After a Tired Fighter is damaged, this skeleton follows up with Colossus once Lazy Henchman uses Rebirth. With only 1,115 health it dies to one Fire hit, so drop it fast."
+  ],
+  "groupFight": false
+}

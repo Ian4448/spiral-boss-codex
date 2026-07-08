@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Low health (795), so one solid Ice hit ends it, but he keeps a -70% Tower Shield he replaces whenever damaged.",
+    "Strip the shield with a manipulation spell like Steal Ward (that removes it without the replace), then hit with Ice (+20%, resists Fire 40%).",
+    "Or just hit hard enough with Ice to punch through the -70% shield in one blow.",
+    "Expect a Star attack (about 75, occasionally 600) to all wizards every second round, so keep healed. Note wards on you can trigger him to strip all wards when his Star hits."
+  ],
+  "cheatNotes": [
+    "He shields with a -70% Tower Shield on Round 1; either strip it or hit hard enough to break through.",
+    "Damaging him makes him replace the Tower Shield, so a chip hit just resets it; use one big hit or remove it first.",
+    "Manipulation spells like Steal Ward take the shield off without triggering the replace.",
+    "",
+    "Hitting him with an all-enemies spell gets you a -60% Black Mantle, so single-target may be safer.",
+    "Every second round he hits the whole team with a Star spell (about 75 damage), so keep healed.",
+    "",
+    "That Star spell occasionally hits for 600 instead of 75, so keep a buffer of health.",
+    "After the minions die he casts the Star attack every round, and twice on every fourth round.",
+    "If a wizard hit by the Star has any wards, he strips all wards from that wizard and himself, so do not over-shield.",
+    ""
+  ],
+  "groupFight": false
+}

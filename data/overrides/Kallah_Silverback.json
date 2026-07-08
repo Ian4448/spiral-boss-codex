@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Always keep a Prism on Kallah before you attack — hitting him without a prism makes him self-heal with Minor Blessing.",
+    "With a prism up, every single-target hit also makes him blast himself for 500 and strip a prism, and that self-damage lands even if your attack did not consume the prism.",
+    "So keep prisms stocked and let him chip his own health down alongside your hits.",
+    "Stack blades and traps, then hit single-target (pet spells don't count for either cheat); he has no school resist, so any school works.",
+    "With only 5,910 health, a couple of prism-backed hits plus his own self-blasts finish him fast."
+  ],
+  "cheatNotes": [
+    "Attack him single-target without a prism on him and he heals himself with Minor Blessing — always prism him first.",
+    "",
+    "With a prism on him, each single-target hit makes him Ice Blast himself for 500 and remove a prism — free extra damage, so keep prisms stocked.",
+    "The 500 self-hit happens even when your attack didn't use up the prism, so you get the bonus regardless — reapply and keep swinging."
+  ],
+  "groupFight": false
+}

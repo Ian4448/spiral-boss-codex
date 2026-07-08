@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "This is a 20,220-health Darkmoor boss with minions, so run it as a team: a hitter, supports who blade and Feint, and a healer. She is Ice and takes boosted Fire damage, so hit with Fire.",
+    "Pressure her minions (Velma). Whenever the Hierophant casts a helpful Charm or Global, her minions pile a +35% same-school damage charm on her, so she snowballs blades fast if you leave them up.",
+    "Expect chip damage: she Chain-Lightnings a random wizard and Velma hands out copies of her spells.",
+    "She casts a +40% Iceblade that applies two blades at once, so her damage builds quickly; shield the team and keep the fight moving.",
+    "Stack blades and Feints, then land one big Fire AoE that clears Velma and the Hierophant together."
+  ],
+  "cheatNotes": [
+    "Whenever the Hierophant casts a helpful Charm or Global, her minions pile a +35% same-school damage charm on her. Pressure the minions or she snowballs blades fast.",
+    "She casts Chain Lightning on a random wizard for chip damage.",
+    "Her minion Velma hands a random wizard a copy of one of her spells.",
+    ""
+  ],
+  "groupFight": true
+}

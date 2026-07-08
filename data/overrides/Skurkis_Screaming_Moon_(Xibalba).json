@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Hit with Ice or Life (+35% each) and avoid Death (80% resist).",
+    "He is stunable and beguilable; use stuns to interrupt his setup.",
+    "He summons a Shambling Zombie on Round 1 that becomes active Round 3; that zombie Sacrifices itself on him for 3,000 healing every 2-3 Rounds, and he resummons it when it dies.",
+    "Kill the zombie to stop the heal, but expect a replacement; time your burst so the zombie cannot Sacrifice-heal him back up.",
+    "Stack Ice or Life blades and Feint, then land one big hit through his healing window."
+  ],
+  "cheatNotes": [
+    "He summons a Shambling Zombie on Round 1 that wakes on Round 3; it is his healing engine, so plan to remove it.",
+    "The zombie Sacrifices itself on Skurkis for 3,000 healing every 2-3 Rounds; kill it or burst him before it heals him.",
+    "When the zombie dies he summons another, so time your kill on Skurkis around the heal rather than grinding zombies."
+  ],
+  "groupFight": false
+}

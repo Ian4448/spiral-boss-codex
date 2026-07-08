@@ -1,0 +1,36 @@
+{
+  "strategy": [
+    "Run this as 1 hitter plus 3 support. Fire (Rain of Fire) or Ice (Snow Angel) hitters are best, needing only about 9 buffs; Death, Life, and Myth work with 10-11 buffs.",
+    "The whole fight hinges on the Round 2 Shadow Sentinel with 100% intercept: every AoE you cast on the minions is intercepted onto the Druid, so you kill him without hitting him directly. Do not clear the Sentinel.",
+    "Spend Rounds 1-3 stacking roughly 9-11 buffs on the hitter (school blade, Sharpened Blade, Balanceblade/Dark Pact, Elemental or Spirit blade, and a damage aura).",
+    "Keep a Storm Dispel on the Druid at all times so he cannot remove your blades, hold 45%+ global resist on the hitter and 60%+ on support, and drop Virulent Plague if a Death wizard is present.",
+    "Do NOT Feint him: a Feint makes him strip all his own Wards, and an Indemnity Feint deletes your other traps. Buff with blades instead.",
+    "Never kill a minion before the boss or he casts Rebirth and revives them. Round 4 the hitter casts the enchanted AoE (Rain of Fire / Snow Angel) on the minions; intercept damage kills the Druid.",
+    "Round 5, mop up the low-health minions with a cheap Tempest treasure card. Ideal clear is 4-6 rounds."
+  ],
+  "cheatNotes": [
+    "Join the duel on time; any wizard who enters late gets hit with Impede (an accuracy/pip dispel).",
+    "At the start of Round 1 he casts a Moon spell to summon three copies of himself: a Moon, Star, and Shadow minion, each with its own cheats.",
+    "",
+    "",
+    "",
+    "On Round 2 he casts a Shadow Sentinel with 100% intercept, so all your minion-targeted AoE damage is redirected onto the Druid himself. This is the exploit the whole fight is built on.",
+    "Every fourth round the Star minion drops an AoE aura on his own team (Brace for defense, Quicken for speed, or Vengeance for crit).",
+    "",
+    "",
+    "",
+    "The Shadow minion periodically Donates a Shadow Pip to the entire enemy team, speeding up their shadow attacks.",
+    "The Moon minion periodically attacks every wizard with a random Shift polymorph spell (Grendel, Dread Paladin, Piscean, and others).",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Placing a Feint makes him remove all Wards from himself; a Mass Feint also strips his minions' Wards; a Feint carrying Indemnity deletes any of your other traps or conversions and leaves only the Feint. Avoid Feinting him.",
+    "If any minion dies before the Druid, he casts Rebirth at end of round and revives every defeated minion, so kill him first through the intercept."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

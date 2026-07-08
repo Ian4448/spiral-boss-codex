@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Raid boss, 90,000 health, coordinated team. He resists most schools heavily; Fire and Myth are only 44% resisted while Ice, Life, Storm, Death, and Balance are 64 to 84%. Check the resist line and prism accordingly.",
+    "Centerpiece exploit: he randomly puts 'Brain Power' effects on himself or wizards. Remove one with a Jinn's spell and he slaps a +200% Damage Trap on himself, a massive free trap for your hitter.",
+    "That +200% trap ignores Stack Overflow and can be your 5th trap, but keep the total at 5. A 6th trap triggers Stack Overflow and removes it.",
+    "Minimize loose Blades (he answers with Wall of Blades or Oni's Destruction) and stray Weakness/Dispel (he answers with Glacial Fortress or Jinn's Vexation).",
+    "Funnel blades to the hitter and fire through the +200% trap for a raid-sized burst; the healer sustains the team."
+  ],
+  "cheatNotes": [
+    "Casting a Blade makes him shield up with Wall of Blades or Oni's Destruction. Do not over-blade.",
+    "Casting a Weakness or Dispel makes him cast Glacial Fortress or Jinn's Vexation.",
+    "He randomly applies 'Brain Power' effects that deal and heal nothing and last forever. Harmless on their own, but the setup for the exploit.",
+    "Remove a Brain Power effect with a Jinn's spell and he puts a +200% Damage Trap on himself. It survives as a 5th trap, but a 6th trap triggers Stack Overflow and removes it.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "groupFight": true
+}

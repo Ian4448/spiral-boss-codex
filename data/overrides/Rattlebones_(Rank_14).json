@@ -1,0 +1,38 @@
+{
+  "strategy": [
+    "Run a four-wizard team: Balance, Ice, Storm (hitter), and Death. Balance and Ice carry the fight with their dispels; Death traps and Storm hits.",
+    "Everyone joins in the first two Rounds. Joining late triggers a 3,000-damage Mana Burn (Unbalance dispels it if you must arrive late).",
+    "Kill the Fairy Queen first. She summons two 4,160-HP fairies on Round 1 and every 4 Rounds after a minion dies, Enfeebles anyone who blades or casts globals, and Satyr-heals Rattlebones, so free blading only comes after she's gone.",
+    "Both bosses swap your Feints so you keep the 70% and they get 30%. Enchant Feints with Indemnity, or dispel with Ice Melt / Balance before feinting.",
+    "Don't heal with pets or spells near Rattlebones; it cheat-casts Doom and Gloom. Strangle dispels it, otherwise leave healing pets home and use potions.",
+    "Layer protected Feints and blades (Aegis/Indemnity) on the Fairy Queen and hit her down, then blade Rattlebones and finish him and any minions with an AoE like Glowbug Squall. Make sure nobody dies on the kill Round or the chest is lost."
+  ],
+  "cheatNotes": [
+    "Joining after Round 2 gets you a 3,000 Mana Burn, so join early.",
+    "Unbalance dispels the late-join Mana Burn.",
+    "If Rattlebones dies while the Fairy Queen lives, she casts an avenge cheat; another reason to drop her first.",
+    "Any heal you cast triggers Doom and Gloom (no healing), so Strangle it off or pre-heal before it lands.",
+    "Strangle dispels the Doom and Gloom so heals work again for a while.",
+    "Once dispelled, heals can be cast successfully for a time.",
+    "Even pet heals trigger the Doom and Gloom, so leave healing pets home.",
+    "Feinting Rattlebones makes him Swap Ward the 70% trap onto you, so protect it first.",
+    "Melt dispels the Swap Ward.",
+    "Indemnity on your Feint prevents the Swap Ward entirely.",
+    "The Fairy Queen summons two 4,160-HP Fairies on Round 1 and every 4 Rounds after a minion dies, so keep AoE ready and kill her to stop the flow.",
+    "Entangle won't stop the summon, only delays the new fairies becoming active by two Rounds.",
+    "Casting a charm or global gives a random chance she Enfeebles that wizard, so don't over-rely on globals while she lives.",
+    "Dissipate dispels that Enfeeble.",
+    "A multi-target blade (like Bladestorm) only loses the caster's copy, so the rest of the team keeps their blades.",
+    "Plague and Virulent Plague also trigger the Enfeeble cheat.",
+    "Feinting the Fairy Queen also gets Swap Warded onto you, so protect it with Indemnity.",
+    "The Fairy Queen Satyr-heals Rattlebones (990) off Shadow Sentinel backlash, so burst him rather than chipping.",
+    "",
+    "",
+    "A fairy below ~25% health Sacrifices for 2,100 to heal the Queen 700 (1,050 with her incoming heal), so burst fairies down rather than chipping.",
+    "",
+    "A Fire fairy below ~25% Immolates for 2,100 to itself to hit your last attacker for 600 Fire, unless that wizard is already defeated.",
+    ""
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

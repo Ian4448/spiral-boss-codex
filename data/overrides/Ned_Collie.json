@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "Hit with Life (+30%), avoid Death (67% resist), and note he pierces 27% and hits at +119% damage, so shield up.",
+    "He steals any positive charm you cast (Steal Charm, so he keeps your blade). Feint and other traps go on him safely, so lean on traps over self-blades.",
+    "When you do blade, use multi-blade spells (Elemental or Spirit Blade), he only removes the first blade so you keep the rest. Aegis fully protects a key blade.",
+    "Avoid positive wards (he Steal-Wards them) and heal-over-time (he answers with Snow Drift), use flat heals and resist instead.",
+    "Stack traps on him plus an Aegis-blade, then land one big Life hit."
+  ],
+  "cheatNotes": [
+    "",
+    "Cast a positive charm and he Steal-Charms it, taking your blade for himself, protect blades with Aegis or use traps instead.",
+    "On multi-blade spells he only steals the first blade, so an Elemental or Spirit Blade lets you keep the rest.",
+    "Secondary-effect blades like Shadow Shrike also trigger the steal.",
+    "Aegis fully protects a charm from the steal, put it on your key blade.",
+    "Cast a positive ward and he Steal-Wards it, skip shields on yourself and rely on resist.",
+    "Cast a heal-over-time and he answers with Snow Drift on you, use flat heals instead."
+  ],
+  "groupFight": false
+}

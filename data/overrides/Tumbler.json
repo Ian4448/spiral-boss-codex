@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "Team plan: stack blades on one hitter, cast double Feints, and burst Tumbler in the first two or three rounds before Defense Mode engages on Round 4. The guide killed him in two rounds this way.",
+    "Read the aura cycle. Offense Mode is a +100% Berserk aura (scaling to +400% with four wizards), so he hits hard. Defense Mode from Round 4 is a -100% to -115% Brace on himself, so he takes almost no damage. Land your kill shot during an Offense window when his Brace is down.",
+    "Solo: play defensively through the first offense phase, build blades and pips, and unleash your big hit during a later Offense window (around Round 7) once Brace has cycled off.",
+    "Do not waste turns stripping his auras or protected charms. Removing an aura just makes him recast it, his Bladestorm is Aegis-protected, and his Feint is Indemnity-protected.",
+    "Never join late or return after fleeing - Tumbler casts Mana Burn (one player lost 12,285 damage even with 38% resist).",
+    "Pierce his resist. He resists Ice/Myth/Death 70% but boosts Fire/Storm/Life 5%. Hit with a boosted school and add Infallible; comments note Shrike plus Infallible works great, though raw Shadow spells like Shrike can trigger aura recasts."
+  ],
+  "cheatNotes": [
+    "Joining the duel late triggers Mana Burn on you, draining pips and dealing heavy damage, so enter on time.",
+    "Fleeing and returning to the duel also triggers Mana Burn, so avoid fleeing once the fight is underway.",
+    "At the start he gains a +100% Berserk aura (up to +400% with four wizards) that spikes his outgoing damage, so expect big hits during offense rounds.",
+    "On Round 4 he swaps to a -100% Brace aura (up to -115% with four wizards) that reduces his incoming damage to almost nothing, so do not waste your kill shot while it is up.",
+    "The auras cycle every three rounds after Round 4, so plan your burst for the offense windows when Brace is off.",
+    "If you remove his aura he simply recasts it, so dispelling it just wastes a turn."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

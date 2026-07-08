@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "This is a 19,600-health Shadow boss - bring a team with one hitter and support. Everyone joins from the start to avoid Mana Burn.",
+    "Hit with a school she does not resist; she only resists 35% Myth and takes +10% Storm. Storm is a safe primary damage school here.",
+    "Do not stack normal traps on her. Each trap gives her a stacking +10% Amplify (shown as Berserk, 99 rounds) that keeps growing her damage. Use Mass Feint (+75%) instead - it does not trigger the Amplify.",
+    "Be careful with damage blades and globals: they curse the caster and weaken the wizard who received the blade. Multi-target blades like Bladestorm dump both the Curse and Weakness on the caster.",
+    "Never try to remove her Amplify aura - each removal attempt jumps it to +50%, then +100%. Leave it alone, set up with Mass Feint, and burst her before her every-5-round 500 Death AoE grinds the team down."
+  ],
+  "cheatNotes": [
+    "A wizard who joins late gets hit with Mana Burn (Shadow), draining pips. Enter from the start.",
+    "Every fifth round she casts a Shadow Diablo Qarin dealing 500 Death damage to all wizards.",
+    "She casts that 500 Death AoE once per wizard present, up to four times, so it hits harder in a full group.",
+    "Casting a damage-type blade or a global places a protected Curse on the caster and a protected Weakness on the wizard who received the blade.",
+    "Secondary blade or global effects instead give her the Weakness and hand the caster a Shadow Trap.",
+    "Multi-target blades like Bladestorm put both the Weakness and the Curse on the caster.",
+    "Placing a harmful trap on her gives her a +10% Amplify (99 rounds) that grows another 10% with each additional trap. Avoid normal traps.",
+    "Mass Feint (+75%) is the exception - it does not trigger the Amplify, so use it for your setup.",
+    "",
+    "Trying to remove her Amplify aura backfires: the first attempt makes it +50%, further attempts make it +100%. Do not touch it."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "Join the duel on time — latecomers eat a Grand Phoenix before the fight even starts.",
+    "Hit with Ice, Life, or Balance only. He resists everything else at 70% and takes +5% from these three.",
+    "Let his end-of-round 'Good heads!' cheat work for you: every round he hands your team a free buff or heal (Bladestorm, Rebirth, Legion Shield, Stunblock, and more). You can afford a slower setup because of this.",
+    "Plan around round 5: at the end of it he casts Wild Bolt on a random wizard, then Cleanse Wards ALL traps off himself. Either finish before the end of round 5, or hold your Feints and traps until round 6.",
+    "He blades himself (+40% Fire or +30% Shadow) after each natural attack, so his damage climbs. Don't let the fight drag — stack Ice blades, place traps after his round-5 cleanse, and hit."
+  ],
+  "cheatNotes": [
+    "Don't join late. Anyone who enters after the fight starts gets hit with Grand Phoenix immediately.",
+    "Free support every round: at the end of each round he casts one of a list of helpful spells (blades, shields, heals, stunblocks) on your team. This is pure upside — no counterplay needed.",
+    "",
+    "At the end of round 5 a random wizard takes a Wild Bolt. Keep health topped up going into that round.",
+    "Right after the round-5 Wild Bolt he strips every trap off himself. Don't place Feints or traps before round 6 unless you're hitting before the end of round 5.",
+    "",
+    "Every Fire natural attack he uses gives him a +40% Fireblade, so his next Fire hit gets much bigger.",
+    "Every Shadow natural attack gives him a +30% Shadowblade. His damage snowballs the longer the fight runs — kill before he stacks several."
+  ],
+  "groupFight": false
+}

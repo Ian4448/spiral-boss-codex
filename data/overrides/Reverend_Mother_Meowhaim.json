@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Hit with Death - she takes 15% more from Death and resists Life 30%.",
+    "She Beguiles a random wizard every 3rd round; solo this can turn your hit around, so plan your attack off those rounds.",
+    "If you Feint her she Swap Wards it away. Use Mass Feint instead (does not trigger), protect a single Feint with Indemnity, or place the Feint on the same round she Beguiles (also safe).",
+    "She has strong outgoing healing - pack Doom and Gloom or an Infection so she cannot heal back your progress.",
+    "Do not join late - a latecomer just gives her a protected 500 Spirit Armor to chew through."
+  ],
+  "cheatNotes": [
+    "A wizard joining late gives her a protected Spirit Armor (500 absorb). Enter on time.",
+    "Every 3rd round she Beguiles a random wizard. Plan hits around those rounds.",
+    "Feinting her makes her Swap Ward the trap off herself. Use Mass Feint, Indemnity, or Feint on her Beguile round.",
+    "Indemnity on the Feint prevents the Swap Ward. Recommended for a single Feint.",
+    "Mass Feint does not trigger the Swap Ward - a safe way to trap her.",
+    "Feinting on the same round she casts Beguile also avoids the Swap Ward."
+  ],
+  "groupFight": false
+}

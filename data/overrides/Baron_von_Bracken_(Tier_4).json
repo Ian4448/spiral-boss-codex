@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "Kill the minions first. The Life minions cast endless Bladestorms and Pigsies, so three blades plus an AoE should clear them in round one before you build on the Baron.",
+    "This is a one-shot puzzle: any damage or steal spell under 1,000,000 (half his 2,000,000 health) heals him to full and Triages off all DoTs. Chipping is impossible — build one colossal hit.",
+    "Assign one hitter to carry the school-specific buffs (school blade, school spear, elemental/spirit blade and trap, Sharpened Blade, Potent Trap, Shadow Shrike for 50% pierce). Supports feed Balance/Death spells and treasure-card blades.",
+    "Do not cast Feint directly on the Baron — he retaliates with a Feint or a 420 Death natural attack. Mass Feint (and the Balance version of Feint) is exempt, so stack trap damage that way.",
+    "Hit into Life if you can (+5%) and never into Death — he resists it 73%. His own +40% Deathblade and +10% Deathspear are protected, so the healer keeps the team up through his 181% boosted damage.",
+    "Never throw a DoT or probing hit — even a Scald with no upfront damage counts as an under-threshold spell and resets him to full.",
+    "When the hitter can clear 1,000,000+ in one shot, go. A hit over half his health skips the heal entirely; two such hits, or one monster hit, finish him."
+  ],
+  "cheatNotes": [
+    "Casting Feint on him gets the caster hit with a 420 Death natural attack. Annoying but survivable — still, prefer the exempt Balance Feint.",
+    "The Balance-school version of Feint does NOT trigger the counter. It's the trap of choice for this fight.",
+    "Any damage or steal spell dealing less than 1,000,000 makes him heal 100% of his health and Triage all overtime effects. Never attack until the team's single hit can break that number.",
+    "Even a DoT with no up-front damage (like Scald) counts as a failed hit and triggers the full heal. No probing attacks of any kind.",
+    "Hits above 1,000,000 (over half his max health) bypass the heal completely. That threshold is the entire fight plan."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

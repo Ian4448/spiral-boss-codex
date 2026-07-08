@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Attack with Fire (+35%); he resists Ice 35%.",
+    "Every blade, trap, or shield you cast makes him Hex you (+35% trap boosting his next hit), and Globals trigger it too. Buff through Auras and pet spells instead, which do not trigger the cheat.",
+    "Because setup gets punished, keep it lean: a couple of blades (accept the Hexes) and shield his boosted hits, or Cleanse the Hex before he attacks.",
+    "He is only 4,540 health, so a fast Fire burst ends it before the Hexes stack.",
+    "Stack minimal setup, shield, and finish."
+  ],
+  "cheatNotes": [
+    "Casting a blade makes him Hex you (+35% trap boosting his next hit). Shield or cleanse it, or use Auras which do not trigger it.",
+    "Globals trigger the Hex too, but Auras do not, so buff with Auras when you can.",
+    "Pet spells do not trigger it either.",
+    "Casting a trap or shield also triggers the +35% Hex on the caster, so every ward-type setup gets punished.",
+    ""
+  ],
+  "groupFight": false
+}

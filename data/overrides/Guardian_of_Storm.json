@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Raid puzzle boss: it's invulnerable while it holds charms. Round 1 it gives itself 8 Guiding Light charms and an Invulnerability Aura.",
+    "As a team, strip all 8 charms off it (Steal Charm, Cleanse Charm, or other charm removal) — the instant it has zero charms the Invulnerability Aura falls off.",
+    "With the aura gone, any hit kills it (only 100 health).",
+    "Keep health up while you strip charms — it casts a Major Flux for 5% of your max health."
+  ],
+  "cheatNotes": [
+    "Round 1 it stacks 8 Guiding Light charms on itself plus an Invulnerability Aura — it can't be damaged yet.",
+    "The instant it has no charms the Invulnerability Aura falls off, so remove all 8 charms and then hit it."
+  ],
+  "groupFight": true
+}

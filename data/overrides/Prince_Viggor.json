@@ -1,0 +1,43 @@
+{
+  "strategy": [
+    "Big Catacombs fight: Prince Viggor at 41,300 who continually summons school-paired Crusader, Vanguard, Lorekeeper, and Havox minions. Run a full team. Hit with Storm or Life (+5%); avoid Myth and Death (70% resist).",
+    "He summons on the opening and again from Round 3 on, so expect a growing board; the hitter bursts Viggor while supports manage minions, which each punish setup by school.",
+    "Do not Feint him. A Feint makes him Shadow-cast off all traps; Indemnity saves a Feint only if no Storm/Myth Lorekeeper is present.",
+    "His minions counter your setup: shields draw Pierce, blades draw Cleanse Charm, traps draw a Cleanse Ward plus a Feint back on you, and negative charms draw a Cleanse plus Weakness. Keep setup minimal and funneled.",
+    "He layers team debuffs (Mass Weakness, -55% Mass Tower Shield, Bladestorm, +70% Feint on all wizards) and a Mass Stun; keep stun blocks and Cleanse ready.",
+    "Funnel blades to one hitter, protect a Feint with Indemnity, clear or ignore minions as needed, and deliver one large Storm or Life hit."
+  ],
+  "cheatNotes": [
+    "He summons school-paired minions based on party size; expect a board of adds from the start.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "From Round 3 he summons another minion each cycle, so the board keeps growing; kill or out-race the adds.",
+    "Feinting him makes him Shadow-cast off all your traps; protect Feints with Indemnity or skip them.",
+    "Indemnity only saves the Feint when no Storm/Myth Lorekeeper is present; otherwise the trap still goes.",
+    "At the end of Round 2 he drops a -55% Mass Tower Shield on his side; use Pierce or Shatter to punch through.",
+    "He casts a -30% Mass Weakness on your team; Cleanse it off your hitter before the big shot.",
+    "He buffs his side with a +25% Bladestorm; expect harder enemy hits.",
+    "He drops a +70% Feint on all wizards, setting up his own big hit; heal or shield through it.",
+    "Joining late gets Bladestorm, Mass Weakness, a triple Mass Tower Shield, and a +70% Feint dumped on you; enter on time.",
+    "",
+    "Casting a Shield makes the Life/Death minion Pierce one shield off and Tower Shield itself; shield sparingly.",
+    "Team shields only trigger this on the caster.",
+    "",
+    "Casting a blade makes the Fire/Ice minion Cleanse the receiver's negative charms and Balanceblade itself; funnel blades late.",
+    "Multi-target blades only cleanse the caster.",
+    "",
+    "Casting a Trap makes the Storm/Myth minion strip a trap and Feint you back; avoid traps while they live.",
+    "Multi-target traps make the minion Feint the caster.",
+    "",
+    "Placing a negative charm makes the Balance/Shadow minion Cleanse it and Weaken the caster; keep debuffs off unless you can burst immediately."
+  ],
+  "groupFight": true
+}

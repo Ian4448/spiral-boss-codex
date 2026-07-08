@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Assign one hitter and have supports funnel blades. Attack with Fire; he takes +30% from it and resists Ice 74%, everything else 44%.",
+    "Do not Feint him. Feint triggers a protected 5,000 Frozen Armor absorb. Bring Melt to strip it, or set up with Fire traps and blades only.",
+    "Below 80% health he self-heals every time he is damaged, so avoid poke damage and build fully before hitting.",
+    "Below 50% he shields himself every Round, and below 25% he Feints himself and casts Resuscitate to heal back up.",
+    "Because of those heal and shield thresholds, stack blades and traps over several rounds, then have the hitter deliver one massive Fire hit that carries him from high health straight through the 25% mark to dead."
+  ],
+  "cheatNotes": [
+    "",
+    "He opens with Katabatic Wind on Round 1 and recasts it whenever it is replaced, so expect that Ice global to stay up.",
+    "Casting Feint or Mass Feint makes him shield himself with a protected 5,000-damage Frozen Armor absorb. Do not Feint him unless you can strip it.",
+    "Melt removes that Frozen Armor absorb, so bring Melt if you want to Feint safely.",
+    "",
+    "Below 80% health he heals 100 to 1,000 each time he takes damage, so chipping him is counterproductive. Hit big or not at all.",
+    "Below 50% he shields himself every Round with a -80% or Tower Shield. Pierce or shatter to push through.",
+    "",
+    "Below 25% he Feints himself, setting a +75% Ice Trap on your hitter and a +30% Damage Trap on himself, so be ready for a hard counter-hit.",
+    "Below 25% he also casts Resuscitate to heal back up, so you must burst through the last 25% in one turn."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Small Myth boss (1,965). He takes +20% from Storm and resists Myth 50%. Hit with Storm or a non-Myth school.",
+    "Attacking him without a Shield up triggers Vampire on you, so keep a shield active on the turn you swing.",
+    "From Round 2, every other round he strips all wards (shields and traps) off a random wizard. Re-shield after these wipes and do not over-invest in traps that may be removed.",
+    "Blade, keep a shield up, and hit with Storm."
+  ],
+  "cheatNotes": [
+    "Attacking him with no Shield up triggers Vampire on you. Keep a shield active on the round you hit.",
+    "Starting Round 2, every other round he removes all shields and traps from a random wizard. Re-shield after each wipe rather than stacking wards."
+  ],
+  "groupFight": false
+}

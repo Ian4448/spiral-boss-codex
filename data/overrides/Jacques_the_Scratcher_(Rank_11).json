@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Do not shield: universal Shields get stolen off you, and school Shields are stolen and then destroyed, so rely on resist rather than Towers.",
+    "Avoid Heal-over-Times, including pet heals, since each one draws a Snow Drift onto the healed wizard.",
+    "He resists Ice 80% and takes 50% more from Fire, so bring Fire and skip Ice attacks.",
+    "Blade up a Fire hitter and burn him down directly rather than leaning on shields, HoTs, or DoTs."
+  ],
+  "cheatNotes": [
+    "Cast any universal Shield and he cheat-casts Steal Ward on whoever received it, taking it for himself.",
+    "Cast any school-specific Shield and he steals it and then destroys it outright.",
+    "Cast any Heal-over-Time and he answers with Snow Drift on whoever got the heal.",
+    "Even pet HoTs trigger the Snow Drift cheat.",
+    "When an enemy takes damage from your DoT, he casts Cooldown on his ally."
+  ],
+  "groupFight": false
+}

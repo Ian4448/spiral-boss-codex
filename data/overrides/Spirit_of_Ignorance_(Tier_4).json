@@ -1,0 +1,31 @@
+{
+  "strategy": [
+    "The guide calls for a 4-wizard team and says a Balance wizard is required. Wizard 1 (Balance) is the dispeller/debuffer; wizards 2-4 are damage dealers.",
+    "First priority: strip his invulnerability aura. At the start he plants a -300% incoming damage aura for 99 rounds, and Supernova is the essential counter — nothing else removes it. Round 1 the Balance wizard casts Supernova while the others open with AoE attacks.",
+    "Round 2: the Balance wizard casts Judgement while the others cast Frenzy to stack damage. Round 3: everyone casts their available hitting spells to burst him down.",
+    "Do not rely on prisms. The guide notes prisms do nothing against his shields, and after the aura breaks he re-casts a school-specific Aegis shield every time he is hit. Pierce or off-school pressure through it instead.",
+    "Avoid Feint: he has a Sacrifice counter-cheat that bypasses protective braces, so leaning on Feint backfires.",
+    "Race the clock. Every 5 rounds he plants a Shadow deferred effect dealing 100,000 damage two rounds later, which you cannot tank, so kill him or remove it before it detonates."
+  ],
+  "cheatNotes": [
+    "This aura makes him immune to all damage. You must remove it before anything you cast matters.",
+    "If you let the aura expire on its own it comes right back, so remove it manually instead of waiting it out.",
+    "Once you strip the aura yourself he cannot put it back. A proper aura-removal ends his invulnerability for the rest of the fight.",
+    "Simply applying your own negative aura triggers his reaction line but leaves his invulnerability intact. You need a spell that actually strips HIS aura.",
+    "Every Blade you cast puts an Enfeeble on whoever you bladed. Blade under Aegis or you just lose the charm.",
+    "Bladestorm and other mass blades only get the caster Enfeebled, not the whole team.",
+    "A global blade like Darkwind draws the Enfeeble onto you specifically.",
+    "Blades that come as a side effect of another spell (like Catch of the Day) slip past this cheat.",
+    "Feinting him makes him Sacrifice with +500% pierce, wiping your trap plan. Protect the Feint with Indemnity or skip it.",
+    "Mass Feint does not set off the Sacrifice, so it is a safer way to land a trap on him.",
+    "A single-target Trap makes him Cleanse it off. Protect it with Indemnity.",
+    "This is the line you want to hear. It means your Aegis- or Indemnity-protected effect survived his removal.",
+    "AoE Traps backfire: he strips every trap off you instead of himself.",
+    "The round after you drop his aura he starts shielding your exact school at -100%. Bring a prism or off-school hit.",
+    "He re-shields your school every time you damage him, so plan one big hit through the shield rather than many small ones.",
+    "Stealing his shield just makes him recast it; pierce or prism around it instead.",
+    "Every 5 rounds he plants a 100,000-damage Shadow bomb that goes off two rounds later. It is unsurvivable, so win or remove it before it lands."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

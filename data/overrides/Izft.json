@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Hit with Storm or Death — +30% to both. His Myth resist is 80%.",
+    "No DoTs. Any DoT on Izft gets answered with a Shift onto a random wizard.",
+    "Do not whittle the Condemned Manders below 25% health — Izft answers by cheating Draw Power on the damaged minion, sacrificing it to fuel himself.",
+    "The clean kill is one bladed Storm or Death AoE that drops Izft and the minions together. His respawn cheats only matter around him sacrificing minions, so a single burst sidesteps the whole mess.",
+    "He crits often (97 critical rating) — keep your health up while setting up."
+  ],
+  "cheatNotes": [
+    "Skip DoT spells entirely. Casting one on Izft gets it Shifted onto a random wizard.",
+    "If any minion drops under 25% health, Izft cheats Draw Power on it — sacrificing it for his own benefit, one per round. Do not leave minions barely alive; kill them outright or leave them healthy.",
+    "Edge case: if Izft sacrificed a minion and you defeat Izft the same round, that minion comes back. Kill minions with your own damage, or take Izft down on a round he has not just sacrificed one.",
+    "If only two minions remain and both die in one round (one sacrificed, one killed by you), he Draw Powers himself. Another reason to burst everything at once instead of trading kills.",
+    ""
+  ],
+  "groupFight": false
+}

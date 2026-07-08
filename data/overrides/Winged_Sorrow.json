@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Team fight (55,037 health). Assign a hitter using Life or a Life prism (he takes +30% Life and resists Death 72%, everything else 42%) and a support to manage the brazier.",
+    "Turn 1 you each get an Exit Combat card; ignore it unless you need to bail.",
+    "Keep the brazier on regular fire to make him targetable. On shadow fire he is untargetable, and healing anyone heals him to full, so do not heal while shadow fire is up.",
+    "While regular fire is up, all hanging effects are cleared every round, so blade and hit in the same round rather than pre-stacking blades that will be wiped.",
+    "Expect 25% max-health damage per round on regular fire plus random -50% chromatic Weaknesses; keep the healer topping the team and cleanse weaknesses off the hitter before the big hit.",
+    "Funnel same-round blades to the hitter and unload while the boss is targetable."
+  ],
+  "cheatNotes": [
+    "Turn 1 everyone gets a 1-pip Exit Combat card to leave the fight penalty-free.",
+    "Setting the brazier to shadow fire makes him cast a Darkwind-like global and go untargetable.",
+    "While that shadow-fire global is up, any heal you cast heals Winged Sorrow to full. Do not heal.",
+    "On shadow fire he is struck by lightning each turn and refills his power pips, with no damage to you.",
+    "Setting the brazier to regular fire makes him cast a Power Play-like global and become targetable again.",
+    "Two rounds into the regular-fire global, every wizard loses 25% of their health at the end of each round.",
+    "The turn after you switch to regular fire, all hanging effects are wiped, and any blade, trap, or aura you cast while it is up is cleared instantly. Set up and hit in one round.",
+    "While that global is up he only buffs himself and casts no attacks.",
+    "He randomly slaps a -50% chromatic Weakness on wizards after they take end-of-round damage. Cleanse it off your hitter."
+  ],
+  "groupFight": true
+}

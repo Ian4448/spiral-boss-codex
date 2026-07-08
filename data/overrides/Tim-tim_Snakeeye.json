@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "He hides behind a -90% Tower Shield that he refreshes whenever damage removes it, so don't try to punch through it with raw hits.",
+    "Exploit his heal cheat: cast a Healing Spell and he strips his own Tower Shield (via Pierce), then hit him hard the very next round before he re-shields.",
+    "Alternatively Pierce, Shatter, or Steal Ward removes the Tower safely — he won't replace it until he's actually damaged.",
+    "Attack with Myth or Life (he takes +35% from both); never hit into his 80% Storm resist without a prism.",
+    "Stack blades, then land one clean single hit in the open window (avoid multi-hit spells that let him re-shield mid-attack)."
+  ],
+  "cheatNotes": [
+    "He opens with a -90% Tower Shield by interrupt — you can't meaningfully damage him through it.",
+    "He refreshes the Tower every time a hit breaks it, so remove it another way.",
+    "Pierce, Shatter, and Steal Ward remove the Tower safely — he won't re-shield until he's actually damaged.",
+    "",
+    "Cast a Healing Spell and he strips his own Tower Shield — hit him the next round before he re-shields, the cleanest opening.",
+    "",
+    ""
+  ],
+  "groupFight": false
+}

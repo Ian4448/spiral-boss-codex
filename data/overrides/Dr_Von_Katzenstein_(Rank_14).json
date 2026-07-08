@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Attack with Myth or Life; he takes +30% from both and resists Storm 80%.",
+    "Every blade you cast gets hit with Enfeeble on the receiver, stripping it. Aegis your key blade, or blade and hit in the same round.",
+    "Plan around his timers: Dr. Von's Monster (~1,005) hits a random wizard every 3rd round and Monster Mash (~1,170) every 4th round. Shield or heal on those rounds.",
+    "Traps and Feint are safe from the Enfeeble cheat, so lean on traps for setup instead of blades.",
+    "Build a Feint plus one Aegis'd blade, then land a big Myth or Life hit."
+  ],
+  "cheatNotes": [
+    "Every 3rd round he throws Dr. Von's Monster (~1,005) at a random wizard. Keep shields or heals ready on those turns.",
+    "Every 4th round adds Monster Mash (~1,170) on a random wizard.",
+    "Any blade you cast gets Enfeebled off the receiver. Aegis the blade or set up and hit in one round.",
+    "If you put a damage-reducing charm on one of his allies he Cleanses it off the whole team, so weaknesses on his side will not stick."
+  ],
+  "groupFight": false
+}

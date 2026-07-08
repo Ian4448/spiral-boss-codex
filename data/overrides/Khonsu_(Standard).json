@@ -1,0 +1,33 @@
+{
+  "strategy": [
+    "Team fight. Khonsu Polymorphs every wizard into a cute form and strips all pips on Round 1, so you fight as your form using its one signature spell.",
+    "Never let anyone join after Round 2, a late wizard makes Khonsu heal to 100% and re-polymorph everyone.",
+    "Cast your polymorph's signature spell (Splat Flurry as Snowball, Zap Crackle Pop as Glowbug, and so on). After the team casts these as many times as there are wizards, Khonsu hands out Break Free, though you can keep fighting as the polymorph.",
+    "Attacking while more than one wizard is present re-polymorphs the attacker and strips their pips, so coordinate hits and expect resets.",
+    "After Break Free he cycles into Malistaire, Morganthe, Grandfather Spider, and Dasein forms (3 rounds each, every 5th round). Time the team's biggest burst into his weaker windows and chip the 50,000 down steadily."
+  ],
+  "cheatNotes": [
+    "On Round 1 he Polymorphs every wizard into a random cute form and removes all pips, you fight as that form with its one signature spell.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Join after Round 2 and he heals to full and re-polymorphs everyone, do not come in late.",
+    "With 4 wizards the Snipe/Myth form is never assigned.",
+    "Attack while more than one wizard is present and he re-polymorphs the attacker and strips their pips.",
+    "That re-polymorph can fire more than once per attack, speeding up the Break Free counter.",
+    "Once the team has cast its polymorph spells as many times as there are wizards, he gives everyone Break Free.",
+    "",
+    "You do not have to use Break Free, you can keep fighting as your polymorph.",
+    "",
+    "After Break Free is handed out, he starts polymorphing himself on that round and every 5th round after.",
+    "He becomes Malistaire Drake for 3 rounds.",
+    "He becomes Morganthe for 3 rounds.",
+    "He becomes Grandfather Spider for 3 rounds.",
+    "He becomes Dasein for 3 rounds."
+  ],
+  "groupFight": true
+}

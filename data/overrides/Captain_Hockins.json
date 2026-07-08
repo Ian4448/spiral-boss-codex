@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Bring Life damage and pierce. Hockins is immune to every school but Life and resists even Life around 85%, so hit with Life (or a Life prism) and stack armor piercing.",
+    "Exploit the Dragonspear cheat. Every direct hit hands your attacker a universal pierce blade that grows +10% each hit up to +100%, which is exactly the pierce you need to beat his resist. Keep hitting to build it, and use direct attacks, not DoTs (damage-over-time won't grant the spears).",
+    "Don't rely on criticals; the Witch Doctor opens with a Saga-of-Heroes cheat that drops your critical chance -75. Kill the Witch Doctor early to remove the debuffer.",
+    "Skip Global/bubble spells; casting one makes the Witch Doctor overwrite it with his own Saga of Heroes.",
+    "Pick an approach the guide gives: blade a hitter and burst with Shadow Shrike, Infallible, and Extraordinary, or spam smaller attacks first and save your big spell for when the pierce is near +100%.",
+    "Join on time so the Witch Doctor doesn't steal a pip with Steal Pips (Moon). He is stunable and beguilable if you need safe setup Rounds."
+  ],
+  "cheatNotes": [
+    "",
+    "The first hit on Hockins gives your attacker a Dragonspear (universal pierce blade). That's good for you, since his 85% Life resist needs pierce, so start hitting to build it.",
+    "The second hit gives a +20% Dragonspear, stacking more pierce onto your hitter.",
+    "The third hit gives a +30% Dragonspear, and the pierce keeps climbing.",
+    "After the fourth hit the pierce blades keep coming, adding +10% armor piercing each hit up to +100% max, so repeated attacks steadily build enough pierce to shred his resist.",
+    "Damage-over-time spells like Poison don't grant the Dragonspears, so use direct hits to farm the pierce.",
+    "",
+    "",
+    "The Witch Doctor opens with a Saga-of-Heroes version that lowers your critical chance -75, so don't count on crits; kill it to remove the debuffer.",
+    "Casting any Global (bubble) makes the Witch Doctor replace it with his Saga of Heroes, so your bubbles won't stick. Skip them.",
+    "Joining late makes the Witch Doctor cast Steal Pips (Moon) to steal 1 pip. Enter on time."
+  ],
+  "groupFight": false,
+  "guideSourced": true
+}

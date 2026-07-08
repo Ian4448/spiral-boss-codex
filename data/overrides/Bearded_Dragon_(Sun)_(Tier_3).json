@@ -1,0 +1,29 @@
+{
+  "strategy": [
+    "This is a 3-boss gauntlet and kill order is the whole fight: Bearded Dragon (Sun) must die LAST. If Sun falls before or with the others it Ra's 75% of your max health and full-heals the enemy team.",
+    "Focus the Moon and Star Dragons down first. The hitter funnels blades while supports blade and Feint the target dragon.",
+    "Watch the round 2 cycle: a +25% Sun Trap, ally blades and shields, then random support spells like Blinding Light, Guardian Spirit, Unicorn, Virulent Plague, Legion Shield, or Mass Infection. Cleanse infections and re-blade through their shields.",
+    "They have no incoming boost and 40% universal resist, so over-stack blades and traps to punch through.",
+    "Kill Sun last in a single clean hit. If any wizard joins late, Sun full-heals the team, so no stragglers."
+  ],
+  "cheatNotes": [
+    "A late-joining wizard makes Sun full-heal the whole enemy team. Everyone must be in from the start.",
+    "",
+    "If Sun dies before or at the same time as both other dragons, he Ra's 75% of your max health and full-heals everyone. Kill Sun last.",
+    "Even killing Sun alongside just one other dragon triggers a 50% max-health Power Nova and a full heal. Sun always dies alone, last.",
+    "",
+    "",
+    "Round 2 he places a +25% Sun Trap. Treat it as a minor buff and keep to your plan.",
+    "Moon or Star blades one of their own each round 2, so expect their damage buffed and re-Feint as needed.",
+    "They also shield an ally on round 2. Over-stack blades so a shield does not stop your hit.",
+    "",
+    "",
+    "Random effects here can be Blinding Light (accuracy down) or Guardian Spirit on a dragon. Carry accuracy and expect a revive-heal buff on them.",
+    "",
+    "",
+    "They may heal with Unicorn or Restoring Rain, or drop Virulent Plague on you. Pack infection removal and burst faster than they heal.",
+    "",
+    "They can Legion Shield the enemy team or Mass Infect you. Clear infections before you heal and re-blade through the shields."
+  ],
+  "groupFight": true
+}

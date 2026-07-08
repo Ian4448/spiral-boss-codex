@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "He hands each wizard three Malughast's Feint cards at the start; these are your setup tool, and the only Feints that do not trigger his cleanse.",
+    "Never use a regular Feint or Mass Feint on him: either makes him Cleanse Ward himself twice, which bypasses Indemnity and strips your trap. Use the provided Malughast's Feint instead.",
+    "He resists Balance 68% and has no boost school, so attack with your strongest non-Balance school.",
+    "Stack blades plus the Malughast's Feint, then land one big hit.",
+    "Watch his +120% damage and protected Curse, and shield his hits while you set up."
+  ],
+  "cheatNotes": [
+    "He gives each wizard three Malughast's Feint cards at the start; use these to set up, since they do not trigger his cleanse.",
+    "",
+    "Late arrivals get the three cards on the following round.",
+    "A regular Feint on him makes him Cleanse Ward twice, stripping the trap and beating Indemnity. Only use his Malughast's Feint.",
+    "Mass Feint triggers the double-cleanse too, so avoid it.",
+    "Malughast's Feint is the exception that will not trigger the cleanse, so it is your safe setup."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "He takes +35% from Fire and Myth and resists Ice 80%. Hit with Fire or Myth. He is stunnable.",
+    "Expect an interrupt Dr. Von's Monster on Round 1; shield or heal up before it lands.",
+    "Avoid normal heals: a healing spell makes him Link the healed target (a DoT). Use pet heals instead, which do NOT trigger the Link.",
+    "Blade up, stun if handy, and hit with Fire or Myth."
+  ],
+  "cheatNotes": [
+    "He interrupts with Dr. Von's Monster on Round 1. Pre-shield or be ready to heal it off.",
+    "A healing spell makes him Link the healed wizard (a DoT). Heal with your pet instead, which does not trigger it.",
+    "Pet heals are safe; they never trigger the Link."
+  ],
+  "groupFight": false
+}

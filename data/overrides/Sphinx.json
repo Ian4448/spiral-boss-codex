@@ -1,0 +1,26 @@
+{
+  "strategy": [
+    "Every second round the Sphinx asks a riddle whose answer is a spell TYPE — cast that type to pass safely. Pack a Blade, a damage spell, a Trap, a Weakness, and a Heal so you always have the right answer.",
+    "Correct answers draw no response; wrong ones punish you (Orthrus, Power Nova, a +200% Feint on you, a protected Weakness, or he heals 10% of his health).",
+    "Wait for each new riddle before casting a different spell type — casting off-cue can answer wrong.",
+    "Passing is always safe and doesn't trigger any cheat, so pass if you lack the right card.",
+    "Use the Blade/Trap/Weakness riddles to build your setup, then land a big hit when a Damage riddle comes due (no resist, so any school works)."
+  ],
+  "cheatNotes": [
+    "Late wizards eat a Desert Hound — join on time.",
+    "Every 2nd round he asks a riddle answered by a spell type; answer right and nothing happens, answer wrong and he punishes you. Wait for each riddle before casting.",
+    "Pet may-cast talents can accidentally answer a riddle — watch your pet.",
+    "Passing never triggers the cheat, so pass if you lack the right card.",
+    "This riddle's answer is a Blade.",
+    "Answer it wrong and he casts Orthrus.",
+    "This riddle's answer is a Damage spell ('hurt me').",
+    "Wrong answer here brings a Shadow Power Nova.",
+    "This riddle's answer is a Trap.",
+    "Wrong answer gives you a +200% Shadow Feint (no self-trap for him).",
+    "This riddle's answer is a Weakness.",
+    "Wrong answer puts an Indemnity-protected Weakness on you.",
+    "This riddle's answer is a Heal.",
+    "Wrong answer heals him 10% of his total health."
+  ],
+  "groupFight": false
+}

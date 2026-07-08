@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Hit Myth, Life, or Death - all three take boosted damage. She resists 80% Balance, so never attack into Balance.",
+    "Never let a helpful charm or aura sit on your team at the end of a round. If one is present, she casts Ra on all wizards.",
+    "Blade and hit on the same turn so no charm ever lingers into the end-of-round check.",
+    "Set up with traps and Feints instead of leaving blades hanging, since traps are not part of the punish here.",
+    "With only 4,325 health, one clean same-turn blade-and-hit takes her and the two minions down before Ra becomes a problem."
+  ],
+  "cheatNotes": [
+    "At the end of each round, if any wizard holds a helpful charm or helpful aura, she hits the whole team with Ra (Tier 2b). Blade and attack on the same turn so nothing lingers."
+  ],
+  "groupFight": false
+}

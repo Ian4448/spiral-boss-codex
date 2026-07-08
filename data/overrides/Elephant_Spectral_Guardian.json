@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Ignore the Elephant at first. His -90% Tower Shield refreshes whenever he is hit and cannot be removed by damage while the other Guardians live.",
+    "Kill the Gorilla, Lion, and Zebra Guardians first. This is a kill-order fight.",
+    "When a wizard gets marked with 'Only charms can save you now!', cast any charm on that wizard within 2 rounds to cancel the punishment.",
+    "If you must hit the Elephant early, strip his Tower Shield with Pierce, Steal Ward, or Shatter first.",
+    "Once all three other Guardians are down, the Elephant strips his own shields. Pour blades and traps and hit him then.",
+    "After that he casts Ominous Scarecrow (Death AoE) every 3 rounds. Shield and finish the 7390 health fast."
+  ],
+  "cheatNotes": [
+    "He wears a -90% Tower Shield he re-applies every time he is hit, and it will not come off through damage while the other Guardians live.",
+    "Pierce, Steal Ward, or Shatter safely remove that Tower Shield, though he re-shields when attacked again.",
+    "He marks a random wizard for 2 rounds. If no charm is placed on that wizard, the other Guardians blast them.",
+    "Once the punishment fires or a charm is cast, he strips the mark and all wards and traps off that wizard, so do not stack traps on a marked wizard.",
+    "Casting any charm on the marked wizard cancels the whole punishment. Keep a spare blade handy.",
+    "Pet spells do not count; a pet charm will not clear the mark, so cast it yourself.",
+    "His stun shields can be removed with Shatter.",
+    "When the other three Guardians are dead he strips all wards off himself, including his Tower Shield. That is your window to hit unshielded.",
+    "After the minions die he casts Ominous Scarecrow (Death) every third round. Shield for it and burst him down."
+  ],
+  "groupFight": false
+}

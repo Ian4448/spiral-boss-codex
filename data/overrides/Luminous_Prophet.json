@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Round 1 he casts a negative Acrimony that turns all your incoming healing into damage. Replace it immediately with your own aura; he will not recast it, so one aura fixes healing for the whole fight.",
+    "Until Acrimony is gone, do not heal and do not cast a positive Charm; his 'Blessing' becomes 666 damage under Acrimony.",
+    "Hit with Life (+30% incoming); avoid Death (69% resist).",
+    "He hits the team with Anubis (666 Death) on round 1 and every 6th round. Shield for those.",
+    "If a Forgotten Soul appears, do not kill it unless you are bursting the Prophet down right after, since it Regenerates him.",
+    "Blade, Feint, and burst the 16,945 health while watching the 6-round Anubis timer."
+  ],
+  "cheatNotes": [
+    "Round 1 he lays a negative Acrimony aura: all your incoming healing becomes damage for 99 rounds. Replace it with your own aura fast.",
+    "He will not recast Acrimony once you replace it, so a single replacement aura permanently fixes your healing.",
+    "He casts Anubis (666 Death to all wizards) on round 1 and every 6th round after. Shield up on those rounds.",
+    "Casting a positive Charm makes him heal the team 666, but under his Acrimony that is 666 damage. Do not trigger it until Acrimony is gone.",
+    "If a Forgotten Soul is defeated, it Regenerates the Prophet. Do not kill the soul unless you are finishing him right after."
+  ],
+  "groupFight": false
+}

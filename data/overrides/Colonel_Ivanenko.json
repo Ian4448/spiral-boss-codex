@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Hit with Fire or Myth, he takes +15% from each, and avoid Storm and Ice (50% resist each).",
+    "If you Feint him he throws up a Tower Shield, bring Melt to dispel it before you hit.",
+    "Do not heal. Any heal, including pet maycast heals, makes him self-cast Healing Current. Pre-shield and tank instead.",
+    "Plan your kill around his globals: Darkwind on Round 4, Balefrost on Round 8, Darkwind again on Round 12. Aim to burst before Round 4 or right after clearing a global.",
+    "Stack a Feint, clear his Tower Shield with Melt, add blades, and land one big Fire or Myth hit."
+  ],
+  "cheatNotes": [
+    "Join late and he opens with Wild Bolt on you.",
+    "Feint him and he answers with a Tower Shield, strip it with Melt before you hit.",
+    "Melt dispels that Tower Shield, so pack one when you plan to Feint.",
+    "Any heal you cast makes him self-cast Healing Current, avoid healing and pre-shield instead.",
+    "Pet maycast heals also trigger his Healing Current, so watch your pet.",
+    "He casts Darkwind at the start of Round 4.",
+    "He casts Balefrost at the start of Round 8.",
+    "He casts Darkwind again at the start of Round 12.",
+    "His pet Tiger randomly casts Storm Cat, Ice Cat (may strip a pip), or Snow Serpent, minor chip damage."
+  ],
+  "groupFight": false
+}

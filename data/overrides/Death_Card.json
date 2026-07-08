@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Come in at full Health with no self-damage effects up. On Round 1 he hits everyone for 80% of their max Health.",
+    "Use the free Healing Current he hands each Wizard to top off on Round 2, then start setup.",
+    "Hit Life. He takes +30% from Life and resists Death 66%, so prism if you are Death.",
+    "Stack blades and traps over a few Rounds, then land one big Life hit. This is a team fight at 16,115 Health, so funnel blades to one hitter."
+  ],
+  "cheatNotes": [
+    "Round 1 he hits everyone for 80% of their max Health, then gives each Wizard a free Healing Current. Survive the shot, then heal up.",
+    "",
+    ""
+  ],
+  "groupFight": true
+}

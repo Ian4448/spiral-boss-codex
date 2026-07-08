@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Low health (3890), so set up and end it in one hit. He dispels your attacking school every other time he is hit, so a single big blow avoids the dispel.",
+    "Hit with Ice or Storm (+35%, resists Fire 80%). DoT spells do not trigger the dispel if you prefer that route.",
+    "Expect a Weakness on the last wizard to enter on Round 1 and every 4 rounds after; Cleanse it or blade over it.",
+    "If you prism your damage, he dispels the converted school instead, so account for that."
+  ],
+  "cheatNotes": [
+    "Round 1 he Weakens the last wizard to enter, and every 4 rounds Weakens his focus target, so cleanse or blade over it.",
+    "Every other hit that damages him with a primary school gets you a dispel of that school, so land one big hit rather than chaining same-school spells.",
+    "Damage-over-time spells do not trigger the dispel, so DoTs are a safe alternative.",
+    "If you use a prism, the dispel matches the converted school, so plan your follow-up accordingly."
+  ],
+  "groupFight": false
+}

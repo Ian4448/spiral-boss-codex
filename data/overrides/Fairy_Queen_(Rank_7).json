@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "She has no resists, so hit with your strongest school; Balance and Myth get a small +10%.",
+    "She summons two fairies at the start of the round, so she keeps adding bodies. Bring an AoE finisher to clear fairies and Queen together rather than grinding single-target.",
+    "Blades and Globals risk an Enfeeble on the receiver; Bladestorm only strips the caster's own blade, so blade from a safe slot or Aegis the hitter.",
+    "Do not Feint her normally: she Swap Wards it so the bigger trap ends up on you. Cast Feint with Melt available to keep the trap on her.",
+    "Race her Satyr heal (1,075): stack fast and hit before she stabilizes."
+  ],
+  "cheatNotes": [
+    "She summons two random-school fairies at the start of the round, so expect a steady stream of adds. Plan an AoE kill.",
+    "Blades and Globals have a chance to be Enfeebled off the receiver or caster. Aegis your key blade.",
+    "Bladestorm only loses the caster's copy, so use it to blade someone else safely.",
+    "Feint her and she Swap Wards it so the larger trap lands on you. Use Melt to keep it on her.",
+    "Keep a Melt handy; it removes the swapped trap and undoes this cheat."
+  ],
+  "groupFight": false
+}

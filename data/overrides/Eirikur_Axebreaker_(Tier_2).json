@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Attack with Life or Balance (+15%); he resists Fire, Ice, and Death.",
+    "He stacks Frozen Armor absorbs: 400 on round 1, +800 when two minions die, +1,600 when the last minion dies. Killing his minions makes him tankier, so do not clear them early.",
+    "Beguiling him or wiping all minions at once immediately dumps the full 800 plus 1,600 absorb on him, so save that for after your setup.",
+    "Do not use Steal Ward on his absorb: he counters with Brimstone Revenant (500 Fire) and steals it right back. Use Pierce or just out-damage the absorb.",
+    "Stack blades and a Feint, leave the minion alive, then land one hit big enough to eat the 400 absorb and kill him."
+  ],
+  "cheatNotes": [
+    "He starts round 1 with a 400-absorb Frozen Armor, so your first hit must clear that plus his health.",
+    "Killing two of his minions adds an 800 absorb, a reason to leave minions up until your kill shot.",
+    "Downing his final minion adds a 1,600 absorb on top; clearing minions makes him much harder to kill.",
+    "Beguiling him or wiping all minions at once immediately loads both the 800 and 1,600 absorbs onto him.",
+    "Steal Ward on his absorb backfires: he hits you with Brimstone Revenant (500) and steals the ward back. Use Pierce or raw damage instead."
+  ],
+  "groupFight": false
+}

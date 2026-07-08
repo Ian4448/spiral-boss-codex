@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "On Round 1 he strips all your pips and applies -100% power pip gain, so you build only 1 plain pip per round all fight. Plan a long, efficient game.",
+    "Do not try to overwrite his Power Play global, he re-casts it whenever it is changed. Work under it instead.",
+    "Use low-pip attacks, blades, and traps that fit a starved pip economy, and let a pet or wand hits help while pips are scarce.",
+    "Deal with the Emu Rider and Punk Wallaby minions with a cheap AoE as your pips allow.",
+    "Stack blades over several rounds and land your biggest affordable hit once you have saved enough plain pips."
+  ],
+  "cheatNotes": [
+    "Round 1 he casts Power Play (-100% power pip gain) and Mana Burns away all your pips, you will gain only 1 plain pip per round all fight, so plan a slow, efficient build.",
+    "Overwriting his global just makes him recast it, leave it up and play around the pip starvation."
+  ],
+  "groupFight": false
+}

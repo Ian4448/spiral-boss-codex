@@ -1,0 +1,28 @@
+{
+  "strategy": [
+    "Expect to pass Round 1; his opening Shadow spell forces all wizards to pass.",
+    "Most positive Charms, Traps, and Globals trigger a Shadow Monster Mash that strips 25% max Health from your lowest wizard and ignores wards, so buff with the safe options only.",
+    "Use the exempt spells to set up: AoE traps like Mass Feint and Mass Fire Trap, Power Play, Frostfeather, King Artorius, Rebirth, Attenuate, and Frenzy do not trigger the cheat.",
+    "Apollo Bright One intercepts with a 100% Shadow Sentinel, so clear or play around the Sentinel before your real hit lands on Ramsey.",
+    "Ramsey resists everything 40% except Ice (10% more), so hit with Ice and burst him after your safe setup."
+  ],
+  "cheatNotes": [
+    "On Round 1 he casts a Shadow spell that forces everyone to pass, so you lose the opening Round.",
+    "He summons Apollo Bright One with a Shadow spell.",
+    "Apollo uses a 100% Damage Shadow Sentinel to intercept your attacks, soaking hits meant for Ramsey.",
+    "He casts an unknown Shadow spell tied to 'The Professor' flavor; the effect is undocumented.",
+    "Cast a positive Charm, Trap, or Global and he answers with a Shadow Monster Mash that removes 25% max Health from your lowest-Health wizard and deals 1 Shadow to himself.",
+    "Because it removes max Health, that Monster Mash ignores any wards or traps on the target.",
+    "For Charms, the Monster Mash lands on whoever received the Charm.",
+    "Even spells with secondary buffs, like Volcanic Golem, set off this cheat.",
+    "A handful of spells are exempt and will not trigger the Monster Mash.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "groupFight": false
+}

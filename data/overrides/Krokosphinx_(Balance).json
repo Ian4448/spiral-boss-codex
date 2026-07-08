@@ -1,0 +1,28 @@
+{
+  "strategy": [
+    "This is a riddle fight. Answer each round with the given card to load damage traps onto the Sphinx.",
+    "Round 1, cast Time. Round 2, cast The Sun. Round 3, cast Memory. Each correct answer stacks a +100% Damage Trap on Krokosphinx.",
+    "You are handed a fresh deck and 20,000 health each riddle, so survival is not the concern; answering right is.",
+    "After the three traps are up, hit with Myth, Life, or Death (each +30%); avoid Balance (70% resist).",
+    "Stack your own blades alongside the three cheat traps, then land one massive hit into the 100,000 health."
+  ],
+  "cheatNotes": [
+    "",
+    "First riddle, answered at the end of Round 1. The answer is Time.",
+    "",
+    "Cast Time to answer correctly.",
+    "A correct answer stacks a +100% Damage Trap on the Sphinx, free setup for your hit.",
+    "Wrong answers earn nothing; only the correct card loads a trap.",
+    "",
+    "Second riddle, answered at the end of Round 2. The answer is The Sun.",
+    "",
+    "Cast The Sun to answer correctly.",
+    "Another correct answer adds a second +100% Damage Trap.",
+    "",
+    "Third riddle, answered at the end of Round 3. The answer is Memory.",
+    "",
+    "Cast Memory to answer correctly.",
+    "The third correct answer adds a third +100% Damage Trap. Now hit."
+  ],
+  "groupFight": false
+}

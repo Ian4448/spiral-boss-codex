@@ -1,0 +1,33 @@
+{
+  "strategy": [
+    "This is a 59,800-health fight with two minions and absurd resist (about 300% to everything except Sun) - bring a team and plan to damage Mithraya only with Sun.",
+    "You cannot hit Mithraya with normal school damage; she resists it into the ground. Instead, defeat the minions to receive Mutate cards that convert your set spells into un-resisted Sun versions.",
+    "Kill Astraeus early. From round 1 he buffs the enemy team +10% and weakens all wizards -10%, ramping +10% each round up to 50%. His death casts only a harmless Supernova.",
+    "Mind the Polymorph trap: defeating Astraeus makes Ptolemos Polymorph the attacking wizard into a 300-resist form. Defeat Ptolemos to remove the Polymorph.",
+    "With Sun Mutate spells in hand (Mutate Ra to Sun Ra, and so on for your school), stack blades and land big Sun hits on Mithraya to break through her 59,800 health."
+  ],
+  "cheatNotes": [
+    "",
+    "Defeating Astraeus or Ptolemos hands wizards Mutate cards that turn set spells into un-resisted Sun versions - your only real way to damage Mithraya.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Defeating Astraeus makes Ptolemos Polymorph the wizard that attacked into a random 300-universal-resist form.",
+    "",
+    "",
+    "",
+    "",
+    "Defeating Ptolemos removes the Polymorph.",
+    "",
+    "On round 1 Astraeus buffs its whole team +10% damage and weakens all wizards -10% damage.",
+    "That aura grows another 10% each round up to 50%, so kill Astraeus early to stop the ramp.",
+    "When Astraeus is defeated he casts a no-damage Supernova on everyone, which is harmless."
+  ],
+  "groupFight": true
+}

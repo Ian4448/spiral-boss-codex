@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Hit with Ice, he takes +50%, and never Fire (80% resist).",
+    "Kill the Ravenous Tooth minion early. Its Brilliant Light triggers his Link, and his cheats need him present anyway.",
+    "Expect a Brimstone Revenant on a random wizard every second round and an Efreet every fourth, so shield for Fire and heal off those beats.",
+    "At only 5,030 health, stack one round of Ice blades and burst him down before the Round 4 Efreet.",
+    "Use an Ice AoE to hit boss and minion together if you cannot split focus."
+  ],
+  "cheatNotes": [
+    "His Ravenous Tooth casts Brilliant Light, which makes Kus'Bhid cast Link, kill the minion to break this loop.",
+    "The Link cheat does nothing if Kus'Bhid himself is gone.",
+    "He answers his minion by Power Linking a random wizard, buffing himself.",
+    "At the end of every second round he drops a Brimstone Revenant DoT on a random wizard.",
+    "At the end of every fourth round he casts Efreet on a random wizard, shield for Fire before Round 4."
+  ],
+  "groupFight": false
+}

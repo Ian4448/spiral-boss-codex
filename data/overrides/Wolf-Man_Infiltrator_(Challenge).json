@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Deal with the Mysterious Werewolf first. It revives to 100% when killed and then leaves combat at the end of that turn, so a kill removes it permanently; its cheat cycle only runs while it is alive.",
+    "Race the 4-round buff cycle. While the Werewolf lives, it Bladestorms two +30% charms onto all allies on the first cycle round and Legion-Shields the enemy team on the second, so time your burst before those stack up.",
+    "Kill the Werewolf to shut off the blades and shields, then focus the Infiltrator with your funneled stack.",
+    "It is Myth with 71% Ice/Death resist and 51% across most schools, taking least resist to Fire and Life (31%), so bring a Fire or Life hitter or prisms.",
+    "This is a Challenge team fight: 14,825 Health plus two elite minions. Funnel blades to one hitter, have supports Feint the boss and clear the Bauk Scavenger, keep a healer active.",
+    "Set up over a couple of rounds, remove the Werewolf to stop its buff cycle, then AoE the Infiltrator and remaining minion down together."
+  ],
+  "cheatNotes": [
+    "When the Mysterious Werewolf is defeated it revives to full Health and then exits combat at the end of the turn, so killing it removes it for good and stops its cheat cycle.",
+    "",
+    "",
+    "On the first round of its cycle the Werewolf casts a special Bladestorm giving two +30% damage charms to all its allies, so the enemy side ramps damage fast.",
+    "On the second round of its cycle the Werewolf casts a -40% Legion Shield on the enemy team, adding defense you must hit through."
+  ],
+  "groupFight": true
+}

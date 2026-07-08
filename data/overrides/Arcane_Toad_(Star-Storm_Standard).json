@@ -1,0 +1,27 @@
+{
+  "strategy": [
+    "Hit with Myth (he takes +30% from it); never attack into Storm (54% resist), and everything else is 24% resist.",
+    "Don't arrive late — every late wizard gets stunned.",
+    "Round 1 and end of every 4th round he Smoke Screens and slaps a 'Nightmare Prone' stun shield on a random wizard; while a wizard carries that mark he gets hit every round by Call of Khrulhu, Monster Mash, or similar.",
+    "Clear the Nightmare Prone mark fast: Cleanse Ward removes it, and any heal on the marked wizard makes the toad Cleanse Ward off all their negative wards — heal the marked wizard to strip it, or use an all-ally heal like Pigsie to clear it team-wide.",
+    "Build blades and traps over 2-3 rounds, keep the mark cleared, then land one big Myth hit."
+  ],
+  "cheatNotes": [
+    "",
+    "Round 1 and end of every 4th round he casts Smoke Screen and puts a Nightmare Prone stun shield on a random wizard — expect the accuracy debuff and plan to clear the mark.",
+    "Don't join late; every late wizard gets stunned.",
+    "Cleanse Ward removes the Nightmare Prone mark — keep one ready.",
+    "While a wizard carries the mark he hits them every round with one of the following spells, so clear it quickly.",
+    "",
+    "",
+    "",
+    "",
+    "Any heal (even a positive healing charm) makes him Cleanse Ward the heal's target, stripping all negative wards including the mark — heal the marked wizard to clear it.",
+    "All-ally heals like Pigsie strip negative wards from the caster instead, so heal-to-clear works across the team.",
+    "Pet may-casts that hit all players clear the mark from everyone.",
+    "",
+    "If the Moon-Storm toad is targeted, the Star-Storm toad hands every wizard a Living Nightmare card.",
+    ""
+  ],
+  "groupFight": false
+}

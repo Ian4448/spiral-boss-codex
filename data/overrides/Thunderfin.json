@@ -1,0 +1,12 @@
+{
+  "strategy": [
+    "Storm boss (7790). Hit with Myth (+35%); avoid Storm (35% resist).",
+    "Keep every spell at 3 pips or fewer. Casting anything using more than 3 pips makes him interrupt with a Fire Power Nova on the team.",
+    "Stack cheap blades and traps, then hit with a low-pip (3 or under) Myth spell you have buffed up. Pet-given item cards do not trigger the nova, so a low-pip item hit is safe too."
+  ],
+  "cheatNotes": [
+    "Any spell that uses more than 3 pips triggers a Fire Power Nova on the team. Keep your casts at 3 pips or under and rely on blades and traps to power a small hit.",
+    "Pet-given item cards do not trigger the Power Nova, so a low-pip item attack is a safe option."
+  ],
+  "groupFight": false
+}

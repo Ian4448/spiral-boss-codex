@@ -1,0 +1,41 @@
+{
+  "strategy": [
+    "Bring your whole team in before Round 1. Joining late triggers a single-target Power Nova for your max Health that ignores all Resist and Wards, an instant near-kill.",
+    "Respect the 45% blanket resist and 137% boost. Nobody survives trading blows, so this is a stack-and-burst race: supports feed one hitter with blades and the Shadow Feint the Paradox already sets up on itself hits everyone, so use your own Feints too.",
+    "Read the active Global each phase. It boosts one school and weakens the opposite, so time your big hit for a Global that boosts your hitter's school and never swing into a weakened one.",
+    "The uncleanable phase cards are the trap: some help the Paradox, some hurt you. Discard-immune, reshuffle-immune. Play only the ones that help you and hold the harmful ones rather than dumping them onto your team.",
+    "Clear all Aberrations first. Killing minions spawns replacements in the same slot per the Afterlife chart, so grind the second wave down completely before touching the boss.",
+    "Do not leave any Aberration alive and do not kill the last one on the same turn the Paradox dies, or the Paradox respawns at 5,775 Health. Kill every minion a round early, then AoE the boss down clean."
+  ],
+  "cheatNotes": [
+    "If anyone ports in after the fight starts, that wizard eats a solo Power Nova equal to their full Health with no resist or shields applying. Everyone must be present at the start.",
+    "A background Global buffs one school's damage and weakens the opposite school (Balance weakens all others). First one lasts two Rounds, the rest three. Attack under a Global that favors your hitter.",
+    "Each Global also hands every wizard a fixed card you cannot discard or reshuffle away. Some cards help the boss, some hurt you, so play only the useful ones.",
+    "If you swap out the current Global, the Paradox re-casts the previous one, so changing it is usually wasted effort.",
+    "The one exception: a spell like Gaze of Fate that changes the Global stops the recast. That is the only clean way to replace it.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "If any Aberration is still alive when the Paradox dies, or you kill the last one on the same turn, the Paradox comes back at 5,775 Health. Clear all minions a round before the finisher.",
+    "Killing an initial Aberration in a slot summons a specific replacement in that same slot, so expect a second wave.",
+    "",
+    "",
+    "",
+    "Killing a second-wave Aberration summons one final replacement per slot; nothing spawns after that wave.",
+    "",
+    "",
+    ""
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Hit Ice. He resists 80% Fire and takes boosted Ice damage, so Ice is your clean route through his 6,145 health.",
+    "Do not rely on blades. Any blade he steals off the recipient and then destroys, so stacked charms are wasted here.",
+    "Do not use universal traps. A universal trap on him puts Backdraft on the caster, and a single trap or DoT on a wizard makes him Detonate that wizard.",
+    "Skip the whole blade-and-trap loop. Instead lean on flat Ice damage, an aura, or a shadow/critical hit to build a hit without feeding his steal and Detonate cheats.",
+    "With no minions and low health, a couple of setup rounds using untouched tools plus one strong Ice hit ends it before his counters matter."
+  ],
+  "cheatNotes": [
+    "Casting any blade makes him Steal Charm it off the recipient, then destroy it.",
+    "Casting a universal, Elemental, or Fireblade makes him Steal Charm it off the recipient.",
+    "Placing any universal trap on an enemy makes him cast Backdraft on you, the caster.",
+    "Placing a single trap or DoT on a wizard makes him cast Detonate on that wizard."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "Hit with Fire or Life (+12%). She barely resists most schools, so your damage school is flexible.",
+    "She Ripostes: every time a spell damages her she drops a Myth Trap on the attacker and hits back with her Natural Attack. Use one single-hit spell, not a multi-hit attack; each separate damage instance triggers a fresh Riposte.",
+    "Avoid helpful Wards (she answers with a Myth Trap on you and Pierces the ward after her Natural Attack) and harmful Charms (Myth Trap on the caster).",
+    "At 3,520 health, set up a blade or two and end it in one hit before the Ripostes add up."
+  ],
+  "cheatNotes": [
+    "Casting a helpful Ward drops a Myth Trap on the warded Wizard. Skip shields here.",
+    "Casting a harmful Charm drops a Myth Trap on the caster. Skip weaknesses.",
+    "Any spell that damages her triggers a Myth Trap plus her Natural Attack on the attacker. Hit once, hard.",
+    "A multi-hit spell Ripostes once per hit, so multi-hit attacks get punished repeatedly.",
+    "Damage-over-Time ticks do not trigger the Riposte.",
+    "If she has no Pips when it triggers, her Natural Attack fires as though she had one Pip.",
+    "After her Natural Attack, if you are holding a helpful Ward she Pierces it. Do not sit on shields.",
+    "Defeating a Lanyon Scratcher makes her cast Storm Prism then Triton on that Wizard."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,26 @@
+{
+  "strategy": [
+    "He constantly summons: a Spiderling and, when no minions remain, another copy of himself; carry AoE to keep the board clear.",
+    "Do not cast Auras. An Aura makes him respond with Mass Supernova.",
+    "Do not cast negative Charms on him. Any negative charm, even as a secondary effect, triggers Insane Bolt for up to 1,550 to your whole team.",
+    "Every second Round he casts Shift Malistaire for 85 Death per pip; keep shields up on that timer.",
+    "After some turns he casts a Death Morganthe attack for 100% of a wizard's health, so keep everyone healthy and do not overextend.",
+    "Solo him if you can; with two or more wizards he punishes stacked blades, Globals, and traps by removing them."
+  ],
+  "cheatNotes": [
+    "Every second Round he hits a random wizard with Shift Malistaire for 85 Death per pip; expect chip damage on that timer.",
+    "Casting an Aura makes him retaliate with Mass Supernova; skip Auras here.",
+    "He summons a Spiderling minion; keep AoE ready.",
+    "With no minions left he summons another copy of himself, so the board rarely stays empty.",
+    "Any negative Charm you place makes him Insane Bolt your whole team for 550, 1,050, or 1,550; avoid weaknesses, mantles, and infections.",
+    "Spells that apply a negative charm as a side effect also set off the Insane Bolt; check secondary effects before casting.",
+    "After an unpredictable number of turns he casts a Morganthe attack for 100% of a wizard's health; keep everyone near full and end the fight before it stacks up.",
+    "",
+    "With two or more wizards, the first blade, Global, or trap each turn just gets a verbal response; the danger is a second one below.",
+    "If a second wizard casts the same hanging-effect type that turn, he punishes it, so coordinate to avoid doubling up.",
+    "A second blade or Global in one turn makes him Enfeeble off all your blades; stagger your buffs across turns.",
+    "A second trap in one turn makes him Cleanse all your traps; place traps one wizard per turn.",
+    ""
+  ],
+  "groupFight": false
+}

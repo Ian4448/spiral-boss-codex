@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Shadow Palace boss with 19,770 health and self-buffing summons, so run it as a team with one hitter, blading supports, and a healer.",
+    "Attack with Myth or Life (he takes +35% from both); never hit into his 80% Storm resist without a prism.",
+    "End of round 1 he summons a Blackback Thrall and an Ashen Man Eater whose only job is to blade him (Stormblade rounds 2 and 4, Dragonblade every 3rd round) — AoE them down early or race him before his stack piles up.",
+    "His DoT natural attack (200 + 600 Storm over 3 rounds) every 3rd round targets the wizard holding the most blades/traps, so keep those on the hitter and have them stack late.",
+    "Bring Pierce or Shatter for his Tower Shield (Sun -70%), then funnel blades to the hitter and land one big Myth or Life hit."
+  ],
+  "cheatNotes": [
+    "End of round 1 he summons a Blackback Thrall and an Ashen Man Eater that exist only to buff him. Clear them early or plan to out-race their blades.",
+    "The Ashen Man Eater feeds him a +35% Stormblade on rounds 2 and 4, so his hits grow each cycle — take him down before the stack builds.",
+    "The Blackback Thrall adds a Dragonblade every 3rd round, another stacking buff on Balor. Same answer: kill the minion or burst fast.",
+    "He throws up a Tower Shield (Sun -70%) on himself or a minion. Bring Pierce or Shatter, or overhit through it.",
+    "If his Shadow Shrike is active when he shields, his own backlash grows, so his attacks recoil harder on himself — minor, but it can help chip him.",
+    "Every 3rd round he DoTs the wizard holding the most blades/traps for 200 + 600 Storm over 3 rounds. Keep that load on the hitter and pack Triage."
+  ],
+  "groupFight": true
+}

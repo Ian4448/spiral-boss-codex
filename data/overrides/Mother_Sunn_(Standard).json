@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Team fight (21,000 health, no minions). Hit with Ice (+30%); she resists Fire 59% and everything else 29%.",
+    "She hits the whole team with a 375 Sun Scald DoT every second round and a 665 Sun Power Nova plus -40% damage charm every fifth round.",
+    "Time your big hit before the round-5 Nova, or cleanse the -40% damage charm off your hitter afterward so your blades are not gutted.",
+    "Bring Triage for the Scald DoT and keep the team healed through the recurring AoE.",
+    "Funnel Ice blades to one hitter and unload between the Scald ticks."
+  ],
+  "cheatNotes": [
+    "",
+    "Every second round she casts a Sun Scald dealing 375 Sun over 3 rounds to all enemies.",
+    "Every fifth round she casts a Sun Power Nova for 665 Sun and a -40% damage charm on all enemies."
+  ],
+  "groupFight": true
+}

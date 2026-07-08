@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "Run this as a team: a hitter who lands the kill, supports who blade and Feint, and a healer to manage Confusion and the round-1 guards. He resists Storm and Life 73%, so hit with Ice or Myth (only 33% resist).",
+    "Round 1 he summons three Ascended Guards, and every round he Confuses a random wizard and heals himself 6,600, so you must burst, not grind.",
+    "Do not chip the guards or the boss for partial damage. Hitting a guard without killing it heals Strigoi 5,000, and killing a guard makes him Sacrifice-revive it.",
+    "The win condition is his full-health state (he says he is overstuffed): defeat him from FULL HP in a single attack. If he is below full when he dies, or you fail to one-shot him, he Scarecrows and fully revives.",
+    "Never Drain him or an Ascended Guard and never use a spell with a sun in it: a drain that kills him full-heals him, a drain that fails Aegis-blades him, and sun spells give him a protected universal dispel.",
+    "Stack blades and Feints across several rounds, let him heal back to full, then unload one massive hit that kills him from full while also clearing the guards."
+  ],
+  "cheatNotes": [
+    "Round 1 he summons three Ascended Guards. Expect to fight through them or clear them on your kill turn.",
+    "At the start of the round he Confuses a random wizard and heals himself 6,600. Burst him down before the heals add up.",
+    "When an Ascended Guard dies he Sacrifice-revives it at 20% HP for 2,000 of his own HP, casting once per guard killed in a single spell.",
+    "Hitting an Ascended Guard without killing it heals Strigoi 5,000. Never chip the guards.",
+    "When he is at full HP he says he is overstuffed. This is the state you want: kill him from here in one hit.",
+    "When he is below full HP he says he feels hunger pangs. Defeating him in this state makes him Scarecrow and revive.",
+    "If he is not defeated from full HP in a single attack, he Scarecrows and revives himself. Your kill must be a one-shot from full.",
+    "Hitting Strigoi or a guard with a Drain triggers one of the two responses below. Do not use Drain spells on this fight.",
+    "If the drain does not kill him, he Aegis-protects a +100% Balanceblade on himself.",
+    "If the drain does kill him, he casts a Minor Blessing that heals him for 100% of his max health. Draining him to death fully heals him.",
+    "Hitting Strigoi or a guard with a spell that has a sun in it (Sun Serpent, Ra, Climaclysm) makes them protected-universal-dispel themselves. Avoid sun spells."
+  ],
+  "groupFight": true
+}

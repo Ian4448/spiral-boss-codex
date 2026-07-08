@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Pack stun blocks and a heal. His whole kit is a Moon Stun that locks you down for 2 rounds, then a follow-up attack while you are marked.",
+    "Expect the 'Nightmare Prone' mark after the stun. While it is on you, he casts Winged Sorrow on you at the end of the round, then Cleanse Ward to clear the mark. Budget health to eat one Winged Sorrow, or shield ahead of time if you see the stun coming.",
+    "Do not plan around stunning him back. He is not stunable.",
+    "Otherwise play the standard loop: blade for 2-3 rounds while healing through the stun cycle, then finish with one big hit. Nothing in his cheats punishes blades or traps."
+  ],
+  "cheatNotes": [
+    "He casts a Moon version of Stun that locks a wizard for 2 full rounds and leaves a 'Nightmare Prone' stun shield mark on them. Stun blocks are your counter; without them you lose two turns.",
+    "While the Nightmare Prone mark is on you, he casts Winged Sorrow on you at the end of the round, then Cleanse Ward removes the mark. In practice you eat one Winged Sorrow per stun cycle, so keep your health topped up."
+  ],
+  "groupFight": false
+}

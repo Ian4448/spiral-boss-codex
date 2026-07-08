@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "You get only two hits before Morp ends the fight — her third hit forces all wizards to pass and Exit-Combats everyone, so you must kill her within two hits (ideally one).",
+    "Round 1 she summons a Shadow Sentinel (three rounds) that intercepts single-target hits, so spend rounds 1-3 stacking every blade, trap, and Feint while it expires.",
+    "Attack with Death (she takes +30%; she resists Life 71% and everything else 40%).",
+    "Once the Sentinel is gone, unload one fully-stacked Death nuke to kill her outright — each hit also Stuns you, so make it count.",
+    "Never chip her; every poke burns one of your two allowed hits."
+  ],
+  "cheatNotes": [
+    "Round 1 she summons a Shadow Sentinel for three rounds that intercepts single-target hits — use rounds 1-3 to stack buffs and let it expire, or go around it with an AoE.",
+    "Your first hit on her Stuns you, so expect to lose the following turn — make that hit count.",
+    "Your second hit Stuns you again — you really only get one or two swings.",
+    "Your third hit ends the fight outright (all wizards pass, combat exits) — you must kill Morp within two hits, so build one fully-stacked Death nuke and drop it."
+  ],
+  "groupFight": false
+}

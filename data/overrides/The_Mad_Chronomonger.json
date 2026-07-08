@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Balance boss (13135). Hit with Myth, Life, or Death (+5%); it resists 45% across most schools, so over-stack blades and traps.",
+    "The core rule: land a real hit on him EVERY round. Any round he is not hit, he Mass Feints your whole team (+70%/+30% traps on you) and then Mockenspiels all wizards the next round, turning his own attack into big damage through those traps.",
+    "DoT ticks do not count as a hit; you need a fresh damaging spell each round. Keep a cheap attack ready every turn to reset his clock while you build.",
+    "Stack blades and traps between forced hits, then land your big Myth, Life, or Death finisher."
+  ],
+  "cheatNotes": [
+    "",
+    "Hitting him resets his cheat cycle. Land a real damaging spell every round to keep it reset.",
+    "Any round you do not hit him, he Mass Feints your whole team (+70%/+30%), turning his next attack into a heavy hit on you. Never skip a hitting turn, and DoT ticks do not count.",
+    "The round after that Mass Feint, he Mockenspiels all wizards through those traps for big damage. Keep the clock reset with a hit every round."
+  ],
+  "groupFight": false
+}

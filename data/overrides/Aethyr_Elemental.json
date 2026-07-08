@@ -1,0 +1,29 @@
+{
+  "strategy": [
+    "Run this as a 4-wizard speed team: Support 1, Support 2, a Storm secondary hitter, and a Fire primary hitter, entering in that order so the Fire hitter acts last. Flee and re-enter until your team goes first to dodge chain stuns, and give everyone one stun block.",
+    "Only Feint with the Balance version or protect it with Indemnity. A normal Feint triggers a double Cleanse Ward that strips your last two traps, so Support 1 opens with an Indemnity-protected Feint.",
+    "Never cast Heal-over-Time or Damage-over-Time spells: HoTs trigger Snow Drift and DoTs trigger Mass Triage. Keep healing to flat heals and skip poisons/DoT hits entirely.",
+    "In Phase 1 avoid casting Charms or Globals directly on the boss, since they trigger Mass Enfeeble (Moon). Set up traps and Aegis-protected blades instead; charms are safe again in Phases 2 and 3.",
+    "Phase 1 (R1-R4): stack Elemental Trap plus Fire Trap and Backdraft on the Fire hitter with Aegis on his blade, then finish the 32,000 boss with Scion of Fire.",
+    "Phase 2: the boss splits into two 16,000 copies. Blade the Storm hitter (elemental/storm/balance blades) and wipe both with Glowbug Squall or Storm Lord in one AoE.",
+    "Phase 3: each defeated 16,000 boss splits into two 8,000 copies. Re-blade and clear them with an AoE like Raging Bull or Meteor Strike so every copy dies the same round."
+  ],
+  "cheatNotes": [
+    "If a wizard shows up after round 2, every boss present hits that latecomer with Lord of Winter. Enter on round 1 and stay through the fight.",
+    "A regular Feint makes the boss cleanse off the last two traps you placed, undoing your setup. Use the Balance Feint or protect it with Indemnity.",
+    "Putting Indemnity on your Feint stops the boss from cleansing it, so the trap sticks.",
+    "Mass Feint counts as a Feint here and still triggers the trap-removal cheat, so avoid it unprotected.",
+    "The Balance-school Feint is the exception and does not make the boss cleanse your traps, so it is the safe Feint to cast.",
+    "Casting any Heal-over-Time makes the boss cast Snow Drift. Stick to instant heals like Satyr or Pixie.",
+    "Casting any Damage-over-Time makes the boss cast Mass Triage, which wipes DoTs off itself. Do not rely on poison-style hits.",
+    "",
+    "In Phase 1 only, casting a Charm, a Global, or a negative charm on the boss triggers Mass Enfeeble (Moon). Hold your bubbles and blades until Phase 2 or protect blades with Aegis.",
+    "Aegis on one blade lets that blade survive the Phase 1 Enfeeble cheat, so shield your hitter's key blade.",
+    "",
+    "Killing the Phase 2 boss splits it into two 16,000-health copies, so line up an AoE to clear both at once.",
+    "",
+    "Each 16,000 copy you defeat splits again into two 8,000 copies, so save an AoE finisher for Phase 3 rather than single-target hits."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

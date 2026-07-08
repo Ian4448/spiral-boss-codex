@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Don't chip at her. Every instance of damage she takes triggers a Spirit Armor, so poking just wraps her in absorbs.",
+    "Set up clean: stack Death blades (she takes +20% Death and resists Life 50%) without hitting her at all.",
+    "Watch her partner — whenever Claudas uses a blade, Brulee casts Guidance, buffing enemy accuracy. Nothing to counter, just expect fewer fizzles from their side.",
+    "Kill her in one buffed Death hit. At 2,720 health, one blade-and-Feint hit blows through any armor she has before she can restack it."
+  ],
+  "cheatNotes": [
+    "Whenever Claudas casts a blade, Brulee follows with Guidance. It just makes the enemy team more accurate — no direct counter needed.",
+    "Every time she takes damage she casts Spirit Armor on herself. Multi-hit chip damage is the worst thing you can do; one big single hit gives her no chance to armor up behind it."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "Exalted challenge team fight: hitter, blading supports, and a healer. Hades has no resist, so hit with your strongest school.",
+    "Never self-heal. Every self-heal, including AoE heals and pet heals, triggers Shift Wraith (335 Death plus a -90% Infection on the healer). Heal teammates instead, which is safe.",
+    "Avoid DoTs while Ares is up. Hades stacks DoTs on you and Ares detonates them for heavy Death damage.",
+    "Mind kill order: defeating an enemy hands the killer a Donate Power, and killing Zeus makes Hades natural-attack a random wizard every 2 rounds.",
+    "Funnel blades and Feint to the hitter and burst each target down."
+  ],
+  "cheatNotes": [
+    "While Ares (Savage Spear) is alive with Hades, they combo: Hades stacks 4 DoTs on a wizard, then Ares detonates them all for heavy Death damage. Keep DoTs off yourself.",
+    "Self-healing triggers Shift Wraith: 335 Death and a -90% Infection on you. Heal teammates, not yourself.",
+    "AoE heals also count as self-heals here and will trigger it.",
+    "Healing another player, not yourself, is safe and will not trigger the Wraith.",
+    "Pet heals trigger it too, so watch may-cast heals.",
+    "Whoever lands a killing blow gets a Donate Power from Hades, so the killer gains pips.",
+    "Once Zeus is defeated, Hades natural-attacks a random wizard every 2 rounds. Keep shields and heals ready."
+  ],
+  "groupFight": true
+}

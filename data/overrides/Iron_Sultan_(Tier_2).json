@@ -1,0 +1,12 @@
+{
+  "strategy": [
+    "Know the opening: on round 1 the Gold Dragon casts Shadow Sentinel on itself - 75% intercept, 100 critical block, -30% incoming damage - so most single-target damage aimed at the Sultan gets soaked by a tanky dragon.",
+    "Plan an AoE kill: blades plus Feint, then one all-enemy hit that clears Sultan, Gold Dragon, and Steeleton together instead of fighting the intercept.",
+    "Hit with Myth if you can (+20%). He resists Storm 40%, so Storm wizards bring a prism.",
+    "He starts with only 1 pip, so the early rounds are safe - stack blades for 2-3 rounds and hit."
+  ],
+  "cheatNotes": [
+    "The Gold Dragon shields the fight from round 1: it intercepts 75% of damage aimed at its allies, blocks crits, and takes 30% less damage itself. Either burn the dragon down first or build to one big all-enemy hit."
+  ],
+  "groupFight": false
+}

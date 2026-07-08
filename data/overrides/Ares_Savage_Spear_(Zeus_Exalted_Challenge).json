@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Team fight in the Zeus Exalted Challenge. Bring Ice or Storm hitters — Ares takes +40% from both and resists Fire at 80%.",
+    "No traps, ever. Any trap on an enemy triggers a 1,000-damage Efreet with a -95% weakness on the caster. Build damage with blades only.",
+    "Exploit his Dark Pact cheat: every damage spell you cast earns that wizard a +30% Dark Pact blade. Supports can throw cheap one-pip attacks each round to farm free +30% blades onto themselves, then pass value to the hitter with team blades.",
+    "Watch the DoT detonate: the round after Hades or Apollo uses a natural attack, Ares fires his AoE and detonates all DoTs. Keep Triage handy and do not stack DoTs on yourselves before that window.",
+    "Once Zeus is down, Ares natural-attacks every second round — time shields and heals to those rounds. If Apollo and Zeus are dead, Quench shuts off the Efreet counter if someone slips a trap.",
+    "Blade the hitter, stack the farmed Dark Pacts, and kill through 18,800 with one big Ice or Storm hit."
+  ],
+  "cheatNotes": [
+    "The round after Hades or Apollo natural-attacks, Ares uses his own AoE natural attack and detonates every DoT on the field. Do not carry DoT ticks into that round; Triage them off.",
+    "Any trap placed on an enemy gets the caster a cheat Efreet for 1,000 damage plus a -95% damage weakness. Skip traps completely — the weakness ruins your hit.",
+    "Once Apollo and Zeus are dead, casting Quench prevents the Efreet counter. Only then are traps even worth considering.",
+    "Every damage spell you cast is rewarded with a +30% Dark Pact blade. Deliberately spam cheap attacks to farm free blades for the kill.",
+    "After Zeus dies, Ares uses his natural attack at the start of every second round. Shield and heal on that rhythm."
+  ],
+  "groupFight": true
+}

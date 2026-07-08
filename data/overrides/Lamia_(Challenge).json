@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Attack with Life; she resists Death 80% and takes boosted Life damage. Never hit into her Death resist.",
+    "Do not overwrite her round-1 Deadzone global. She recasts it, so leave it and plan to out-damage rather than out-heal.",
+    "Blade and hit in the same round, or Aegis your blade. Any helpful Charm or Aura makes her Starfall the recipient and strip the buff.",
+    "Do not heal (she answers with a Pathogen DoT) and do not cast harmful Auras on her (she answers with Monk of Mourning on the caster).",
+    "Beat her around round 4. Every fourth round she casts Scarecrow, an AoE drain that heals her. AoE the Storm Shark down with her."
+  ],
+  "cheatNotes": [
+    "Round 1 she puts up a +35% Deadzone global that boosts Death and cuts healing. Plan to out-damage, not out-heal.",
+    "She recasts Deadzone if you replace it with your own global, so do not bother overwriting it.",
+    "Any helpful Charm or Aura makes her Starfall the recipient (or the aura caster), stripping the buff. Blade and hit the same round, or Aegis the blade.",
+    "Casting a harmful Aura on Lamia makes her hit the caster with Monk of Mourning (Tier 2b).",
+    "Any heal gets the recipient a Pathogen DoT (or the caster on an all-allies heal). Avoid healing.",
+    "At the start of the fourth round and every fourth round after, she casts Scarecrow, an AoE drain that heals her. Kill her before it swings the fight."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,43 @@
+{
+  "strategy": [
+    "Team fight (24,500 health). His Luna-Tick minions are polymorphed into ducks (Old Quack, Quentin Quail, Drake Lockley) that punish setup, so coordinate who casts what.",
+    "Hit with Fire (+30%); he resists Ice, Myth, and Death 70% and everything else 40%.",
+    "Blading is dangerous: universal, off-school, or multi-blades draw Ice Enfeeble from Old Quack, and Aegis will not save the blade. Use single mono-school blades of your own school.",
+    "Charms, wards, and traps trigger Quentin's counters (Weakness, Hex, Balanceblade, shields), and any damage charm, trap, aura, or global draws Drake's 800 Storm Duck Savage. Keep setup minimal and clean.",
+    "Every third round he Shatterhorns a random wizard, so keep shields refreshed.",
+    "Funnel safe mono-school blades to the Fire hitter and burst the boss and ducks together."
+  ],
+  "cheatNotes": [
+    "",
+    "Round 1 he polymorphs the Luna-Tick minions into duck forms, with the count depending on wizards present.",
+    "",
+    "",
+    "Every third round he casts Shatterhorn on a random wizard.",
+    "With no Luna-Tick minions present, Loon Knight polymorphs into one of the duck forms and keeps his own cheats plus gains that form's.",
+    "He can polymorph again into another form, stacking both forms' cheats.",
+    "",
+    "Old Quack: a universal or multi-blade draws Ice Enfeeble on the receiver.",
+    "A multi-target blade like Bladestorm draws an all-enemies Enfeeble.",
+    "Even a normal blade of a school other than your own triggers it.",
+    "Blades with secondary effects like Savage Paw do not trigger it.",
+    "Aegis will not stop the blade from being removed.",
+    "",
+    "Quentin Quail: certain hanging effects you cast make him cheat-cast a matching counter.",
+    "Secondary effects, like the blade on Sound of Musicology, also trigger it.",
+    "A single-target helpful charm draws Weakness on the receiver.",
+    "A helpful charm on all allies draws Mass Weakness.",
+    "A single-target harmful charm on him draws Balanceblade.",
+    "Starfall also triggers this.",
+    "A harmful charm on all enemies draws Bladestorm (+25%).",
+    "A single-target helpful ward draws Hex on the receiver.",
+    "A helpful ward on all allies draws Mass Hex.",
+    "A single-target harmful ward on him draws a Balance Tower Shield.",
+    "Attenuate also triggers this.",
+    "A harmful ward on all enemies draws Legion Shield.",
+    "",
+    "Drake Lockley: any damage or pierce charm, trap, aura, or global draws an 800 Storm Duck Savage on the receiver.",
+    "Multi-target spells make the Duck Savage hit the caster instead.",
+    "Secondary effects also trigger it."
+  ],
+  "groupFight": true
+}

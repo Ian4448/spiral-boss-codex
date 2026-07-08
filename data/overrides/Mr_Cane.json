@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "He takes +30% from Life and resists Death 62%. Hit with Life or a non-Death school.",
+    "The core mechanic: two Hostages each carry a 6,000 Damage Absorb aura. If you kill Mr. Cane while a Hostage is still in combat, he fully heals everyone and recasts the auras. Get the Hostages out first.",
+    "Remove a Hostage by dealing more than 6,000 in one hit (which force-exits them from combat), or use Drain spells, which pass straight through the absorb and trigger the exit.",
+    "Do NOT try to strip the Restraints aura; removing it also triggers his full-heal cheat.",
+    "Once both Hostages are cleared, focus Mr. Cane. Expect a Poison every third round; carry Triage or heal through it. Blade up, drain or burst the Hostages out, then land a Life hit on Cane."
+  ],
+  "cheatNotes": [
+    "At Round 1 both Hostages get a 6,000 Damage Absorb aura. You must remove the Hostages before killing Cane, not just chip them.",
+    "That absorb can also stop criticals from doubling and block trap activation on the Hostages. Big single hits or drains are the way through.",
+    "Kill Cane while a Hostage is still in combat and he full-heals everyone and recasts the auras. Clear both Hostages first.",
+    "Removing the absorb aura also triggers his full-heal. Never strip it; remove the Hostages themselves instead.",
+    "A hit dealing more than 0 after the 6,000 absorb (over 6,000 in one hit) forces the Hostage to Exit Combat. That is how you clear them.",
+    "Drain spells bypass the absorb entirely and trigger the Exit Combat. Drains are the easy way to remove Hostages.",
+    "Every third round he casts Poison. Carry Triage or heal through the DoT."
+  ],
+  "groupFight": false
+}

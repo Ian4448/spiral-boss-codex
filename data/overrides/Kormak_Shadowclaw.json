@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "He opens with a -65% Tower Shield and re-shields after every hit, so bring Pierce or Shatter, or use Steal Ward to strip it safely (and keep the shield yourself).",
+    "Avoid multi-hit spells (Minotaur, Hydra) — each hit makes him add another shield.",
+    "Attack with Myth or Life (he takes +35% from both); never hit into his 80% Storm resist without a prism.",
+    "In a group you can strip his shields by casting a single-target charm on a teammate (he Cleanses all his own wards) — but it also removes your traps on him, so time it before the hitter goes.",
+    "Stack blades, break the Tower the same round, and land one clean single hit."
+  ],
+  "cheatNotes": [
+    "He starts with a -65% Tower Shield. Pierce or shatter through it, or Steal Ward it off (and keep the shield yourself).",
+    "Steal Ward and Pierce remove the Tower safely without provoking a replacement — use them over raw damage.",
+    "He re-casts the -65% Tower by interrupt after every attack on him, so break the shield the same round you commit your big hit.",
+    "Multi-hit spells (Hydra, Minotaur) make him stack a shield per hit — use a single-hit attack instead.",
+    "Casting a single-target charm on a teammate makes him Cleanse off all his own shields, traps, and prisms — handy to clear his Tower, but it wipes your traps on him too.",
+    "",
+    "",
+    "Vaporize dispels this Cleanse cheat if you want to stop him from stripping his own wards."
+  ],
+  "groupFight": false
+}

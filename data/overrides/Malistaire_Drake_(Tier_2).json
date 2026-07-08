@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "He resists 40% to every school, so bring pierce or shatter and hit with your strongest school under blades.",
+    "While Sylvia is with him he casts a -100% Virulent Plague on the team every round, gutting your damage. Cleanse it before your big hit, or hit the same round it lands.",
+    "Kill Sylvia before she casts Dark Pact (she sacrifices herself to give Malistaire a +100% Balanceblade). Once he is alone he Mana Burns the team but stops the Plague.",
+    "Avoid casting charms while he has a minion, he answers with Jinn's Larceny to steal them. Skip DoTs too, Sylvia removes them with Mass Triage.",
+    "Stack blades on one round, cleanse the Plague, and land a single pierced burst."
+  ],
+  "cheatNotes": [
+    "Turn order randomly switches, so you cannot count on going first, plan for either order.",
+    "",
+    "Join late and he interrupt-casts Fire Dragon on you.",
+    "While Sylvia is alive he hits the whole team with a -100% Virulent Plague every round, cleanse it or hit the same turn it lands.",
+    "Cast a charm while he has a minion and he steals it with Jinn's Larceny, hold charms until Sylvia is dead.",
+    "The charm-steal only fires when he has a minion, so it is safe once he is alone.",
+    "Alone without Sylvia he cuts 25% of his own health and Mana Burns the team, removing a shadow pip.",
+    "He summons Sylvia Drake with a Shadow spell and Chokes the whole team.",
+    "",
+    "Cast a DoT and Sylvia answers with Shadow Mass Triage, wiping your DoTs, use burst instead.",
+    "After a few rounds Sylvia Dark Pacts, sacrificing herself to give Malistaire a +100% Balanceblade, kill her before this to deny the huge buff."
+  ],
+  "groupFight": false
+}

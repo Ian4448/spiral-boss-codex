@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "The Gold Dragon takes 75% of the hits aimed at the Sultan (Shadow Sentinel) and has -30% incoming, so single-target hits mostly land on the Dragon - deal with it first or hit AoE.",
+    "Do not rely on single Feints: he Cleanse Wards himself twice to wipe negative wards, which even beats Indemnity.",
+    "Use AoE traps like Windstorm instead - they do not trigger his double cleanse, so your traps stick.",
+    "Expect a +35% Darkwind (accuracy debuff) after several rounds, followed by an Iron Sultan hit on the lowest-health wizard - keep everyone topped and consider accuracy support.",
+    "Set up with AoE traps and blades, then clear the Gold Dragon and Steeleton along with the Sultan in one AoE hit through his 8,800 health."
+  ],
+  "cheatNotes": [
+    "Join late and he casts the Shadow version of Iron Sultan - arrive on time.",
+    "On Round 1 the Gold Dragon gives itself a Shadow Sentinel: 75% intercept, 100 critical block, and -30% incoming, so it soaks single hits meant for the Sultan.",
+    "He casts Cleanse Ward twice on himself to strip all negative wards, so Indemnity will not save a Feint.",
+    "AoE traps such as Windstorm do NOT trigger that double cleanse - use them to keep traps on him.",
+    "After several rounds he casts a +35% Darkwind, cutting the team's accuracy.",
+    "After the global he casts Iron Sultan on whoever has the lowest health - keep everyone topped up."
+  ],
+  "groupFight": false
+}

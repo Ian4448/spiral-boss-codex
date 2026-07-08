@@ -1,0 +1,32 @@
+{
+  "strategy": [
+    "He Polymorphs at the end of round 1 into one of several animal forms, and after his first defeat he Blessings back to full health once - plan to kill him twice.",
+    "Elephant (Tim-tim): his incoming damage is capped at 100 until you hit him with the three schools he blades himself with. Bring off-school hits/treasure cards to match (Death/Life/Myth, Fire/Ice/Storm, or Balance/Myth/Ice). Progress carries between recasts; finish the code and his cap becomes a Frenzy.",
+    "Rhino (Tom-tom): he Superchargers and Stormblades himself then casts a non-dispellable Storm Owl - stack Storm shields and burst him before it lands.",
+    "Lion (Tik-tik): the first time he is damaged he Cat Naps to full health (once) - bait it with a small hit, then set up your real burst.",
+    "Spider (Tse-Tse): he stacks +30% Shadowblades each round and Sacrifices himself on round 3 - you can just survive and let him kill himself.",
+    "Otherwise hit with Myth (he takes more from Myth, resists Storm 80%) and deal with the Starburst Spider and Goliath Bruiser minions."
+  ],
+  "cheatNotes": [
+    "End of round 1 he Polymorphs into one of the animal forms below. Identify which and adapt.",
+    "The first time you defeat him he casts Blessing back to full health (once). Expect to kill him twice.",
+    "",
+    "As the Elephant his incoming damage is capped at 100 for the fight until you solve his code.",
+    "Round 2 and every 2 rounds he blades himself with 3 schools - the schools you must hit him with to break the cap.",
+    "Possible code: Death, Life, Myth.",
+    "Possible code: Fire, Ice, Storm.",
+    "Possible code: Balance, Myth, Ice.",
+    "Your progress through the code is not reset when he recasts the blades. Keep going.",
+    "",
+    "Finishing the code replaces his damage-limit aura with Frenzy - now hit him hard.",
+    "",
+    "As the Rhino he opens with two Supercharges and a +35% Stormblade on himself.",
+    "End of round 1 as the Rhino he casts a non-dispellable Storm Owl. Storm-shield the team.",
+    "",
+    "As the Lion, the first damage he takes triggers a Cat Nap to full health (once). Bait it with a small hit.",
+    "",
+    "As the Spider he stacks a +30% Shadowblade every round.",
+    "At the end of his 3rd round as the Spider he casts Dark Fiend and Sacrifices himself, defeating himself - you can let him do it."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,41 @@
+{
+  "strategy": [
+    "Have all four wizards enter before Round 1. A late join takes a single-target Power Nova for its full max Health that ignores resist and every ward.",
+    "Each cycle the background casts a random school Global that boosts one school and weakens its opposite; the first lasts two Rounds, the rest three. Plan your hit for a window that favors your hitter's school.",
+    "You cannot discard the cursed cards it forces into your hand, and Reshuffle will not remove them, so play around them rather than trying to clear them.",
+    "Supports blade the hitter and stack Feints. The Paradox resists every school 26% with no weakness, so bring pierce or a prism and pile on charms and traps.",
+    "Clear all three Aberrations before or on the same Round as the Paradox; if one lives when the boss falls it respawns with 685 Health. Remember each slot respawns a new-school Aberration up to twice.",
+    "Fire the AoE finisher inside a boosted Global window so the Paradox and every Aberration die together."
+  ],
+  "cheatNotes": [
+    "If you join after Round 1, the Paradox hits you for your full max Health, ignoring resist and all wards, so enter before combat starts.",
+    "The background sets a random school Global each cycle that boosts one school and weakens its opposite; the first lasts two Rounds, the rest three.",
+    "Each Global also drops an undiscardable card in your hand that helps the boss or hurts your team; Reshuffle will not clear it.",
+    "If you change the Global with your own, the Paradox simply recasts the one it wanted back.",
+    "The one way to strip a Global for good is an enemy-style swap like Gaze of Fate, which it will not recast.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "If any Aberration is still alive when the Paradox dies, it respawns with 685 Health, so clear the minions first or on the same Round.",
+    "Killing an initial Aberration in a slot summons a new-school Aberration in that same slot.",
+    "",
+    "",
+    "",
+    "Killing a second-wave Aberration summons one more in that slot; after this no further Aberrations spawn.",
+    "",
+    "",
+    ""
+  ],
+  "groupFight": true
+}

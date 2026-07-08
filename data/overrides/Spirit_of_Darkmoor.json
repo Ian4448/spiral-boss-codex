@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Classic Darkmoor team fight (14,700, Sun). She takes +30% from Ice and Death. Hitters use Ice or Death.",
+    "Do NOT blade or cast globals: either makes her Scald the whole team (999 Fire over 3 rounds), and pet spells trigger it too. Feed the hitter with enchants and auras, or blade only in the same round as the hit.",
+    "Do NOT single-trap her; she counters with Assail (850 Myth plus two +35% Myth traps on you). Multi-target traps like Windstorm do NOT trigger it.",
+    "Do NOT kill her Darkmoor Gargoyle early: defeating a minion triggers Eternal Leviathan (777) and revives the minion. Save the minion for your final AoE.",
+    "She heals 750 each round (Minor Blessing) and runs 5-round school cycles that dump a full spear, blade, and hit package on the highest-threat wizard every fifth round. Use Doom and Gloom or Infection to cut her healing and manage threat.",
+    "Supports blade the hitter same-round or via enchants, the healer covers the Scald and cycle hits, and the hitter lands one big Ice or Death AoE to take her and the revived Gargoyle together."
+  ],
+  "cheatNotes": [
+    "Casting a blade or a global makes her Scald the whole team for 999 Fire over 3 rounds. Blade only in the same round you hit, or use enchants instead of blades.",
+    "Pet-cast spells also trigger the Scald. Consider a pet that will not cast during setup.",
+    "A single-target trap on her triggers Assail: 850 Myth and two +35% Myth traps back on you. Trap with multi-target spells instead.",
+    "Multi-target traps like Windstorm do NOT trigger the Assail. Use those if you must trap her.",
+    "Killing a minion makes her cast Eternal Leviathan (777) and revive the minion. Do not pick off the Gargoyle early; take it with your final AoE.",
+    "",
+    "Each cycle round she Pierces a random wizard. Expect steady pierce damage.",
+    "On the fifth round of the Myth cycle she loads Mythspear, Mythblade, Mystic Colossus, and Saga of Heroes. Heal the highest-threat wizard through it.",
+    "She heals 750 every round with Minor Blessing. Use Doom and Gloom or Infection to cut it.",
+    "On the fifth round of the Life cycle she dumps Lifespear, Lifeblade, Namaste, and Hungry Caterpillar on the highest-threat wizard. Manage threat and pre-shield.",
+    "Each round of the Fire cycle she Backdrafts a random wizard for her pip count. Expect the trap and heal through the Fire follow-up.",
+    "On the fifth round of the Fire cycle she loads Firespear, Fireblade, Combustion, and Fire from Above on the highest-threat wizard. Shield and heal that wizard."
+  ],
+  "groupFight": true
+}

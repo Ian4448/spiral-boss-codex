@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Attack with Fire; he takes +30% from it and resists Ice 70% and everything else 40%. He is stunable, so a stun can buy you a setup round.",
+    "Round 1 he stacks three -200% Tower Shields on himself that double-absorb your damage, so a raw nuke is wasted into them.",
+    "Break all three shields first with cheap wand hits or a Shatter, then land your real Fire attack the same round or right after.",
+    "Each broken shield returns 3 rounds after destruction, so once you pop all three, finish him inside that window before they reapply."
+  ],
+  "cheatNotes": [
+    "Round 1 he stacks three -200% Tower Shields on himself that double-absorb your damage. Break them with cheap hits or Shatter before committing your big Fire attack.",
+    "Each broken shield comes back 3 rounds after it is destroyed. Once all three are down, land your kill inside that window before they reapply."
+  ],
+  "groupFight": false
+}

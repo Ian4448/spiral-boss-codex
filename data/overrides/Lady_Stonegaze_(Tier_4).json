@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Myth boss (12425) with a hard rule: only the 0-pip Blindfolded Hit cards she hands out can damage her. She gives them to all non-polymorphed wizards at the end of every other round.",
+    "Never target her with your own spells. Any spell you aim at her (attack, trap, charm, even an AoE) turns you into a Statue for 99 rounds, and any normal damage that lands makes her Moon-Blessing to full health.",
+    "Because the Blindfolded Hits cost 0 pips, build a support-heavy deck — blades, shields, and heals with room to spare. Frenzy, Blade Storm, Dark Pact, and Balance/Spirit/Elemental Blade are the core buffs.",
+    "Buff only yourself: self-blades land on you, not her, so they are safe. Stack self-blades, then unload the Blindfolded Hits the round she provides them.",
+    "Boost the Blindfolded Hits with universal (all-school) damage gear, since it lifts every card variant equally.",
+    "If you get statued, your deck becomes 77 Pass cards plus one Break Free (50% accuracy). Discard Passes to dig for it, or have a teammate's Shadow-Enhanced spell free you — you can still be healed while a statue.",
+    "Watch your pet: passives with pierce or enfeeble can count as targeting her and statue you. A dedicated healer alongside the damage dealers keeps a mixed-level team steady since the fight scales to the lowest player."
+  ],
+  "cheatNotes": [
+    "",
+    "Cast ANY spell targeting her (attack, trap, charm, even an AoE) and you are polymorphed into a Statue for 99 rounds. Only ever hit her with the Blindfolded Hits she provides.",
+    "As a statue your deck is 77 Pass cards and one Break Free. Discard Passes to dig for Break Free; you can still be healed while statued.",
+    "A Shadow-Enhanced spell removes the Statue polymorph, so a teammate can free you. Solo, rely on finding Break Free.",
+    "If she takes damage from anything other than a Blindfolded Hit, she heals to full. Never attack her with your own spells.",
+    "Every other round she hands each free wizard a Blindfolded Hit. These are the ONLY spells that damage her, so save your pips for them.",
+    ""
+  ],
+  "groupFight": false,
+  "guideSourced": true
+}

@@ -1,0 +1,32 @@
+{
+  "strategy": [
+    "He is damage-immune under a -300% Invulnerability aura until you enter his code: four attacks at specific pip costs, in order.",
+    "He reveals the first code number on Round 2, and each Sunken Sam minion you defeat reveals the next number, so kill the Sams to unlock the full code.",
+    "Match each revealed pip cost by hitting him with a spell of exactly that many pips, in sequence. A wrong pip cost resets you to the first number.",
+    "Codes include 0-pip entries (use a 0-pip wand hit) and values up to 10, so keep low-pip and wand spells in your deck to hit every cost.",
+    "Once all four are correct the aura drops (he casts a harmless Supernova), then blade up and finish him with Death damage, he takes +15% from it."
+  ],
+  "cheatNotes": [
+    "He starts immune to all damage under a -300% Invulnerability aura, you cannot hurt him until you crack his code.",
+    "The code is four specific pip costs he must be hit with in order. He reveals the first digit on Round 2 and one more each time a Sunken Sam dies.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "The fourth correct hit drops his invulnerability, he casts a damage-less Supernova and now you can kill him.",
+    "",
+    "A wrong pip cost resets the sequence back to the first number, track carefully."
+  ],
+  "groupFight": false
+}

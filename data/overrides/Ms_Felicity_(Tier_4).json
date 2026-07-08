@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Blade yourself, not teammates. Blading another wizard makes her Disarm the recipient; solo this is a non-issue.",
+    "Traps get Cleanse Warded off their target, so keep trap setup minimal or protect it.",
+    "She is Balance (resists Balance), so hit with an off-school or Spectral hit; stack blades and burst.",
+    "Note she will expel Kenny Rooster from the duel once he drops below about 20% health."
+  ],
+  "cheatNotes": [
+    "Blading another wizard makes her Disarm the recipient, so blade yourself instead.",
+    "Any trap you cast gets Cleanse Warded off its target, so keep traps to a minimum or protect them.",
+    "She expels Kenny Rooster from the fight once he falls below about 20% health, so you may not get to finish him."
+  ],
+  "groupFight": false
+}

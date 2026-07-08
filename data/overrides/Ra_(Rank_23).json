@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "At the end of round 1 Ra shows the requirement: either three protected positive Charms on himself (you need exactly 3 helpful Charms up) or three protected negative Wards on your team (you need exactly 3 harmful Wards). They are cloaked and are not consumed.",
+    "Match that exact count before you attack: stack precisely the required number, no more and no less.",
+    "When you damage Ra while your effects exactly match, he wipes everything and hands the hitter a +100% Frenzy Aura, and all his cheats stop.",
+    "Never hit him unmatched. An unmatched hit Natural-Attacks for 1,500 and wipes all charms and wards, and killing him unmatched makes him cast Availing Hands and wipe them too.",
+    "After the Frenzy reward, blade freely and finish him; Balance resists itself 67%, so hit off-school or with Spectral."
+  ],
+  "cheatNotes": [
+    "",
+    "At the end of round 1 he places either three protected positive Charms on himself or three protected negative Wards on all wizards.",
+    "That number is the exact count of helpful Charms or harmful Wards you must have before you damage him.",
+    "These effects are cloaked and are not consumed until the matching cheat below removes them.",
+    "Damaging him without exactly matching his hanging effects makes him hit the offender for 1,500 Balance and wipe all charms and wards.",
+    "Killing him while unmatched makes him cast Availing Hands, then wipe all charms and wards.",
+    "Damaging him while your effects exactly match makes him wipe all charms and wards and give the caster a +100% Frenzy Aura.",
+    "You do not have to spend the hanging effects to match; any you do consume still count toward the total.",
+    "Once you earn the Frenzy reward, all his other cheats stop for the rest of the fight."
+  ],
+  "groupFight": false
+}

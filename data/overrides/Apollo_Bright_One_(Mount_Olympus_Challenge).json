@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Attack with Storm or Death; Apollo takes +13% from both and resists Fire and Myth 27%. He is not stunable, so plan to burst.",
+    "Do not cast traps on him. A harmful Ward triggers a free Lifeblade on himself, so set up with blades on your hitter instead of Feint.",
+    "Skip damage-over-time spells. A DoT makes him Link the caster, which chips you and heals him.",
+    "He has only 2,170 health and brings one Elite Cyclops Guard, so stack two or three blades and end it with a single Storm or Death AoE that clears the minion too."
+  ],
+  "cheatNotes": [
+    "Casting a harmful Ward on Apollo (a trap like Feint) makes him Lifeblade himself. Skip trap setup here and blade your hitter instead.",
+    "Casting a damage-over-time on Apollo makes him Link the caster, a DoT that also heals him. Use direct damage, not DoTs."
+  ],
+  "groupFight": false
+}

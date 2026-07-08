@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Always have a shield up before you attack him or a minion. Attacking unshielded triggers Vampire (600 Death steal) on you.",
+    "From round 2, every other round he strips all shields and traps off a random wizard. Reapply your shield and time traps to hit the same round you set them.",
+    "Hit with Storm or Death (+30% incoming); avoid Myth (40% resist).",
+    "AoE the three minions with the boss, or shield up and focus him.",
+    "Blade and Feint behind a shield, then burst the 7960 health."
+  ],
+  "cheatNotes": [
+    "Attacking him or a minion without a shield on you triggers a 600-damage Vampire steal. Keep a shield up before every attack.",
+    "From round 2, every other round he strips all shields and traps off a random wizard. Do not rely on traps lasting, and re-shield after."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "After you cast a Charm or Ward, at the end of that Round it removes one matching effect and heals 10% of its max Health, and it can do this several times in one Round.",
+    "The counter is timing: cast your attack the same Round, before the effect would be removed, and the cheat does not fire (Auras never trigger it, and Aegis or Indemnity do not stop it).",
+    "So set up and hit in a single Round rather than blading over several turns; do not leave charms or wards sitting on the board into the end of the Round.",
+    "It resists every school 42% with no weakness, so bring pierce or a prism and a strong enchanted hit.",
+    "It is stunable and beguilable, so a stun can buy you a clean setup-and-hit Round."
+  ],
+  "cheatNotes": [
+    "At the end of the Round after you cast a Charm or Ward, it removes one Charm or Ward and heals 10% of its max Health.",
+    "The effect it removes matches the most recently cast one.",
+    "This can trigger several times in a single Round.",
+    "Auras do not trigger this cheat.",
+    "Aegis and Indemnity do not prevent the removal.",
+    "Casting your attack before the effect is removed prevents the cheat entirely."
+  ],
+  "groupFight": false
+}

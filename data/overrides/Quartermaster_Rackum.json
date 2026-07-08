@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Storm boss (18,495) with a healing minion. The minion is the problem: below ~50% health it Sacrifices itself to heal Rackum, and it Regenerates itself whenever it takes damage.",
+    "Strangle the minion to shut off the Sacrifice heal (hitting again re-triggers it, so re-apply Strangle as needed).",
+    "He is stunnable; a stun can steal a turn during your burst.",
+    "Either kill the minion outright in one big hit (so it cannot Sacrifice-heal at low health) or Strangle it and focus Rackum. Blade up and burst; do not let the fight drag while the minion recycles heals."
+  ],
+  "cheatNotes": [
+    "When the minion drops below ~50% health it Sacrifices itself to heal Rackum. Kill it in one hit or Strangle it to stop the heal.",
+    "Strangle on the minion dispels the Sacrifice heal, but hitting it again re-triggers the cheat. Re-apply Strangle as needed.",
+    "The minion Regenerates itself whenever it takes damage, so chip damage is wasted. Burst it down or leave it Strangled."
+  ],
+  "groupFight": false
+}

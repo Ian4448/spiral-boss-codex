@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "This is a 58,300-health gauntlet boss, so run it as a team: a hitter, supports who blade and Feint, and a healer. Doom and Gloom goes up at the start, so plan to burst rather than heal through it.",
+    "Do not cast Dark Pact. An observed cheat has stripped all positive charms from the team, both times right after a Dark Pact.",
+    "Expect the 99-round Darkness aura (-50% accuracy) by the end of round 1, so bring accuracy enchants or Sniper. While you carry Darkness, casting a spell hands you a Torch card.",
+    "Protect your traps. Feinting Nyx (including Mass Feint and pet feints) makes her Shadow-Cleanse all traps off herself, so Indemnity a key trap or blade the hitter instead.",
+    "Stack blades and Indemnity-protected Feints, keep accuracy up, then land one big hit; she also opens with immediate Dark Nova, Dark Fiend, or Dark Shepherd hits, so keep the team healed."
+  ],
+  "cheatNotes": [
+    "An observed cheat stripped all positive charms from the team, both times right after someone cast Dark Pact. Avoid Dark Pact here.",
+    "Doom and Gloom goes up at the start of combat, halving your healing. Burst rather than heal through it.",
+    "By the end of round 1 (or on a late join) she lands a 99-round Darkness aura: -50% accuracy and likely reduced power-pip chance. Bring accuracy enchants.",
+    "She opens with immediate Dark Nova, Dark Fiend, or Dark Shepherd hits, or a Natural Attack that also steals your pips.",
+    "Casting a spell on yourself only triggers a harmless interrupt line nudging you to target allies. No real effect.",
+    "Feinting Nyx makes her Shadow-Cleanse all traps off herself. Protect a key trap with Indemnity or skip traps.",
+    "Indemnity on your trap prevents that cleanse.",
+    "Mass Feint (+75%) still triggers the trap-cleanse.",
+    "Pet-cast feints trigger the trap-cleanse too.",
+    "While you carry the Darkness aura, successfully casting a spell hands you a Torch card.",
+    "",
+    "",
+    ""
+  ],
+  "groupFight": true
+}

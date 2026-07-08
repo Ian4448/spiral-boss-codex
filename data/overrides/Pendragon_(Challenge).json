@@ -1,0 +1,42 @@
+{
+  "strategy": [
+    "His resist is even (18% to most, 38% Life), so hit with any school except Life; Myth gets a small boost.",
+    "Never hit Pendragon with a spell costing more than 3 Pips. He answers with a 1,000 Death-drain Scarecrow that heals him. Chip him with cheap sub-4-pip spells.",
+    "Kill the White Dragon first using single-target attacks. White only punishes multi-target spells, and a single-target hit on the Black Dragon makes Black full-heal, so leave Black for AoE.",
+    "Once White is gone, switch to multi-target/AoE to bring down the Black Dragon, which only punishes single-target spells.",
+    "Keep buffs minimal. Both dragons strip Blades, Wards, Traps, and Curses and punish Heals, so set up light and finish Pendragon with low-pip hits."
+  ],
+  "cheatNotes": [
+    "Pendragon punishes any damage spell costing more than 3 Pips.",
+    "A 4+ pip hit on Pendragon triggers a 1,000 Death-drain Scarecrow that heals him. Use cheap spells on him.",
+    "The Black Dragon punishes single-target spells.",
+    "Single-target effects on Black Dragon draw Shadow removal that ignores protection.",
+    "Damage spells that place an effect hit both the target and the caster with that removal.",
+    "A single-target damage-heal like Link keeps its heal-over-time but still triggers the single-target punish on you.",
+    "A single-target Blade triggers Disarm removing 1-3 Blades.",
+    "Globals trigger a single Disarm.",
+    "Single-target Wards trigger Pierce removing 1-3 Wards.",
+    "Single-target heal-over-times trigger Remove HOT taking 1-3 of them.",
+    "Healing makes Black Dragon cast Celestial Calendar on the healer.",
+    "Heal-over-times count as heals here.",
+    "A single-target DoT on Black Dragon triggers Triage removing 1-3 DoTs.",
+    "That DoT also triggers Black Dragon's single-target damage punish below.",
+    "Single-target damage on Black Dragon makes it Blessing-heal to full. Kill Black with AoE instead.",
+    "Single-target Traps on Black Dragon get Cleanse Warded, removing 1-3.",
+    "Prisms are not removed.",
+    "Single-target Curses on Black Dragon get Cleanse Charmed, removing 1-3.",
+    "The White Dragon punishes multi-target spells.",
+    "Multi-target effects on White Dragon draw Shadow removal that ignores protection.",
+    "A multi-target Blade triggers AoE Disarm removing 1-2 Blades.",
+    "A multi-target Shield triggers AoE Pierce removing 1-2 Wards.",
+    "A multi-target heal-over-time triggers AoE Remove HOT taking 1-2 of them.",
+    "A multi-target Heal makes White Dragon cast Frost Giant (530).",
+    "A multi-target DoT on White Dragon triggers Triage removing 1-3 DoTs.",
+    "That DoT also triggers White Dragon's multi-target damage punish below.",
+    "Multi-target damage on White Dragon makes it Blessing-heal to full. Kill White with single-target hits instead.",
+    "Multi-target Traps on White Dragon get Cleanse Warded, removing 1-3.",
+    "Prisms are not affected.",
+    "Multi-target Curses on White Dragon get Cleanse Charmed, removing 1-3."
+  ],
+  "groupFight": false
+}

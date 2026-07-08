@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Swap out pets with may-cast heals before entering - every heal, including may-casts, draws a Gnomes! counter for 860-960.",
+    "Set roles: two supports feed blades and Feints to one hitter, and the healer holds heals unless someone is in real danger.",
+    "When you must heal, do it big and once - each healing cast eats a ~900 Gnomes! counter, so one large heal beats three small ones.",
+    "Do not stall: he gains a +12% Lifespear every other round and puts Life Fuel (a +35% trap) on a random wizard every third round, so his damage keeps climbing.",
+    "Hitter finishes with Fire or Death (+30%) and clears the Hound of Heck with the same AoE. Life is resisted 80%, so Life wizards bring a prism."
+  ],
+  "cheatNotes": [
+    "Every heal you cast is answered with Gnomes! for 860-960 on that wizard. Heal rarely and big, and be ready to absorb the counter.",
+    "May-cast heals from pets and wands count - bring a pet without healing may-casts or you will eat random Gnomes! counters.",
+    "He gains a +12% Lifespear on round 2 and every other round after, so his hits get stronger the longer the fight runs.",
+    "Every third round a random wizard gets Life Fuel, a +35% trap - that player takes his next Life hit much harder, so shield them or finish fast."
+  ],
+  "groupFight": true
+}

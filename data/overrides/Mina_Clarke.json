@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Do not drain and do not use Sun-symbol spells. Both feed her cheats, so attack the plain way with blades, Feints, and a non-drain finisher.",
+    "Skip Death drains. Hitting Mina with a Drain either gives her an Aegis-protected +100% Balanceblade (if she survives) or full-heals her (if it kills), so a Scarecrow finish backfires.",
+    "Avoid Sun-symbol spells (Sun Serpent, Ra, Climaclysm) unless they kill outright; a survivor self-casts a protected universal Dispel that eats your next hit.",
+    "She is Death with 67% Death resist and takes 30% boosted Life, so bring a Life hitter or Life prisms plus a non-drain damage school for the finisher.",
+    "Stack blades and Feint over a few rounds, then swing one large non-drain, non-Sun hit to burst her 16,190 Health.",
+    "With 6 starting pips and high resist she hits back hard, so keep a healer topped and blade only right before the swing."
+  ],
+  "cheatNotes": [
+    "If Mina or a minion is hit by a Drain spell, that enemy self-casts in response, so keep Death drains out of your kit.",
+    "If the drain does not kill, she gains an Aegis-protected +100% Balanceblade and hits much harder.",
+    "If the drain does kill, she full-heals via Minor Blessing, erasing your progress.",
+    "If Mina or a minion is hit by a Sun-symbol spell (Sun Serpent, Ra, Climaclysm) and survives, she self-casts a protected universal Dispel that blocks your next attack."
+  ],
+  "groupFight": true
+}

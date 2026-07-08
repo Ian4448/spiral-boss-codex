@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "This is a 64,870-health boss - fight it as a team with a Storm hitter, supports, and a healer. Funnel blades to one hitter.",
+    "Hit Storm. Storm is not in his resist list and gets +30% incoming, while he resists 66% Myth and 36% almost everything else.",
+    "Do not use Damage-over-Time spells. A DoT makes him Shift it back onto the caster. If you must, cast Shift yourself to push it back to him and he will not re-Shift.",
+    "Play around his 3-round shield cycle: round 1 a -25% tower, round 2 a -50% tower, round 3 a -90% tower, repeating. The round-1 -25% tower is the weakest window.",
+    "Pop his tower with a small hit or hit on the -25% round, then land the funneled Storm hit. Line up your big swing so it is not eaten by the -90% tower on rounds 3, 6, 9."
+  ],
+  "cheatNotes": [
+    "Casting a Damage-over-Time on him makes him Shift the DoT back onto the caster.",
+    "A spell that applies multiple DoT effects triggers the Shift once per effect.",
+    "If you cast Shift yourself to push the DoT back to him, he will not Shift it again.",
+    "",
+    "On round 1 and every 3rd round after, he shields with a -25% Tower Shield - the weakest of the cycle and your best hit window.",
+    "On round 2 and every 3rd round after, he shields with a standard -50% Tower Shield.",
+    "On round 3 and every 3rd round after, he shields with a -90% Tower Shield. Do not waste your big hit into this."
+  ],
+  "groupFight": true
+}

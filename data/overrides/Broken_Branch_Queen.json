@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "Kill order is the whole fight: the King is shielded by the Queen's -100% Aura, and killing the King instantly ends the fight because the Queen then defeats herself.",
+    "Do not try to Supernova the Aura off; she just heals the King to full and recasts it. Instead kill the Queen first to make the King drop his Aura, or time the King kill for the exact Round the Aura expires (every sixth Round) if the bosses move first.",
+    "Protect the wizard marked 'King' and never let them die: their death triggers a Death Meteor Strike for 100% max Health on everyone. Keep them topped off, especially once they hit the +200% ward below 10% Health.",
+    "Stack blades on one hitter while the Aura is up, then burst the King the moment he is exposed.",
+    "The Queen is Storm and resists Storm 58% and other schools 28%, taking 30% more from Myth, so hit with Myth where you can."
+  ],
+  "cheatNotes": [
+    "",
+    "At Round 1 and every sixth Round the Queen puts a -100% incoming damage Aura on the King for 6 Rounds, making him untouchable while it holds.",
+    "Strip the Aura with something like Supernova and she heals the King to full and recasts it; a harmful Aura only makes her recast without healing.",
+    "",
+    "You can kill the King on the exact Round the Aura expires if the bosses take the first turn.",
+    "",
+    "At Round 1 the King marks a random wizard with a Stun Shield labeled 'King'.",
+    "At the end of every third Round the King puts a +100% Damage Ward on the marked wizard.",
+    "Once the marked wizard drops below 10% Health the King upgrades it to a +200% Damage Ward.",
+    "If the marked wizard is defeated, the King casts a Death Meteor Strike for 100% of everyone's max Health, likely wiping the team.",
+    "When the Queen dies, the King drops his Aura.",
+    "When the King dies, the Queen immediately kills herself, ending the fight."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Hit Storm. He takes +50% from Storm and resists Myth 80%, so prism if you are Myth.",
+    "Focus the boss, not the minions. If the minions die first he keeps resummoning a Rude Goblin one at a time.",
+    "Do not slow-play. He gives his whole side a Bladestorm every Round, so their hits escalate fast.",
+    "Blade and trap the boss over two or three Rounds, then land one single-target Storm hit before the adds snowball."
+  ],
+  "cheatNotes": [
+    "He spawns his minions (two Edacious Ogres and a Rude Goblin) at the end of Round 1.",
+    "Every Round he gives his whole side a Bladestorm, so their attacks grow each Round. Kill quickly.",
+    "Kill the boss before the minions. If the minions fall first he keeps summoning a fresh Rude Goblin one at a time."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Low-health tier 1 fight (2,000); he's stunnable, so a stun buys a setup round.",
+    "Killing the Grendel Ransacker makes him cast Humongofrog (AoE) next round; killing the Cracknail or Scavenger makes him Blinding Light — expect these when you clear minions and shield/heal through the frog.",
+    "His minions buff and heal him every 3 rounds (Tower Shield, Dragonblade, Sprite), so clear them before they stack value.",
+    "Blade up and AoE the whole board; if all minions die together he fires all the punish spells at once.",
+    "Finish him with a big hit once the adds are handled."
+  ],
+  "cheatNotes": [
+    "Kill the Grendel Ransacker and he Humongofrogs the team next round.",
+    "Kill the Cracknail or Scavenger and he Blinding Lights the team next round.",
+    "He casts these even if he doesn't start with those minions.",
+    "Kill all minions in one round and he fires all the punish spells together.",
+    "If he starts with no minions he casts all the punishes on round 1.",
+    "",
+    "The Ransacker Tower Shields him (Sun -55%) from round 1.",
+    "The Cracknail Dragonblades him (Sun +30%) from round 2.",
+    "The Scavenger Sprites him (heal 50+250) from round 3."
+  ],
+  "groupFight": false
+}

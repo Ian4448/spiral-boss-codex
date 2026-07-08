@@ -1,0 +1,40 @@
+{
+  "strategy": [
+    "The guide runs a four-player team: one Balance blader/support, a second blader of any school, and two hitters from different schools, funneling blades to the hitters.",
+    "Its opener is a Bladestorm chain — Round 1 Pet Bladestorm and Sharpened Blade Bladestorm; Round 2 Item/TC Bladestorm and Sharpened variants (a Violet Hood of Bitter Truth adds +25 to Bladestorm) — while the hitters prep Frenzy, Scarecrow, or Storm Lord.",
+    "Heed the guide's own caveat: the pure Bladestorm route is unreliable now, and because nearly every action you cast triggers an Oni counter (blades draw Putrefaction/Oni's Shadow, traps draw Naturalism/Righting the Scales, shields draw Oni's Forge, HoTs and DoTs also punish), keep setup minimal and coordinated.",
+    "Watch the Gambit warnings ('Your Doom is Imminent'). A filled gambit wipes all blades (Primal Oni), wards (Doom Oni), charms (Tribunal Oni), or HoTs (Infernal Oni) from the team, so land your hit before a gambit completes.",
+    "Kill War Oni single-target first, as the commenter notes — AoE on him makes him Pigsie-heal, and killing him with AoE fully heals him.",
+    "Funnel blades to a hitter in one round and burst Jade Oni with Death; heal through Plague on Round 3 and expect his Spirit Armor absorb on Round 5, so time the kill before then."
+  ],
+  "cheatNotes": [
+    "On Round 5 Jade Oni shields himself with Spirit Armor, so plan your big hit before then or expect an absorb.",
+    "Trapping Jade Oni triggers Oni's Naturalism, so go easy on traps against him.",
+    "Multi-target spells like Windstorm count as trapping him and trigger it too.",
+    "A DoT on Jade Oni summons Camp Bandit, so avoid damage-over-time hits here.",
+    "This warns that Jade Oni is one step from his blade gambit.",
+    "When Jade Oni reaches four blades he casts Primal Oni and strips every blade from your team, so hit before he fills it.",
+    "Any blade you cast gets Putrefaction from Death Oni on the recipient, and Aegis will not save it.",
+    "",
+    "Spells with secondary effects also count as blades for this cheat.",
+    "Multi-target blades trigger an AoE Putrefaction on the whole team.",
+    "Heal-over-time spells trigger Death Oni's Oni's Morbidity, so avoid HoT heals.",
+    "Death Oni shields himself toward a ward gambit whenever he shields.",
+    "At four shields Death Oni casts Doom Oni and removes all wards from your team.",
+    "Plague Oni casts Plague on Round 3, so expect an early accuracy and weakness debuff.",
+    "Blades also make Plague Oni cast Oni's Shadow, another reason to keep blades few.",
+    "Trapping makes Plague Oni cast Righting the Scales on you.",
+    "Multi-target spells trigger this too.",
+    "This warns that Plague Oni is building toward his charm-removal gambit.",
+    "",
+    "When Plague Oni has two blades and you have two harmful charms he casts Tribunal Oni, wiping all charms from everyone.",
+    "Shielding makes War Oni cast Oni's Forge on the recipient, so limit shields.",
+    "",
+    "Damaging War Oni with an AoE makes him Pigsie-heal, so hit him single-target instead.",
+    "Killing War Oni with an AoE fully heals him, so finish him with a single-target hit.",
+    "A HoT on War Oni builds his gambit, another reason to skip HoTs.",
+    "At two HoTs War Oni casts Infernal Oni and strips all HoTs from the team."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "This is a four-wizard Feint-stack race to kill Baba Yaga (22,800 health) in two rounds, before her round-3 summon cheats start. Enter the duel as a single unit with the hitter joining last so nobody gets polymorphed.",
+    "Assign three trappers and one hitter. Trappers carry Feints from every source: hard cards (Feint x2, plus Potent Trap), amulet Feint, pet Feint, and TC Feint. Keep Shatter and Cleanse Charm in side decks for contingencies.",
+    "The hitter packs a lean deck: one main-school blade, one Sharpened Blade, one 5-6 pip hit, one Shadow hit, and two Colossal enchants. Do not pack extra cards; a bloated deck just prolongs the fight.",
+    "Round 1: the three trappers each cast a Feint on Baba Yaga while the hitter casts Sharpened Blade on themselves.",
+    "Round 2 (ideal): the trappers lay their remaining Feints and the hitter fires the enchanted main-school attack for the kill. Use a strong single-target nuke per your school (Storm: Triton/Rusalka's Wrath; Fire: Helephant/Fire From Above; Ice: Ice Colossus/Abominable Weaver; Myth: Ninja Pigs/Witch's Housecall; Death: Skeletal Pirate/Winged Sorrow; Life: Centaur/Hungry Caterpillar; Balance: Judgement/Nested Fury).",
+    "Adapt round 2 if she interferes: if she Shatters/shields, one trapper casts Shatter instead of a Feint; if she lands Virulent Plague, one trapper casts Cleanse Charm instead. Never cast your own shields, since a positive Ward can trigger her Shatter cheat.",
+    "If the setup falls apart and you slip past round 3, just flee and re-enter rather than trying to survive her Minotaur, Medusa, and Wyrm summons."
+  ],
+  "cheatNotes": [
+    "Anyone who enters late gets polymorphed into an Egg by Baba Yaga's pet. Enter as a group so no one is turned into a helpless egg.",
+    "A polymorphed wizard has only the Hatch spell and must spend 3 pips to change back, costing them a full turn. This is why late entry wrecks the two-round plan.",
+    "Even joining during the planning phase of round 1 counts as late and triggers the polymorph, so everyone must already be in before the timer.",
+    "Casting a positive Ward such as a Shield can make Baba Yaga cheat-cast Shatter on you, wiping your shields. Do not shield; rely on the two-round kill instead.",
+    "",
+    "At the start of round 3 she summons a Frost Minotaur on a random wizard for 50 + 445 Death damage and drops the Minotaur Statue minion in the first slot. Kill her before round 3 to skip this entirely.",
+    "",
+    "At the start of round 6 she casts a Medusa-style hit for 770 Storm damage that also Stuns for 2 rounds, summoning the Gorgon Statue in the second slot. Another reason not to let the fight drag.",
+    "",
+    "At the start of round 10 she casts a Wyrm-style hit for 700 Ice damage and -25% Accuracy to all wizards, summoning the Wyrm Statue in the third slot. A long fight becomes very hard to land hits in, so end it fast."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

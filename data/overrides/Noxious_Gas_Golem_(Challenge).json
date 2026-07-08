@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Avoid casting Wards. Any Ward, harmful or helpful, makes the Golem set a delayed ~110 Fire AoE for 4 rounds later, and a harmful Ward also heals the Chief Whip.",
+    "Skip DoTs as well; they heal the Chief Whip.",
+    "Watch the Golem's timer: two Gas Elementals summon at round 1 (active round 2), Mass Fire Trap lands at the end of round 2, and Meteor Strike at the end of round 3. Plan to burst before the Meteor.",
+    "The Chief Whip revives the first defeated enemy once and heals the team 15%, so expect one enemy to come back, then clean up.",
+    "Hit with an AoE to clear the Golem and Elementals together; the boss only has 3,430 health."
+  ],
+  "cheatNotes": [
+    "",
+    "Casting a harmful Ward makes the Golem set a Fire hit that lands ~110 on all wizards 4 rounds later.",
+    "Casting a helpful Ward triggers the same delayed ~110 Fire hit on all wizards.",
+    "At round 1 the Golem summons two Gas Elementals that become active in round 2.",
+    "At the end of round 2 the Golem casts Mass Fire Trap on the wizards.",
+    "At the end of round 3 the Golem casts Meteor Strike.",
+    "",
+    "Casting a harmful Ward also heals the Chief Whip 75 over 3 rounds.",
+    "Casting a DoT heals the Chief Whip 75 over 3 rounds.",
+    "The first time an enemy is defeated, the Chief Whip heals all allies 15% and revives that enemy, once."
+  ],
+  "groupFight": false
+}

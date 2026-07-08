@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Hit with Life (+35%) and avoid Death (35% resist).",
+    "Do not cast blades or Globals on yourself; each makes him Hex you (+35% trap on you). Auras are the safe exception.",
+    "Do not cast Traps or Shields either; those also draw a +35% Hex on the caster.",
+    "Set up with Auras (which do not trigger him) and pet-cast blades (which also do not trigger), then land one Life hit.",
+    "At 3,955 health a single blade-and-hit setup ends him fast."
+  ],
+  "cheatNotes": [
+    "Casting a blade makes him Hex you with a +35% trap; buff with Auras instead, which do not trigger it.",
+    "Globals trigger the Hex but Auras do not, so lean on Auras for setup.",
+    "Pet-cast blades do not trigger the Hex; a safe way to gain a blade.",
+    "Casting a Trap (even Feint) or a Shield also earns you a +35% Hex; avoid them and burst him.",
+    ""
+  ],
+  "groupFight": false
+}

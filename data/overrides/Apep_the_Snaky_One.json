@@ -1,0 +1,27 @@
+{
+  "strategy": [
+    "Skip damage globals entirely. Anything like Balefrost gets replaced with Power Play immediately, and even Doom and Gloom or Sanctuary trigger the swap. If you want a global, Katabatic Wind-style crit/pierce globals are safe.",
+    "Do not kill the Pit Vipers early. Every dead viper starts a summon-and-sacrifice loop that feeds Apep heals and pips, and his healing sacrifices land even on dead minions - with all three vipers gone he can heal nine times per cycle.",
+    "Ignore the dispel counterplay. Saving all three minions from one sacrifice cycle costs 9 dispels; it is never worth the pips.",
+    "He has no resist and no boost, so any school works. Blade for 2-3 rounds while wand-hitting or shielding.",
+    "Finish with one AoE that kills Apep and both vipers in the same round, so the sacrifice loop never starts. The vipers only have 1,870 health but boost to Fire, Ice, and Storm - those schools clear them easily."
+  ],
+  "cheatNotes": [
+    "He opens the fight with a free interrupt Balance of Power on round 1. Expect the hit before you act; nothing to counter, just budget for the damage.",
+    "Cast a damage-boosting global like Balefrost and he instantly replaces it with Power Play. Your global is wasted pips - do not bring damage globals.",
+    "Doom and Gloom and Sanctuary also get swapped for Power Play, so healing globals are wasted too.",
+    "Casting Power Play yourself does not trigger anything - it is the one global he tolerates.",
+    "Attack spells that happen to set a global, like White Rat Magician, are safe and will not trigger the swap.",
+    "Crit and pierce globals like Katabatic Wind are safe. If you want a global up, use one of these.",
+    "His Pit Vipers have 1,870 health here (down from 2,190) and boost to Fire, Ice, and Storm instead of Life, Myth, and Death. An elemental AoE shreds them.",
+    "Each dead viper gets replaced by a weaker 1,150-health minion that attacks for two rounds before Apep sacrifices it with Draw Health, Sap Power, Siphon Health, or Take Power - free healing and pips for him. This is why you save minion kills for your final AoE.",
+    "When he sacrifices, he casts the spell once openly, then hidden-casts it two more times on each minion - the real value he gains is triple what you see.",
+    "One dispel makes him skip the first minion, but that minion still gets sacrificed after the others. Dispels delay, they do not prevent.",
+    "With all three minions up it takes 7 dispels to save one, 8 to save two, and 9 to save all three. Not worth the pips - just kill him faster.",
+    "With one minion left it takes 3 dispels to save it.",
+    "With two minions left it takes 6 dispels to save them.",
+    "His sacrifice heals go through even when the target minion is already dead - all three vipers dead means nine free heals per cycle. This is the strongest reason to kill the vipers and Apep in the same hit.",
+    "A round after a sacrifice cycle he summons a replacement minion, so the loop repeats until he is dead."
+  ],
+  "groupFight": false
+}

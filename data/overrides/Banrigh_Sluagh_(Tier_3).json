@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Team gauntlet: assign a hitter, blading supports, and a healer. Everyone joins before the fight starts.",
+    "Set up with Feint and traps rather than blades. Round 7 Putrefaction rots all blades off your team, but traps and Feints survive.",
+    "Exploit the zombies: the Balance minion stacks a +30% Hex on the boss side (round 2) and the Star minion Magnifies your team (round 3). Time the hitter's attack right after the Magnify.",
+    "Healer carries the boss's Mass Infection/Plague. Infection cuts healing, Plague weakens damage. Cleanse or heal big.",
+    "From round 4 on he throws Mass Supernova at the whole team. Shield or heal through it.",
+    "Funnel to one hit; AoE the Unforgiven Dead minions if they overwhelm, otherwise pressure Banrigh."
+  ],
+  "cheatNotes": [
+    "Join before the fight starts. Arriving late hits your whole team with a +100% Curse that inflates every attack he lands.",
+    "Round 1 a Shadow zombie hands your team a free Donate Shadow card, so you gain a spell rather than lose one.",
+    "",
+    "",
+    "Round 2 the Balance zombie stacks a +30% Hex on the boss's own side, meaning they take more damage. Land a hit while it is up.",
+    "He casts Mass Infection or Plague. Infection cuts your healing, Plague weakens your damage. Cleanse or heal accordingly.",
+    "Round 3 the Star zombie Magnifies your team, boosting outgoing damage. Line up your hitter's big attack the round after.",
+    "Putrefaction rots all blades off your team. Lean on Feints and traps instead, or blade and hit the same round.",
+    "From round 4 on he casts Mass Supernova at everyone. Shield or heal through it."
+  ],
+  "groupFight": true
+}

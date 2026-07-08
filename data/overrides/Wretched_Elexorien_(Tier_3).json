@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Hit Fire or Death, each +30%, and never Life, which he resists 80%; prism if you are Life.",
+    "Clear the all-Wizard Weakness, refreshed every third Round, with a Cleanse Charm the Round before you hit so your damage is not reduced.",
+    "He is stunable, so a stun buys a clean setup or hit Round.",
+    "Kill the Brume Goblin with your AoE, or blade up and drop one Fire or Death hit on the boss."
+  ],
+  "cheatNotes": [
+    "Every Wizard starts with a Weakness, refreshed every third Round, cutting your damage. Cleanse it before you hit.",
+    "The Weakness only applies while the boss is alive, and he does not cast it himself, so a Cleanse Charm right before your hit lands clean."
+  ],
+  "groupFight": false
+}

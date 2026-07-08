@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Hit with Myth (+15% incoming); he only 30% resists Storm, so a Storm wizard can prism or just push through.",
+    "Expect a Weakness on a random wizard from his pet. Cleanse it or stack an extra blade so it does not gut your hit.",
+    "Bring Triage for the pet's Tingling Poison DoT.",
+    "Only 10,640 health and no minions: stack blades and Feint, then one big hit."
+  ],
+  "cheatNotes": [
+    "His pet drops a Tingling Poison DoT on a random wizard. Bring Triage or heal the tick.",
+    "His pet lands a Weakness on a random wizard, shrinking that wizard's next hit. Cleanse it or add an extra blade before attacking."
+  ],
+  "groupFight": false
+}

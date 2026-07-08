@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "This is an 84,750-health raid boss, so run it as a full team: a hitter, supports who blade and Feint, and a healer. Death is his least-resisted school (14%); avoid Fire (94%) entirely.",
+    "Every time you damage him he stacks three -999% shields against that damage school, so a second hit of the same school is wasted into them.",
+    "Rotate damage schools or bring Shatter and Steal Ward to strip the triple shield before your real hit.",
+    "Have one wizard bait the shields with a hit, then Shatter them the same round so the hitter's Death nuke lands clean.",
+    "Stack blades and Feints through the setup, keep the shield-strip and the big hit on the same round, and repeat to grind his large health pool down."
+  ],
+  "cheatNotes": [
+    "Every time you damage him he stacks three -999% shields against that damage school. Rotate schools or Shatter/strip the shields before your real hit; Death is his least-resisted school at 14%."
+  ],
+  "groupFight": true
+}

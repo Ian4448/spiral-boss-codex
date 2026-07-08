@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Pack stun blocks. His signature cheat stuns a wizard for 2 rounds and marks them 'Nightmare Prone' — a blocked stun is two saved turns.",
+    "Once someone is marked, that wizard eats a Winged Sorrow at the end of every round, followed by a Cleanse Ward that strips their wards. Don't waste shields on the marked player; heal them instead.",
+    "He shifts into Bunferatu and Grey Wolf forms, and brings an Air Rider and a Death Punk Wallaby. Blade up fast and end it with one AoE so the minions die with him.",
+    "Keep the fight short — every extra round is another stun window and another Winged Sorrow on the marked wizard."
+  ],
+  "cheatNotes": [
+    "He stuns one wizard for 2 full rounds and tags them with a 'Nightmare Prone' mark. Stun block prevents the lockout; the mark is what feeds his other cheat.",
+    "Any wizard carrying the Nightmare Prone mark takes a Winged Sorrow at the end of each round, then gets Cleanse Warded — so shields placed on them are wasted. Prioritize heals over wards for the marked player."
+  ],
+  "groupFight": false
+}

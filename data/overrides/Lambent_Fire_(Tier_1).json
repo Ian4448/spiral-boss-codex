@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Attack with Ice (+30%); he resists Fire 60%.",
+    "Use school-specific blades like Frostblade, not universal ones such as Elemental Blade, since universal blades get Steal Charmed off the receiver.",
+    "Do not put universal traps on him: a universal Trap triggers Immolate on the caster, and Mass Feint counts as universal. Use Ice-specific traps.",
+    "Expect his own hits to grow, since he gains a Firespear after every damage spell he casts. Shield up.",
+    "Stack Frostblades and a school-specific trap, then finish with a boosted Ice hit and clear the Skirker Buster with the same AoE if possible."
+  ],
+  "cheatNotes": [
+    "After he casts any damage spell he gives himself a Firespear, ramping his damage, so keep shields up.",
+    "Universal blades get stolen off the receiver, and universal traps on him trigger Immolate on the caster. Use school-specific blades and traps instead.",
+    "Mass Feint counts as a universal trap and triggers the Immolate, so use single Ice traps."
+  ],
+  "groupFight": false
+}

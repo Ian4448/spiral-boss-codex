@@ -1,0 +1,27 @@
+{
+  "strategy": [
+    "Attack with Ice or Myth, his lowest resists at 33%; avoid Storm and Life (73% resist) and expect 53% on most other schools.",
+    "Keep steady hits on Kain to stall his interrupt cycle. Attacking him pauses and resets the cycle, which is the cleanest way to stop the Round 3 Monster Mash from ever landing.",
+    "Do not Feint or Drain him. Feinting removes your universal traps and gives him a +30% Balance blade, and Draining gives him an Aegis-protected +100% Balance blade.",
+    "Avoid unnecessary heals and weaknesses. Healing triggers a Vampire interrupt, harmful charms trigger a Disarm, and sun-enchanted spells like Power Nova make him Universal Dispel himself.",
+    "Beat his cycle-round-two own-school Dispel by hitting off-school or with a prism so your intended school is not blocked.",
+    "At 16,110 Health and not stunable, run it as a team: one hitter keeping pressure on Kain, supports funneling blades without Feints, and careful healing."
+  ],
+  "cheatNotes": [
+    "Feinting him triggers Dark Tribute: he removes all universal traps and gives himself a +30% Balance blade. Skip Feint here.",
+    "Casting a weakness or other harmful charm on him makes him interrupt-Disarm the caster.",
+    "Casting a Drain spell on him gives him an Aegis-protected +100% Balance blade, so do not drain him.",
+    "Casting any heal makes him interrupt with a Vampire that drains him and returns half the Health to the caster, so avoid unnecessary heals.",
+    "Pet may-cast heals also trigger the Vampire interrupt, so watch your pet.",
+    "Beguiled wizards do not trigger the heal cheat.",
+    "Casting a spell with a sun enchant, like Power Nova, makes him put a protected Universal Dispel on himself, so avoid sun-enchanted attacks.",
+    "",
+    "Cycle Round 1: he Supercharges himself, gaining a +10%-per-pip universal damage charm and a pip.",
+    "Cycle Round 2: he Dispels every wizard's own school, so hit with an off-school or prism to avoid the Dispel.",
+    "Cycle Round 3: he casts Monster Mash on a random wizard, the payoff you want to prevent.",
+    "",
+    "Attacking Kain directly pauses his cheat cycle for a Round and resets it to the start, so keep steady hits on him to stop Monster Mash from landing.",
+    "Damage-over-time spells only reset the cycle on the Round you cast them, not while they tick."
+  ],
+  "groupFight": true
+}

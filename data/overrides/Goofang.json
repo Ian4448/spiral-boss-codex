@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Solo-friendly (7,000 health). He mirrors his own casts into the opposite school and can steal your blades, so protect your key blade with Aegis.",
+    "He only resists Fire and Ice 15% and has no boost weakness, so hit with any off-Fire/Ice school you like.",
+    "Do not over-stack blades he can steal. Keep one Aegis-protected blade and a Feint, then hit.",
+    "He is stunable, so stun to skip a turn and deny his cheat-casts.",
+    "Enter on time (late entry costs you pips) and finish with one strong hit."
+  ],
+  "cheatNotes": [
+    "Joining after round 2 gets you hit with a Balance Steal Pips.",
+    "When he casts Fireblade or Iceblade he sometimes also cheat-casts the opposite blade.",
+    "That blade cheat can chain several times in a row.",
+    "When he casts certain attacks he sometimes also cheat-casts the opposite-school version.",
+    "When he casts his spells he sometimes cheat-casts the opposite-school version.",
+    "He may also steal your blades."
+  ],
+  "groupFight": false
+}

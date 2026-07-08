@@ -1,0 +1,17 @@
+{
+ "strategy": [
+  "Team fight — 19,200 health plus Tzeltan Cohorts. Hit with Myth or Life (+35%); never Storm into her 80% resist.",
+  "Work in 5-round windows: at the end of every 5th round she cleanses every negative ward off herself and mass-prisms your whole team into a random school. Traps go on early in the window; the hit lands before the round-5 reset.",
+  "No Deathblades from anyone — she Disarms them and answers with Virulent Plague.",
+  "Feints get counter-Feinted onto the caster — if you Feint her, hit the same round or shield the Feinted wizard immediately.",
+  "Any kill — a Cohort or a teammate — triggers her Berserk while surviving minions Fortify. Clear the Cohorts early, shield through the spike, then set up the boss window.",
+  "If the fight crosses a round-5 prism, check what school your damage now converts to before committing the big hit."
+ ],
+ "cheatNotes": [
+  "Any Deathblade — even one a Cohort puts on her — gets Disarmed off and answered with Virulent Plague (-healing on your team). Keep Death charms out of team decks.",
+  "Every defeat on either side makes her cast Berserk while remaining minions Fortify — expect a damage spike the round after anything dies; pre-shield when you kill a Cohort.",
+  "Feint her and she Feints you back — a +70% trap on your head with minions up is dangerous. Feint only on the same round as the hit, or shield the marked wizard.",
+  "End of every 5th round she cleanses all negative wards off her team and casts a mass Storm prism that converts your incoming damage to a random school — traps placed on round 5 are wasted, and post-prism hits may change school. Set up and strike inside each 5-round window."
+ ],
+ "groupFight": true
+}

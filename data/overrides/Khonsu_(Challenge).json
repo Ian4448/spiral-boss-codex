@@ -1,0 +1,26 @@
+{
+  "strategy": [
+    "Team challenge, 80,000 health. Round 1 everyone is Polymorphed into a random school form (Marshfellow, Snowball, and so on) with all pips removed. You fight using the form's signature spell.",
+    "Cast your form's spell meeting its damage condition to hit Khonsu. If you miss the condition, you get a copy back to try again.",
+    "Each successful hit re-polymorphs that wizard into a new form and gives 2 power pips, so adapt to the new kit each time.",
+    "Coordinate so Khonsu is hit once per wizard. Then he unpolymorphs the team and polymorphs himself into a boss form (Hunhau, Malus, Personal Daemon, or The Devourer).",
+    "He has no resist. Sustain, heal, and keep landing the polymorph hits through the long grind."
+  ],
+  "cheatNotes": [
+    "Round 1 he polymorphs every wizard into a random school form for 99 rounds and strips all pips. You fight through the form's spell.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "If you cast your form's spell without meeting its damage condition, you get another copy in hand to retry.",
+    "Landing a hit re-polymorphs that wizard (new form plus 2 power pips). Once he is hit once per wizard, he unpolymorphs everyone and polymorphs himself.",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "groupFight": true
+}

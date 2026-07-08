@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Hit with Death (+40% incoming); avoid Life (40% resist).",
+    "He heals the group for 750 (Rebirth) whenever Tired Fighter takes damage. Kill the Lazy Henchman early to stop the heals.",
+    "He is only 1115 health, so one solid attack removes him. Focus him down first.",
+    "Then clean up the rest with AoE."
+  ],
+  "cheatNotes": [
+    "He Rebirth-heals 750 (no absorbs) whenever Tired Fighter is damaged, undoing your progress. Kill him early to shut it off.",
+    "His own side's spells do not trigger the heal, only your attacks on Tired Fighter.",
+    "It also fires when Half-Witted Skeleton casts Blizzard or Tired Fighter casts Tempest."
+  ],
+  "groupFight": false
+}

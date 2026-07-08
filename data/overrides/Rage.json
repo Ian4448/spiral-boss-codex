@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Hit with Ice (+30%), never Fire (57% resist).",
+    "Keep your pips under 6. At 6+ pips (power and school pips count double) at the start of a round he Scalds you, so spend pips before they pile up. Shadow pips do not count.",
+    "Never cast a 7-pip-or-higher spell or he answers with Incindiate, so win with several smaller Ice hits rather than one huge one.",
+    "Avoid feeding him: any damage blade, damage trap, global, or aura you cast gives Rage a random Fireblade or Firespear. Skip self-blades and Feint, rely on flat Ice hits and prisms.",
+    "Exploit Pacify: casting a Pacify makes Rage cast 3 Quenches on himself, and 2 Quenches dispel his Combustion, so you can strip his own damage global. Chip him down with sub-6-pip Ice hits."
+  ],
+  "cheatNotes": [
+    "",
+    "He casts Combustion on Round 1 and re-casts it whenever it is replaced.",
+    "It takes 2 Quenches to dispel his Combustion, note his own Pacify response casts 3 Quenches on himself.",
+    "Casting any global re-triggers his Combustion if it is down, so do not rely on overwriting it.",
+    "At the start of any round you hold 6+ pips, he Scalds you, spend pips and stay under 6.",
+    "Power pips and school pips each count as two toward that 6-pip limit.",
+    "Shadow pips do not count toward the Scald threshold.",
+    "Cast a 7+ pip spell and he answers with Incindiate, keep spells cheaper than 7 pips.",
+    "Any damage blade, trap, global, or aura you cast (even secondary effects) gives Rage a random Firecharm, avoid buffing in front of him.",
+    "",
+    "",
+    "Cast a Pacify and he Pacifies then Quenches himself 3 times, which strips his own Combustion, a way to disarm him.",
+    "Cast a Taunt and he Taunts then Fuels (+35%) himself, buffing his damage, avoid taunting him."
+  ],
+  "groupFight": false
+}

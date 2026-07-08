@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Attack with Storm or Life, his lowest resists at 25%; avoid Ice and Myth (65% resist) and expect 45% on most other schools.",
+    "Expect the Mysterious Werewolf to revive once. When killed it comes back at full Health and leaves at the end of that turn, so it dies for good on the second kill and its cycle stops.",
+    "Clear the traps it stacks on you. Its cycle round two puts three +35% universal traps on one wizard, boosting the damage that wizard takes, so remove them before the boss hits.",
+    "Focus the Tracker while the Werewolf feeds its cycle (two +30% blades on round one, the traps on round two, repeating every four Rounds).",
+    "At 15,270 Health with two minions, run it as a team: funnel blades to a hitter, Feint the Tracker, and burst."
+  ],
+  "cheatNotes": [
+    "When the Mysterious Werewolf is defeated it revives at 100% Health and then leaves combat at the end of that turn, so it dies for good on the second kill.",
+    "",
+    "The cheat cycle repeats every four Rounds for as long as the Mysterious Werewolf is alive.",
+    "Cycle Round 1: the Werewolf casts a special Bladestorm giving its whole side two +30% damage charms.",
+    "Cycle Round 2: it stacks three +35% universal traps on one wizard, boosting the damage that wizard takes, so clear them before the boss's hit."
+  ],
+  "groupFight": true
+}

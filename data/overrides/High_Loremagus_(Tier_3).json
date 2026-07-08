@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Run a team of four: three supports (not Balance) and one hitter who attacks from a school other than their own. The whole fight forces you off your primary school.",
+    "Keep an Aura on yourself at all times. Round 1 and every round after, anyone without an aura gets a -200% accuracy aura for 99 turns and fizzles everything, so pre-load Amplify, Fortify, or Berserk.",
+    "Round 1: Support 1 lands a spirit/elemental trap and Support 2 a potent spirit/elemental blade on the boss, Support 3 casts Mass Feint, and the hitter uses any 0-pip buff (not Frenzy).",
+    "Round 2: all three supports pile spirit/elemental blades onto the hitter, then the hitter fires a 7-pip AoE from the off-school for a 2-turn kill. A Death wizard with 160% Storm damage hits roughly 16k on turn two.",
+    "Equip a mastery amulet for that second school so the hitter can cast its 7-pip AoE reliably.",
+    "Attack with Myth, Life, or Death (she takes +15% from each; she resists Balance 40%). Overwrite her aura only on the round you plan to hit — replacing it makes her recast it next round.",
+    "Do not Feint her after round 1 beyond the opening Mass Feint plan, and never leave yourself auraless while setting up."
+  ],
+  "cheatNotes": [
+    "If you ever lack an Aura, she hits you with a -200% accuracy aura for 99 turns and you'll fizzle everything. Keep your own aura (Amplify, Fortify, Berserk) up at all times.",
+    "",
+    "",
+    "Replacing her aura makes her recast it next round — so overwrite it with your own aura on the same round you plan to attack, then hit before she reapplies.",
+    "Feint or Mass Feint makes her summon a Camp Bandit — avoid the normal Feint here.",
+    "Use the Balance version of Feint instead; it traps her without triggering the Camp Bandit summon."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

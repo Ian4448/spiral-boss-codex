@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Team fight at 18,075 Health. Hit Death, +30%, and never Life, which he resists 69%.",
+    "Any damage from Round 3 on makes the Bard slap a Spirit Armor absorb (up to 600) on his side. Do not chip. Set up fully and land one hit big enough to blow through the absorb and kill.",
+    "Avoid damage-over-time and multi-Round chipping. Each tick just triggers another absorb.",
+    "Bring an infection or Doom and Gloom for his Round-5 Regenerate, and expect Gnomes! every third Round.",
+    "Funnel blades and Feint to one hitter for a single overwhelming Death hit."
+  ],
+  "cheatNotes": [
+    "From Round 3 on, every time anyone takes damage the Bard casts a Spirit Armor absorb on his side, so chip damage just builds him shields.",
+    "",
+    "",
+    "",
+    "",
+    "His biggest version is a 600-damage absorb ward, so hit through it in one big blow rather than tapping.",
+    "",
+    "Every third Round he cheat-casts Gnomes! at the team.",
+    "Every fifth Round he Regenerates, so bring an infection or Doom and Gloom to cut the heal."
+  ],
+  "groupFight": true
+}

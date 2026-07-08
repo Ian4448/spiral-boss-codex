@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "Attack with Life (she takes +30% Life); never Death (79% resist) and expect 49% resist on the other schools.",
+    "Chip Sanderson off full Health before your real hit. While at full Health she keeps a -100% incoming damage aura up, so a small ding removes it and lets your bladed hit land.",
+    "Deal with Sister Scara early. She Mega Taunts a random sister each cycle, which can pull your hits onto the wrong target.",
+    "Keep pips and Health even across the team. Sister Morbidmary marks a wizard each cycle for Mana Burn (lowest pips), Leprechaun (lowest % Health), or Hungry Caterpillar (lowest Health).",
+    "Clear the minions or AoE all three, funnel blades to a hitter, then hit Sanderson once she is off full Health.",
+    "At 22,950 Health with two minions, this is a team fight with a hitter, supports, and a healer managing the marks."
+  ],
+  "cheatNotes": [
+    "",
+    "At the end of Round 2 and every two Rounds after, Sanderson casts Gravestorm on the marked wizard.",
+    "While she is at full Health she also keeps a -100% incoming damage aura up, so she takes nothing; chip her below full before your real hit.",
+    "",
+    "At the end of Round 1 and every two Rounds after, Morbidmary marks a wizard by one of three conditions (next lines).",
+    "If she picks lowest pips, she Mana Burns that wizard, stripping all their pips.",
+    "If she picks lowest Health percentage, she Leprechauns them for 20% of their max Health.",
+    "If she picks lowest Health value, she hits them with a damage-only Hungry Caterpillar.",
+    "This marking can occasionally fire several times in a row, so expect back-to-back hits.",
+    "",
+    "At the end of Round 1 and every two Rounds after, Scara Mega Taunts a random sister, which can pull your hits onto the wrong target; kill Scara early."
+  ],
+  "groupFight": true
+}

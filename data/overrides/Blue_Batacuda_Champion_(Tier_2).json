@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Expect three -200% Tower Shields on the boss from the start of Round 1, so your first big hit would be almost fully absorbed. Plan to remove them before you commit.",
+    "Pack Shatter or Steal Ward, or use cheap wand hits and small spells to pop the shields one at a time.",
+    "Attack with Fire (it takes +30% Fire); avoid Ice (56% resist) and note it resists all other schools 26%.",
+    "It is stunable and beguilable, so use a stun or beguile to buy a safe setup round while you clear shields.",
+    "The shields reapply three Rounds after you destroy them, so knock them off and land your bladed hit in the same window before they reset."
+  ],
+  "cheatNotes": [
+    "On Round 1 it stacks three -200% Tower Shields on itself, so your first big hit is mostly absorbed. Break them with Shatter, Steal Ward, or cheap wand hits before committing.",
+    "Each shield comes back three Rounds after you destroy it, so strip them and hit in the same window before they reset."
+  ],
+  "groupFight": false
+}

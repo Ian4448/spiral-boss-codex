@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "This is a scripted fight: on round 1 Cornelia Hornswoggle polymorphs your whole team, giving each wizard a fixed Hall of Fury deck and stats. Your normal deck barely matters — don't over-prepare.",
+    "The one rule that matters: Cornelia must land the killing blow on the LAST enemy standing. If you kill the last enemy yourself, the battle ends but everything respawns and you must redo it.",
+    "Use your polymorph deck to grind Balanced Flamefists down — Storm damage is best, he takes +30% from it.",
+    "Once the last enemy is low, stop attacking it. Pass, shield, or heal and let Cornelia finish. She only needs the final kill, not every kill.",
+    "This works even if Cornelia has been defeated — just don't deliver the last blow yourself."
+  ],
+  "cheatNotes": [
+    "Round 1, Cornelia polymorphs every wizard. You keep your appearance but fight with a preset deck and stats for the whole battle.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Round 2 she announces the final blow must be hers. Treat it as the fight's rulebook: stop your damage before the last enemy dies.",
+    "If anyone but Cornelia defeats the last enemy, the fight ends normally but all enemies respawn and the quest doesn't progress — full restart. Bring the last enemy low, then stand down.",
+    "She only needs to finish the final enemy. Kill everything else yourself freely.",
+    "The respawn rule still applies even if Cornelia herself goes down, so never take the last kill."
+  ],
+  "groupFight": false
+}

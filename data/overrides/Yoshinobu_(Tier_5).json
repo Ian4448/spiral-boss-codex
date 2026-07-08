@@ -1,0 +1,27 @@
+{
+  "strategy": [
+    "Expect the round-1 openers: Yoshinobu lays Mass Infection (weakens your healing) and Hisamoto casts Legion Shield, repeating every 3 rounds. Pack pierce or shatter for the shields and avoid leaning on heals.",
+    "His punish triggers on any hit costing 8+ pips, so keep your damage spells under 8 pips or expect the counter chain (a -60% Smoke Screen, a team heal and absorb from Hisamoto, and a Sirens hit that strips 2 charms and traps you).",
+    "Work through the samoorai in order: with Hisamoto up the 8+ pip chain heals and absorbs; after Hisamoto falls the chain shifts to Snow Angel damage plus Kensaburo heals.",
+    "Kill Kensaburo before pushing Yoshinobu, since once Kensaburo is down the 8+ pip chain adds a Rain of Fire on top of Snow Angel.",
+    "He resists Storm 40% and takes +40% from Myth and Life; build blades on one hitter and finish with sub-8-pip hits so you never feed the chain."
+  ],
+  "cheatNotes": [
+    "During round 1 the bosses take free opening turns without spending pips, listed below.",
+    "Yoshinobu opens with Mass Infection on the team.",
+    "Hisamoto opens with Legion Shield.",
+    "Hisamoto re-casts Legion Shield every 3 rounds after round 1.",
+    "Damaging Yoshinobu with a spell costing 8+ pips triggers the chain of counters below.",
+    "Yoshinobu interrupt-casts a -60% Smoke Screen on the team.",
+    "Hisamoto interrupt-casts a Rebirth healing allies 850 and giving them a 350 absorb.",
+    "Kensaburo interrupt-casts Sirens, hitting all wizards 100 Storm, removing 2 helpful charms, and adding a +50% universal trap.",
+    "That trap is disguised as a harmful Accuracy Charm.",
+    "After Hisamoto is defeated, an 8+ pip hit on Yoshinobu triggers the second chain below.",
+    "",
+    "While Kensaburo is alive, Yoshinobu casts Snow Angel (100 Ice plus 660 Ice over 3 rounds).",
+    "While Kensaburo is alive, he also heals each samoorai 200 with Minor Blessing.",
+    "",
+    "Once Kensaburo is defeated, Yoshinobu casts Snow Angel plus a Rain of Fire (300 Fire plus 800 Fire over 3 rounds)."
+  ],
+  "groupFight": true
+}

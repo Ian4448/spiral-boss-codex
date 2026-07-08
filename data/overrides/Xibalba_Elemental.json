@@ -1,0 +1,27 @@
+{
+  "strategy": [
+    "Crying Sky raid boss: it caps all damage at 1 with Equalize and shields itself with an Invulnerability Aura, so you cannot burst its 100 health early.",
+    "Each aura makes it immune to all schools except two announced ones, and any damage it takes Exit-Combats the caster and swaps the aura — so expect to cycle through it, not tank it down.",
+    "Survive its aura cycles: it Deer Knights the whole team for 20% max health at the end of every round, so keep healed and manage the chip.",
+    "After 7 aura cycles it casts Doom & Gloom and removes the damage cap — that's your window to finish its 100 health with the currently allowed school.",
+    "Don't Supernova it (that only deals 1 and heals it to full); wait out the cycles, then hit with an allowed school."
+  ],
+  "cheatNotes": [
+    "Round 1 it casts an Equalize Global setting the damage cap to 1 — no real damage lands until this is gone.",
+    "It then puts up an Invulnerability Aura making it immune to all schools except a specific one or two (announced each time).",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Using Supernova only deals 1 damage and lets it Blessing itself back to full health — don't Supernova it.",
+    "",
+    "Any damage it takes makes it Supernova itself, Exit-Combat the caster, and swap to a new immunity aura — so you can't just grind it down.",
+    "At the end of every round it Deer Knights the whole team for 20% of max health — keep healed through the cycles.",
+    "After 7 aura cycles it casts Doom & Gloom and removes the damage cap — that's your window to finish its 100 health with the allowed school.",
+    ""
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "Team fight (150,000 health). Put all blades on one hitter using Life or a Life prism: he takes +30% Life and resists Death 79% and everything else 49%.",
+    "Round 1 he casts Doom and Gloom for the whole fight and recasts it if replaced, so plan around cut healing rather than fighting it.",
+    "Feint does not work here: casting Feint or Backdraft makes him Cleanse Ward all traps off himself, even protected ones. Rely on blades, not traps.",
+    "He strips your blades. His end-of-round natural attack removes two helpful charms and applies -35% damage per charm, so protect the hitter's key blades with Aegis or re-blade the same round you hit.",
+    "Watch your harmful-charm count: at 6+ harmful charms on a wizard he casts Mortality for 100% max health. Cleanse the -damage and -heal charms he piles on.",
+    "His special Headless Horseman AoE lands at end of round 1 and every 5 rounds, plus after his Wraith or Monster Mash LAUGHS, so time setup and the big hit around those windows."
+  ],
+  "cheatNotes": [
+    "Round 1 he casts Doom and Gloom to cut all healing.",
+    "Replace his Doom and Gloom and he just recasts it.",
+    "End of round 1 he casts a special Headless Horseman for 605 Death to all and a -30% damage charm on all.",
+    "That special Headless Horseman attack repeats every 5 rounds.",
+    "He says LAUGHS after casting Wraith or Monster Mash.",
+    "The next time that LAUGHS triggers, his special Headless Horseman lands at end of the following round.",
+    "If he did not cast the special that round, he hits the highest-health wizard, removing two blades for -35% damage each and putting -10% healing on all wizards.",
+    "At the start of a round, a wizard carrying 6+ harmful charms gets Mortality for 100% of max health.",
+    "He taunts after a wizard is defeated, with no direct effect.",
+    "Casting Feint or Backdraft makes him Cleanse Ward off all his traps, even protected ones.",
+    "Casting a Dispel makes him remove all his harmful charms, even protected ones."
+  ],
+  "groupFight": true
+}

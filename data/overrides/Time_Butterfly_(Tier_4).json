@@ -1,0 +1,26 @@
+{
+  "strategy": [
+    "Hit Storm, +10%, and avoid Myth, which it resists 65%; prism if you are Myth.",
+    "Use Mass Feint, not a single Feint. A lone Feint gets Swap Warded back onto you, or protect it with Indemnity or dispel with Melt.",
+    "Keep your pip count at or below 7. Young Morganthe Mana Burns anyone who banks more, and do not cast shields while she is up, since they trigger her Earthquake.",
+    "Do not chase the summons. Killing them just brings more back, so funnel setup onto the Butterfly and burst it.",
+    "Do not slow-play. Broodmother heals the boss 15% every three Rounds."
+  ],
+  "cheatNotes": [
+    "A late Wizard gets a two-turn Shadow Stun. Come in on Round 1.",
+    "It casts a Mass Shadow Empower for a Power Pip and hidden-switches first turn, so expect turn order to flip.",
+    "Placing a single Feint on it makes it Swap Ward the traps back onto the caster, so your Feint lands on you instead.",
+    "Melt can dispel that Swap Ward cheat.",
+    "Mass Feint does not trigger the swap, so use Mass Feint here.",
+    "Indemnity on your Feint also prevents the swap.",
+    "",
+    "It summons Young Morganthe first; kill her and both she and Roberto return, then killing both brings all three back plus Broodmother. Do not chase the minions; focus the Butterfly.",
+    "",
+    "Young Morganthe Mana Burns any Wizard who banks more than 7 pips. Hit before you overstock.",
+    "Any ward you cast makes her Power Nova, then Earthquake for 400 Myth to all enemies. Avoid shielding while she is up.",
+    "",
+    "Every three Rounds Broodmother steals 15% Health from the Butterfly to heal itself.",
+    "That cheat is sometimes followed by a Dragonblade on an ally and a Mass -55% Tower Shield on their side."
+  ],
+  "groupFight": false
+}

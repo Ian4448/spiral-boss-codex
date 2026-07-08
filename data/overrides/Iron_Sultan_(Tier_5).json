@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "Kill the Gold Dragon first. On Round 1 it self-casts a Shadow Sentinel giving 75% Intercept (plus 100 Critical Block and -30% incoming), so it soaks 75% of any damage aimed at the Sultan or Steeletons. Use a modest AoE with a few blades to drop the Dragon before hitting anything else.",
+    "Hit with Myth (+10%) and never attack into his 60% Storm resist.",
+    "Don't chip. Any all-enemy or targeted-enemy spell makes him interrupt-cast Dryad, healing himself and all allies 800, so set up fully and land one killing hit rather than several small ones.",
+    "Skip Feint entirely. A Feint or Mass Feint makes him Cleanse Ward twice and wipe all your traps, so blade up and use non-Feint traps for the setup.",
+    "Once the Dragon is down, funnel blades to the hitter and stack non-Feint traps on the Sultan and Steeleton(s), then finish both together with one big AoE. His incoming healing is already cut 50%.",
+    "Race the Round-5 window. At the end of every fifth Round he casts a +35% Darkwind and immediately follows with Iron Sultan on the lowest-health wizard for 3,000+ damage. Try to win before it, keep that wizard topped, and bring a healer if the fight runs long. Never flee and return, as a late wizard is instantly hit by Iron Sultan (Shadow)."
+  ],
+  "cheatNotes": [
+    "Don't flee and rejoin, and don't lag entering. A late wizard is immediately hit by Iron Sultan (Shadow).",
+    "Round 1 the Gold Dragon shields itself with 75% Intercept, 100 Critical Block, and -30% incoming, so it eats 75% of any damage meant for the Sultan or Steeletons. Kill the Dragon first.",
+    "Any all-enemy or targeted-enemy spell makes him interrupt-Dryad, healing himself and both minions 800. Don't chip him; set up fully and land one killing hit.",
+    "Feinting backfires. A Feint or Mass Feint makes him Cleanse Ward (-All) twice and remove all harmful wards, so use non-Feint traps instead.",
+    "At the end of every fifth Round he casts a +35% Darkwind on himself, boosting his next hit.",
+    "Right after that Darkwind he hits your lowest-health wizard with Iron Sultan for over 3,000 damage. Shield and heal that wizard on Round five, or win before it."
+  ],
+  "groupFight": false,
+  "guideSourced": true
+}

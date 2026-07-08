@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Bring Ice hits. He takes +50% from Ice and resists Fire at 80%, so Fire wizards should pack an Ice off-school hit or a prism.",
+    "Pack a Cleanse Charm or a Fire dispel answer. At the start of Round 2 he puts a Weakness on a random wizard; clear it before your big hit.",
+    "Work fast. At the end of every fourth round an Exploding Ember joins the fight and goes active two rounds later. Every extra cycle adds another one.",
+    "He is stunable, so a stun can buy a safe setup round if the Embers are stacking up.",
+    "Aim to blade up in rounds 1-3 and kill with an Ice AoE by round 4-5, so the boss and any pending Ember die before the adds snowball. Fleeing does not reset the Embers, so do not bank on a restart."
+  ],
+  "cheatNotes": [
+    "At the start of Round 2 he interrupts and slaps a Weakness on one random wizard. If it lands on your hitter, cleanse it before hitting.",
+    "Even though the Weakness is not formally cast, it can still be dispelled or removed like a normal one.",
+    "Every fourth round an Exploding Ember minion joins, then starts acting two rounds later. The longer the fight runs, the more Embers pile up.",
+    "Fleeing and re-entering does not clear the Embers. You cannot reset the fight by leaving, so just kill him fast."
+  ],
+  "groupFight": false
+}

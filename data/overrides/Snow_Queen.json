@@ -1,0 +1,30 @@
+{
+  "strategy": [
+    "Moon boss (15,350). She resists almost everything - Storm/Myth/Balance 60%, Ice/Death 73% - and boosts only to Fire and Life (+5%). The guide's recommended plan for most teams is hit-spamming, not a big alpha strike.",
+    "Pack ONLY single-hit spells and target the boss. AoE hits, Feints (double Cleanse Ward), DoTs (Cooled down), and any non-hit action all make her Tower Shield herself.",
+    "Rounds 1-5 the Awful Snowman Taunts, forcing your hits onto it. There is no penalty for passing, so simply pass and wait the Taunt out rather than triggering shields.",
+    "Each round she marks one random wizard as the Chosen One with a 1-round Icewind aura (+15% universal damage and pierce). Only that wizard should act, and they must ATTACK - a non-Chosen wizard hitting her triggers Celestial Intervention (she heals and strips shields).",
+    "From round 6 on, single-target the Snow Queen. When the Chosen wizard hits her she hands back a +100% Aegis-protected Balanceblade; bank those free blades. The guide killed her in about 5 hits letting the blade cheat stack the damage.",
+    "Keep a key charm under Aegis so her Blizzard cannot strip it. After she dies, AoE the remaining Snowmen. Alternative for a loaded team: an alpha strike with pierce blades, auras, bubbles, Shrike and ~150% pierce - but it is riskier since most non-single-hit setup draws the triple -100% Tower Shields."
+  ],
+  "cheatNotes": [
+    "A late joiner makes her summon another Awful Snowman. Be in on round 1.",
+    "Each round she marks a random wizard as Chosen with a 1-round Icewind aura. That wizard is the only one who should act this round.",
+    "Feint her and she Cleanse-Wards twice, beating Indemnity. Do not Feint; use blades instead.",
+    "Her Snowmen can Mega Taunt for 5 rounds, forcing your hits onto them. Clear taunts or wait them out.",
+    "If a wizard who is not Chosen attacks her, she Celestial Interventions, healing and stripping shields. Only the Chosen wizard should hit.",
+    "When the Chosen wizard attacks her, she gives that wizard a +100% Aegis-protected Balanceblade. Bank these free blades toward your kill.",
+    "An all-enemies attack makes her Tower Shield herself. Use single-target hits.",
+    "Single-target on a Snowman also gives her a Tower Shield. Focus her, not the snowmen, unless taunted.",
+    "Dark Pact also triggers the Tower Shield. Avoid it here.",
+    "DoTs on her get Cooled down. Skip damage-over-time.",
+    "If the Chosen wizard does anything but hit, or any non-Chosen wizard casts, she Tower Shields. Off-turn wizards should pass.",
+    "Death drain spells do not count as a hit for the Chosen rule, so they still trigger a Tower Shield. Use direct attacks.",
+    "There is no penalty for passing, so non-Chosen wizards should simply pass rather than risk a shield.",
+    "Pet and wand May Cast procs also count as a non-Chosen action and shield her. Be mindful of proc pets.",
+    "Her Blizzard strips all positive charms from your team (or wards from hers). Aegis protects your key charms from it.",
+    "Aegis stops the Blizzard from taking a protected charm. Shield your main blade before she casts it."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

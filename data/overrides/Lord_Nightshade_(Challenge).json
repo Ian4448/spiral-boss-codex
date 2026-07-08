@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "Come in on Round 1. A late Wizard eats a Ship of Fools (capped, but massive).",
+    "His Equalize caps all damage: 250 (R1), 500 (R3), 1,000 (R5), 2,000 (R7). This limits your hits too, so plan to strike many times, not once.",
+    "Every Round he Deer Knights the team for the current cap, so the longer the fight the harder those hits. Race the clock.",
+    "Optional exploit: replacing his global temporarily resets the Equalize to 250, dropping his next Deer Knight to 250, though it also caps your own hits at 250 that Round.",
+    "Kill before Round 10, when he casts Doom and Gloom to shut off healing."
+  ],
+  "cheatNotes": [
+    "A late Wizard after Round 2 eats a Moon Ship of Fools; with a damage cap active it deals the cap instead. Come in on Round 1.",
+    "",
+    "Round 1 Equalize sets the damage cap to 250 for both sides.",
+    "Round 3 Equalize raises the cap to 500.",
+    "Round 5 Equalize raises the cap to 1,000.",
+    "Round 7 Equalize raises the cap to 2,000.",
+    "Round 10 he casts Doom and Gloom (Moon) to cut healing.",
+    "Changing the global makes him immediately re-cast Equalize, resetting the cap to 250, then the cycle continues normally.",
+    "",
+    "Every Round he interrupts with a Moon Deer Knight set to the current damage cap.",
+    "If you change the global, that Deer Knight only deals 250 because the Equalize is briefly reset to the 250 cap."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "Hit with Fire (+15%); he is Ice and resists Ice 30%.",
+    "At the end of every Round, if any Charm or Ward was cast, he steals one from all Wizards (Traps and Stun Blocks count as Wards). Don't leave buffs sitting out.",
+    "Protect your key blade with Aegis, or blade and hit in the same round before the end-of-Round steal.",
+    "His Natural Attack also steals a Charm and Ward from its target, so re-buff only right before you swing.",
+    "Stack an Aegis-protected Fireblade, then finish him in one hit."
+  ],
+  "cheatNotes": [
+    "Joining late costs you 1 Pip to a Moon Steal Pips.",
+    "At the end of each Round, if any Charm or Ward was cast, he steals one from every Wizard. Blade and hit the same round or use Aegis.",
+    "Traps and Stun Blocks count as Wards and trigger the AoE Steal Ward.",
+    "Casting Steal Charm or Steal Ward on him does not trigger the cheat.",
+    "Aegis protects your charm or ward from the steal.",
+    "His Natural Attack also steals a Charm and a Ward from its target.",
+    "When he casts Bladestorm or Legion Shield, he pulls a Charm or Ward steal from his minion."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Team fight at 25,000 Health. He resists every school 21% with no weak school, so bring your strongest hit, Spectral Blast, or off-school prisms.",
+    "Hold blades and traps until the Round you hit. Each blade you cast gives him a Balanceblade, and each trap drops an Elemental Trap on you.",
+    "Set up in one burst. Blade and trap the same Round the hitter fires so he cannot answer with his own buffs.",
+    "Bring Triage for his Scald damage-over-time.",
+    "Frame it as a team fight: one dedicated hitter, supports feeding blades only on the hit Round, and a healer clearing Scald."
+  ],
+  "cheatNotes": [
+    "He opens with Power Play, a global that speeds pip gain, so expect him to have pips fast.",
+    "Every trap you cast makes him drop an Elemental Trap on you instead of himself. Trap only right before you hit.",
+    "Every blade you cast gives him a Balanceblade. Minimize blading, or blade the same Round you hit.",
+    "He applies Scald, a Fire damage-over-time, on an unknown trigger. Bring Triage to clear it."
+  ],
+  "groupFight": true
+}

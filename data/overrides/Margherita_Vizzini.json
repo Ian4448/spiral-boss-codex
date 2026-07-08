@@ -1,0 +1,33 @@
+{
+  "strategy": [
+    "Hit with Storm (+40%); she resists Myth 70%.",
+    "She's low health (3,620) — blade up over a round or two and end her in one big single hit; multi-hit spells make her counter-attack for each hit.",
+    "Damaging her makes her Mythblade herself and natural-attack you, but DoT ticks don't trigger it — a DoT or a stun (she's stunable) avoids the counter.",
+    "Watch the Storm Prism trigger — if she prisms herself your Storm converts to resisted Myth, so consider stunning or hitting through it.",
+    "Below 50% health she casts Time of Legend and Myth Traps a wizard every round, so burst her from above 50% straight to dead."
+  ],
+  "cheatNotes": [
+    "Damage her and she Mythblades herself then natural-attacks you — end her in one hit or stun her first.",
+    "That extra Mythblade stacks with her normal one, so she hits harder each time.",
+    "A multi-hit spell makes her counter once per hit — use a single big hit instead.",
+    "DoT ticks don't trigger the counter — a DoT chips her safely.",
+    "",
+    "Her counter natural attack can still be Dispelled.",
+    "On certain triggers she Storm Prisms herself and Tritons a wizard — the prism turns your Storm into resisted Myth.",
+    "",
+    "May-cast pet spells trigger it.",
+    "",
+    "",
+    "Defeating a Lanyon Scratcher triggers it on whoever killed it.",
+    "",
+    "",
+    "Killing a Scratcher with a DoT won't trigger it.",
+    "Her Triton cheat can be Dispelled even though it isn't cast.",
+    "After her natural attack, if you still have a shield or trap she Pierces you.",
+    "If you still have a shield/trap/charm or a global is active and her last natural triggered Pierce, she Disarms you.",
+    "That Disarm can be Dispelled.",
+    "The round after she drops to 50% health she casts a +35% Time of Legend.",
+    "Every round below 50% she Myth Traps a random wizard — burst her past 50% to dead."
+  ],
+  "groupFight": false
+}

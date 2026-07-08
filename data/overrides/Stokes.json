@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "He summons a random-school minion (each also hits for 500) every other round whenever there is an open slot, so the board keeps refilling. Bring AoE to clear minions and boss together.",
+    "Hit with Storm - he takes 30% more from Storm and resists Myth 73%.",
+    "Do not kill him on a round he just summoned a minion into an open slot - that fresh minion can take his place. Clear the minions, then finish him, ideally with one AoE that wipes the whole board.",
+    "Funnel blades to one hitter and keep the team shielded against the assorted 500-damage minion hits.",
+    "Keeping slots filled with weakened minions between AoEs limits how often he can summon a fresh one."
+  ],
+  "cheatNotes": [
+    "Round 1 and every other round he summons a random-school minion into any open slot; each summon also deals 500 damage.",
+    "\"Ice\" summon: casts Ice Ninja Pigs for 500 Ice and, if a slot is open, summons an Ice Ninja Pig.",
+    "\"Life\" summon: Life Cyclops for 500 Life, plus a Life Cyclops minion if there is room.",
+    "\"Storm\" summon: Storm Medusa for 500 Storm, plus a Storm Medusa if there is room.",
+    "\"Fire\" summon: Fire Bloodbat for 500 Fire, plus a Fire Bloodbat if there is room.",
+    "\"Death\" summon: Death Troll for 500 Death, plus a Death Troll if there is room.",
+    "\"Balance\" summon: Balance Minotaur for 500 Balance, plus a Balance Minotaur if there is room.",
+    "The last minion summoned can replace Stokes if he is killed the same round. Wipe the board with AoE or do not kill him right after a summon."
+  ],
+  "groupFight": true
+}

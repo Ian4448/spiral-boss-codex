@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "Expect a defensive counter for every damage buff you cast. Blades, traps (including Feint), auras, globals, and shadow polymorphs each trigger one of five defenses in order, so buff sparingly.",
+    "Lean on armor piercing and Shadow Shepherd for damage. Neither triggers his counter, so pierce is your safest way to build up without feeding his shields.",
+    "Attack with Fire (he takes +30% Fire); never Ice (81% resist) and expect 51% resist on everything else.",
+    "Before your kill hit, Shatter and Cleanse his stacked shields and damage-reduction, then punch through with armor piercing.",
+    "Drop him below full Health early and apply Doom and Gloom or Infection. His every-other-round interrupt becomes a heal once he is damaged, and you want to weaken it.",
+    "He is not stunable and has 30,930 Health, so bring a team with one dedicated hitter and let supports feed pierce and Shadow Shepherd."
+  ],
+  "cheatNotes": [
+    "Every damage buff you cast (blade, trap, Feint, aura, global, or shadow polymorph) makes him cast the next of five defenses, then repeats after five. Buff sparingly and expect shields.",
+    "Shadow Shepherd is the exception, so cast it freely since it never triggers his counter.",
+    "Pure armor-piercing effects also do not trigger him, so pierce is your safest damage source.",
+    "The first counter is a 650-damage Spirit Armor on his whole side.",
+    "The second is Mass Tower Shield across his side.",
+    "The third is a -40% incoming damage aura for 4 Rounds.",
+    "The fourth is a -25% incoming damage global.",
+    "The fifth is Shadow Sentinel, then the cycle restarts.",
+    "",
+    "While he is at full Health his every-other-Round interrupt is a 735 absorb shield, so more armor to clear.",
+    "Once he is below full Health that interrupt becomes a ~735 heal instead, so apply Doom and Gloom or Infection to weaken it."
+  ],
+  "groupFight": true
+}

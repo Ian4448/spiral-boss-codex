@@ -1,0 +1,29 @@
+{
+  "strategy": [
+    "Team gauntlet (four enemies). Hit Storm into Bison (+5%); avoid Myth (70%). He's stunable and beguilable — control him during setup.",
+    "Attacking Bison makes him retaliate for 20% of the attacker's max health, so only hit him with shields up and when committing the kill.",
+    "Blade the hitter with multi-target blades (Elemental/Spirit) — Ms. Felicity Disarms single blades cast on another wizard and Cleanse Wards single traps placed on other enemies.",
+    "Don't use Auras — Kenny Rooster natural-attacks (705) and destroys them.",
+    "Expect two-round Confusion on the team from round 1 onward; heal and push through. The minions execute each other under 20% health, so focus fire and let the chain thin them."
+  ],
+  "cheatNotes": [
+    "",
+    "Late wizards get Confused for two rounds — join on time.",
+    "Round 1 (and periodically) he Confuses every wizard for two rounds — expect fizzles and misdirected casts.",
+    "Attack Bison and he retaliates for 20% of the attacker's max health — only hit him with shields up and when finishing.",
+    "",
+    "Cast a blade on another wizard and Ms. Felicity Disarms the receiver — use multi-target blades instead.",
+    "Multi-target blades don't trigger the Disarm.",
+    "Place a trap on another enemy and she Cleanse Wards it off.",
+    "A multi-trap spell only loses one trap to her.",
+    "If Kenny Rooster drops below 20% health she executes him.",
+    "",
+    "Round 1 and every 5th round Daniel gives each wizard a junk Snake Oil card.",
+    "",
+    "If Ms. Felicity drops below 20%, Daniel executes her.",
+    "",
+    "Cast an Aura and Kenny natural-attacks for 705 and destroys the aura — don't use auras.",
+    "If Daniel drops below 20%, Kenny executes him."
+  ],
+  "groupFight": true
+}

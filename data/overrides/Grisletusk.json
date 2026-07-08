@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Low health (3580), so this is a fast kill. Skip blades and shields; every charm or ward you cast makes him Hex you for +35% incoming damage.",
+    "Set up with traps instead. Feint and other traps do not trigger the cheat, so trap him and hit.",
+    "Hit with Fire or Death (he takes +35% from both, resists Life 80%).",
+    "Globals also trigger the Hex, so avoid global buffs; a couple of traps plus one hit ends it."
+  ],
+  "cheatNotes": [
+    "Casting any charm, including blades, makes him Hex you for +35% incoming damage; set up with traps instead of blades.",
+    "Global spells also trigger the Hex, so skip global buffs.",
+    "",
+    "Casting any ward or shield also triggers the +35% Hex on you, so do not shield up here."
+  ],
+  "groupFight": false
+}

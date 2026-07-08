@@ -1,0 +1,26 @@
+{
+ "strategy": [
+  "100,000 health, 50% resist to everything, 101% damage boost — full team fight: hitter, two supports, healer.",
+  "Do nothing aggressive early: after every spell he casts, he hits himself for 5,000 until he reaches 60,000 health. Spend the opening rounds shielding, blading the hitter, and Feinting — the first 40,000 damage is free.",
+  "Survive the every-2nd-round Superhero Strike casts — healer pre-heals into even rounds; 225 critical and 16% pierce make these hurt.",
+  "His round-1 Chi aura guts his outgoing healing (-300%), so your damage sticks — no Doom and Gloom needed.",
+  "Once he sits at 60,000, stop stalling: his Berserk/Frenzy stacking from Mandar snowballs, and long fights get lethal.",
+  "Bring pierce for the 50% universal resist (no boost school exists) and burst the remaining 60,000 with a fully bladed hit through Feints."
+ ],
+ "cheatNotes": [
+  "Round 1 he gives himself a 'Chi!!' aura at -300% outgoing healing — he cannot meaningfully heal himself for the whole fight.",
+  "After every spell he casts, he hits himself for 5,000 until he's at 60,000 health — the first 40% of the fight is free. Stall, shield, and let him do the work.",
+  "His self-hits don't consume blades, traps, or shields — your Feints stay on him for the real hit.",
+  "Every 2nd round a Superhero Strike spell comes out — rotate shields and keep health above the burst line on even rounds.",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "If he already has Frenzy and rolls Mandar, he upgrades to Frenzy Quicken — his output snowballs the longer the fight runs.",
+  "He otherwise stacks Berserk, then Frenzy — once his self-damage stops at 60,000, every extra round makes him hit harder. Don't stall past that point."
+ ],
+ "groupFight": true
+}

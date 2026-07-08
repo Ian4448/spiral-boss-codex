@@ -1,0 +1,42 @@
+{
+  "strategy": [
+    "Myth challenge boss (7990) with a pack of gimmick minions. Hit with Storm (+30%); never Myth (80% resist).",
+    "Round 1 he tags a wizard with a 5-round Myth DoT that detonates ~2500 and drops +10% lock traps on the team. Do not Triage it (that triggers a 2000 Insane Bolt). Manage it with Cooldown timed between the 4th and 5th tick, or Shift.",
+    "Do not clear the locks with an AoE; removing the last lock by AoE brings an Insane Bolt on the caster. If any locks remain after 5 rounds he strips all wards and re-locks, so handle the DoT cleanly.",
+    "Watch your pip count: end a turn with 5+ pips and the O'Leary Thug Mana Burns you. Skip Auras (Supernova counter) and go light on blades (they get stolen, Dark-Pacted, or Enfeebled).",
+    "Because setup is so punished, keep it minimal: a couple of traps and one strong Storm hit, healing through the DoT windows."
+  ],
+  "cheatNotes": [
+    "He and his minions cleanse negative charms off themselves, so Weakness or Plague on them will not stick.",
+    "",
+    "Round 1 he plants a 5-round Myth DoT (~2500 on detonation) and +10% lock traps on the team. Do not panic-remove it; manage the timing.",
+    "Using Triage or Mass Triage on that DoT triggers a 2000 Shadow Insane Bolt on the target. Never Triage it.",
+    "",
+    "Shift and Cooldown are the safe ways to remove the DoT; Cooldown must land between the 4th and 5th tick. Time it rather than Triaging.",
+    "Remove all the locks and he Mass Triages himself and re-throws the DoT. Clearing locks just restarts the cycle.",
+    "If an AoE removes the last lock, he Insane Bolts the AoE caster. Do not AoE the locks off.",
+    "",
+    "Leave any lock up past 5 rounds and he strips all wards from both sides and re-locks. Deal with the DoT within the window.",
+    "Cast an Aura and the O'Leary Thug Supernovas you. Skip auras.",
+    "",
+    "End a turn holding 5 or more pips and he Mana Burns you. Spend down before passing your turn.",
+    "When one of his side lands an attack, the Midnighter Empowers it. Expect their damage to climb.",
+    "If one of his spells fizzles he Black Cats a wizard. Minor, but keep healed.",
+    "",
+    "Dr. Von hits a random wizard every 3rd round with his Monster. Heal into rounds 3, 6, and 9.",
+    "Monster Mash lands on a random wizard every 4th round. Expect it.",
+    "Casting a blade gets its recipient Enfeebled. Blade the same round you hit.",
+    "Negative charms on the enemy get Cleansed off. Do not rely on Weakness or Plague.",
+    "Gibson steals and destroys a blade you cast. Aegis the important one or blade-and-hit the same round.",
+    "Universal, Elemental, or Fire blades get stolen. Prefer single-school blades you can hit with immediately.",
+    "Place a universal Trap on an enemy and he Backdrafts the caster. Use school-specific traps.",
+    "A single Trap or DoT on a wizard gets Detonated. Be careful stacking effects on your own team.",
+    "Universal Shields get stolen by Jacques. Use school shields or heal instead.",
+    "",
+    "School-specific Shields also get stolen and destroyed. Defense is hard here; race him instead.",
+    "Heal-over-times get Snow Drifted off (pet heals too). Use direct heals.",
+    "",
+    ""
+  ],
+  "groupFight": false
+}

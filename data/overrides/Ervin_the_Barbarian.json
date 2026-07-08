@@ -1,0 +1,36 @@
+{
+  "strategy": [
+    "Accuracy first. Any fizzle gets the fizzler a 0-pip Skeletal Dragon (800+1998 Death over 3 rounds), so enchant hits with accuracy and do not gamble low-accuracy spells.",
+    "Ervin keeps a -90% Tower Shield he recasts whenever damaged as long as a minion lives. Kill the minions first, or use Steal Ward or a pierce hit to get through.",
+    "Set up safely: single traps make him Cleanse Ward, so use Indemnity, Vaporize, or multi-trap spells like Windstorm (which do not trigger it). Any charm makes Taurus Disarm you and hand Ervin a Deathblade, so Aegis-protect blades or Dissipate the Disarm.",
+    "Quench Taurus's Smoke Screen (-50%) every third round; it sets up Ervin's Skeletal Dragon.",
+    "Clear the minions, then blade up and hit Ervin with Ice or Life (+35%, resists Death 80%). After minions die he throws a 0-pip Leviathan every other round, so do not stall."
+  ],
+  "cheatNotes": [
+    "",
+    "He wears a -90% Tower Shield and recasts it whenever damaged while a minion is alive, so kill the minions or you fight through the shield every hit.",
+    "Steal Ward or a pierce hit removes the shield without the damage-recast, though he still replaces it once he takes damage again.",
+    "",
+    "Every fizzle earns the fizzler a 0-pip Skeletal Dragon for 800+1998 Death over 3 rounds, so stack accuracy and avoid low-accuracy hits.",
+    "Once the minions are gone he throws a 0-pip Leviathan (2030 Storm) at the highest-threat wizard every second round, so finish quickly.",
+    "That Leviathan can be dispelled with Dissipate even though it is a cheat-cast.",
+    "",
+    "A single trap on Ervin makes him Cleanse Ward it off while any minion lives; use Indemnity or a multi-trap spell instead.",
+    "Vaporize dispels the Cleanse Ward cheat.",
+    "",
+    "Multi-trap spells like Windstorm or Mass Death Prism do not trigger the Cleanse Ward, so use them to trap him safely.",
+    "Indemnity on your trap avoids the Cleanse Ward entirely.",
+    "",
+    "Taurus drops a -50% Smoke Screen every third round to set up Ervin's hits; Quench it to keep your accuracy.",
+    "Quench removes Taurus's Smoke Screen.",
+    "Any charm you cast makes Taurus Disarm the recipient and hand Ervin a free Deathblade; Aegis your blades to protect them.",
+    "Dissipate stops this, and dispelling the Disarm also denies Ervin the Deathblade.",
+    "",
+    "",
+    "Even Plague or Smoke Screen count as charms here and get you Disarmed, so watch what you cast.",
+    "Aegis on the charm avoids Taurus's Disarm.",
+    "Shadow-creature charms like Shadowblade also trigger the Disarm.",
+    ""
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Hit with Storm (+30%); it resists Myth 63%.",
+    "On Round 1 it protects itself with three -100% Universal Shields plus a 5,000 Damage Absorb, and hands each Wizard a Shatter (The Emperor Card).",
+    "Break through the wall: cast the granted Shatter to strip the shields, or throw cheap hits to burn the -100% shields and the Absorb before your real attack. The Shatter is optional but makes it far faster.",
+    "Once the protected wards and Absorb are cleared, stack blades and land one big Storm hit."
+  ],
+  "cheatNotes": [
+    "Round 1 it self-casts three protected -100% Universal Shields and a protected 5,000 Absorb, then gives everyone a Shatter card to break them.",
+    "",
+    "You can win without casting the granted Shatter, but it clears the shield wall much faster."
+  ],
+  "groupFight": false
+}

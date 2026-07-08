@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "Hit Myth, Life, or Death, each +30%, and never Balance, which he resists 80%.",
+    "Keep the Laughing Calaca minion count low before every fifth Round. His Power Nova scales from 400 with no minions up to 3,200 with three.",
+    "Better yet, keep an Unbalance on the boss to dispel the Power Nova cheat outright.",
+    "He resummons a minion after each one dies, so do not over-invest in the adds. Focus setup on the boss.",
+    "Stack blades and Feint and drop one Myth, Life, or Death hit, clearing stray minions with an AoE."
+  ],
+  "cheatNotes": [
+    "Every fifth Round he interrupts with Power Nova, and its damage scales with how many Laughing Calaca minions are alive.",
+    "With no minions up it deals only 400 Balance damage.",
+    "One minion up: 800 Balance damage.",
+    "Two minions up: 1,600 Balance damage.",
+    "Three minions up: 3,200 Balance damage. Keep the count low before Round 5 and 10.",
+    "An Unbalance on the boss dispels the Power Nova cheat.",
+    "He randomly resummons a minion whenever one is defeated, so they keep coming."
+  ],
+  "groupFight": false
+}

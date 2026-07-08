@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "The core loop is splitting the couple: while Malistaire and Sylvia are together, everyone eats a -100% Virulent Plague every Round, and Sylvia keeps him alive.",
+    "Sylvia revives or heals Malistaire when he is hit while she lives, and can even revive him if he dies first, so bring her down or force her Sacrifice before committing to killing Malistaire.",
+    "When Malistaire is alone he strips 25% of his own Health and Mana Burns a wizard, and after Sylvia is gone he Cleanse-Charms your weaknesses off, so time your Feints for after that cleanse.",
+    "Avoid casting Charms or Auras carelessly; each one lets Malistaire steal two blades from you.",
+    "He takes 50% more from Life, so a Life hitter is ideal; funnel blades, clear Sylvia, then burst Malistaire in one big hit.",
+    "Note he can re-summon Sylvia with a Moon spell even if a Sylvia minion is already out, so keep infection and pressure up to blunt the plagues."
+  ],
+  "cheatNotes": [
+    "",
+    "While Malistaire and Sylvia are together, everyone takes a -100% Shadow Virulent Plague at the start of every Round.",
+    "After Sylvia is Sacrificed, Malistaire uses a Myth Cleanse Charm to strip all negative damage charms off all wizards.",
+    "When alone without Sylvia, he removes 25% of his own max Health and Mana Burns a wizard.",
+    "He casts a Moon spell to summon Sylvia Drake.",
+    "This summon can occur even if a Sylvia minion is already present.",
+    "Cast a Charm or Aura and he steals two blades from you.",
+    "",
+    "After a random number of turns, Sylvia casts Dark Pact for 100% of her max Health to give Malistaire a +100% Balanceblade.",
+    "This is currently bugged and may never trigger or fail on trigger.",
+    "If Malistaire is hit while Sylvia is alive, she Sacrifices to heal him, and this can even revive him if he dies first.",
+    ""
+  ],
+  "groupFight": true
+}

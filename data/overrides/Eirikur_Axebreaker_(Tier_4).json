@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Team of 4: a hitter plus supports. Hit with Life or Balance (he takes +35% from both) and never into Ice (80% resist).",
+    "He opens with a Frozen Armor Absorb. Break it with Shatter or armor-piercing, not Steal Ward.",
+    "Do not Steal Ward his Frozen Armor. It makes him hit the caster with Brimstone Revenant for 100 Fire and take the Absorb back. Pierce and Shatter get around it.",
+    "Leave the Thundersnow Troll alive until your burst is ready. The moment all his minions die, he gives himself two fresh Frozen Armors.",
+    "He is stunable, so a stun can buy a setup round. Stack blades, Shatter the Absorb, then land one Life or Balance hit."
+  ],
+  "cheatNotes": [
+    "He begins with a Frozen Armor Absorb shielding his health. Shatter or pierce it.",
+    "Killing all his minions makes him cast two more Frozen Armors on himself. Only clear the Troll when you are ready to kill him.",
+    "Steal Ward on his Frozen Armor backfires: he casts Brimstone Revenant on the caster for 100 Fire and takes the Absorb back.",
+    "Pierce and Shatter remove the Frozen Armor without triggering the Steal Ward punish."
+  ],
+  "groupFight": true
+}

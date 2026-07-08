@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "This golem has only 5,000 health, so blade up and burst it down with your strongest attack school; it is not stunable.",
+    "Do not cast wards. A harmful Ward (trap) triggers a delayed 120 Fire hit on you, and a helpful Ward (shield) triggers a Fire Elf plus the same delayed Fire hit.",
+    "Do not shield-turtle. Blade your hitter and end the fight fast instead.",
+    "It lays Mass Fire Trap on round 1 and every other round, boosting the fire coming at you, so kill it before that stacks."
+  ],
+  "cheatNotes": [
+    "Casting a harmful Ward (a trap) lands a delayed 120 Fire hit on you 4 rounds later. Skip trap setup.",
+    "Casting a helpful Ward (a shield) makes the Noxious Gas Golem Fire Elf itself and drops the same delayed 120 Fire hit on you. Blade and hit instead of shielding.",
+    "Round 1 and every other round it casts Mass Fire Trap, boosting the fire damage coming at you. Kill it quickly.",
+    "",
+    ""
+  ],
+  "groupFight": false
+}

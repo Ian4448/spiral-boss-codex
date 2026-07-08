@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Two bosses that mirror each other's attacks: Utterson (Ice) and Poole (Fire). Expect their natural attacks and traps to double up on whoever they focus.",
+    "Hit Utterson with Fire (he takes +40%, resists Ice 70%); hit Poole with Ice.",
+    "Blade up and AoE to pressure both, healing through their paired natural attacks.",
+    "Nothing you cast directly triggers a punish here (their combos are between themselves), so play a standard blade-and-hit."
+  ],
+  "cheatNotes": [
+    "",
+    "",
+    "",
+    "Their natural attacks chain; if one lands its natural attack on a wizard, the other follows with its own on the same wizard, so that wizard takes two hits.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "groupFight": false
+}

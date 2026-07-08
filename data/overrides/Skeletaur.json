@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "Kill order is the fight. If Skeletaur dies before or in the same round as his minions, he revives to 100% via a Moon Blessing, so his Death Lemurs must die first, then Skeletaur on a later round.",
+    "Do not rely on Feint. He converts any Feint on him to half value (70% becomes 35%) and Indemnity does not stop it, so use the Balance version of Feint, which does not trigger the cheat, or lean on blades.",
+    "Bring stun blocks and expect confusion. His natural attack is followed by a 2-round Confuse and a 2-round Shadow Stun, and he Beguiles a random wizard at the start of Rounds 4 and 5, so protect your hitter.",
+    "Manage the totems. Killing his last minion makes him summon an Armor, Hex, or Taunting Totem, so plan to clear minions in a way that still leaves you a clean window on the boss afterward.",
+    "He is Shadow with 68% Balance resist and no boost school, so avoid Balance and stack blades on any other school; join on time since late wizards eat his attack plus a Stun.",
+    "Clear the Lemurs first, deal with the summoned totem, then stack blades (Balance Feint if used) and burst Skeletaur down a round after the minions are gone so the revive cannot trigger."
+  ],
+  "cheatNotes": [
+    "A late-joining wizard is hit by Skeletaur's natural attack, which also triggers his Shadow Stun on that wizard; be present at the start.",
+    "If Skeletaur dies before or in the same round as his minions, he casts a Moon Blessing and revives to 100%. Kill the minions first, then him a round later.",
+    "Feint on him is halved (70% becomes a 35% Trap), so its value is cut.",
+    "Indemnity does not protect your Feint from the halving cheat.",
+    "The Balance version of Feint does not trigger the halving, so use it if you want full-value trap pressure.",
+    "After his natural attack he casts a 2-round Confuse on the target wizard.",
+    "After his natural attack he also casts a 2-round Shadow Stun, so carry stun blocks for your hitter.",
+    "At the start of Rounds 4 and 5 he Beguiles a random wizard, so watch for forced attacks on your own team.",
+    "Killing his last remaining minion makes him summon an Armor, Hex, or Taunting Totem in its place.",
+    "If he has multiple minions defeated and ends with none, he casts the summon spell repeatedly but no extra minion actually spawns."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Hit with Ice; he takes +5% and resists Fire 50%.",
+    "Enter on time; a late wizard eats Grand Phoenix.",
+    "He runs an interrupt cycle casting either a helpful Good Heads buff or a harmful Bad Heads spell on your whole team, so keep a heal ready for the bad rolls.",
+    "He applies a +25% Mass Fire Trap and a +40% Fireblade after his natural attack, so expect his damage to ramp; shield and set up over a couple Rounds.",
+    "Stack Ice blades and Feint, then end with one Ice hit."
+  ],
+  "cheatNotes": [
+    "Joining late gets Grand Phoenix cast on you; enter with the group.",
+    "",
+    "On some turns he buffs the whole enemy side with a helpful spell; expect his side to get stronger periodically.",
+    "On other turns he hits your whole team with a harmful spell; keep a team heal or shields up for it."
+  ],
+  "groupFight": false
+}

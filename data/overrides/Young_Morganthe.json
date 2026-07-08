@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Hit with Ice or Life (+35% each) and avoid Death (80% resist).",
+    "Do not cast Wards (Shields or Traps). A ward makes her randomly cheat Power Nova and Earthquake, dealing 400 Myth to all enemies and stripping your blades; Mass Feint triggers this too.",
+    "You can Unbalance to Dispel the Power Nova portion if you must place a ward.",
+    "Do not bank pips: reaching 8 or more pips makes her Mana Burn you at the start of the Round; Unbalance also dispels this, and a spell already queued still fires.",
+    "Since Earthquake strips blades, set up quickly and hit before she can respond; keep your pip count under 8 until you are ready to cast.",
+    "Stack Ice or Life blades in one burst, then fire before hitting the 8-pip line."
+  ],
+  "cheatNotes": [
+    "Casting any Shield or Trap makes her randomly cheat Power Nova and Earthquake, hitting all enemies for 400 Myth and stripping your blades; avoid wards and set up with blades quickly.",
+    "The Earthquake part does not touch her own charms or wards, only yours.",
+    "She is more likely to use this after she has attacked, including after her Mana Burn.",
+    "Pet-cast wards do not trigger this cheat.",
+    "Mass Feint counts as a ward and triggers the Power Nova and Earthquake; avoid it.",
+    "Unbalance can Dispel the Power Nova portion if you need to place a ward.",
+    "Reaching 8 or more pips makes her Mana Burn you at the start of the Round; hit before you bank that many pips.",
+    "Unbalance also Dispels the Mana Burn cheat.",
+    "A spell you already queued still fires even if the Mana Burn drains your pips, so commit your hit before she can burn you."
+  ],
+  "groupFight": false
+}

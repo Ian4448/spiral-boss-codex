@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "He turns to Statue form and becomes immune to all damage at the end of Round 1, Round 4, and every fifth Round after (1, 4, 9, 14...), for 2 Rounds each time.",
+    "Attack him during the Statue phase to force him straight out of it, making him vulnerable again, so do not waste your big hit into the immune window.",
+    "If the Statue phase expires without you hitting him, he casts Medusa and turns a wizard to stone for 99 Rounds; you can still be healed while statued and can Pass through the 77-card Pass deck or play the single Break Free.",
+    "You can dispel the Statue polymorph with Vaporize to keep the pressure on.",
+    "He resists Ice 76% and other schools 46% but takes 30% more from Fire, so bring Fire; set up while he is stone-immune, then hit the Round he is exposed."
+  ],
+  "cheatNotes": [
+    "At the end of Round 1, Round 4, and every fifth Round after, he casts Power Nova on himself, dealing no damage but turning to Statue form for 2 Rounds.",
+    "While in Statue form he is immune to all damage.",
+    "Attacking him during the Statue phase forces him out of it, making him vulnerable again.",
+    "If the Statue phase expires without you hitting him, he casts Medusa and turns a wizard to stone for 99 Rounds.",
+    "The polymorph deck is 77 Pass cards plus one Break Free (Myth); you can discard and Pass normally, and you can be healed while statued.",
+    "If every wizard is already a statue, he skips Medusa after the Statue phase ends naturally.",
+    "This Medusa cheat can be dispelled with Vaporize."
+  ],
+  "groupFight": false
+}

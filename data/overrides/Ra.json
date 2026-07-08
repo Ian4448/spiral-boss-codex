@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Ra is a Rank 4 Balance boss with only 3,000 health behind a wooden skeleton key, meant for level-20-ish wizards. An overleveled wizard ends this almost instantly, so bring a strong hitter and just plan around the auras.",
+    "Bring a balance dispel. Ra opens by interrupt-casting Balance of Power and recasts it any time you try to replace the Global, so a dispel is the only clean way to shut it off.",
+    "Wear high-accuracy gear or pack Precision. Ra randomly throws Black Mantle or a +10% Precision that can hit either side, so accuracy insurance keeps your setup from fizzling.",
+    "Plan burst around the aura cycle. At the end of every fourth round Ra interrupt-casts an aura on everyone: Amplify first (round 4), then Fortify (round 8), alternating. Try to land your big hit on an Amplify round for free extra damage.",
+    "Hit with Myth, Life, or Death (+10% incoming) and avoid Balance (30% resist). Clear the three minions (Sia ~920, Hu ~800, Heka ~880) with an AoE alongside your hit on Ra, and carry heals for the low-level version of the fight."
+  ],
+  "cheatNotes": [
+    "At the very start Ra interrupt-casts Balance of Power as a Global. A balance dispel removes it.",
+    "If you try to swap out his Global with your own, Ra just interrupt-recasts Balance of Power. Dispel it rather than trying to overwrite it.",
+    "At random, Ra casts Black Mantle or a +10% Precision that can land on either all allies or all enemies, so your accuracy may drop unexpectedly. Bring accuracy gear.",
+    "If you Spy Ra during that accuracy cheat, only the plain versions of Precision or Black Mantle are shown, hiding the +10% detail.",
+    "At the end of every fourth round Ra interrupt-casts an aura on everyone, starting with Amplify (round 4), then Fortify (round 8), then alternating. Amplify rounds boost damage for both sides, so time your hit there."
+  ],
+  "groupFight": false,
+  "guideSourced": true
+}

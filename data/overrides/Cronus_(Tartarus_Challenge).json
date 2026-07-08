@@ -1,0 +1,29 @@
+{
+  "strategy": [
+    "Team fight in Tartarus with three Lost Shades. Assign a hitter and keep the rest on setup and cheat management.",
+    "Every round he traps all wizards with a +40% random-school trap, and any shield you cast adds another, so skip shields and keep heals ready for the extra damage.",
+    "His main cheat: attacked while not Marked, he counters with a natural attack of the opposing school. Mark him first by casting a multi-trap spell like Elemental Trap, which makes him place a Marked Stun Block on himself.",
+    "While he is Marked, attacking removes the Mark instead of triggering the counter, so land your hits during that window.",
+    "Hit with Storm. He resists Storm only 17% versus 37-57% for everything else, so avoid Fire and Myth (57%).",
+    "He is not stunable and clears harmful wards off himself, so do not rely on traps sticking to him. Blade the hitter and burst."
+  ],
+  "cheatNotes": [
+    "Every round he drops a +40% random-school trap on all wizards, raising the damage you take.",
+    "Any shield you cast earns you another +40% random-school trap.",
+    "A harmful ward placed on him is simply removed.",
+    "A multi-trap spell like Elemental Trap makes him remove one ward and place a Marked Stun Block on himself; hitting him while Marked strips the Mark and his wards.",
+    "All-enemies ward spells like Windstorm only get removed from Cronus.",
+    "Attacking with a multi-ward spell triggers his counter if he is unmarked, then removes one ward and Marks him.",
+    "Attacked while not Marked, he counters with a natural attack based on the school that hit him.",
+    "A Fire hit makes him counter with Cronus Storm.",
+    "An Ice hit makes him counter with Cronus Fire.",
+    "A Storm hit makes him counter with Cronus Ice.",
+    "A Life hit makes him counter with Cronus Death.",
+    "A Myth hit makes him counter with Cronus Life.",
+    "A Death hit makes him counter with Cronus Myth.",
+    "A Balance or Shadow hit makes him counter with Cronus Balance.",
+    "Multi-hit spells like Minotaur trigger the counter once per hit.",
+    "DoT spells only trigger the counter on their first tick."
+  ],
+  "groupFight": true
+}

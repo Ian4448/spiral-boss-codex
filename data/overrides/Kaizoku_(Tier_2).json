@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Hit with Ice - he takes +30% from it and resists 60% of Fire.",
+    "He interrupt-casts a -75% Tower Shield on Round 1 and replaces it every time he is damaged, so either strip it with a ward-removal (which does not make him replace it) or hit hard enough to overpower the -75%.",
+    "Skip traps - a trap on him just makes him Cleanse Ward it off.",
+    "He hits the whole team for 150 Star every second round (every round once his minions die); the damage order alternates sides each time, and a warded wizard blocks the spread but gets their wards stripped.",
+    "At only 1,430 health, set a blade or two and end it with one strong Ice hit; clearing his minions stops the reshielding and makes him drop his own wards."
+  ],
+  "cheatNotes": [
+    "He opens with a -75% Tower Shield on himself on Round 1.",
+    "Any hit that damages him makes him instantly replace that Tower Shield, so chip damage is wasted.",
+    "Ward-removal spells (Steal Ward, Cleanse Ward) take the Tower Shield off WITHOUT making him replace it - use one before your hit.",
+    "The reshielding stops once all his minions are defeated.",
+    "Trap him and he Cleanse Wards it off himself, so traps do not stick.",
+    "Every second round he hits the whole team for 150 Star damage.",
+    "The Star hit alternates which side it starts from each time it fires.",
+    "Once his minions are dead he casts that 150 Star hit every round instead of every other.",
+    "A wizard with any non-absorb ward stops the Star spread from reaching others, but Kaizoku then strips all wards from that wizard and himself (unless they were the last to be hit).",
+    "Once his minions fall he removes his own wards, leaving himself exposed for a finishing hit."
+  ],
+  "groupFight": false
+}

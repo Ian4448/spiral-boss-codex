@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "He resists Balance 50% and takes only +5% from Myth/Life/Death, so use a strong off-Balance hit or a prism rather than Balance.",
+    "He summons a Beastman Guard at the end of every round equal to your team size and re-summons them, so do not waste turns clearing minions, race him with AoE.",
+    "Use Mass Feint (+75%) instead of a regular Feint. A normal Feint makes him Swap Ward the traps onto you, Mass Feint does not trigger it. Indemnity or Melt also protects a single-target Feint.",
+    "Any defeat, ally or enemy, gives him Berserk and more damage, so avoid picking off minions right before your hit, kill him in the same burst.",
+    "Stack Mass Feint plus blades, then land one large off-school hit, and watch him drain 2 pips from allies to power up."
+  ],
+  "cheatNotes": [
+    "Join after the duel starts and he hits you with Savage Paw.",
+    "He summons a Beastman Guard at the end of every round via a Moon spell.",
+    "He keeps minions equal to your team size and re-summons one per round until they match, do not over-invest in clearing them.",
+    "He steals 400 health from one of his minions and gives himself a Balanceblade.",
+    "He also interrupt-casts Chromatic Blast on himself, scaled to his pips, buffing his damage.",
+    "Every few rounds he drains 2 pips from each minion and converts them to power pips, so he ramps quickly, end the fight before he snowballs.",
+    "Place a single-target Feint and he Swap-Wards it onto you. Use Mass Feint or protect it instead.",
+    "Indemnity or Melt stops the Feint swap, pack one to trap him safely.",
+    "Mass Feint (+75%) does not trigger the swap, so it is the safe way to trap him.",
+    "Any defeat, ally or enemy, gives him Berserk and more damage, burst him down rather than trading kills."
+  ],
+  "groupFight": false
+}

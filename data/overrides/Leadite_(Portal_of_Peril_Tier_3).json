@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Avoid DoT spells on Leadite. A damage-over-time makes him chain Chromatic Blast, Frenzy, and Iron Curse, so use direct-damage hits.",
+    "Killing Leadite spawns two Uraniumites, and each Uraniumite killed spawns two Protactimites, so plan an AoE-heavy finish to clear the cascade rather than leaving stragglers.",
+    "Blade up and hit with Life (he takes +30%, resists Death 66% and everything else 36%).",
+    "Save AoE for the add waves after he dies."
+  ],
+  "cheatNotes": [
+    "Hitting him with a DoT makes him chain Chromatic Blast, Frenzy, and Iron Curse, so stick to direct damage.",
+    "",
+    "",
+    "",
+    "Defeating him spawns two Uraniumites, so be ready with AoE for the next wave.",
+    "Each Uraniumite you kill spawns two Protactimites, so clear them together with AoE to avoid an endless cascade."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "The guide calls this a simple fight: he never blocks your buffs, so blade and trap freely, then kill.",
+    "It plays as a 4-hitter team. Each wizard blades and casts a 7-pip AoE like Frenzy; a coordinated team is often done in two rounds.",
+    "He has no school resist listed, so hit with your strongest school and good accuracy.",
+    "Keep it short so his cheats never matter: every 2nd round he Empowers a random school pip, and once he holds 2+ of one school he free-casts a matching big hit.",
+    "If you are slower, stun or beguile him to skip a Crash Attack turn, but the guide's plan is just to out-pace him and burst before he banks a matching pip pair."
+  ],
+  "cheatNotes": [
+    "Every 2nd round he Empowers himself a random school pip, feeding his Crash Attack. Stun or beguile him to disrupt the buildup, or just kill him before it snowballs.",
+    "At the start of any round he holds 2+ pips of one school, he free-casts a matching big hit (see the school list). Keep the fight short so he never banks a matching pair.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "With enough matching pips this can fire multiple times in one round, so never let him stockpile a school's pips."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

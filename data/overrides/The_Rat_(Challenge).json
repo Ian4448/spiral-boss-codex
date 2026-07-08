@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Round 1 he is under an Invulnerability aura - you cannot meaningfully damage him until it is gone, so spend the opening clearing minions.",
+    "The three Titan Experiments feed him Shadow Pips based on your casts: Traps (Death Titan 07), Blades/Shields (Storm Titan 291), and Globals (Life Titan 34). At 7 shadow pips he fires a large Titan AoE at the team. Minimize those cast types and kill the Titan that punishes your setup first.",
+    "Each minion death also triggers a 450 Shadow AoE on all wizards - heal and shield through the clear.",
+    "Once all minions are dead he swaps his aura for Frenzy, spiking his damage, so be set up to burst him fast after the board is clear.",
+    "Team: pick a hitter whose blades are minimal, clear Titans while managing pip-feeding, then unload before his Frenzy window hurts."
+  ],
+  "cheatNotes": [
+    "Round 1 he puts an Invulnerability aura on himself - damage barely lands until it is replaced. Clear minions first.",
+    "Every time a minion dies, the Titan hits all wizards for 450 Shadow. Shield the team as you clear.",
+    "When the Rat reaches 7 Shadow Pips he spends his turn on a large Titan AoE against the whole team. Do not let his pips reach 7.",
+    "Once all minions are defeated he replaces his aura with Frenzy, spiking his damage. Be ready to burst him.",
+    "",
+    "Casting a Trap makes Titan Experiment 07 give the Rat a Shadow Pip. Limit traps.",
+    "",
+    "Casting a Blade or Shield makes Titan Experiment 291 give the Rat a Shadow Pip. Limit blades and shields.",
+    "",
+    "Casting a Global makes Titan Experiment 34 give the Rat a Shadow Pip. Avoid globals."
+  ],
+  "groupFight": true
+}

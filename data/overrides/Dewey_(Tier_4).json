@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "This fight punishes stacking. Each blade escalates his response: 1st damage blade or global gives him Tower Shield, 2nd blade Plagues you, 3rd gives Legion Shield, 4th Virulent Plagues you, then it recycles.",
+    "Keep to one or two blades, or use enchants and auras that are not blades, then hit.",
+    "After you attack he shields the ally that got hit in the matching school, but Shadow damage does NOT trigger this. If you can hit with Shadow, his shield cheat never fires.",
+    "Avoid DoTs: a damage-over-time makes him Mass Triage it away.",
+    "Kill the Luminous Troglodyte minion first. Dewey respawns if you kill him before the minion.",
+    "He is stunnable and beguilable; a stun helps you land the killing round cleanly."
+  ],
+  "cheatNotes": [
+    "Using any DoT makes him Mass Triage it away. Skip damage-over-time; hit with direct damage.",
+    "Your first damage blade or damage global puts a Tower Shield on him. Expect to hit through it or strip it.",
+    "A second blade triggers Plague on you, cutting your damage. Do not over-stack charms.",
+    "A third blade gives him Legion Shield. Keep the blade count low.",
+    "A fourth blade brings Virulent Plague on you. Two blades then hit is the safe ceiling.",
+    "",
+    "After you attack he shields the ally that got hit in that school, but Shadow damage does NOT trigger it. Hitting with Shadow skips the shield entirely.",
+    "On an AoE he shields each ally one by one, so multi-hits rebuild his defenses fast unless you use Shadow.",
+    "Balance damage makes him Tower Shield the hit ally.",
+    "Shadow-school damage never triggers the shield cheat, the cleanest hit type here.",
+    "Multi-hit spells draw a matching shield per hit, compounding the problem.",
+    "Dewey respawns if killed before his minion. Drop the Luminous Troglodyte first, then finish Dewey."
+  ],
+  "groupFight": false
+}

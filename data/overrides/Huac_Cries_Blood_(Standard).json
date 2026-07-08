@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "This is a three-enemy rematch (Huac plus Skurkis and Yacate) with the boss at 56,330 health; run a full team with a dedicated hitter, supports, and a healer.",
+    "Never let a single wizard fall. Whoever's boss lands the kill on a downed wizard casts Meteor Strike for 100% of everyone's max health, a likely wipe.",
+    "Do not defeat two enemies on the same turn. If more than one dies together they all Blessing back to full, so stagger your kills one at a time.",
+    "The hitter attacks with Ice (all three take +30%); avoid Fire into Huac's resist. Supports funnel blades to the hitter and Feint the current target.",
+    "Harmful charms trigger guard cheats: a harmful charm on Yacate or all enemies makes him Stone Colossus your lowest-health wizard, and one on Huac or Skurkis makes Yacate Glacial Fortress that boss.",
+    "Focus one enemy just above lethal, then have the hitter finish it alone so the return-together heal never triggers, and keep the healer ahead of the constant chip."
+  ],
+  "cheatNotes": [
+    "If any wizard dies, the boss that killed them Meteor Strikes the whole team for 100% max health; keep everyone alive at all costs.",
+    "Kill two or more enemies on the same turn and they all full-heal; stagger your kills one enemy per turn.",
+    "",
+    "",
+    "Pet may-cast charms can set off the guard cheats too, so watch your pet around these bosses.",
+    "",
+    "Harmful accuracy charms do not set off the guard cheats.",
+    "A harmful charm on Yacate or on all enemies makes him Stone Colossus your lowest-health wizard; target charms carefully.",
+    "Dispel charms do not trigger the guard response.",
+    "A harmful charm on Huac or Skurkis makes Yacate shield that boss with Glacial Fortress; avoid single charms on them.",
+    "If the harmful charm is a Dispel, Huac also gains a protected Fireblade or Skurkis a protected Deathblade; do not Dispel these two."
+  ],
+  "groupFight": true
+}

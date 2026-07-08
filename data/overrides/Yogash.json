@@ -1,0 +1,29 @@
+{
+  "strategy": [
+    "Never hit him with a damage spell under 3 pips; a cheap attack heals him 5,000 with Satyr. Only attack with 3+ pip spells.",
+    "Any spell under 3 pips (blades, cheap globals, cheap Feints) makes him Tower Shield himself. Expect shields and bring pierce or Shatter, or keep setup minimal.",
+    "Avoid Healing and Manipulation spells; they trigger a Wraith on the caster. Steal spells and cheap globals also just shield him.",
+    "Auras and Shadow spells do not trigger the cheat, so they are safe ways to buff.",
+    "Hit with Myth (+35% incoming); avoid Storm (35% resist). Land one big enchanted 3+ pip hit through his Tower Shield to drop the 6585 health."
+  ],
+  "cheatNotes": [
+    "Any spell under 3 pips makes him Tower Shield himself, so cheap blades and Feints will shield him.",
+    "A damage spell under 3 pips is worse: he Satyrs himself for 5,000 health, then shields. Never poke him with cheap attacks.",
+    "X-pip spells only trigger this if they actually cost under 3 pips, so pump them to 3+.",
+    "A global under 3 pips makes him Tower Shield and drop a -5% Doom and Gloom, cutting your healing.",
+    "Casting a Heal or Manipulation spell triggers a Wraith on the caster. Avoid healing here.",
+    "Steal spells also make him Tower Shield himself (e.g. Ghoul).",
+    "Polymorph spells trigger an Orthrus on the caster.",
+    "Taco Toss and Stinky Salute make him Satyr himself and Wraith you.",
+    "",
+    "A steal spell may also trigger a -90% Tower Shield on himself (Ghoul excepted), unconfirmed.",
+    "Manipulation spells that steal hanging effects do not trigger the cheat.",
+    "",
+    "Cooldown does not trigger the cheat.",
+    "X-pip minion spells do not trigger it.",
+    "Globals costing 3+ pips are safe.",
+    "Auras, Shadow Self, Shadow Creature, and pet may-cast spells do not trigger it, safe ways to set up.",
+    "Charms and wards cast by your active Shadow Creatures do not trigger it either."
+  ],
+  "groupFight": false
+}

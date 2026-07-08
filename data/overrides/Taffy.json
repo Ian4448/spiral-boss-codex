@@ -1,0 +1,32 @@
+{
+  "strategy": [
+    "Enter on time. A late join buffs all three brothers with Aegis shields, heals, and Guiding Lights.",
+    "Attack with Fire; Taffy takes +10% and resists Ice 35%. He and his brothers are stunable and beguilable, so stuns can buy tempo.",
+    "Do not lean on traps. Taffy Cleanse-Wards a trap off whichever brother you trapped, so Indemnity a key trap if you must use one.",
+    "Do not rely on single blades. Ricky Steal-Charms the blade off whoever you bladed, so Aegis the blade, Steal Charm it back, or use Supercharge, which does not trigger it.",
+    "Do not use DoTs at all. Tiki removes any DoT in the duel, pet DoTs included. Stack Aegis-protected blades, then AoE all three together since they buff each other."
+  ],
+  "cheatNotes": [
+    "",
+    "Joining late puts an Aegis Tower Shield (-55%) on Ricky and Tiki and an Aegis Frozen Armor (185) on Taffy. Enter at the start.",
+    "Placing a Trap on any brother makes Taffy Cleanse-Ward one trap off that target.",
+    "Indemnity on a trap prevents that removal.",
+    "Spells that leave traps behind, like Fire from Above, also trigger this cheat.",
+    "Mass Feint (+75%) makes Taffy remove only the trap on the caster, not the traps on the bosses.",
+    "Spells like Windstorm do not trigger this cheat.",
+    "",
+    "Joining late makes Ricky triple-cast Healing Current on himself for 100, then 400, then 1,000 health.",
+    "Casting a Blade makes Ricky Steal-Charm it off the wizard who received it. Aegis, Steal Charm it back, or use Supercharge instead.",
+    "Quench can dispel this Steal Charm cheat.",
+    "Aegis on the blade prevents the steal.",
+    "On a tri-blade, only the last part is stolen (Fire on Elemental blades, Life on Spirit blades).",
+    "On a multi-target blade like Bladestorm, only the casting wizard is affected.",
+    "You can Steal Charm the blade back without penalty.",
+    "Supercharge does not trigger the Steal Charm cheat.",
+    "",
+    "Joining late makes Tiki cast Guiding Light on himself and Ricky and an Aegis Spirit Armor on Taffy.",
+    "Any DoT cast on anyone in the duel is removed by Tiki. Do not use damage-over-time.",
+    "Pet spells trigger Tiki's DoT removal too."
+  ],
+  "groupFight": false
+}

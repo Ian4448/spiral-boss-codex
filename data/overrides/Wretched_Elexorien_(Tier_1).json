@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Low-health Life boss; hit with Death (+30%) and avoid Life (60% resist).",
+    "He is stunable and beguilable; a stun buys you a free setup Round.",
+    "He applies a -30% Weakness to all his allies on Round 1 and every third Round (only while he is alive), which slightly weakens the enemy side, not you.",
+    "At 1,560 health a single Death blade and one hit end him; clear the Brume Goblin with AoE if needed."
+  ],
+  "cheatNotes": [
+    "Every third Round (from Round 1) a -30% Weakness lands on his own side while he is alive; it works against him, not you.",
+    ""
+  ],
+  "groupFight": false
+}

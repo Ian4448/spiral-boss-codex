@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "Basil resists 45% to every school except Life (+5%), so hit with Life or your highest-pierce hitter; he also carries 18% pierce and a 113% damage boost, so respect his return hits.",
+    "His cheat fires occasionally whenever either side casts a Global, Blade, or Trap (Prisms excluded), so minimize how many charm and trap casts you make. Multi-blades like Bladestorm and Prisms set up with fewer triggers.",
+    "Expect weaknesses (Plague, Mass Weakness) on your team and shields on himself, so pack Cleanse Charm and a way to break shields (Shatter or a wand hit) before your kill shot.",
+    "Protect your key blade or Feint with Aegis or Indemnity, then break any shield he stacked and land one big Life hit."
+  ],
+  "cheatNotes": [
+    "Occasionally, when either side casts a Global, Blade, or Trap (Prisms excluded), Basil casts one of the spells below. Keep your blade and trap casts few to limit the triggers.",
+    "Plague: a -25% damage weakness on your whole team. Cleanse it before you hit.",
+    "A weaker Plague, another team-wide damage weakness. Cleanse or eat it before the kill shot.",
+    "Mass Weakness: a next-attack weakness on all wizards. Cleanse Charm clears it.",
+    "A -50% Tower Shield on himself. Pop it before your real hit.",
+    "A -55% Tower Shield behind an Aegis, so it survives one removal. Strip the Aegis first, then break the shield.",
+    "Legion Shield covers his whole side. Shatter or wand it down before committing.",
+    "An Aegis-protected Frozen Armor absorbing 185 damage. Clear the Aegis, then break the absorb before your nuke."
+  ],
+  "groupFight": false
+}

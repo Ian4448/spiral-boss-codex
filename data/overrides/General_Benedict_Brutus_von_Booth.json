@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "He is immune to damage under a -200% Invulnerability aura from Round 1, so do not attack yet. Spend Rounds 1-3 stacking blades and Feint.",
+    "At the end of Round 3 he casts Furnace and becomes vulnerable, then the cheat cycle restarts, so burst him in the Round 4 window before he re-shields.",
+    "Hit with Ice (+10%, he resists everything else 40%); make it one big blade-stacked hit while he is exposed.",
+    "Expect Fire Dragon and Incindiate at the end of Round 4, so shield Fire and heal before your hit.",
+    "Supernova will not remove the aura, so do not bother; just wait out the invulnerable window."
+  ],
+  "cheatNotes": [
+    "",
+    "He is immune to damage under a -200% Invulnerability aura from Round 1, so spend the opening rounds setting up rather than hitting.",
+    "Supernova will not strip this aura, so do not waste a turn trying.",
+    "You can skip the aura entirely by not joining until pips appear at everyone's feet.",
+    "At the end of Round 3 he casts Furnace and becomes vulnerable; that is your damage window before the cycle restarts.",
+    "End of Round 4 he throws Fire Dragon and Incindiate, so shield Fire and heal going into it.",
+    "The cheat cycle restarts afterward and he re-shields, so land your kill in the Round 4 vulnerability window."
+  ],
+  "groupFight": false
+}

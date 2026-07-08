@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Plan for three full health bars: he revives once at 50% and again at 25%, and healing debuffs like Doom and Gloom will not shrink those revives.",
+    "Do not trap him. Any Trap you cast triggers a Fire Hammer of Thor that strips all blades and traps from him and hits you for 475, and Indemnity will not save the traps.",
+    "Build damage with blades and Feints on yourself instead, since Feint sits on you, not on him. He resists everything 40% except Ice, which he takes 10% more of, so Ice hits are best.",
+    "Hit hard enough to punch through each revive, and expect a Meteor Strike after the first death and a Rain of Fire after the second, so keep your Health up between kills."
+  ],
+  "cheatNotes": [
+    "The first time you defeat him he revives at 50% Health and casts Meteor Strike.",
+    "Doom and Gloom and other healing cuts will not reduce his revive healing.",
+    "The second time you defeat him he revives at 25% Health and casts Rain of Fire.",
+    "Cast a Trap and he answers with a Fire Hammer of Thor that wipes all blades and traps off himself and hits you for 475 Fire.",
+    "Indemnity will not protect your traps from that Hammer of Thor."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "Raid boss with 20,000 health, 150% damage boost, and 50% pierce. Bring a full team with a dedicated hitter and heavy healing.",
+    "He resists Ice and Death 100% (useless) and 70% Storm, Myth, and Balance. Hit with Fire or Life (only 40% resist), or use prisms.",
+    "Use the inspired casts you are handed (Brush Fire, Levin Bruin, Rotting Fomori, War Oracle) for extra damage without spending your own pips.",
+    "Avoid single blades: any blade triggers Wall of Blades on him. Blade only in the same round you hit, or lean on enchants and auras.",
+    "Do not trap him directly. A trap triggers Backfire. Rely on hit-round blades and the inspired casts.",
+    "He self-buffs Power Current every round and follows Scion of Fire/Ice with a Fire Elf or Snow Serpent. Burst him rather than out-grinding the buffs."
+  ],
+  "cheatNotes": [
+    "You get Brush Fire, Levin Bruin, Rotting Fomori, and War Oracle as free inspired casts. Use them for extra damage without spending pips.",
+    "He stacks Power Current on himself every round, so his hits ramp. Do not let this drag; burst him.",
+    "After a Scion of Fire he adds a Fire Elf. Expect the extra DoT and heal or shield through it.",
+    "After a Scion of Ice he adds a Snow Serpent. Same plan, be ready for the follow-up hit.",
+    "Any blade you cast triggers Wall of Blades on him. Blade only in the same round you attack, or use your enchants and the inspired casts.",
+    "Trapping him triggers Backfire. Skip traps and win through blades and inspired casts instead."
+  ],
+  "groupFight": true
+}

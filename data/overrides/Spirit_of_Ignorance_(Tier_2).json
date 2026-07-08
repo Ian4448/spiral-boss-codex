@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "Hit with Storm (+25%), avoid Myth (55% resist). He is low health (4,500) but layered in shields, so race him.",
+    "He opens with a -99% Tower Shield and re-shields when single-target hits break it. Attack with all-enemy AoE spells, which do not trigger the re-shield, or Melt to dispel.",
+    "If you Pierce or Steal his shield, next round he puts up an Aegis-protected -100% shield of your school, so use off-school AoE or Melt rather than piercing.",
+    "Do not blade (he Disarms the receiver) and do not single-trap him (he Cleanse-Wards one trap off), use multi-trap spells or Indemnity traps.",
+    "Every 5 rounds he plants a 100,000 Shadow bomb that detonates two rounds later, which is lethal, so burst him dead before Round 7 with AoE Storm damage."
+  ],
+  "cheatNotes": [
+    "He starts with a -99% Tower Shield, a single-target hit that breaks it just makes him re-shield.",
+    "Single-target damage that breaks the shield triggers a fresh shield, do not chip him single-target.",
+    "All-enemy AoE damage does NOT trigger the re-shield, this is how you hit him.",
+    "He will not re-shield if you remove the -99% shield while he already has another shield up.",
+    "Melt dispels the shield cheat outright.",
+    "Pierce or Steal Ward on him sets up the next cheat.",
+    "The round after you Pierce or Steal, he puts up an Aegis-protected -100% shield of your school, so avoid piercing and use off-school AoE.",
+    "Try to remove that school shield and he recasts it, leave it and hit off-school.",
+    "Cast a blade and he Disarms it off the receiver, skip blades.",
+    "Single-trap him and he Cleanse-Wards one trap off, use multi-trap spells or Indemnity.",
+    "Multi-trap spells (Elemental Trap) and Indemnity traps beat his single-trap removal.",
+    "Every 5 rounds he plants a 100,000 Shadow bomb that detonates two rounds later, kill him before it lands (before Round 7)."
+  ],
+  "groupFight": false
+}

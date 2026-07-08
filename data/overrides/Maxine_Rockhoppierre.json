@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Round 1 she puts an unremovable Invulnerability aura (-200% Brace) on herself that heavily cuts your damage. Do not waste turns trying to strip it; stack blades and pierce and wait for it to expire, then hit.",
+    "She resists 45% to every school, so pile on armor piercing rather than chasing a weakness.",
+    "Killing her Aberrant Pinguoin makes her summon Aberrant Maxine and cast Frenzy, so expect a fresh minion and a damage spike.",
+    "Set up a big pierced hit for when the aura drops; funnel blades to one hitter."
+  ],
+  "cheatNotes": [
+    "Round 1 she casts an Invulnerability -200% Brace aura that sharply reduces incoming damage. Set up and hit once it expires.",
+    "",
+    "Once all her minions are defeated she summons Aberrant Maxine. Killing the Pinguoin just brings a replacement.",
+    "She also Frenzies herself on that turn and recasts Frenzy every 4 rounds, spiking her damage - shield up."
+  ],
+  "groupFight": false
+}

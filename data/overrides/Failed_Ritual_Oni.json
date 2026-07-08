@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Balance boss (4730). It takes +30% from Balance damage and only resists 4% off-school, so a Balance hit is actually your best option.",
+    "Every round it self-shields -25% and lays a +15% trap on every wizard. Those traps help your damage, but the shield state is what keeps it alive.",
+    "Do not kill it while its shield and trap cheat is still running, or it revives at full health.",
+    "The counter: cast Locust Swarm (Tier 2b), or another Balance echo-trap spell, to make it strip its own wards, remove all wizard traps, and permanently stop the cheat. It gives you the card on round 4.",
+    "With the cheat disabled, stack up and land your Balance hit to finish it for good."
+  ],
+  "cheatNotes": [
+    "Each round it shields itself -25% and lays a +15% trap on every wizard. The traps actually help your damage, but the shield state is what keeps it alive.",
+    "Kill it while that shield and trap cheat is still active and it revives at full health. You must switch the cheat off first.",
+    "On round 4 (or after it respawns) it hands each wizard a card. This is the Balance echo-trap spell used to disable its revive.",
+    "Casting Locust Swarm (Tier 2b) makes it drop all wards, clear your traps, and permanently stop the shield and trap cheat. Do this before you try to kill it.",
+    "Any other Balance spell that Echoes traps has the same effect and disables the revive cheat. Then finish it off."
+  ],
+  "groupFight": false
+}

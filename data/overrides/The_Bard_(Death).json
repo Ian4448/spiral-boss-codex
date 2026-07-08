@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "He stacks damage-reduction on you with Plague every third Round and a 6-Round Virulence every sixth Round, so pack Cleanse Charm or plan your big hit for a Round when the weaknesses are lightest.",
+    "Cast your finisher the Round after a cleanse, or use pierce and heavy blades to punch through the stacked weaknesses.",
+    "He resists Death 73% and other schools 43% but takes 30% more from Life, so a Life hitter is ideal.",
+    "Watch for random Ship of Fools; keep your setup compact and hit before the weakness layers pile up."
+  ],
+  "cheatNotes": [
+    "He cheat-casts Ship of Fools on you at random.",
+    "",
+    "At the start of every third Round he cheat-casts Plague, cutting your damage.",
+    "At the start of every sixth Round he cheat-casts a 6-Round Virulence, stacking more damage reduction."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Attack with Ice; the Tracker takes +30% from it and resists Fire 59%, everything else 29%. He is not stunable.",
+    "Do not try to keep the Mysterious Werewolf dead. When defeated it revives at full health and leaves at end of turn, so focus the Tracker instead.",
+    "While the Werewolf lives, a 4-round cycle buffs the enemy team, so expect their hits to escalate.",
+    "Watch the three +35% damage wards the cycle stacks on all wizards in its second round; those make the enemies' next hits land much harder, so clear them or shield up.",
+    "Stack blades and finish the Tracker with one big Ice hit before the buff cycle turns their damage on you."
+  ],
+  "cheatNotes": [
+    "When the Mysterious Werewolf is defeated it revives at full health and then leaves at end of turn. You cannot keep it dead, so focus the Tracker.",
+    "",
+    "The Werewolf's buff cycle repeats every 4 rounds as long as it is alive.",
+    "Cycle round 1: a Bladestorm puts two +30% damage charms on the whole enemy team.",
+    "Cycle round 2: a Death spell stacks three +35% damage wards on all wizards, so the enemies' next hits land much harder. Clear them or shield up."
+  ],
+  "groupFight": false
+}

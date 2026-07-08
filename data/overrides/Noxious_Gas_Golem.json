@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "Hit with Ice (+40%); the Golem resists Fire 70%.",
+    "Kill the Chief Whip early — it Spirit Armors whatever you attack (eating your hits), Rebirths fallen enemies, and Entangles you when you heal.",
+    "Gas Elementals keep recycling until the Golem itself is dead, so don't chase adds — focus the Golem and Chief Whip.",
+    "Expect a -45% Smoke Screen every 4th round; use accuracy enchants or heal off the fizzles.",
+    "Blade up and AoE Ice to hit the Golem, Chief Whip, and Elementals together."
+  ],
+  "cheatNotes": [
+    "Round 2 two Gas Elementals join and go active round 3.",
+    "When an Elemental hits 50% health he Take-Powers them and cycles in fresh Elementals endlessly until the Golem is dead — kill the Golem, don't chase adds.",
+    "",
+    "",
+    "Every 4th round the Golem casts a -45% Smoke Screen — bring accuracy.",
+    "",
+    "When you cast a damage spell the Chief Whip may Spirit Armor your target, absorbing the hit — kill the Whip to stop this.",
+    "On a multi-target hit the Spirit Armor lands on the first spot.",
+    "The Chief Whip can Rebirth to revive fallen enemies.",
+    "Heal and the Chief Whip Entangles you — another reason to drop it first.",
+    "Pet-cast heals trigger the Entangle too."
+  ],
+  "groupFight": false
+}

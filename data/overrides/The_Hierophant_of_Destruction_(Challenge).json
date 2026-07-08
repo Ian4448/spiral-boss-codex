@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Team fight (20,220 health). Hit with Fire (she resists Ice and takes boosted Fire); use a Fire prism if you are an Ice wizard.",
+    "She forces random wizards to cast hanging effects (a weakness, a Spirit Blade, a Bomb DoT, or a HoT), then two rounds later hits them for 10% max health per forced effect still on them.",
+    "Clear the forced hanging effects before that willful-student hit lands: cleanse the weakness or blade, or triage the DoT or HoT.",
+    "Expect random interrupt Chain Lightnings, so keep resist up all fight.",
+    "Blade a single Fire hitter and burst between the forced-cast cycles."
+  ],
+  "cheatNotes": [
+    "Flavor line she says at the start and after casting an empty blade, trap, aura, or global.",
+    "She randomly interrupts with a free Chain Lightning, so keep resist up.",
+    "",
+    "The forced-cast cycle starts at the end of round 1 and repeats after it finishes.",
+    "She interrupts and forces a random wizard to cast one of the four hanging effects listed below.",
+    "",
+    "",
+    "",
+    "",
+    "Two rounds after forcing you, she hits for 10% max health per forced hanging effect still on you (an Ice hit for blades or weaknesses, a Storm hit for DoTs or HoTs). Clear those effects first."
+  ],
+  "groupFight": true
+}

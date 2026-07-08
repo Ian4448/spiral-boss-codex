@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "You cannot out-damage him. His Round 1 Equalize caps all damage at 1, so the win condition is to hit him with five Shadow (or Shadow-creature) spells.",
+    "Pack Shadow attack spells. Each Shadow hit makes him Donate Shadow to himself, gaining a shadow pip. Note Dark Shepherd does NOT count.",
+    "Land five qualifying Shadow hits, after his fifth shadow pip he automatically surrenders the duel.",
+    "Do not bother replacing his Equalize global, he just re-casts it.",
+    "Since damage is capped at 1, ignore blades and burst, just chain your five Shadow spells as fast as your pips allow."
+  ],
+  "cheatNotes": [
+    "His Round 1 Equalize caps all damage at 1, so you cannot kill him normally, and he re-casts it if you replace the global.",
+    "Every Shadow or Shadow-creature spell you hit him with gives him a shadow pip. Dark Shepherd does not count.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "At his fifth shadow pip he surrenders the duel, that is the win. Just land five Shadow hits."
+  ],
+  "groupFight": false
+}

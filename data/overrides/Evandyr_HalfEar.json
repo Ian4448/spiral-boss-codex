@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "This is an 18,060-health boss with three summoned boxers, so run it as a team: a hitter, supports who blade and Feint, and a healer. He resists Myth 80%, so hit with Storm or Death (+35%) and never Myth.",
+    "He summons a minion every two rounds: Ali LeftJab at the end of round 2, Rocky RightHook at the end of round 4, Tyson UpperCut at the end of round 6.",
+    "Do not waste turns killing the boxers one by one. Any minion you defeat is resummoned in the same order, so funnel damage into Evandyr instead.",
+    "Set up rounds 1 through 3, then burst Evandyr down before round 6 when all three boxers are out, using an AoE to clear whichever minions are up on the kill turn.",
+    "Expect Humongofrog AoEs from him, so keep the team topped up while you build blades."
+  ],
+  "cheatNotes": [
+    "At the end of round 2 he summons Ali LeftJab, active the next round.",
+    "At the end of round 4 he summons Rocky RightHook, active the next round.",
+    "At the end of round 6 he summons Tyson UpperCut, active the next round.",
+    "Any boxer you defeat is resummoned, in the same order if several fall. Ignore the minions and focus the boss."
+  ],
+  "groupFight": true
+}

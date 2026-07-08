@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Hit with Ice or Life (+35%); never attack into Death (80% resist).",
+    "He Steal Charms any blade and Steal Wards any shield you put on yourself or an ally — so minimize single buffs. Cast Elemental or Spirit Blade and he only steals the first part (Fire, or Life), leaving the rest.",
+    "Trap him directly — Feint and traps placed ON him aren't stolen (only charms and wards on you or allies are).",
+    "Protect a key blade with Aegis, or set up and hit the same round so there's nothing to steal.",
+    "Multi-blade, Feint him, then land one big Ice/Life hit."
+  ],
+  "cheatNotes": [
+    "He opens by interrupt-casting Gnomes! on a random wizard — expect the round-1 hit.",
+    "Any charm (blade) or ward (shield) you cast on yourself or an ally gets stolen for free — trap him directly or use Aegis instead.",
+    "Global damage spells also trigger the steal.",
+    "Volcanic Golem doesn't trigger it.",
+    "Team buffs like Guidance or Legion Shield only get stolen from the caster; Rebirth triggers it via its absorbs.",
+    "Cast Elemental Blade or Spirit Blade and he only steals the first part (Fire or Life), so you keep the rest."
+  ],
+  "groupFight": false
+}

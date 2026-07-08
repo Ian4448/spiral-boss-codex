@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Team fight (~45,000 health, Wallaru finale): hitter, supports, and a healer/utility to manage Krok Ankhs.",
+    "Hit with Myth, Life, or Death (+30% each); never Balance (67% resist).",
+    "He drops a random Krok Ankh on Round 1, every 3rd Round, and on late joins, some on himself (Charm or Ward), some on a random Wizard (Curse, Jinx, or DoT). These only come off with spells that specifically remove that effect (Cleanse Charm, Steal or remove Ward, Triage), not by damage.",
+    "Before the kill shot, strip every Krok Ankh. If he dies with any Ankh up, he heals to 100%, and the heal is percentage-based, so Infection cannot stop it.",
+    "Time your burst just after a clearing round and before the next 3rd-Round Ankh, with all blades and Feints funneled to the hitter."
+  ],
+  "cheatNotes": [
+    "On Round 1, every 3rd Round, and on late joins he casts a random Krok Ankh hanging effect.",
+    "Krok Ankhs on himself are a Charm or a Ward.",
+    "Krok Ankhs on a random Wizard are a Curse, Jinx, or Damage-over-Time.",
+    "Ankhs only come off with the matching removal spell (Cleanse Charm, Ward removal, Triage). Damage will not clear them.",
+    "If he dies while any Krok Ankh is still up, he restores to 100% health. Clear all Ankhs before the kill.",
+    "The revive heal is percentage-based, so Infection cannot weaken it."
+  ],
+  "groupFight": true
+}

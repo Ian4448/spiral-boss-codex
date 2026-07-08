@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "Enter the duel together and on time. Anyone who joins late eats a Lord of Winter from every boss present.",
+    "Build your deck around blades, not DoTs or heal-over-times. His cheats punish Feints, HoTs, and DoTs specifically; plain blades are safe.",
+    "If you want a Feint, protect it with Indemnity. An unprotected Feint triggers a double Cleanse Ward and gets wiped; the record confirms Indemnity keeps it on. Mass Feint triggers the cheat too, so it also needs protection.",
+    "Skip Rejuvenate-style heal-over-times. Each one triggers Snow Drift on you. Use flat heals like Satyr instead.",
+    "Skip damage-over-time attacks. Each one triggers Mass Triage, which just removes your DoT. Pick single-burst hits.",
+    "He is not stunable, so do not waste rounds on stuns. Stack blades, land one Indemnity-protected Feint, and end it with a single big hit."
+  ],
+  "cheatNotes": [
+    "Join the fight from round 1. Every boss in the circle hits latecomers with Lord of Winter, so a late friend can get hit multiple times at once.",
+    "If you cast a normal Feint, he immediately casts Cleanse Ward twice and your Feint is gone. Unprotected traps are wasted pips here.",
+    "Put Indemnity on your Feint and it survives the double Cleanse Ward. This is the only safe way to trap him.",
+    "Mass Feint counts too. Casting it triggers the same double Cleanse Ward, so protect it or skip it.",
+    "Any heal-over-time (Rejuvenate-type spell) makes him cast Snow Drift on you. Stick to instant heals.",
+    "Any damage-over-time spell makes him cast Mass Triage, which strips the DoT off him. Use single-hit attacks instead."
+  ],
+  "groupFight": false
+}

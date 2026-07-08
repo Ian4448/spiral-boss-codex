@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "This is a multi-boss challenge (19,200 health, healing over time on all bosses), so run it as a team: one hitter, supports who blade and Feint, and a healer to manage the round-1 damage-over-time.",
+    "Attack with Fire or Death (he takes +35% from both); never hit into his 80% Life resist without a prism.",
+    "Round 1 he lands a Fire DoT (30 then 780 over 3 rounds) on the whole team and heals all bosses 525 over 3 rounds, so pack Triage and open with setup, not a rushed hit.",
+    "Do not pick bosses off one at a time: at very low health or a single kill he revives all downed bosses and blasts the killer with Eternal Leviathan (777).",
+    "Stack blades and Feints across rounds, then burst every boss dead in the SAME round with a shared AoE so the revive cheat never fires."
+  ],
+  "cheatNotes": [
+    "Round 1 he hits the whole team with a Fire DoT (30 then 780 over 3 rounds) and heals all bosses 525 over 3 rounds. Bring Triage and expect chip damage before you can set up.",
+    "Any AoE heal hands the caster a Guiding Light (+40% to their next heal) — this is harmless, even helpful, so don't avoid group heals out of fear.",
+    "Pet may-cast heals also grant that Guiding Light, so the same harmless buff applies.",
+    "If any boss is defeated or dropped to very low health, Apollo revives all downed bosses and hits the killer with Eternal Leviathan (777). Kill every boss in one shared round instead of one at a time."
+  ],
+  "groupFight": true
+}

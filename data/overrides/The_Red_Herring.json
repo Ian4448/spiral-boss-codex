@@ -1,0 +1,26 @@
+{
+  "strategy": [
+    "Solve the puzzle before you attack. He opens with a Quasi-Invulnerability Aura making him immune to six of the seven schools; only one random school can hurt him.",
+    "Listen to his first six shouts. Each names a school he is immune to, so the single school he never names is the one you can damage.",
+    "Bring prisms so your hitter can convert to whichever school turns out to be the weak one, and set up blades while you wait out the shouts.",
+    "Never hit with an immune school. It triggers a Shadow-enhanced AoE on the whole team based on that school.",
+    "Never Dispel him or remove his aura. It resets the puzzle, gives him a fresh aura, and fires a Glowbug Squall for 50% of everyone's max Health.",
+    "At 24,140 Health, run this Raid as a team with a flexible prism hitter. Note the four inspired-cast spells from the surrounding bosses carry into this fight, and enter on time to avoid the late-join Storm Shark."
+  ],
+  "cheatNotes": [
+    "The inspired-cast spells you earned from the four bosses around Mr. Ghastly carry into this fight, so bring them.",
+    "Round 1 he casts a Quasi-Invulnerability Aura making him immune to six of the seven schools; the one vulnerable school is random each time.",
+    "Over his first six turns he names schools he is immune to, so the single school he never names is the one that can damage him; listen before you commit a hit.",
+    "'I am steaming mad right now' means he is immune to Fire this fight.",
+    "'Play it cool' means he is immune to Ice.",
+    "'Even the fish of the seas fear the tempest' means he is immune to Storm.",
+    "'I sure hope you do not CONJURE the solution' means he is immune to Myth.",
+    "'What is the secret of Life' means he is immune to Life.",
+    "'I have a sudden fear of my own mortality' means he is immune to Death.",
+    "'I hate sand. Too dry' means he is immune to Balance.",
+    "Hit him with a school he is immune to and he retaliates with a Shadow-enhanced AoE on the whole team based on that school, so only swing once you know the weak school.",
+    "Dispelling him or removing his aura resets the puzzle, gives him a new aura, and fires a Glowbug Squall for 50% of everyone's max Health, so never Dispel him.",
+    "A wizard who joins after the first turn eats a Storm Shark for 25% of their max Health, so enter on time."
+  ],
+  "groupFight": true
+}

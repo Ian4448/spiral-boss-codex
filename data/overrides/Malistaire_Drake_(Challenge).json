@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "Team fight (24k): run 3 supports and 1 hitter. Enter on time - late wizards eat a Fire Dragon.",
+    "Kill Sylvia Drake first. While she is alive Malistaire Virulent Plagues (-100%) your whole team every round, so a support must Cleanse Charm the hitter each round to keep the damage up.",
+    "While waiting on Sylvia, trap-stack Malistaire: supports layer Feint, Potent Feint, and school traps onto him each round rather than blading (charms just get stolen by Jinn's Larceny). The hitter builds pips, then casts Frenzy to buff.",
+    "Do not over-blade. Any charm you cast triggers Jinn's Larceny to steal it, so lean on traps for the setup instead.",
+    "Once Sylvia is dead all harmful charms clear off your team, but Malistaire then self-strips 25% health and AoE Mana Burns you (removing a shadow pip), so rebuild pips before the finish.",
+    "His incoming healing is cut 45%. With the trap stack up, the hitter single-targets Malistaire (resists all only 20%); aim for high pierce - the guide hit ~30k on a Storm wizard with 174% damage and 45% pierce, ending the fight in 2-4 turns."
+  ],
+  "cheatNotes": [
+    "",
+    "Late wizards eat a Fire Dragon — join on time.",
+    "While Sylvia is alive he Virulent Plagues (-100%) the whole team every round — kill her to stop it.",
+    "Cast a charm and he steals it with Jinn's Larceny.",
+    "Once he's alone he removes 25% of his own health and AoE Mana Burns you, stripping a shadow pip.",
+    "When Sylvia dies, all harmful charms are cleared off your team.",
+    "",
+    "Sylvia eventually Dark Pacts herself to death to blade him, but it's bugged and does nothing.",
+    ""
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

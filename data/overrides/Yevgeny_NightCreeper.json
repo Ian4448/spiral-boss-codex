@@ -1,0 +1,32 @@
+{
+  "strategy": [
+    "Team fight (22k, Darkmoor Graveyard). Hit with Life (+30%) or Fire/Storm (+15%); avoid Ice (60%) and Myth/Death (30%).",
+    "Setup is punished three ways: any blade Freezes (stuns) the caster, any shield/absorb gets Pierced, and any single harmful charm gets Bad Juju'd. Bring Conviction to shrug off the Freeze/stun.",
+    "Use multi-target curses — Mass Feint and Plague don't trigger the Bad Juju, unlike single Weakness/Feint.",
+    "Wards are pointless here (they get Pierced) and he has 55% pierce himself, so lean on resist and heals over shields.",
+    "Every 5th round he unloads a big combo (Katabatic Wind / Saga + Mystic Colossus / Doom and Gloom + Call of Khrulhu) at the lowest-health wizard — top that wizard first.",
+    "Layer multi-target traps, blade the hitter through a Conviction window, and burst; watch the round 3/6/9 Shift hits (800 Life, 1,000 Fire, 1,200 Moon)."
+  ],
+  "cheatNotes": [
+    "Cast a blade and he Freezes (stuns) the caster — use Conviction to ignore it.",
+    "Global spells trigger the Freeze too.",
+    "Conviction can counter the Freeze/stun.",
+    "Cast a helpful ward (shield/absorb) and he Pierces the target — don't rely on shields.",
+    "Spells that give the caster a ward (like Sabertooth) make him Pierce himself.",
+    "His minions also Steal Ward any remaining wards off you.",
+    "Cast a single harmful charm and he Bad Jujus you.",
+    "Secondary curse effects (like Efreet's) trigger the Bad Juju too.",
+    "Multi-target curses like Plague do NOT trigger it — use those.",
+    "",
+    "Each round in this sub-cycle he Frozen Armors himself or a minion.",
+    "Round 5 of it (and every 15th) he casts Katabatic Wind, Mass Ice Trap, Iceblade, and Abominable Weaver at the lowest-health wizard — top that wizard first.",
+    "Each round in another sub-cycle he Buff Minions himself or a minion.",
+    "Round 5 of it he casts Saga of Heroes, Mass Myth Trap, Mythblade, and Mystic Colossus.",
+    "Each round in another sub-cycle he Feints (+75%) a random wizard.",
+    "Round 5 of it he casts Doom and Gloom (-75%), Deathblade, Mass Death Trap, and Call of Khrulhu.",
+    "End of round 3 he casts Shift Chaney for 800 Life.",
+    "End of round 6 he casts Shift Akhtang for 1,000 Fire.",
+    "End of round 9 he casts Shift Blackwater for 1,200 Moon."
+  ],
+  "groupFight": true
+}

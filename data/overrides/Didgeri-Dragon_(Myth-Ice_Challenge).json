@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Treat this as a shield race. Didgeri stacks Tower Shields on a 3-round cycle: -25% on Round 1, -50% on Round 2, -90% on Round 3, then repeats. Time your hit around them.",
+    "Hit on the round the shield is weakest for you, or carry shatter and shield-break (Shatter, Enfeeble, pierce enchants) to strip the stacked Towers before your finisher.",
+    "This is a team fight: 48,935 Health and 184% boost. Funnel every blade to one hitter, have supports Feint and blade, and let the hitter swing last.",
+    "Watch the schools: it takes 28% Fire/Life but resists Storm and Death at 68% and most other schools at 48%. A Fire or Life hitter with pierce fits best.",
+    "Line the burst up with the -25% shield round when possible, and stack enough pierce or shatter that even a -90% Tower does not save it.",
+    "It has 47% pierce and hits hard, so keep the healer topping the hitter and blade only right before the swing to avoid wasted setup."
+  ],
+  "cheatNotes": [
+    "",
+    "On Round 1 and every third round after, it self-casts a -25% Tower Shield, the lightest shield in the cycle.",
+    "On Round 2 and every third round after, a -50% Tower Shield goes up, so a mid-cycle hit eats more absorb.",
+    "On Round 3 and every third round after, a -90% Tower Shield lands; hitting into this round without shatter or pierce wastes most of your damage."
+  ],
+  "groupFight": true
+}

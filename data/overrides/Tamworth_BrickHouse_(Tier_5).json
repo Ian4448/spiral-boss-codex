@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Attack with Myth, Life, or Death; Tamworth resists Balance 80% and takes +30% from those three. He is not stunable.",
+    "Do not kill the minions one at a time. Killing Lacombe (straw) escalates to Sandstorm every round, and then killing Berkshire (stick) escalates to Big Bad Hound every round.",
+    "Stack blades and clear all three houses together with one big AoE rather than picking them off in order.",
+    "Do not beguile the pigs. Their side-check reads a beguiled ally as gone and triggers the cheats early, sometimes double-cheating in one round.",
+    "Set up over a few rounds, then finish Lacombe, Berkshire, and Tamworth on the same turn with a single Myth, Life, or Death AoE."
+  ],
+  "cheatNotes": [
+    "Once Lacombe (straw) is dead, Berkshire (stick) interrupt-casts Sandstorm every round. Do not kill the straw house early on its own.",
+    "Once Berkshire (stick) is dead, Tamworth (brick) interrupt-casts Big Bad Hound every round. Killing the minions in order just escalates the punishment; clear all three together with an AoE.",
+    "If Berkshire is beguiled and his turn comes before Tamworth, both the Sandstorm and Big Bad Hound cheats fire in one round.",
+    "If Lacombe is beguiled, only the Sandstorm cheat triggers.",
+    "Their cheats use a simple check for whether an ally is still present, so beguiling a pig reads as it being gone and triggers the cheat. Avoid beguiling them."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "Every damage-increasing blade, trap, aura, global, or shadow polymorph you cast makes him cheat-cast a defensive spell from a 5-spell cycle. Buff as little as possible.",
+    "Use Shadow Shepherd to boost - it is the one buff that does not trigger the cheat.",
+    "He resists 48% to Fire and Myth and far more to everything else, so hit with Fire or Myth and stack armor piercing.",
+    "The defensive counters cycle in order (Spirit Armor 650, Mass Tower Shield, Brace -40%, -25% pip global, Shadow Sentinel) and repeat after 5 buffs. Track where you are and trigger the cheaper ones if you must.",
+    "He also interrupts every 2 rounds to shield himself (735 absorb at full health) or Minor Blessing when hurt, which can revive an ally lost that same turn. Burst through it in one hit rather than chipping.",
+    "As a team, let supports feed one hitter with minimal buffs (ideally Shadow Shepherd), then land a single pierced Fire or Myth hit."
+  ],
+  "cheatNotes": [
+    "Casting any damage-increasing blade, trap, aura, global, or shadow polymorph makes him cheat-cast a defensive spell from a 5-spell cycle. Minimize your buffs.",
+    "Shadow Shepherd is exempt - it boosts your damage without triggering the counter. Prefer it.",
+    "First counter in the cycle: an all-allies Spirit Armor absorbing 650 damage.",
+    "Second counter: Mass Tower Shield on his side.",
+    "Third counter: an all-allies Brace giving -40% incoming damage for 4 rounds.",
+    "Fourth counter: a global that drops power pip chance by 25%, slowing your pip gain.",
+    "Fifth counter: Shadow Sentinel. After this the cycle repeats from Spirit Armor.",
+    "",
+    "Separate from the buff cycle, at full health he interrupts (every 2 rounds) with a 735 Spirit Armor absorb. Push past it in one hit.",
+    "When he is below full health he casts Minor Blessing instead, which can revive an ally defeated that same turn. Kill minions and boss together."
+  ],
+  "groupFight": true
+}

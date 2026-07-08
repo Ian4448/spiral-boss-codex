@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Attack with Fire; it is a boost school and it is the key to shutting off his revive.",
+    "He keeps a Trap cheat active, jinxing himself each round with Myth Trap, Hex, Mythic Fuel and the like. If you kill him while that cheat is on, he revives at full health.",
+    "To disable it, cast a Fire damage spell that removes harmful wards from him. That clears the jinxes off your team and turns off the Trap cheat. Do this before your kill shot.",
+    "After the trap cheat is off, finish him. Otherwise he revives, buffs whoever killed him with Mythic Fuel, and hands out Immolate cards.",
+    "Stack blades, disable the cheat with a ward-clearing Fire hit, then land the finisher."
+  ],
+  "cheatNotes": [
+    "Each round he jinxes himself with one of the listed spells as part of his Trap cheat; this is the cheat that must be turned off before he can die for good.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "A Fire damage spell that strips harmful wards off him clears the jinxes from your team and deactivates the Trap cheat. That is your setup step before killing him.",
+    "Kill him while the Trap cheat is still active and he revives at full health; disable it first.",
+    "When he revives he puts Mythic Fuel (+25%) on whoever killed him and hands wizards an Immolate card.",
+    ""
+  ],
+  "groupFight": false
+}

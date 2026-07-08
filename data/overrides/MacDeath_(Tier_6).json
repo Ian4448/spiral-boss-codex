@@ -1,0 +1,27 @@
+{
+  "strategy": [
+    "He sits under a -100% Fortify aura, and every damage spell you land (wands included) knocks that aura down 10% toward -10% — so chip him with cheap hits and wands first, then unload your big hit once the aura is nearly gone.",
+    "Don't Feint him (a minion just takes the trap) and don't DoT him (he Shifts the tick back to you); Ghoul-type health-steal hits don't erode the aura, so use plain direct damage to lower it.",
+    "Cast Globals and Heals sparingly — either triggers Doom & Gloom -75%. If you must heal, Strangle him first, then cast a Global to heal safely.",
+    "Attack with any non-Death school (he resists Death 80%); he is stunable, so stun to skip a turn.",
+    "Enter on time — late wizards eat a +75% Feint, +25% Curse, and +35% Hex."
+  ],
+  "cheatNotes": [
+    "Late wizards eat a +75% Feint, +25% Curse, and +35% Hex — enter on time or your first hit takes big bonus damage.",
+    "",
+    "",
+    "",
+    "",
+    "Feint on MacDeath (including Mass Feint) gets moved onto a minion — don't rely on Feint; kill the understudies or trap around them.",
+    "He carries a -100% Fortify aura, so your hits land reduced until you erode it (see next cheat).",
+    "Each damage spell you land drops his incoming-damage aura by 10%, down to -10% — chip him with cheap hits and wands first, then unload once the aura is nearly gone.",
+    "Weapon (wand) casts also erode the aura, so wand him each setup round to grind it down.",
+    "Health-steal hits like Ghoul do NOT erode the aura, so use plain damage for that job.",
+    "Any DoT tick on him gets Shifted back onto you — skip damage-over-time here.",
+    "Casting a Global or a Heal triggers Doom & Gloom -75%, gutting your healing — cast heals sparingly.",
+    "",
+    "If you Strangle him and then cast a Global, you can heal without the -75% Doom & Gloom — the workaround for emergency heals.",
+    "He'll Beguile a wizard, turning them against the team for a turn — keep that in mind in group play."
+  ],
+  "groupFight": false
+}

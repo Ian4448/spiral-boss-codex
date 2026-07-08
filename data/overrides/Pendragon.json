@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Round 1 he Entangles the whole team (a skipped turn) and lands a Fire Dragon DoT (100/round) — clear the DoT with Triage or Shift (Quench works if you have the first cast) and plan your setup around losing round 1.",
+    "Avoid Rank 6+ single-target attacks — they make him interrupt with Ominous Scarecrow (550) on you. Use an AoE finisher or stack blades onto a lower-rank hit.",
+    "Exploit his self-damage: attacking him makes him hit himself for ~500, and Sword of Kings wand hits always trigger it — wand him for free chip damage.",
+    "Attack with Ice or Life (he takes +35% from both); never hit into his 80% Death resist without a prism.",
+    "Stack blades and traps, then finish with an AoE or mid-rank hit to skip the Scarecrow counter."
+  ],
+  "cheatNotes": [
+    "He opens by Entangling the whole team (a skipped turn) — plan your setup around losing round 1.",
+    "Round 1 he casts Fire Dragon for a long 100/round DoT (200 rounds, can crit) — clear it fast so it doesn't grind you down.",
+    "Triage or Shift safely removes that Fire Dragon DoT — bring one.",
+    "You can also Shift then Detonate the DoT back onto him as a counter-attack.",
+    "Quench dispels the Fire Dragon if you have the initial cast — an alternative to Triage.",
+    "",
+    "Attacking him makes him hit himself for ~500 — free chip damage every time you swing.",
+    "Sword of Kings wand hits get reflected onto him as self-damage — wand him for extra free damage.",
+    "",
+    "A Rank 6+ single-target spell makes him interrupt with Ominous Scarecrow (550) — use an AoE or lower-rank hit, or accept the 550."
+  ],
+  "groupFight": false
+}

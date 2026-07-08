@@ -1,0 +1,27 @@
+{
+  "strategy": [
+    "Expect her minions to mirror her. Whenever she buffs herself, her minions cheat-cast the same type (Global to Stormblade, aura, trap, or blade), so kill or blade past the shared buffs on one big hit.",
+    "Bring Fire. She is Ice and takes 30% boosted Fire while resisting Ice 75%, Storm 63%, and most schools 45%, so a Fire hitter or Fire prisms is the clear pick.",
+    "Play around the forced-cast cycle. She forces a random wizard to cast a hanging effect (Elemental Weakness, deferred Fire DoTs, Life HoTs, or Spirit Blade), then two rounds later removes those effects and deals 10% of that wizard's max Health per effect cleared.",
+    "Do not pile extra hanging effects on the forced wizard. The punishment scales per hanging effect cleared, so minimize what stacks on them before the removal round.",
+    "Watch her random Chain Lightning interrupts and the minion buff mirror when timing your setup; shield the forced wizard ahead of the removal round.",
+    "This is a team fight: 20,220 Health. Funnel blades to one Fire hitter, have supports Feint her, keep a healer on the forced-cast target, and burst her down in one window."
+  ],
+  "cheatNotes": [
+    "Whenever she casts a buff, her minions cheat-cast a matching buff of the same type, so her side stacks buffs quickly.",
+    "A Global she casts is mirrored by the minions as Stormblade.",
+    "An aura she casts is mirrored as Magnify, Sleet Storm, or Empowerment.",
+    "A trap she casts is mirrored as Ice Trap or Storm Trap.",
+    "A blade she casts is mirrored as Balanceblade, Iceblade (+45%), or Stormblade.",
+    "She randomly interrupts to cheat-cast Chain Lightning, so expect surprise Storm damage.",
+    "",
+    "",
+    "She forces a random wizard to cast one of four hanging effects, setting up the delayed punishment below.",
+    "The forced effect may be a -15% Elemental Weakness.",
+    "The forced effect may be three Fire DoTs that each deal 50 after 5 rounds.",
+    "The forced effect may be three Life HoTs that each restore 50 over 5 rounds.",
+    "The forced effect may be a +15% Spirit Blade.",
+    "Two rounds after forcing the cast, she removes those hanging effects and deals 10% of the forced wizard's max Health per effect cleared, so keep extra effects off that wizard and shield them."
+  ],
+  "groupFight": true
+}

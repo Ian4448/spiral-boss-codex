@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Arrive on Round 1. A wizard who joins late makes him Blessing back to 100% health.",
+    "He restores 1,500 health per round with Heartbeat until he is full, so a slow grind never works; build toward one burst window.",
+    "Do not try to kill him from full in a single shot. Defeating him before the trim cheat has triggered gives a full heal, so first chip him below 50% health to trigger Choke.",
+    "Once the trim cheat has fired, stack your blades and traps and finish him before Heartbeat tops him back up.",
+    "Clear or ignore the Hairball minions as needed while you set up."
+  ],
+  "cheatNotes": [
+    "Arrive on Round 1; a wizard who joins late makes him Blessing back to full health.",
+    "Once he has taken over half his max health in damage he casts Choke. This is the 'trim' cheat you must trigger before you can safely kill him.",
+    "Heartbeat restores 1,500 health per round until he is full, so grinding him down never works; burst him in one window.",
+    "",
+    "If you defeat him before the trim/Choke cheat has fired he Blessings back to full, so always chip him past 50% first, then kill."
+  ],
+  "groupFight": false
+}

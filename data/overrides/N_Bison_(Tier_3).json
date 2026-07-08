@@ -1,0 +1,28 @@
+{
+  "strategy": [
+    "Four enemies with interlocking cheats (Bison plus Felicity, McCoil, and Rooster). Hit Storm - Bison resists 80% Myth and takes boosted Storm damage.",
+    "Do not attack Bison directly if you can help it: he retaliates for 20% of your max health each time. Route damage through the minions or use his own expel chain.",
+    "Use the expel chain as your kill order. Dropping Kenny Rooster below ~20% makes Felicity expel him; dropping Felicity below ~20% makes McCoil expel her; dropping McCoil below ~20% makes Rooster expel him. You can thin the field without fully killing everyone.",
+    "Avoid the punished tools while the minions live: blades on other wizards get Disarmed by Felicity, traps get Cleanse-Warded off, and any aura makes Kenny natural-attack for 300 Fire and destroy it.",
+    "Expect confusions from Bison on round 1 and periodically. Pack stun/confusion tolerance, whittle the minions to trigger their expels, then finish Bison with one Storm hit rather than trading natural attacks."
+  ],
+  "cheatNotes": [
+    "",
+    "A wizard who joins after round 1 gets confused by Bison for two rounds.",
+    "On round 1 and periodically after, Bison confuses every wizard for two rounds.",
+    "If Bison is attacked, he retaliates with his natural attack for 20% of the attacker's max health.",
+    "",
+    "Blading another wizard makes Felicity Disarm the recipient, stripping the blade.",
+    "Casting any trap makes Felicity Cleanse Ward it off the target.",
+    "When Kenny Rooster drops below ~20% health, Felicity expels him from the duel.",
+    "",
+    "McCoil interrupt-casts a Death spell handing every wizard a Free Sample or Snake Oil card.",
+    "",
+    "",
+    "When Felicity drops below ~20% health, McCoil expels her from the duel.",
+    "",
+    "Casting any aura makes Kenny natural-attack for 300 Fire and destroy the aura.",
+    "When McCoil drops below ~20% health, Kenny expels him from the duel."
+  ],
+  "groupFight": false
+}

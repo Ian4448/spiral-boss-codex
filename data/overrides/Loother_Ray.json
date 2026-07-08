@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Protect your Feint with Indemnity. Any Feint on Loother triggers a Cleanse Ward that removes all unprotected Traps and Prisms, so Indemnity keeps your key trap alive.",
+    "Or sidestep the cheat entirely: Mass Feint (+75%) and the Balance version of Feint do not trigger the trap wipe, so those are safe to stack.",
+    "Do not heal mid-setup. Healing (including pet heals) makes him cast Mass Infection (-65%), gutting your next attack, so heal before you commit or bring Cleanse Charm.",
+    "He is Death with 30% Death resist and takes 15% boosted Life, so use a Life hitter or Life prisms; watch his random Steal Health and his multi-target Poison (45+450).",
+    "Come in on time. A late wizard eats Shadow Bad Juju, and at Round 1 he summons two Fangs (Guards and/or Assaulters), so plan to clear minions with AoE.",
+    "Set up behind Indemnity or Mass Feint plus blades, avoid healing into the Infection, then AoE Loother and his Fangs down together."
+  ],
+  "cheatNotes": [
+    "A late-joining wizard is hit with Shadow Bad Juju, so be present when the fight starts.",
+    "On Round 1 he summons two minions in a random mix of Fangs Guards and Fangs Assaulters; expect an AoE to clear them.",
+    "Placing a Feint on him triggers a Cleanse Ward that strips all unprotected Traps and Prisms. Protect your Feint with Indemnity.",
+    "Mass Feint (+75%) does not trigger the trap-removal cheat, so it is a safe trap source.",
+    "The Balance version of Feint also does not trigger the cheat.",
+    "Indemnity on your Feint stops it from being removed by the Cleanse Ward.",
+    "Any heal you cast makes him drop Mass Infection (-65%) on your team, so avoid healing right before your hit.",
+    "Pet heal procs also set off the Mass Infection cheat, so mind your pet.",
+    "He randomly cheat-casts Steal Health to top himself off, so expect some self-healing."
+  ],
+  "groupFight": false
+}

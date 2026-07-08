@@ -1,0 +1,36 @@
+{
+  "strategy": [
+    "Hit with Storm. He takes +5% from Storm and resists Myth 73%. His minions are wrapped in a -200% Brace (\"Invulnerability\") and can't be killed normally, so don't waste hits on them.",
+    "Expect three random minions on turn one; they get re-summoned when killed. Ignore them and tunnel the boss.",
+    "Ride the random cheat cycle. Every turn he throws two random AoE effects, one to each team. You might get +100% damage, +100% accuracy, or 4 pips, or eat -100% damage, -100% accuracy, 4-pip loss, or a flat 10% max-health hit. Keep blades stacked so a +100% damage round becomes your kill window, and re-blade if a -100% charm lands.",
+    "Plan for disruption. He Beguiles a random Wizard and can strip your setup. Protect the hitter's key blade with Aegis and keep a support able to hit if the main hitter gets Beguiled.",
+    "For the 62,125 health, run hitter, supports, and healer. Supports Feint and blade the hitter; the healer covers the 10% max-health chip and the 2,000 self-heals he gets from sacrificing his own minions. Burst him with one big Storm hit on a favorable cycle round."
+  ],
+  "cheatNotes": [
+    "Latecomers get Confused for three rounds. Arrive on time.",
+    "He summons three random minions on turn one.",
+    "",
+    "",
+    "Killed minions come right back, so don't bother clearing them.",
+    "His minions are invulnerable and your damage does nothing to them. Focus the Writer only.",
+    "A minion killed and revived on the same turn briefly loses its invulnerability, but this isn't worth chasing.",
+    "When you kill the Writer his minions cast Furnace, so be ready to finish them or leave before it matters.",
+    "",
+    "",
+    "Every turn both teams get a random AoE effect. Some help you, some hurt, so build a buffer so a bad roll doesn't sink you.",
+    "A +100% Damage roll is your cue to hit. Stack blades so you can cash in immediately.",
+    "",
+    "",
+    "His side can heal 10% of health ignoring your infections, so expect the minions and boss to top up.",
+    "",
+    "A -100% Damage roll can land on your team. Re-blade before hitting or your nuke does nothing.",
+    "A -100% Accuracy roll will fizzle your hit, so hold the finisher a round if it lands.",
+    "",
+    "You can take a flat 10% max-health hit that no ward stops. Keep the team topped up.",
+    "",
+    "",
+    "He sacrifices his own minion to heal 2,000, so expect his health to tick back up if the fight drags.",
+    "He can Beguile a Wizard, turning them against the team. Protect the hitter's blades with Aegis and keep a backup hitter ready."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "Expect a long grind: 23,600 health, 40% pierce, and heavy self-blading. Win through damage, not healing.",
+    "Round 1 he drops Doom and Gloom -75%, so your heals barely work. Do not waste turns replacing it; he just recasts it.",
+    "Hit with Ice or Life (+30% incoming); avoid Death (80% resist).",
+    "Every attack you land gives you an Infection that cuts healing further. Carry Cleanse Charm or plan to burst without relying on heals.",
+    "Every second round he self-casts Dark Pact, Deathblade, and Balanceblade. Strip the charms or out-pace the stack.",
+    "Every third round he casts Call of Khrulhu. Shield for the incoming Death hit, then commit to one big trap-and-Feint burst."
+  ],
+  "cheatNotes": [
+    "Round 1 he casts Doom and Gloom -75%, so healing barely works. Win with damage instead.",
+    "Replacing his Doom and Gloom global just makes him recast it. Do not waste turns fighting it.",
+    "Every attack lands an Infection on you, cutting heals further. Carry Cleanse Charm or burst without healing.",
+    "",
+    "Every second round he self-casts Dark Pact, Deathblade, and Balanceblade, ramping his damage. Remove the charms or pressure him down.",
+    "Every third round he casts Call of Khrulhu; shield for the Death hit."
+  ],
+  "groupFight": false
+}

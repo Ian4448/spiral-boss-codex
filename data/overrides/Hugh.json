@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Three-boss Wallaru fight (Hugh, Jack, and Mann). Hugh is Life (22005). Funnel blades to one hitter and pick targets deliberately.",
+    "Avoid all-allies heals. Hugh answers a mass heal with Sirens on the healer, so use single-target heals instead.",
+    "Watch spell ranks. Jack Shift-Chaneys any wizard who casts a Rank 7 or higher spell, so keep setup low-rank and save the big spell for the kill turn.",
+    "Kill Jack in one burst, or before he drops below 80% health. Under 80% he heals himself 10000 over 10 rounds.",
+    "Mann Fireblades himself whenever a wizard casts a blade, so expect his damage to climb. Blade the same round you hit.",
+    "Hugh steals 3 pips from a random wizard at the end of round 3, so the hitter should not be holding the whole kill setup that turn."
+  ],
+  "cheatNotes": [
+    "",
+    "Cast a mass heal and Hugh hits the healer with Sirens. Stick to single-target healing.",
+    "At the end of round 3 Hugh steals 3 pips (and deals damage) from a random wizard. Do not sit on your full kill setup that turn.",
+    "",
+    "Jack Shift-Chaneys anyone who casts a Rank 7 or higher spell. Keep setup low-rank and unload the big spell only when ready to end it.",
+    "Once Jack drops below 80% health he heals 10000 over 10 rounds. Take him from healthy to dead in a single burst rather than chipping.",
+    "",
+    "Every blade a wizard casts makes Mann Fireblade himself, ramping his damage. Blade the same turn you hit so he gets fewer stacks.",
+    ""
+  ],
+  "groupFight": true
+}

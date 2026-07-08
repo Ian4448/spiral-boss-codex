@@ -1,0 +1,38 @@
+{
+  "strategy": [
+    "A team fight against a 32,000-health boss best kept short. Supports stack blades onto one hitter and the team ends it fast, because the Mimic Polymorphs into a new form (Cyrus Drake, Ghost Dog, Luska, Mithraya, or Prince Gobblestone) every three rounds, and a long fight cycles you through every form's cheats.",
+    "Do not rely on traps. He removes traps placed on him, and with a multi-trap spell like Elemental Trap he strips only the last trap applied. Indemnity can protect a trap, but blade stacking is the safer damage source since Feints do not stack well here.",
+    "Bring a Shatter (trained or TC) for the Prince Gobblestone form, which stacks a triple Tower Shield, Legion Shield, and Brace over three rounds. Shatter blows through that wall.",
+    "Equip your best accuracy gear before entering, especially to avoid fizzles against the Luska and Mithraya forms.",
+    "Watch the ink cheat: he Smoke Mantles the wizard in the first (Sun) spot every round, and after he drops below 75% health he also inks the second (eye) spot. If a NON-inked wizard single-target attacks him, he retaliates with an 800+2,000 Death Poison or a 400+1,500 Fire Power Link that also heals him, so let an inked wizard throw the hit.",
+    "Enter on round 1 to avoid the Steal Pips latecomer cheat, then build blades and burst him down in one big hit before the polymorph cycle grinds you out."
+  ],
+  "cheatNotes": [
+    "A latecomer gets a Moon Steal Pips that takes one of their pips. Enter on round 1.",
+    "Every three rounds he Polymorphs into one of five boss forms, each with its own cheats, so drag the fight out and you face all of them. Kill him quickly.",
+    "The first time you trap him he removes every trap on himself, which is why blades are the better setup here.",
+    "As part of the polymorph/cheat cycle he can cast Mystic Colossus, a large Myth hit. Keep some resist or a shield ready.",
+    "During this interrupt cycle he simply passes his own turn, so these are extra cheat casts rather than his normal attack.",
+    "In the round-1 phase of the cycle he shields up with a triple Tower Shield, Legion Shield, and Brace. Bring Shatter or pierce to get through.",
+    "In the round-2 phase he cheat-casts Wings of Fate to heal himself, so out-damage the heal.",
+    "In the round-3 phase he casts Blinding Freeze, an Ice attack. Have Ice resist available.",
+    "Each round he 'inks' the wizard in the first (Sun) spot with a Smoke Mantle. That inked wizard is the one cleared to attack him.",
+    "Once he drops below 75% health he also inks the wizard in the second (eye) spot, giving you a second wizard allowed to attack.",
+    "If a wizard who has NOT been inked lands a single-target attack on him, he punishes them with one of the DoTs below. Only let inked wizards hit.",
+    "That punishment can be an 800 + 2,000 Death Poison over 3 rounds. Triage it off or avoid triggering it.",
+    "The punishment can instead be a 400 + 1,500 Fire Power Link over 3 rounds that also heals him 200 + 800, so it hurts you and mends him.",
+    "He removes traps used on him, reinforcing that traps are wasted here.",
+    "Indemnity on a trap stops him from removing it, if you insist on trapping.",
+    "With a multi-trap spell like Elemental Trap he only strips the last trap applied (the Storm/Life trap), leaving the earlier ones.",
+    "In one form she opens by summoning a Stellar Protector minion. Consider clearing it or hitting through it.",
+    "That form casts Smoke Screen (-50% accuracy) on turn one and again whenever a wizard lands a spell, so bring accuracy gear to fight the fizzle debuff.",
+    "In another form, once both Blades and Traps are on the board the cheat pauses until they are gone, so managing your charms and traps can stall it.",
+    "One form summons a Hagakure Blade and a Seijun Killer at the end of round 1. Be ready to handle two minions.",
+    "That form can cast a Death DoT dealing 4,000 Death damage over 10 rounds on any turn.",
+    "Remove that 4,000 Death DoT with Triage or Mass Triage before it stacks up.",
+    "It can also Detonate that Death DoT for a burst of the remaining damage, so clear the DoT before it detonates.",
+    "In one form, if any wizard casts a helpful Ward he Shatters it. Avoid shielding in that form."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

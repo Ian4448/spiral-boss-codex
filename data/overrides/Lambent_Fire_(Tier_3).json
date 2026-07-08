@@ -1,0 +1,28 @@
+{
+  "strategy": [
+    "Attack with Ice (he takes +30% Ice); never Fire (60% resist).",
+    "Minimize blades. Non-Fire blades give him Brimstone Revenant on you, universal blades let him Steal your charm, and Fire blades risk a Steam Charm, so lean on traps and pips instead.",
+    "Use Mass Hex for setup, not universal traps. Universal traps make him Immolate the caster, while Mass Hex is confirmed safe (Mass Feint, however, triggers it).",
+    "Do not waste turns clearing Skirker Busters. He resummons every dead or missing one at the end of each Round, and with all three up they run a death cycle feeding him a +30% Dark Tribute, a Sacrifice heal, then Bad Juju.",
+    "End it fast. Each time he casts a damage spell he gains a Firespear, so his hits ramp every turn.",
+    "At 17,500 Health with three reviving minions, bring a team: one hitter, Mass Hex for traps, and heals for the incoming Fire and Bad Juju."
+  ],
+  "cheatNotes": [
+    "Every time Lambent Fire casts a damage spell he gains a Firespear, so his hits grow each turn; end the fight quickly.",
+    "Casting a non-Fire, non-universal blade makes him hit the recipient with Brimstone Revenant, so avoid school blades.",
+    "Casting a universal blade lets him Steal that charm off the recipient.",
+    "Casting any Fire blade, including Elemental Blade, can randomly trigger a Steam Charm on you.",
+    "Pet may-cast blades trigger these blade cheats too.",
+    "Casting a universal trap on him makes him Immolate the caster.",
+    "Mass Hex is safe and does not trigger the trap cheat, but Mass Feint does, so use Mass Hex for setup.",
+    "When a Skirker Buster lands its 2,050 Fire Natural Attack it then Immolates itself for 100% of its Health.",
+    "At the end of every Round he resummons any defeated or missing Skirker Busters, so clearing them is wasted turns.",
+    "",
+    "The death cycle only runs while all three Skirker Busters are present, cycling each Round and repeating every three.",
+    "Cycle Round 1: the first Skirker casts a +30% Dark Tribute onto Lambent Fire.",
+    "Cycle Round 2: the second Skirker Sacrifices itself to heal Lambent Fire.",
+    "Cycle Round 3: the third Skirker casts Bad Juju on a random wizard.",
+    "That third-Round Bad Juju is skipped if any wizard flees the duel."
+  ],
+  "groupFight": true
+}

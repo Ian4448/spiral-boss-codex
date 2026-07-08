@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "Waterworks team fight (16,920 health). Hit with Myth, Life, or Death (+20%), never Balance (80% resist).",
+    "He Inks the first-spot wizard each round with a Smoke Mantle, that inked wizard is your designated hitter and can single-target Luska safely. Everyone else attacks only with all-enemy AoEs.",
+    "If a non-inked wizard single-targets Luska, he strips all wards from everyone and answers with Skeletal Dragon (1,200 Death) or Power Link (2,100 Fire). Keep non-hitters on AoE and support only.",
+    "Traps get removed unless they are AoE traps (Windstorm) or Indemnity-protected, so use Windstorm feints and funnel blades to the inked hitter.",
+    "As he drops past 75% and 50% he Inks the second and third spots too, so concentrate blades on the inked hitter and burst him down before the whole team is debuffed."
+  ],
+  "cheatNotes": [
+    "He removes single traps placed on him, use AoE traps or Indemnity to make them stick.",
+    "Pet-cast traps do not trigger the removal.",
+    "On multi-trap spells he only strips the first trap.",
+    "Indemnity-protected traps are safe from his removal.",
+    "AoE traps like Windstorm are never removed, this is the way to trap him.",
+    "Each round he Inks the first-spot wizard with a Smoke Mantle (your safe hitter) and puts a Feint on every other wizard.",
+    "At 75% health (12,690) he also Inks the second-spot wizard every round.",
+    "At 50% (8,460) he also Inks the third-spot wizard.",
+    "He never Inks the fourth (Moon) spot, that wizard can never safely single-target him.",
+    "A non-inked wizard single-targeting him strips all wards from everyone and triggers Skeletal Dragon (1,200 Death) or Power Link (2,100 Fire), only the inked hitter should single-target Luska.",
+    "Only Inked wizards can single-target him safely, and he still removes traps even from them.",
+    "All-enemy AoE attacks never trigger the retaliation, non-hitters should stick to AoE."
+  ],
+  "groupFight": true
+}

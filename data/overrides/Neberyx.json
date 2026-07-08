@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Normally a team fight against a 44,000-health boss. Run a trap strategy: supports feed a single hitter, and any type of Feint is allowed here, which makes setup easy. Stack traps matching the hitter's school, keep blades light, and finish in one big hit.",
+    "Enter on round 1. A latecomer eats a Moon-school Insane Bolt for 1,000-1,500 damage.",
+    "Carry Vaporize. When you cast a damage Blade or a Global, Neberyx may interrupt with an enchanted Earthquake (600 Myth) that strips your blades; Vaporize clears the fallout and the cheat does not fire every time.",
+    "Bring Shatter to blow off any shields, and Cleanse Charm to clear the -40% damage charm his natural attack (plus Virulent Plague) stacks on the whole team.",
+    "A Myth wizard is useful if you want to carry charms into this fight, since Myth handles the Earthquake school and can pressure through his resists.",
+    "Stack traps and Feints on one hitter, keep blades minimal to avoid triggering Earthquake, then finish with one big hit."
+  ],
+  "cheatNotes": [
+    "Any wizard joining after round 2 gets hit by a Moon Insane Bolt for about 1,000-1,500 damage. Enter on round 1.",
+    "Casting a damage Blade or a Global can make him interrupt with an enchanted Earthquake dealing 600 Myth damage that also strips your charms. It does not trigger every time, and Vaporize counters it, so lean on traps over blades.",
+    "Your pet's charm or global casts can also set off the Earthquake cheat, so be aware your pet may trigger it unexpectedly.",
+    "This is just his callout when he uses his natural attack, which deals 100 Shadow damage per pip and stacks a -40% damage charm (with a Virulent Plague) on all wizards. Clear it with Cleanse Charm."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

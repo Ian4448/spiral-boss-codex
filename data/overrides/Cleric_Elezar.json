@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Do not attack with Drain spells. A non-killing Drain hands Elezar an Aegis-protected +100% Balanceblade, and a Drain that would kill just full-heals her instead.",
+    "Avoid sun-embedded hits (Sun Serpent, Ra, Climaclysm) unless the hit is lethal; a non-killing sun hit lets her dispel herself.",
+    "Build with blades and traps (Feint is fine here) and finish with one normal, non-drain, non-sun hit.",
+    "She takes +30% from Life and resists Death 67%, so bring a boosted off-school hitter.",
+    "Team: supports blade the hitter and Feint the boss, and the hitter kills in a single round so none of her steal or heal triggers ever fire."
+  ],
+  "cheatNotes": [
+    "Hitting Elezar or her minions with a Drain spell makes the target cheat-cast on itself; the two outcomes follow.",
+    "If the Drain does not kill, the target gives itself an Aegis-protected +100% Balanceblade.",
+    "If the Drain would kill, the target instead casts Minor Blessing and heals to full, surviving.",
+    "Hitting her or a minion with a spell containing a sun (Sun Serpent, Ra, Climaclysm) that does not kill lets it dispel itself."
+  ],
+  "groupFight": true
+}

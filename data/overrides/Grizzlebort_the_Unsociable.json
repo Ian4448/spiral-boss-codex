@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "He interrupt-casts Plague every round and again whenever you cast anything (even fizzles and pet casts), so expect constant Weakness. Shields and multi-charm spells like Elemental Blade do not trigger the per-cast Plague.",
+    "Do not kill him while his Plague cheat is active; he revives at full health. You must shut the cheat off first.",
+    "At round 4 he hands every wizard Stone Colossus (Tier 2b). Cast it back on him to strip your Plagues and stop the Plague cheat.",
+    "Any Myth damage spell that removes harmful charms (like King Artorius Myth Tier 2b) works the same way if you have it.",
+    "With the cheat off, blade up and finish him; he takes +35% from Ice and Myth and resists Life and Storm 35%."
+  ],
+  "cheatNotes": [
+    "At the start of every round he interrupt-casts Plague, blanketing wizards in Weakness.",
+    "He also Plagues you after every spell you cast, even on a fizzle, twice if the spell hits both him and Grizzletroll, and each round you carry a DoT.",
+    "Pet casts count as casts and trigger the Plague too.",
+    "Shields and spells that create multiple charms or traps at once, like Elemental Blade, do not trigger the per-cast Plague.",
+    "If you defeat him while his Plague cheat is still running, he revives at full health.",
+    "At round 4 (or when he revives) he gives every wizard a Stone Colossus (Tier 2b) spell to use.",
+    "",
+    "Hitting him with Stone Colossus (Tier 2b) makes him strip all harmful charms from wizards and stop the Plague cheat.",
+    "Any other Myth damage spell that removes harmful charms, like King Artorius Myth (Tier 2b), does the same."
+  ],
+  "groupFight": false
+}

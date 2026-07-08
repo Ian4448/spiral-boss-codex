@@ -1,0 +1,36 @@
+{
+  "strategy": [
+    "Three-boss Tartarus finale (Hades, Poseidon, Zeus). All take +30% from Myth, Life, and Death and resist Balance 80%. Hitters use Myth, Life, or Death.",
+    "Never let a wizard fall: any wizard defeated makes the surviving bosses heal 1,890 over 3 rounds each (up to three casts each while all three live). Keep the healer active.",
+    "Zeus punishes big spells: anything 6+ pips (including heals) draws a Minotaur on the caster, and Shadow spells draw an extra one. Keep utility cheap and save one expensive hit for the kill.",
+    "Poseidon removes single-target traps with his Natural Attack (fizzling and single-target prisms trigger it too) and keeps Infallible up. Use Indemnity-protected or multi-target traps like Windstorm, and Feint through Indemnity.",
+    "Watch Hades' Impending Doom on a random wizard and all three bosses grabbing free extra pips each round. Pre-heal the doomed wizard.",
+    "Assign a kill order, funnel blades to one hitter, and burst each boss with a 6+ pip hit only when you can absorb the Minotaur, keeping everyone alive to deny the heals."
+  ],
+  "cheatNotes": [
+    "Hades can grab a bonus pip most rounds, so he out-paces you on pips. Expect faster boss hits.",
+    "He drops Impending Doom on a random wizard. Pre-heal or shield the target.",
+    "If you shift a DoT onto the bosses he Triages it off. DoTs are wasted here.",
+    "Any wizard defeated makes the bosses heal 1,890 over 3 rounds. Keep everyone alive to deny it.",
+    "With all three bosses up, that heal is cast three times each. Losing a wizard nearly full-heals the room.",
+    "With two bosses left it heals twice each.",
+    "With only Hades left it heals him once.",
+    "The heal only fires if a wizard actually dies the round the killing hit lands; surviving the round denies it.",
+    "A wizard killed by a DoT does not trigger the heal.",
+    "Self-defeats still trigger the heal even if you revive after. Do not sacrifice a wizard.",
+    "It also fires if Zeus dies while Hades remains, so mind your kill order.",
+    "Poseidon also steals bonus pips each round.",
+    "Poseidon keeps Infallible up whenever he lacks an aura, so his hits will not fizzle. Plan for reliable damage from him.",
+    "Any single-target charm or trap on Poseidon makes him Natural Attack and strip all his traps. Use Indemnity or multi-target traps like Windstorm instead.",
+    "Single-target secondary effects (Efreet, Gnomes, Dr. Von's) also trigger Poseidon's trap-strip.",
+    "Fizzling on Poseidon triggers the strip too, so keep accuracy up against him.",
+    "Single-target prisms trigger it as well; prism him with multi-target options or not at all.",
+    "Indemnity protects your charms and wards from Poseidon's removal.",
+    "Zeus also grabs bonus pips each round.",
+    "Any spell costing 6+ pips draws a Minotaur onto the caster. Save your expensive hit for a round you can absorb it and keep utility cheap.",
+    "Heals count as spells here; a 6+ pip heal also draws a Minotaur.",
+    "Shadow spells draw an extra Minotaur. Weigh whether the shadow hit is worth two Minotaurs.",
+    "The Minotaur fires no matter which boss you targeted; it is about the pip cost, not the target."
+  ],
+  "groupFight": true
+}

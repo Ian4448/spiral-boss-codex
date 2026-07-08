@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Hit with Storm (+10%); avoid Myth (40% resist). He is Shadow with 12600 health and no minions.",
+    "Your first attack makes him Aegis-protect a Bronze Armor absorb on himself. Throw a cheap hit or wand first to pop the armor, then land your blade-stacked real hit next round.",
+    "Do not lean on Shields. After his Natural Attack he Shatters your positive Wards, so heal through his hit instead.",
+    "Late joiners lose a pip to Steal Pips, so arrive on time.",
+    "Stack blades and a Feint, then burst him once the armor is gone."
+  ],
+  "cheatNotes": [
+    "Joining late costs you a pip to his Steal Pips. Be in before combat starts.",
+    "Your first attack triggers an Aegis-protected Bronze Armor absorb on him, so the shot lands into an absorb and the shield resists one removal. Pop it with a throwaway hit, then land your real damage.",
+    "After he attacks he Shatters your positive Wards, so do not count on shields to block his hit. Heal through it instead."
+  ],
+  "groupFight": false
+}

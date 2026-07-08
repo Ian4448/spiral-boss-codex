@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "Enter on Round 1. Arriving late gives you Rocklops: a two-Round Stun plus a -100% Accuracy Charm that guarantees your next spell fizzles.",
+    "Attack Myth. Adrok takes +10% from Myth and resists Storm 75% and everything else 25%, so never hit Storm; prism if you are a Storm wizard.",
+    "Keep a fresh Trap on Adrok every two Rounds. Traps reset his beet-kill cycle and double as your damage setup, so make Feint the trap you keep replacing.",
+    "Keep accuracy high. Any fizzle on either side triggers Lightning Strike on the fizzler, so bring accuracy gear or sniper enchants.",
+    "Do not put weaknesses on Yowck. Adrok cleanses harmful charms off the ally, so it is wasted.",
+    "Stack blades and traps on your hitter, then AoE Myth to clear Adrok and the Beets minion together."
+  ],
+  "cheatNotes": [
+    "",
+    "Being late gets you Rocklops: a two-Round Stun and a -100% Accuracy Charm that fizzles your next cast. Come in on Round 1.",
+    "Any fizzle from Adrok's side or yours triggers Lightning Strike on the fizzler. Run accuracy so you never fizzle.",
+    "Casting a harmful charm on Yowck makes Adrok cleanse it off. Save your weaknesses for Adrok.",
+    "After his natural attack Adrok heals a random ally for 325. Minor, but factor it into your overkill.",
+    "",
+    "Any Round Adrok has no minion, he summons a Beets minion at the end of the Round.",
+    "Two Rounds after Beets is summoned, if no one has died and no Trap has hit Adrok in the last two Rounds, he instantly kills Beets and one random Wizard. Keep a fresh Trap on him.",
+    "Casting any Trap on Adrok resets the beet-kill cycle, so your Feint setup doubles as the counter.",
+    "Prisms do not count as a Trap and will not reset the cycle. Use an actual Trap.",
+    ""
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Darkmoor dungeon boss (16,170 health), so run it as a team: hitter, blading supports, and a healer.",
+    "Never finish him with a Drain or health-steal spell — a killing drain makes him Minor Bless back to full, and a non-lethal drain gives him an Aegis-protected +100% Balanceblade.",
+    "Kill with non-drain damage instead, and attack with Life (his listed boost; he resists Death).",
+    "Avoid sun-enchanted hits (Power Nova, sun enchants) — they make him cast a protected Universal Dispel on himself.",
+    "Supports blade the hitter with non-drain, non-sun damage and Feint the boss; hitter funnels one big Life hit while the healer keeps the team up."
+  ],
+  "cheatNotes": [
+    "Hitting Sir Dracus or the Demimortal Vassal with any Drain spell triggers a counter — avoid drains entirely, especially as a finisher.",
+    "If your drain doesn't kill him, he gains an Aegis-protected +100% Balanceblade (a huge self-buff) — use non-drain damage instead.",
+    "If your drain would kill him, he Minor Blesses himself back to 100% health — you cannot finish him with a drain.",
+    "A sun-enchanted or sun-based hit (Power Nova, sun enchants) makes him cast a protected Universal Dispel on himself — skip sun enchants here."
+  ],
+  "groupFight": true
+}

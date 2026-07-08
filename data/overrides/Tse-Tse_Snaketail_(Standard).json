@@ -1,0 +1,33 @@
+{
+  "strategy": [
+    "Identify his form at the end of Round 1. He polymorphs into one of four random forms, each with its own gimmick, so adapt to whichever appears.",
+    "Elephant (Snakeeye): he caps incoming damage at 100 and shows three school blades as a code. Hit him with those schools in the shown order to break the cap, since progress carries between his re-casts, then burst once it swaps to a Frenzy.",
+    "Lion (Snaketongue): he Cat Naps to full Health once per Round whenever attacked and can even revive, so kill him in a single big hit rather than chipping.",
+    "Spider (Snaketail): he is immune to damage for three Rounds while stacking Shadowblades, then Dark Fiends and Sacrifices to full Health. Shield up and wait it out instead of wasting hits.",
+    "Rhino (Snakeskin): after reviving he Supercharges and Stormblades, then fires a no-Dispel Storm Owl, so shield for the incoming Storm hit.",
+    "Attack with Myth (his boosted school); never Storm (80% resist). He is stunable, so use stuns to skip dangerous turns."
+  ],
+  "cheatNotes": [
+    "At the end of Round 1 he polymorphs into one of four random forms, each with its own gimmick (below).",
+    "",
+    "In Elephant form he caps all incoming damage at 100 with a 99-Round aura, so normal hits barely scratch him.",
+    "Do not overwrite that aura with a negative aura, since he just recasts it; you can remove it with a non-negative aura like Galvanic Field, or by completing the blade code.",
+    "In Elephant form he shows three different-school blades each cycle, so hit him with those schools in that order to break the damage cap.",
+    "One possible code is Death, then Life, then Myth.",
+    "Another is Fire, then Ice, then Storm.",
+    "Another is Balance, then Myth, then Ice.",
+    "Your progress through the three hits carries over when he re-shows the blades every two Rounds, so you do not restart.",
+    "He says 'You Remembered!' after each correct hit in the sequence, so use it to track progress.",
+    "After the full code he replaces the damage-cap aura with a Frenzy and now takes normal damage, so burst him then.",
+    "",
+    "In Rhino form, the Round after he revives he stacks a +15% Supercharge, a Supercharge, and a +35% Stormblade.",
+    "Then at the end of that Round he fires a no-Dispel Storm Owl, so shield for the incoming Storm hit.",
+    "",
+    "In Lion form he Cat Naps to full Health once per Round whenever attacked, and it can even revive him, so kill him in one big hit rather than chipping.",
+    "",
+    "In Spider form he is immune to all damage, so do not waste hits.",
+    "The Spider form lasts three Rounds, stacking a Shadowblade each Round.",
+    "At the end of the third Spider Round he casts Dark Fiend and Sacrifices himself to full Health, so shield through it and wait for the form to end."
+  ],
+  "groupFight": false
+}

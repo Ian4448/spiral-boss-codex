@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Round 1 he summons three Protection Pox and Blinding-Lights the whole team (accuracy down) — overwrite the Blinding Light with your own Aura before attacking, or pack accuracy so you don't fizzle.",
+    "Round 2 he blankets his side with Guardian Spirit (revive at 100% health on defeat), so either strip those Guardian Spirits or plan to kill each target twice.",
+    "He has no school resist (only 20% to Globals), so hit hard with your best school.",
+    "Use a blade-stacked AoE to clear the Protection Pox alongside him, accounting for the Guardian Spirit revive.",
+    "Burst his 6,000 health once the revives are handled."
+  ],
+  "cheatNotes": [
+    "He opens by summoning three Protection Pox and Blinding-Lighting the team (accuracy down) — replace the Blinding Light with your own Aura or bring accuracy so you don't fizzle.",
+    "Round 2 he casts AoE Guardian Spirit (revive at 100% health on defeat) across his side — strip it or expect to kill each target twice; a single big hit won't stick."
+  ],
+  "groupFight": false
+}

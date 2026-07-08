@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Myth boss (6000). Hit with Storm (+15%); avoid Myth and Balance (25% resist).",
+    "He summons a Renegade Puppet round 1 and shields it round 2. On round 4 he Polymorphs the puppet into a Colossus with 2875 health, so kill the puppet before round 4 or it becomes a real tank.",
+    "AoE both, or drop the puppet early, then stack blades and land a Storm hit on the Djinni."
+  ],
+  "cheatNotes": [
+    "He summons a Renegade Puppet on round 1. Plan to clear it early.",
+    "Round 2 he shields the puppet, so hit it before the shield lands or pierce through.",
+    "On round 4 the puppet becomes a 2875-health Colossus. Kill it before round 4 to avoid a second tanky body."
+  ],
+  "groupFight": false
+}

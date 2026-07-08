@@ -1,0 +1,32 @@
+{
+  "strategy": [
+    "Hit with Fire. He takes +50% from it and resists Ice 80%.",
+    "Every direct hit triggers a -35% Legion Shield, and multi-hit spells stack several. Use single-hit Fire attacks or Fire DoTs, since DoT ticks do not trigger the shield.",
+    "Try to kill him before the end of Round 4. At that point he Polymorphs into Mister Hound, adds a +35% Fire global, and starts counter-attacking whoever damages him.",
+    "Keep shields and blades in reserve or protected. His Natural Attacks Steal Ward, and Steal Charm as Mister Hound.",
+    "He is stunable and beguilable, so a stun can buy a clean setup or hit round.",
+    "Clear the Lanyon Scratcher(s) only when you are ready to end it. Wiping them triggers a one-time Lava Giant on you."
+  ],
+  "cheatNotes": [
+    "He opens Round 1 with Balefrost, so expect an Ice global on the board from the start.",
+    "Any spell that damages him makes him interrupt-cast a -35% Legion Shield on himself, softening your next hit.",
+    "A multi-hit spell triggers that Legion Shield once per hit, stacking several shields. Avoid multi-hit attacks.",
+    "Damage-over-time ticks do not trigger the shield, so Fire DoTs get around it.",
+    "He will not shield if you damage him on the exact Round his Polymorph ends.",
+    "When his Natural Attack hits you, he interrupt-casts Steal Ward to take one of your shields.",
+    "At the end of Round 4 (and every 4th after) he Polymorphs into Mister Hound and lays a +35% Fire Damage global.",
+    "As Mister Hound, damaging him makes him Fireblade himself and then Natural-Attack whoever hit him.",
+    "Multi-hit spells trigger that counter once per hit while he is Mister Hound too.",
+    "If Mister Hound has no pips when this fires, his counter Natural Attack still hits as a 1-pip attack.",
+    "That counter Natural Attack can be Dispelled even though it is cheat-cast.",
+    "Unlike his shield cheat, this Mister Hound counter does trigger on the Round his Polymorph ends.",
+    "When Mister Hound's Natural Attack hits you, he interrupt-casts Steal Charm to take one of your blades.",
+    "At the start of Round 8 (and every 4th after) he interrupt-casts Balefrost again.",
+    "Defeating every Lanyon Scratcher makes him or Mister Hound interrupt-cast Lava Giant on you.",
+    "If no Scratchers are present at the start, that Lava Giant instead fires when your team casts its first spell.",
+    "May-cast pet or wand spells count as that first spell for the Lava Giant trigger.",
+    "If you Beguile him, the Lava Giant instead fires the first time a Scratcher casts a spell.",
+    "The Lava Giant punish can only happen once during the whole duel."
+  ],
+  "groupFight": false
+}

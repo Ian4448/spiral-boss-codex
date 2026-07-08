@@ -1,0 +1,32 @@
+{
+  "strategy": [
+    "Obey Simon Says. During 'Simon says no attacks!' rounds (1 to 3, then 7 to 9, and so on) any damage on Simon or his golems hits the caster with a 1,000 Moon Insane Bolt. Only attack in the 'you can attack now' windows (rounds 4 to 6, etc.).",
+    "Set up during the no-attack rounds, but not with blades or wards. A Blade triggers Disarm on you, and a Prism or positive Ward (Stun Block counts) triggers his pet's Feint. Stack traps and Feint on Simon instead; steal spells are safe anytime.",
+    "Let Daniel help: he throws +30% universal traps onto Simon and, after round 3, an AoE Fairy that heals the whole team, so lean on that trap stack and free healing.",
+    "Do not clear the golems early. The guide warns the Heartburner and Virulent Gas Golems get re-summoned one at a time every two rounds, so killing them just resets the timer.",
+    "Hit with Storm (+30% incoming) during the round 4 to 6 window, using an AoE like Storm Lord to catch Simon and both golems at once.",
+    "Funnel your traps and Feint into one big AoE to burst Simon's 12,960 health inside the attack window, before the next 'no attacks' phase locks you out again."
+  ],
+  "cheatNotes": [
+    "Joining after round 2 brings a 400 Balance Mana Burn on the latecomer.",
+    "For the first three rounds ('Simon says no attacks!') any damage spell on him or his golems gets punished.",
+    "Attacking during a no-attacks phase makes him Insane Bolt the caster. Wait for the attack window.",
+    "Steal spells do not count as attacks and are safe during no-attacks.",
+    "On rounds 4 to 6 ('you can attack now') damage is safe. This is your burst window.",
+    "Round 7 re-enters no-attacks for three more rounds.",
+    "The attack and no-attack cycle repeats all fight, so plan every hit around it.",
+    "Round 2 he summons a Golem (Heartburner or Virulent Gas).",
+    "Kill a minion and he resummons another two rounds later.",
+    "Kill several and he replaces one every two rounds, so clearing minions is temporary.",
+    "Casting a Blade gets the caster Disarmed. Use traps, not blades.",
+    "Casting a Prism or positive Ward makes his pet Feint the caster.",
+    "Stun Block counts as a ward and triggers that pet Feint too.",
+    "",
+    "On round 3 and randomly after, Daniel Curses Simon (a heal debuff on Simon), which helps you.",
+    "After round 3 Daniel rarely casts a Death Fairy that heals all wizards 300 and gives Guidance, a free heal for your side.",
+    "That Fairy heal is weakened by negative healing charms or Life dispels placed on Simon.",
+    ""
+  ],
+  "groupFight": false,
+  "guideSourced": true
+}

@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Hit with Fire. He is Ice, resists Ice 80%, and takes boosted Fire damage.",
+    "He removes every normal Trap placed on him, but Feint is the exception. Set up with Feint, not regular traps.",
+    "Whenever he is attacked he Ice-Traps all Wizards, then casts Blizzard and Storm Lord. Expect return damage; shield Ice or heal before your big hit.",
+    "He is stunable; a stun can deny his Blizzard turn.",
+    "Feint, blade, then finish with one Fire AoE to clear him and both Wildclaws."
+  ],
+  "cheatNotes": [
+    "He removes every ordinary Trap placed on him, so plain traps are wasted.",
+    "Feint is the exception and sticks. Use Feint for your trap damage.",
+    "Attacking him makes him Ice-Trap all Wizards and cast Blizzard and Storm Lord back. Be ready to shield Ice or heal."
+  ],
+  "groupFight": false
+}

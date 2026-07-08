@@ -1,0 +1,29 @@
+{
+  "strategy": [
+    "Hit with Storm (+30%); Bison resists Myth 80%.",
+    "Self-blade only. Any Blade cast on another Wizard is Disarmed by Ms. Felicity, and any Trap is Cleanse Warded by her. Buff the hitter with self-blades and hit fast.",
+    "Avoid Auras. Kenny Rooster answers each Aura with a 300 Fire Natural Attack that also destroys the Aura.",
+    "Expect confusion: Bison confuses each Wizard for 2 Rounds on Round 1 and periodically. Don't rely on precise turn timing.",
+    "Attacking Bison triggers Psycho Deflection, his Natural Attack taking 20% of your max health. Keep healed and end him quickly once set up."
+  ],
+  "cheatNotes": [
+    "",
+    "Joining late gets you confused for 2 Rounds.",
+    "On Round 1, and periodically after, Bison confuses every Wizard for 2 Rounds. Plan for scrambled turns.",
+    "Attacking Bison makes him counter with his Natural Attack for 20% of your max health. Stay healed.",
+    "",
+    "Ms. Felicity Disarms any Blade cast on another Wizard. Use self-blades only.",
+    "Ms. Felicity Cleanse Wards any Trap you place on its target. Traps are wasted here.",
+    "When Kenny Rooster drops below ~20% health, Ms. Felicity expels him from the duel.",
+    "",
+    "Daniel McCoil hands every Wizard a Snake Oil card on Round 1 and every 5 Rounds.",
+    "",
+    "",
+    "",
+    "When Ms. Felicity drops below ~20% health, Daniel McCoil expels her from the duel.",
+    "",
+    "Any Aura you cast makes Kenny Rooster hit for 300 Fire and destroy the Aura. Skip auras.",
+    "When Daniel McCoil drops below ~20% health, Kenny Rooster expels him from the duel."
+  ],
+  "groupFight": false
+}

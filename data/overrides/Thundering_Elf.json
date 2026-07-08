@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "This is a 17,000-health raid boss that heals itself with Power Current at the end of every round, so bring Doom and Gloom and infections to cap its healing or your damage gets undone each round.",
+    "Attack with Myth (Storm's opposite) or your strongest school; no resist is listed.",
+    "Run a hitter with blade supports and a healer, funneling blades and bursting hard enough each cycle to outpace the self-heal.",
+    "Keep an infection or Doom refreshed before the hitter goes so the round's damage sticks.",
+    "Coordinate a big hit to push past the healing rather than trading chip damage."
+  ],
+  "cheatNotes": [
+    "It casts Power Current on itself every round to heal, so keep Doom and Gloom or an infection up so your damage is not healed back."
+  ],
+  "groupFight": true
+}

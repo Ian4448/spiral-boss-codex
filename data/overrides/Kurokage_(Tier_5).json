@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Always keep a shield on yourself before attacking. Hitting him with a 6+ pip spell while you have no shield triggers a 600-damage Vampire counter on the attacker.",
+    "Damage-over-time spells and low-rank spells do not trigger the counter - an alternative if you cannot stay shielded.",
+    "Hit with Storm or Death - he takes 35% more from both and resists Myth 80%.",
+    "He strips all wards from a random wizard every other round, so reapply your shield right before you hit rather than early.",
+    "He is stunable and beguilable - stun to skip his ward-strip turn while you set up."
+  ],
+  "cheatNotes": [
+    "Attacking him with a 6+ pip spell while you have no shield up triggers an interrupt Vampire dealing 600 to you. Keep a shield on yourself.",
+    "The counter appears tied to 6+ pip spells; smaller spells do not seem to trigger it.",
+    "Damage-over-time spells do not trigger the Vampire counter - a safe way to deal damage unshielded.",
+    "Every other round he strips all wards from a random wizard. Re-shield right before you attack."
+  ],
+  "groupFight": true
+}

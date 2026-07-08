@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Raid boss, 56,500 health, team roles. The core rule: never end a round with pips. He Mana Burns the whole team at the end of any round a wizard still holds pips, so spend everything every turn.",
+    "Keep an Aura on everyone. When anyone lacks an aura he Quickens the team to max power pips, which then feeds his Mana Burn.",
+    "Do not cast X-pip charms or wards; he converts them straight into pips, which then get burned.",
+    "Structure setup so each wizard fully spends its pips each round: cheap blades and Feints and timed hits, no banking pips for a big turn.",
+    "Funnel to the hitter and burst in windows where pips are spent cleanly."
+  ],
+  "cheatNotes": [
+    "When anyone lacks an Aura he Quickens the team to max power pips. Keep auras up to avoid the pip flood.",
+    "At the end of any round a wizard still has pips, he Mana Burns the whole team. Spend all your pips every single round.",
+    "Casting an X-pip charm or ward makes him remove it and turn it into pips. Avoid X-pip spells here."
+  ],
+  "groupFight": true
+}

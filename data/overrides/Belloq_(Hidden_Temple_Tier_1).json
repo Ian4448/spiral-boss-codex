@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Belloq punishes your setup: each Trap you cast puts an Elemental Trap back on you, and each Blade you cast gives him a Balanceblade, so keep your buffing minimal and efficient.",
+    "He resists Balance 35% and takes 35% more from Myth, Life, and Death, so attack with one of those schools.",
+    "Prefer enchanted single blades over long trap chains, then hit before he stacks Balanceblades.",
+    "Expect a Scald damage-over-time at some point; pack Triage if the tick threatens you."
+  ],
+  "cheatNotes": [
+    "Belloq opens the fight with Power Play as a Global.",
+    "Cast a Trap and he answers with Elemental Trap on you, the caster.",
+    "Cast a Blade and he gives himself a Balanceblade.",
+    "He will cast Scald on you at some point; the exact trigger is unknown."
+  ],
+  "groupFight": false
+}

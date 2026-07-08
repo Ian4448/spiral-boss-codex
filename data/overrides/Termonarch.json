@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Clear its trap cheat before killing it. Termonarch stacks a chromatic Keeper of the Flame trap on your highest-Health wizard every round, and if it dies while that cheat is active it revives at full Health.",
+    "Use the intended counter: a Life damage spell that removes traps from wizards (like Leprechaun Tier 2b) strips all those traps and ends the Keeper of the Flame cheat, disabling the revive.",
+    "Line the kill up right after you clear. Cast the trap-removing Life spell, then finish Termonarch the same window so the cheat cannot re-arm before the kill.",
+    "It is Myth and takes boosted Fire and Life, so a Fire or Life hitter fits; the Leprechaun-style Life counter doubles as your setup clear.",
+    "It has 6 starting pips and only 4,040 Health, so it can hit early but dies fast once the revive is disabled.",
+    "Take the free Centaur card it hands out at the end of Round 4 (and on each revive) if useful, then burst it down with the Keeper of the Flame cheat cleared."
+  ],
+  "cheatNotes": [
+    "Every round it casts a chromatic trap (Keeper of the Flame) on your highest-Health wizard, starting +15% and rising 5% per round to a 40% cap.",
+    "If Termonarch dies while the Keeper of the Flame cheat is still active, it revives with full Health, so clear the trap cheat before the kill.",
+    "At the end of Round 4 and whenever it revives, it gives all wizards a free Centaur (Tier 2b) card.",
+    "",
+    "Casting a Life damage spell that removes traps from wizards, such as Leprechaun (Tier 2b), strips all those traps and ends the Keeper of the Flame cheat, disabling the revive."
+  ],
+  "groupFight": false
+}

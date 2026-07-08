@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Hit with Ice; he takes +15% from it and resists Fire 50%.",
+    "Do not cast blades, Globals, or Auras on yourself; each one makes Detolli self-buff with a Fireblade or Firespear. Even pet spells trigger it.",
+    "Set up with Traps and Feint instead, which do not feed his buff cheat, and note Steal Charm is also safe.",
+    "He summons a Scorcher on Round 1 and every two Rounds after; on its Round-2 turn it casts a Mass Fire Prism that can flip your damage to a random school, so time your hit to avoid the prism.",
+    "Kill the Scorcher before its Round-3 turn, when it sacrifices itself to give Detolli two power pips.",
+    "Stack traps, then finish with one big Ice hit."
+  ],
+  "cheatNotes": [
+    "Joining late gets Fuel cast on you; enter on time.",
+    "If you cast a blade, Global, or Aura, he answers with a Fireblade (up to +45%) or Firespear on himself; set up with traps instead to avoid pumping his damage.",
+    "",
+    "",
+    "Even your pet's may-cast blades and Globals set off his self-buff, so watch your pet's casts.",
+    "Steal Charm does not trigger the buff, so you can strip a charm safely.",
+    "He summons a Scorcher on Round 1 and every second Round; expect a fresh minion to manage.",
+    "",
+    "Its first-round Brimstone Revenant is bugged and passes, so it does nothing.",
+    "",
+    "On Round 2 the Scorcher casts a random Mass Fire Prism that can convert your Ice damage to another school; hit before it lands or plan around the prism.",
+    "On Round 3 the Scorcher sacrifices itself to hand Detolli two power pips; kill it before then."
+  ],
+  "groupFight": false
+}

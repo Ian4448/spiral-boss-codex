@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "Hit with Life — he takes +30% from it and resists every other school at 43% or more (73% to Death).",
+    "His whole gimmick is your health bar. His Power aura blocks 100% of your damage while you are above 70% health, 70% at 50-70%, 50% at 20-50%, and 20% at 10-20%. Below 10% max health it flips to +100% incoming damage on him.",
+    "He heals you to full on round 1, then let his hits drop you. Do not heal, and do not remove his aura — removal triggers a 4,800 heal on you plus a fresh aura, undoing your progress downward.",
+    "Every attack after round 2 hands all wizards a Hunger of Anubis card, so keep your attack count low: stack blades, then throw one big Life hit.",
+    "Only deliver the kill once a wizard is below 10% max health — one wizard below the threshold qualifies the whole team. If you kill him too early he respawns, but with just 114 health, so a wand hit finishes the job."
+  ],
+  "cheatNotes": [
+    "If you enter below full health, he restores you to 100% on round 1. You cannot pre-lower your health before the fight.",
+    "Voice line at the end of round 2. It marks the point where attacking him starts triggering Hunger of Anubis.",
+    "From round 3 on, every attack against him gives all wizards a Hunger of Anubis card. Fewer, bigger hits mean fewer cards.",
+    "",
+    "His aura reduces the damage he takes, and it weakens as your health drops. Managing your own health bar is the fight.",
+    "Do not strip his aura. He answers by healing the wizard for 4,800 — pushing you back up the health brackets — and recasting the aura.",
+    "Above 70% max health his aura blocks 100% of incoming damage. You literally cannot hurt him while healthy.",
+    "Between 50% and 70% health he still shrugs off 70% of your damage.",
+    "Between 20% and 50% health the aura drops to -50%. Better, but keep going lower.",
+    "Until this triggers he cannot truly die — killed early, he respawns, though with only 114 health. Get one wizard below the low-health threshold before the kill hit; one wizard qualifies everyone.",
+    "Between 10% and 20% health the aura only blocks 20% of your damage.",
+    "Below 10% max health the aura flips to +100% incoming damage on Anubis. This is your kill window — stay low and hit hard."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "He is Death, so attack with Life; no resist is listed, so Life boosts land well.",
+    "Minimize blades: every blade you cast makes him Berserk, ramping his damage. Use traps and Feint for setup instead, or blade and hit the same round.",
+    "When you hit him he Steal-Heals off his ally Brulee Sucre and Brulee shields itself with Spirit Armor, so focus him down rather than the ally so his heals dry up.",
+    "He self-buffs with Dark Pact every 3 rounds, so shield for his bigger hits.",
+    "Stack traps and a Feint, then land a big Life hit while keeping blades minimal to avoid the Berserk."
+  ],
+  "cheatNotes": [
+    "Whenever he is hit he Steal-Heals from his ally Brulee Sucre, so take Brulee out of the equation or just burst him.",
+    "Being hit also makes Brulee shield itself with Spirit Armor.",
+    "Every 3 rounds he casts Dark Pact to buff himself, so expect a bigger hit and shield.",
+    "Every 3 rounds Brulee casts Guidance, an accuracy buff, on his side.",
+    "Every blade you cast triggers Berserk on him, raising his damage. Set up with traps instead, or blade the same round you hit."
+  ],
+  "groupFight": false
+}

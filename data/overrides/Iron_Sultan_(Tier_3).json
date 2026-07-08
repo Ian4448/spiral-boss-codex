@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Join on Round 1 to avoid the Iron Sultan (Shadow) punish on latecomers.",
+    "The Gold Dragon casts Shadow Sentinel (75% Intercept) on Round 1, so single-target hits on the Sultan get intercepted. Kill the Gold Dragon first or use AoE to hit past it.",
+    "Blade up and hit with Myth (he takes +20%, resists Storm 40%).",
+    "Watch for Darkwind (+35% Storm) every fifth round; hit before Round 5 or shield after."
+  ],
+  "cheatNotes": [
+    "",
+    "The Gold Dragon's Shadow Sentinel intercepts 75% of single-target damage, so kill it first or use an AoE to reach the Sultan.",
+    "Every fifth round he casts Darkwind (+35%) on you, so time your kill before Round 5 or expect a boosted hit."
+  ],
+  "groupFight": false
+}

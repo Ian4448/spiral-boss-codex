@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "Use all-enemies AoE attacks — they completely ignore the 'Tag' cheat, so you can hit every brother at once without the tagged one interrupt-attacking you.",
+    "If you must single-target, only hit the currently 'tagged' brother; hitting an untagged boss triggers a retaliation from the tagged one.",
+    "Nordri self-casts a Tower Shield (-65% round 1, -90% round 2) that refreshes when hit, so pierce/shatter it or overpower it with a blade-stacked AoE.",
+    "Attack with Ice or Life (he takes +35% from both); never hit into his 80% Death resist without a prism.",
+    "Aim to kill everything together with one big AoE, since clearing the brothers first makes Nordri drop his wards and start Meteor Striking."
+  ],
+  "cheatNotes": [
+    "Round 1 he puts up a -65% Tower Shield on himself — pierce it or overhit.",
+    "Round 2 he upgrades to a -90% Tower Shield — small single hits are nearly useless; break it with Pierce/Shatter or a big blade-stacked attack.",
+    "He refreshes the Tower every time he's hit, so break it the same round you commit your big hit.",
+    "Pierce, Shatter, and Steal Ward remove the Tower but still trigger the Tag cheat — pair them with an all-enemies attack, not a single hit on an untagged brother.",
+    "Every 3 rounds a brother gets 'tagged' with a Stun Shield — that tagged brother is the only one safe to single-target.",
+    "",
+    "Single-target attacks on a non-tagged boss trigger a counter-attack from the tagged brother — AoE avoids this entirely.",
+    "",
+    "All-enemies attack spells don't trigger the counter — this is why AoE is the safe answer here.",
+    "",
+    "Once all his brothers are defeated he drops all his own wards the next round, opening him up.",
+    "A few rounds after his brothers die he starts Meteor Striking for 500 Fire every 3 rounds — kill him before this ramps, ideally with the AoE that clears the brothers."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "This is a Raid fight, so coordinate roles and use the free inspired casts (Brush Fire, Levin Bruin, Rotting Fomori, War Oracle) as your no-cost setup and damage.",
+    "It resists Storm and Life 100%, Fire, Death, Balance and the astral and shadow schools 70%, and Ice and Myth 40%, so hit with Ice or Myth and never into Storm or Life.",
+    "It buffs itself with Power Current every Round, so do not stall; build blades on your hitter and end the fight before its charge snowballs.",
+    "After it casts Doom Oni it shields with Energy Wall, so break that wall or pierce through before your finisher."
+  ],
+  "cheatNotes": [
+    "You get inspired casts of Brush Fire, Levin Bruin, Rotting Fomori, and War Oracle during this fight; use them, since they cost you nothing.",
+    "At the end of every Round it casts Power Current on itself, steadily building a charge.",
+    "After it casts Doom Oni it puts up an Energy Wall on itself."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Team fight (20,000 health). Hit with Myth or Life (+35%), never Storm (80% resist).",
+    "Any blade makes him shift into Atlantean Trierarch and Enfeeble the blade off whoever received it. Protect key blades with Aegis, or use Bladestorm, which only blades the caster.",
+    "Pet-cast blades also trigger the Enfeeble, so manage your pet.",
+    "Casting an aura or shadow spell just gives the caster a Tower Shield, which is harmless and even helps survival, so cast those freely.",
+    "Once Zeus is defeated Poseidon casts his Tempest Natural Attack every three rounds, so shield the team and funnel Aegis-blades to one hitter for the kill between AoEs."
+  ],
+  "cheatNotes": [
+    "Cast any blade and he shifts form and Enfeebles it off the receiver, protect your key blade with Aegis.",
+    "Aegis stops the Enfeeble from removing that charm, use it on the hitter's main blade.",
+    "Bladestorm only blades the caster here, a clean way to buff one hitter.",
+    "Pet-cast blades also trigger the Enfeeble, so watch your pet.",
+    "Casting an aura or shadow spell just gives you a Tower Shield, harmless and even helpful, so cast freely.",
+    "After Zeus dies, Poseidon casts his Tempest AoE every three rounds, shield the team and burst between them."
+  ],
+  "groupFight": true
+}

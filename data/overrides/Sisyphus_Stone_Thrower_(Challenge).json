@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Attack with Fire or Life; he resists Ice and Death 53% and takes those two least-resisted (13%). He is not stunable.",
+    "An Equalize caps your damage, and it only rises as HE casts his Natural Attack: 500 at round 1, 1,000 after his first, 3,000 after his second, 9,999 after his third. Do not waste a big nuke while the cap is low.",
+    "Play the long game. Build blades across the early rounds and let his Natural Attacks raise the cap to 9,999, then unload once the cap is high.",
+    "Keep your helpful charm count low until you hit. His Natural Attack deals 5% max health, +5% if you hold a charm and +15% per extra charm, so a fat blade stack sitting on you makes his hits hurt more.",
+    "Do not place harmful Charms or Wards on Sisyphus, including outgoing-damage auras like Starfall. He pushes them back onto the caster. Infections are the exception and are safe."
+  ],
+  "cheatNotes": [
+    "An Equalize caps your damage. It starts low and rises only as he casts his Natural Attack, so do not waste a big nuke while the cap is small. The Equalize recasts if you replace it and the cap will not rise from replacing.",
+    "At the start of round 1 the damage cap is 500.",
+    "After his first Natural Attack the cap rises to 1,000.",
+    "After his second Natural Attack, 3,000.",
+    "After his third Natural Attack and onward, 9,999. This is your window to unload.",
+    "Replacing the Equalize just makes him recast it, and it will not raise the cap. Let his Natural Attacks raise it.",
+    "At the end of every third round (sooner with more wizards) he Natural-Attacks for 5% max health, +5% if you hold a helpful charm and +15% per extra charm. Keep your charm count low until you hit.",
+    "After each Natural Attack he hands a random wizard a Rock Put card.",
+    "",
+    "Any harmful Charm or Ward placed on Sisyphus is pushed back onto the caster. Do not try to weaken or trap him.",
+    "Infections are the exception and do not get pushed back.",
+    "Outgoing-damage auras like Starfall count as harmful and do get pushed back.",
+    "Secondary debuff effects riding on a spell also trigger the push-back."
+  ],
+  "groupFight": false
+}

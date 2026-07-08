@@ -1,0 +1,11 @@
+{
+  "strategy": [
+    "Storm boss (5,390). He takes +20% from Myth and resists Storm 40%. Hit with Myth or a non-Storm school.",
+    "Round 1 his Gold Dragon casts a Shadow Sentinel on itself (75% intercept, -30% incoming, critical block), so early hits get intercepted by the dragon. Clear the Sentinel or dragon first, or wait it out before committing your big hit on the Sultan.",
+    "Blade up while the Sentinel is active, then land a Myth attack once you can reach the Sultan cleanly."
+  ],
+  "cheatNotes": [
+    "The Gold Dragon shields itself with a Shadow Sentinel (75% intercept) on Round 1, so your hits get soaked by the dragon. Blade during that window and hit the Sultan once the intercept is gone."
+  ],
+  "groupFight": false
+}

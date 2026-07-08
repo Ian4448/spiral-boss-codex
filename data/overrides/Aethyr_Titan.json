@@ -1,0 +1,29 @@
+{
+  "strategy": [
+    "Bring a full team. The Titan has 500,000 health and every spell he casts deals 9,999 damage for 14 pips.",
+    "Do not stress over survival. If anyone drops low, the fight script casts Dryad and restores them to full health.",
+    "Supports blade the hitter every round while the Paradox ally chips in with its free 0-pip spells. The opening aura grants mastery of all seven schools, so everyone's power pips count for any school.",
+    "Do not have henchmen cast globals; the script removes them. Henchmen do get seven power pips per round though, so they hit hard here.",
+    "Grind the Titan down toward 15% of his health. He and the Paradox wizard gain seven power pips every round, so expect a 9,999-damage spell from him almost every round and keep your own damage constant.",
+    "At about 15% he heals back to 100% and you are invisibly polymorphed. That is the win signal, not a setback: cast the granted Scion of Elements or Scion of Spirits to finish him."
+  ],
+  "cheatNotes": [
+    "You fight alongside the Divine Paradox, who is locked in a Star polymorph with a fixed set of spells for the whole duel.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "The opening aura gives the Paradox wizard mastery of all seven schools, so power pips work for any school's spells all fight.",
+    "The boss and the Paradox wizard each gain seven power pips every round. He can afford his 14-pip, 9,999-damage spells nearly every round.",
+    "Henchmen you summon also gain seven power pips per round, which makes them unusually strong in this duel.",
+    "Globals cast by henchmen are removed. Do not count on henchmen for bubbles.",
+    "If you start low or drop low, the script casts Dryad and restores you to full health. Deaths are largely prevented, so do not panic-heal.",
+    "At about 15% health the Titan heals back to 100% and invisibly polymorphs you for 99 rounds. This is the finisher phase: cast Scion of Elements or Scion of Spirits to end the fight.",
+    "",
+    ""
+  ],
+  "groupFight": true
+}

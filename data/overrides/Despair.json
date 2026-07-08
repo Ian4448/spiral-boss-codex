@@ -1,0 +1,27 @@
+{
+  "strategy": [
+    "Doom and Gloom (-100% healing) is up from Round 1 and recast when removed, so healing is off the table. Win the damage race and rely on shields and avoidance instead of heals.",
+    "Every positive charm you cast triggers Enfeeble on you; Aegis-protect your blades so they survive and dodge the punish.",
+    "Feint triggers an Ice Swap Ward that flips it back onto you; protect it with Indemnity or Melt.",
+    "Skip auras (they Supernova you) and positive wards (they Shatter you). Keep setup to Aegis blades plus an Indemnity Feint.",
+    "Hit with Life (he takes +30%, resists Death 72% and everything else 42%) and burst. Note each spell he lands buffs him with a +45% Deathblade and damaging him gives him Virulent Plague."
+  ],
+  "cheatNotes": [
+    "",
+    "He keeps a -100% Doom and Gloom global up all fight and recasts it if removed, so healing is impossible; race him down or shield instead.",
+    "Any spell he lands on a wizard is followed by a free +45% Deathblade on himself, so he ramps his own damage; kill before it stacks.",
+    "Damaging him makes him Virulent Plague himself, a minor self-weakness, so expect it.",
+    "",
+    "",
+    "",
+    "Self-damage spells like Empower give him a protected +100% Balanceblade, so avoid them.",
+    "Any aura you cast rebounds as Supernova on you; leave auras at home.",
+    "",
+    "Every positive charm you cast triggers Enfeeble on you; Aegis your blades so the charm survives.",
+    "Aegis on the charm blocks the Enfeeble punish.",
+    "Positive wards trigger an all-enemies Shatter on you, so do not rely on shields.",
+    "Feint or Mass Feint triggers an Ice Swap Ward that flips the trap onto you; protect it.",
+    "Indemnity or Melt stops the Swap Ward, keeping your Feint on him."
+  ],
+  "groupFight": false
+}

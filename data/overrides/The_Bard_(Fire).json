@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Hit with Ice (+30% incoming); avoid Fire (57% resist).",
+    "He Tower-Shields himself (-65%) every time he takes damage, so chip damage is wasted. Use pierce or Shatter, or set up and land one big hit.",
+    "He self-casts a +40% Bladestorm every 3rd round, ramping his damage. Remove the blades or race him.",
+    "Stack traps and Feint (he has no ward-stealing cheats) and burst through the 14,460 health in one hit."
+  ],
+  "cheatNotes": [
+    "Every 3rd round he self-buffs with a +40% Bladestorm. Strip it or out-pace it.",
+    "He puts a -65% Tower Shield on himself, blunting your hit. Pierce or Shatter it.",
+    "He re-applies that Tower Shield every time he is damaged, so many small hits get shielded away. Commit to one big attack instead."
+  ],
+  "groupFight": false
+}

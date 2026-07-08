@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "He opens by throwing two -50% Smoke Screens on each wizard, wrecking your accuracy.",
+    "Attack him once with a single-target spell to strip your Smoke Screens and earn a Mark of Courage.",
+    "That Mark (a Stun Shield) makes you immune to his round-5 Efreet (895 Fire plus -90% Weakness), so grab it before round 5. It survives Earthquake and cannot be stolen.",
+    "Hit with Fire or Myth (+30% incoming); avoid Ice (80% resist).",
+    "Blade or Feint, then burst the 4435 health with one clean hit."
+  ],
+  "cheatNotes": [
+    "",
+    "At the start and every 5 rounds he lays two -50% Smoke Screens on each wizard, tanking your accuracy.",
+    "",
+    "Quench dispels the Smoke Screen if you would rather cleanse than attack through it.",
+    "Every fifth round he Efreets (895 Fire plus -90% Weakness) any wizard without a Mark of Courage, plus a free Earthquake. Have your Mark up.",
+    "Vaporize dispels that Earthquake.",
+    "Quench dispels the Efreet even though it shows no animation.",
+    "You need one Quench per Efreet you want to dispel.",
+    "Attacking him with a single-target spell clears your Smoke Screens and grants a Mark of Courage (a Stun Shield). Do this early to dodge the Efreet.",
+    "Pet may-casts will not earn the Mark, so make the attack yourself.",
+    "During the Mark-of-Courage round itself, direct attacks grant no Mark. Get yours in an earlier round.",
+    "The Mark is a Stun Shield, so Earthquake and Thieving Dragon cannot remove it. One direct hit early keeps you safe from the Efreet."
+  ],
+  "groupFight": false
+}

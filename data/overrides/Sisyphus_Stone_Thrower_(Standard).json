@@ -1,0 +1,27 @@
+{
+  "strategy": [
+    "Solo-friendly (16,100 health, no minions). Know the damage cap: it is 500 until he throws his natural attack, then 1,000, 3,000, and finally 9,999 after his third, so early nukes are wasted and this is a setup-heavy grind.",
+    "Keep charms off yourself. His round-3 natural attack deals 5% max health plus 5-15% more per charm you carry.",
+    "Do not Feint or trap him raw: harmful charms and wards are pushed back to you. Protect a Feint with Indemnity or an Unbalance so it sticks instead.",
+    "Attack with Storm (+30%); he resists Myth 47% and everything else 17%. Stun him when available to skip a natural-attack turn.",
+    "Build blades on your hitter and unload once the cap has climbed to 9,999."
+  ],
+  "cheatNotes": [
+    "He interrupt-casts Equalize to cap all damage, starting at 500 and rising each time he casts his natural attack.",
+    "",
+    "",
+    "",
+    "",
+    "The Equalize is recast if replaced, and the cap does not increase for it.",
+    "At end of every third round (sooner with more wizards) he hits a random wizard for 5% max health, plus more per charm you carry.",
+    "After that natural attack he gives the target a Rock Put card.",
+    "",
+    "Any harmful charm or ward placed on him is pushed back to the caster.",
+    "Infections do not trigger this push-back.",
+    "Dispels do not trigger this push-back.",
+    "Harmful auras that cut outgoing damage, like Starfall, do trigger it.",
+    "Secondary effects from spells trigger it too, but get pushed to a random wizard.",
+    "Indemnity and Unbalance can be used to prevent this cheat, so a protected Feint sticks."
+  ],
+  "groupFight": false
+}

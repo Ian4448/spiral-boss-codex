@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Expect pip theft after his attack. Every time he uses his natural attack he interrupt-casts Steal Pips, so do not sit on a large pip pool he can raid; spend or hit before he swings.",
+    "Bank your setup before his attack turns. Blade and trap, then hit promptly rather than saving pips across his natural-attack rounds.",
+    "He opens with Dark Pact (+30%) and a protected Shadowblade, so his first hits scale up; shield or race him before that damage lands.",
+    "He resists 35% to all schools but has only 15% boost and low pierce (5%), so any school works; stack blades to overcome the flat resist.",
+    "He is stunnable and beguilable, so a stun or beguile can skip an attack (and its Steal Pips) and give you a free setup round.",
+    "Build a quick stack and burst his 7,840 Health in one hit before Steal Pips can drain your momentum."
+  ],
+  "cheatNotes": [
+    "After each natural attack he interrupt-casts Steal Pips, so avoid holding a big pip pool going into his attack turns; spend or hit first."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "Krampus punishes setup hard: casting a blade may trigger Steal Charm (he takes ALL your charms), and Global spells trigger it too. Minimize blades and hit the same round you blade so he cannot steal first.",
+    "Feint is a trap here; he Cleanse Wards twice on a Feint, which defeats Indemnity. Skip Feint and rely on hit-round blades, auras, or a Sun-enchanted big hit.",
+    "Every third round he Dimension Shifts his own traps onto a random friend or foe, so traps you place can vanish or bounce. Time traps to hit before a third-round shift.",
+    "He is Fire; bring a non-Fire hit or prism.",
+    "At Round 5 he summons Chilling and Stormy Helpers and resummons them when killed. Do not grind the adds; burst Krampus down. Join on time to avoid the late-arrival Scald and Smoke Mantle."
+  ],
+  "cheatNotes": [
+    "Late arrival eats a Shadow Scald plus a -75% Smoke Mantle. Zone in on time.",
+    "Casting a blade can trigger Steal Charm, taking ALL your charms. Blade only in the same round you hit so he cannot steal them first.",
+    "He recasts this steal at random through the fight, so never leave charms sitting for a full round.",
+    "Global spells also trigger the charm-steal. Avoid dropping globals mid-setup.",
+    "Casting Feint makes him Cleanse Ward twice, which beats Indemnity. Do not Feint him; use other setup.",
+    "Every third round he Dimension Shifts his traps onto a random friend or foe. Land your hit before the shift or the traps scatter.",
+    "At Round 5 he summons Chilling and Stormy Helpers. Do not grind them; pressure Krampus.",
+    "Killed helpers resummon after one round, so racing Krampus beats clearing adds."
+  ],
+  "groupFight": false
+}

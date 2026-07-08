@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Dungeon team fight (18,000 health). Hit with Myth (+30%) or Fire/Ice (+15%), avoid Storm (30% resist).",
+    "Any blade or global makes him Disarm the caster. Protect blades with Aegis, use armor-piercing charms (Stormspear) which do not trigger it, and funnel Aegis-blades to one hitter.",
+    "Use AoE weaknesses (Virulent Plague) rather than a single Weakness. A single Weakness on him triggers a +30% Dark Pact self-buff, while AoE weakness does not.",
+    "He self-heals every round through his cycles (Sacrifice, Spirit Armor, Healing Current), so bring Infection or Doom and Gloom to cut his healing or your damage stalls.",
+    "He runs 5-round Death, Life, and Storm cycles, each ending in a big cast on Round 5. Burst him inside a cycle before the Round-5 heals and spells while the healer covers the AoE."
+  ],
+  "cheatNotes": [
+    "Cast a positive charm or global and he interrupt-Disarms the caster, protect blades with Aegis or use armor-piercing charms.",
+    "Weapon and pet maycast blades also trigger the Disarm.",
+    "Armor-piercing charms like Stormspear do NOT trigger the Disarm, safe to cast.",
+    "Aegis protects a charm from the Disarm.",
+    "Place a single Weakness on him and he Dark-Pacts himself for +30% damage, use AoE weakness instead.",
+    "AoE weaknesses like Virulent Plague do not trigger the Dark Pact.",
+    "",
+    "During his Death cycle he Sacrifices to heal himself every round, bring Infection to cut it.",
+    "Death cycle round 5: Age of Reckoning, Virulence, a +45% Deathblade, and Call of Khrulhu, a big damage round, shield up.",
+    "During his Life cycle he adds a 500 Spirit Armor every round.",
+    "Life cycle round 5: Sanctuary, Cycle of Life, Guiding Light, and Rebirth, heavy self-healing, so burst before it.",
+    "During his Storm cycle he Healing-Currents himself every round.",
+    "Storm cycle round 5: Astraphobia, Galvanic Field, a Stormblade, and Glowbug Squall, shield for Storm."
+  ],
+  "groupFight": true
+}

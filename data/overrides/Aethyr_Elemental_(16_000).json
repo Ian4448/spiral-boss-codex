@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Join before the duel starts. Any late wizard eats Lord of Winter, and every boss present casts it, so this stacks hard in a team.",
+    "Hit Fire or Life. He resists everything else heavily (70% Ice, 50% Shadow, 25% Storm/Myth/Death/Balance) but takes +5% from Fire and Life and does not resist them.",
+    "Set up with Feints, but cover each one with Indemnity. A raw Feint triggers a double Cleanse Ward that strips it right back off him.",
+    "Do not use Heal-over-Time spells. A HoT makes him cast Snow Drift. Use flat heals if you must heal.",
+    "He is not stunable and heals at 50% incoming, so anti-heal is less urgent than just landing one big protected Fire or Life hit. Stack blades, Indemnity-lock a Feint, then swing."
+  ],
+  "cheatNotes": [
+    "Any wizard who joins after the fight begins gets hit with Lord of Winter (Shadow). Each boss on the field casts it separately, so a late joiner in a group can be hit multiple times. Enter from the start.",
+    "Placing a Feint on him triggers a double Cleanse Ward that removes the Feint you just cast. Your setup trap vanishes unless protected.",
+    "Indemnity on the Feint stops the double Cleanse Ward from removing it, so the trap survives for your hit.",
+    "Mass Feint also sets off the double Cleanse Ward, so it does not get around the cheat.",
+    "Casting any Heal-over-Time makes him cheat-cast Snow Drift. Heal with instant spells instead."
+  ],
+  "groupFight": true
+}

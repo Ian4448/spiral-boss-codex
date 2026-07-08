@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Team fight. Hit with Death (he resists Life). He is damage-immune under an Invulnerability aura until his three Enthralled Villagers die.",
+    "Focus and kill all three Villagers first, AoE clears them together. The aura cannot be removed by replacing it (Attenuate and the like will not drop the immunity).",
+    "The round after the last Villager falls he casts Frenzy and drops his invulnerability, this is your only window. He hits harder under Frenzy, so shield up.",
+    "You have about three rounds (including his Frenzy round) before he re-summons the Villagers and re-shields, so have the whole team pre-bladed to burst the moment he is vulnerable.",
+    "Supports blade the hitter and Feint him during the Villager clear, the healer keeps everyone up through Frenzy, then the hitter dumps one massive Death hit inside the window."
+  ],
+  "cheatNotes": [
+    "Round 1 he summons three Enthralled Villagers and an indefinite Invulnerability aura, he cannot be damaged until all three Villagers are dead.",
+    "You can overwrite the aura slot with a negative aura, but the Invulnerability effect itself will not come off, you must kill the Villagers.",
+    "The round after the last Villager dies he Frenzies and loses invulnerability. Kill him within about three rounds or he re-summons the Villagers and re-shields, burst him fully bladed in that window."
+  ],
+  "groupFight": true
+}

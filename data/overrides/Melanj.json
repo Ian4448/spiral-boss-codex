@@ -1,0 +1,28 @@
+{
+  "strategy": [
+    "Balance boss; she opens Round 1 with a -75% Doom and Gloom that cuts healing. Clear it with Strangle rather than a Global, which she just recasts.",
+    "Do not cast blades. A blade makes her interrupt with her natural attack, Steal Charm, and a Weakness on the caster; Aegis saves the blade but not the weakness.",
+    "Set up with traps instead of blades; traps do not trigger her, and blades given by spells or Shadow Shrike's Dragonspear are also safe.",
+    "Feints are risky too; a Feint gives a chance of Virulent Plague, and Life Feint also triggers it.",
+    "Every fifth Round she casts Sand Wurm at a random wizard; keep a heal ready on that timer.",
+    "Trap up, Feint sparingly, and finish with one hit."
+  ],
+  "cheatNotes": [
+    "Joining late gets you Mana Burned; enter on time.",
+    "She opens with a -75% Doom and Gloom that cripples healing; clear it with Strangle rather than a Global.",
+    "If you overwrite the Doom and Gloom with another Global, she just recasts it; use Strangle instead.",
+    "Strangle bypasses the Doom and Gloom cheat cleanly.",
+    "If she does keep a replacement Global, it stays put; still, Strangle is the reliable answer.",
+    "Every fifth Round she hits a random wizard with Sand Wurm; keep a heal ready on that timer.",
+    "Casting a blade makes her interrupt with a hit, Steal Charm, and a Weakness on you; set up with traps instead.",
+    "A Global like Darkwind also triggers that punish.",
+    "On a multi-target blade she only hits the caster.",
+    "Shadow Shrike's Dragonspear does not trigger the blade punish.",
+    "Aegis protects the blade from the steal, but she still lands the weakness.",
+    "Blades handed to you by spells do not trigger the punish.",
+    "Pet-cast blades do trigger it, so watch your pet.",
+    "Feinting her risks a Virulent Plague; Feint sparingly.",
+    "Life Feint also risks the Plague."
+  ],
+  "groupFight": false
+}

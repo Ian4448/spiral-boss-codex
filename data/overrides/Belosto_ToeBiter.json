@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Build a no-blade deck. Every positive charm, global, or manipulation spell you cast — including secondary effects — gets you a free 0-pip Ice hit (300 now plus 600 over 3 rounds). Blading through this on 20,520 health is a slow bleed.",
+    "Do all your setup with traps and Feints instead. The cheat only punishes positive charms, globals, and manipulation — wards on the boss are safe.",
+    "Hit with Fire or Myth (+35% boost); never Ice into his 80% resist.",
+    "He is stunable. Use stuns to cover your Feint-stacking rounds.",
+    "Expect an Ice Scarecrow (900 damage, half converted to healing him) every time anything on the field dies — including your own teammates or minions. Don't feed him kills; keep everyone alive.",
+    "Trap heavy, stun, then break him with one large Fire or Myth hit."
+  ],
+  "cheatNotes": [
+    "Casting any positive charm (blades), global, or manipulation spell triggers an instant natural attack: 300 Ice plus 600 Ice over 3 rounds, for zero pips. This is why you skip blades entirely and set up with traps.",
+    "Secondary effects count — a spell that incidentally applies a positive charm or global still triggers the counter.",
+    "Pet may-casts are safe and won't set him off.",
+    "Whenever any character on either side is defeated, he interrupt-casts an Ice Scarecrow for 900 damage that heals him for half. Keep teammates alive; every death feeds him."
+  ],
+  "groupFight": false
+}

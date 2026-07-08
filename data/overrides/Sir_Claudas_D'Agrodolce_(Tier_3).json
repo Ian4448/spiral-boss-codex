@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Hit with Life (+30%) and avoid Death (60% resist).",
+    "He self-buffs with Dark Pact and Empower to hit harder; expect his damage to ramp and keep shields up.",
+    "When you attack him he Steals Health from his partner Brulee Sucre, healing himself off her; focus one down and be ready for that transfer.",
+    "Whenever Claudas blades, Brulee casts Guidance, and Brulee self-Spirit-Armors after taking damage; account for that absorb when you hit her.",
+    "Blade up and finish Claudas with one Life hit, or split damage to drop both together."
+  ],
+  "cheatNotes": [
+    "He Dark Pacts to buff himself at a health cost; his damage ramps, so shield up.",
+    "He Empowers for extra pips and damage; expect bigger hits over time.",
+    "Attacking him makes him Steal Health from Brulee, healing himself; focus fire and expect the transfer.",
+    "",
+    "When Claudas blades, Brulee gives Guidance; his accuracy improves, so do not count on him fizzling.",
+    "Brulee Spirit-Armors herself after taking damage; account for that absorb when you hit her."
+  ],
+  "groupFight": false
+}

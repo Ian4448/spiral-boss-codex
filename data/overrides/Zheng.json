@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Stack plenty of blades and traps before hitting. He resists every school 50%, so a single unbuffed hit does little.",
+    "Bring Doom and Gloom and Infection. He has a 100% outgoing healing boost and heals himself hard, so cut his heals.",
+    "Discard the Crippling Fear cards he jams into your hand so they do not clog your draws.",
+    "Feint and blade-stack onto one hitter, apply infection, then hit hard through the 50% resist.",
+    "At 15,920 Health with heavy self-healing and blanket resist, run it as a team: a hitter, supports blading and Feinting, and someone maintaining infection."
+  ],
+  "cheatNotes": [
+    "On Round 1 he shadow-casts four Crippling Fear cards into every wizard's hand, so discard them to keep your draws clean.",
+    "",
+    "He casts another shadow spell later to hand out even more Crippling Fear, so keep discarding."
+  ],
+  "groupFight": true
+}

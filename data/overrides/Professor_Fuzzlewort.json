@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "He self-shields every Round, so raw hits get eaten, and killing him while the shield cheat is active revives him to full.",
+    "Cast the given Minotaur or Basilisk on him. It Shatters his shields and turns off the shield cheat.",
+    "He hands out those Minotaur and Basilisk cards when he revives, so the practical line is to hit him down once, let him revive, then use the given card to disable the cheat and finish him.",
+    "Hit Fire or Myth, his listed weak schools, and avoid Ice and Storm.",
+    "Watch for his Volcanic Golem (400 damage) on Rounds he attacks instead of shielding."
+  ],
+  "cheatNotes": [
+    "Each Round he shields himself with one of the following, or attacks with Volcanic Golem.",
+    "",
+    "",
+    "",
+    "",
+    "His Volcanic Golem deals 400 damage on the Round he attacks instead of shielding.",
+    "Casting the given Minotaur or Basilisk on him makes him Shatter his own shields and shuts off the shield cheat. This is the key to the fight.",
+    "If you kill him while the shield cheat is still active, he revives to full. Turn the cheat off with Minotaur or Basilisk first.",
+    "On reviving he Shield Walls and hands every Wizard the Minotaur and Basilisk cards.",
+    ""
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "He drops a random \"Krok Ankh\" hanging effect (shield, trap, blade, HoT, DoT, or weakness) on himself or a wizard on round 1, round 3, and every 3rd round after. Track every one.",
+    "He must have zero Krok Ankh effects active when he dies or he full-heals to 100%. Clear the board before your kill shot.",
+    "Each Krok Ankh needs a spell that specifically removes that effect type - Shatter/Steal Ward for a shield Ankh, Cleanse Charm for a weakness Ankh. Regular damage will not clear a shield Ankh.",
+    "Hit with Myth, Life, or Death - he takes 30% more and resists Balance 67%.",
+    "The revive heal ignores Doom and Gloom and Infection, so the only answer is a clean board on the kill turn.",
+    "As a team, assign someone to clear Ankhs each cycle, set up the hitter, confirm the board is clean, then hit."
+  ],
+  "cheatNotes": [
+    "On round 1, round 3, and every 3rd round after he places a random Krok Ankh hanging effect (shield/trap/blade/HoT/DoT/weakness) on himself or a random wizard.",
+    "Joining after round 1 also triggers a Krok Ankh. Enter on time.",
+    "Each Krok Ankh only comes off with a spell that specifically removes that effect type (Shatter/Steal Ward for shields, Cleanse Charm for weakness). Damage will not clear a shield Ankh.",
+    "If he dies with any Krok Ankh still active, he restores 100% of his health. Clear the board before the kill.",
+    "That revive heal is a max-percentage heal - Doom and Gloom and Infection cannot weaken it. Only a clean board prevents it."
+  ],
+  "groupFight": true
+}

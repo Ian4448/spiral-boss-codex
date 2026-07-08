@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Know the revive: it weakens the whole team every Round, and if you kill it while that weakness is on you it revives at full Health.",
+    "Use the Chimera it gives you. At the end of Round 3 (and after any revive) it hands each wizard a Chimera card that clears all your negative charms and DOTs; cast it right before the kill to disable the revive.",
+    "Attack with any school except Balance. It resists Balance 43% but only 13% elsewhere, so hit into anything else.",
+    "At 7,585 Health, Chimera off the weakness, blade once, and finish it in the same window.",
+    "Heal or shield through the per-Round -15% charm and 150 Balance DOT while you set up."
+  ],
+  "cheatNotes": [
+    "Every Round it interrupt-casts a -15% weakness and a 150 Balance damage-over-time on all wizards.",
+    "If you defeat it while that weakness is still on you it revives at full Health, and it reapplies the weakness every Round.",
+    "At the end of Round 3 (and after any revive) it gives each wizard a Chimera card.",
+    "",
+    "Casting that Chimera removes all your negative charms and DOTs, clearing the weakness so the revive cheat cannot trigger; do this right before the kill."
+  ],
+  "groupFight": false
+}

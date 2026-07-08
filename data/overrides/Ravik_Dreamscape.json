@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Hit with Fire or Myth (+35% each) and avoid Ice (80% resist).",
+    "He opens with a -5% Doom and Gloom on Round 1 and every fifth Round; it barely dents healing, so no special counter is needed.",
+    "He summons a Cursed Mouse Knight from Round 3, faster after Round 10 or once his first minion dies; casting a negative ward on him also triggers a summon, so avoid trapping him and race him down.",
+    "His natural attack applies an Ice Trap on you, which does not affect your Fire or Myth setup; just keep a heal ready.",
+    "Stack Fire or Myth blades and Feint, then finish before the board fills with mice."
+  ],
+  "cheatNotes": [
+    "He casts a weak -5% Doom and Gloom on Round 1 and every fifth Round; it barely affects healing, so no counter needed.",
+    "He summons Cursed Mouse Knights from Round 3, faster after Round 10 or once one dies; a negative ward on him also triggers a summon, so avoid trapping him and burst him instead."
+  ],
+  "groupFight": false
+}

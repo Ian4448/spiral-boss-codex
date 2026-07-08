@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "Hit with Death (+5%); he resists Life 50%.",
+    "Round 1 he Wings of Fate, putting a 20,000 Life DoT on every wizard (and a 20k heal on his side) that lasts the whole duel — then later he Incindiates to detonate that DoT for massive damage.",
+    "Strip that DoT with Triage/Mass Triage before he detonates it, or Shift/Detonate it away yourself.",
+    "Use Mass Feint, not single Feint — a single Feint makes him Swap Ward your traps onto you (or use Indemnity).",
+    "Blade and Mass Feint, remove the DoT, then land a Death hit before the Incindiate window."
+  ],
+  "cheatNotes": [
+    "Late wizards eat a Lamassu (984) plus the 20,000-over-100-rounds Life DoT — join on time.",
+    "Round 1 he casts Wings of Fate: a 20,000 Life DoT on all wizards and a 20,000 heal on his side, both lasting the whole fight.",
+    "Both effects persist the entire duel unless removed.",
+    "Triage or Mass Triage removes the DoT — do this before he detonates it.",
+    "Shift or Detonate can also counter the DoT.",
+    "Put a single Feint on him and he Swap Wards your traps onto you — use Mass Feint or Indemnity.",
+    "Pet-cast traps trigger the swap too.",
+    "Mass Feint does NOT trigger it — use it safely.",
+    "Indemnity prevents the trap swap.",
+    "Melt dispels the swap cheat.",
+    "He casts Incindiate to detonate the long DoT for massive damage — clear the DoT first."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Hit Fire or Myth, each +35%, and avoid Storm and Death, which he resists 43%.",
+    "He self-shields every Round and revives to full if killed while the shield cheat is on, so do not just race him.",
+    "On Round 4 he hands everyone a Helephant card. Cast it on him, or use a Fire ward-remover like Fire Elf, to strip his shields and permanently end the cheat.",
+    "With the cheat off, stack blades and drop one Fire or Myth hit to finish him."
+  ],
+  "cheatNotes": [
+    "He Tower Shields himself every Round, so a normal hit gets partly eaten.",
+    "Remove the shield with an attack and he immediately re-shields, so you cannot just chip through.",
+    "Killing him while the shield cheat is active revives him full. Turn the cheat off first.",
+    "On Round 4, or after reviving, he gives every Wizard a Helephant card.",
+    "",
+    "Casting that given Helephant on him strips all his wards and permanently ends the Tower Shield cheat. This is the key.",
+    "Any Fire ward-removal spell like Fire Elf also strips his wards and ends the shield cheat."
+  ],
+  "groupFight": false
+}

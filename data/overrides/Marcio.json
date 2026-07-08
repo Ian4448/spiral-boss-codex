@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Trap him with multi-target spells (Windstorm, Mass Feint) — single traps on Marcio get Cleansed off immediately.",
+    "Attack with Fire (he takes +35%); he resists Ice 35%.",
+    "Plan heals around his round-1 Doom & Gloom (-5%, minor) and don't try to clear it by swapping Globals (he recasts it).",
+    "Optional: attacking him while you sit at about 1/3 health makes him damage himself (800 Ice solo) — a small free chunk.",
+    "Stack blades and a multi-target trap, then burst his 9,005 health."
+  ],
+  "cheatNotes": [
+    "He opens round 1 with a -5% Doom & Gloom, lightly cutting healing — minor, but plan heals around it.",
+    "Casting a Global makes him re-cast the -5% Doom & Gloom — don't try to clear it by swapping globals.",
+    "A single Trap on Marcio gets Cleansed off immediately — use multi-target traps instead.",
+    "Multi-trap spells like Elemental Trap only lose their last trap to the Cleanse — the earlier traps stick.",
+    "Multi-target trap spells like Windstorm don't trigger the Cleanse at all — your safest trapping tool here.",
+    "",
+    "If you attack him while at about 1/3 of your health, he damages himself — a small free chunk you can exploit.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "groupFight": false
+}

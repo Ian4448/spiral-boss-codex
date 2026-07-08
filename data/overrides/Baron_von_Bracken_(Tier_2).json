@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Never Feint him. Any Feint triggers a Death Natural Attack for 210-430 on the caster. Set up with blades and non-Feint traps only.",
+    "Never chip him. Any damage or steal under 100,000 (50% of his max health) makes him full-heal and Triage himself. Every hit must clear 100,000.",
+    "Funnel all buffs onto one hitter (Elemental and Spirit blades, damage traps that are not Feint) and land one enormous hit over 100,000.",
+    "Avoid DoT-only spells like Scald that skip the initial hit; they count as sub-50% damage and trigger the full heal.",
+    "You need two 100,000+ hits to clear his 200,000 health. Hit off-school since he resists Death 55% and takes +25% from Life."
+  ],
+  "cheatNotes": [
+    "Casting any Feint on him makes him fire a Death Natural Attack at the caster for 210, 315, or 430. Skip Feint entirely.",
+    "Any damage or steal spell that deals less than 100,000 makes him heal to full and Triage. You must one-shot for 100,000+.",
+    "Damage-over-Time spells cast without their initial hit (like Scald) read as under-50% damage and trigger the full heal.",
+    "A hit over 100,000 is safe and does not trigger the heal, so build big and swing once."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Round 1 he stacks three -200% Tower Shields on himself. Each blocks one hit, so a raw attack is wasted.",
+    "Break all three shields with cheap throwaway hits (wand hits, 0-pip spells) or use Shatter/Steal Ward, then land your real hit the same combat.",
+    "Hit with Fire - he takes 35% more from Fire and resists Ice 35%.",
+    "He can be stunned and beguiled; use a stun to buy a safe setup round if you need one.",
+    "The shields reapply 3 rounds after they are destroyed, so break them and hit within that window rather than stalling."
+  ],
+  "cheatNotes": [
+    "Round 1 he puts three -200% Tower Shields on himself; each blocks one hit. Break all three (cheap hits, Shatter, or Steal Ward) before your real attack.",
+    "Destroyed shields come back 3 rounds later. Clear them and hit inside that window - do not stall."
+  ],
+  "groupFight": false
+}

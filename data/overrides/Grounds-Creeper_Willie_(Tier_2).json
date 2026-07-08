@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "Every time he is attacked he interrupt-casts Orthrus back on you, so avoid chip damage - set up fully and end it in as few hits as possible.",
+    "Do not join late; latecomers get handed Banish cards, and he also hands out Banish after round 1.",
+    "He is immune to globals, so do not waste a turn on Sun/Balance global buffs.",
+    "His Mana Burn hits all wizards and strips a Shadow Pip, so do not hoard shadow pips waiting to spend them.",
+    "Stack blades and a Feint, heal or shield for the Orthrus counter, then land one large hit."
+  ],
+  "cheatNotes": [
+    "Join late and he gives every wizard a Banish card (costs a shadow pip to use). Enter on time.",
+    "",
+    "After round 1 he hands wizards a Banish card - a shadow-pip spell dropped into your hand.",
+    "Whenever you damage him he interrupt-casts Orthrus back on you. Hit big and rarely rather than chipping.",
+    "If a wizard heals, he gives wizards Donate Shadow (grants shadow pips) - harmless to you.",
+    "",
+    "He casts an all-wizards Mana Burn that also removes a Shadow Pip. Spend pips before he burns them.",
+    ""
+  ],
+  "groupFight": false
+}

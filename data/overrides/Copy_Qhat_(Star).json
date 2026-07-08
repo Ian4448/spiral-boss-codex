@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "Target the enemy Copy Qhat (Moon) first. Defeating it shuts off all the endless summoning cheats.",
+    "Avoid Myth (68% resist). The boss has almost no other weakness, so use your strongest non-Myth school (Storm gets a slim +5%).",
+    "He is stunable and beguilable. A stun or beguile buys safe setup rounds against the summon spam.",
+    "Expect copies to keep spawning on both sides until the Moon copy is dead, so use AoEs to clear the board while you set up.",
+    "With the summons cut off, blade up and burst the Star boss down."
+  ],
+  "cheatNotes": [
+    "",
+    "Joining after Round 2 gets you hit with a Star Mana Burn, so be in the fight from the start.",
+    "",
+    "The ally Copy Qhat (Moon) on the enemy side casts Bladestorm (+25%) buffing the whole enemy team, another reason to remove it fast.",
+    "",
+    "",
+    "",
+    "The Moon copy summons another Copy Qhat (Moon) into any open enemy slot, refilling their side.",
+    "It also drops a Copy Qhat (Moon) onto your team's first open slot.",
+    "If no Copy Qhat minion is on your team, it summons one whenever a slot opens.",
+    "The summoned Copy Qhat overwrites a minion you summoned unless every duel slot is already full.",
+    "Defeating the enemy Copy Qhat (Moon) shuts off every one of these summon cheats. Make it your first kill."
+  ],
+  "groupFight": false
+}

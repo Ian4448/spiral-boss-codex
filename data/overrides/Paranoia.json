@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "Attack with Myth (+30%); he resists Storm 54% and everything else 24%.",
+    "His key cheat: every normal blade you cast makes him shield the matching school. Use alternative blades like Raindrop Blade or Catch of the Day, which do not trigger any shield, so you can set up freely.",
+    "He Dispels the school you have the most pips in starting round 4 (every 2 rounds after), so set up and hit before round 4, or avoid over-relying on your main school's pips.",
+    "He recasts Astraphobia (round 1) whenever it is replaced, so do not fight the Global.",
+    "Blade with alt-blades and a Feint, then land one big Myth hit before the Dispel cycle bites."
+  ],
+  "cheatNotes": [
+    "",
+    "He casts Astraphobia round 1 and recasts it whenever replaced, so do not waste turns changing the Global.",
+    "Starting round 4 (and every 2 rounds after) he Dispels your highest-pip school, so hit before then or vary your pips.",
+    "A single normal blade makes him drop a -80% Shield of that school, or a -70% Tower for Balanceblades. Use alternative blades instead.",
+    "Elemental or Spirit Blade makes him cast Elemental or Spirit Shield.",
+    "Star, Moon, or Sun Blade triggers the matching -50% triple shields.",
+    "Alternative blades like Raindrop Blade or Catch of the Day do not trigger any of it, so build your setup with these."
+  ],
+  "groupFight": false
+}

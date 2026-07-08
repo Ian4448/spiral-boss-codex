@@ -1,0 +1,37 @@
+{
+  "strategy": [
+    "Run this as a 4-wizard team: two supports (a Death wizard is a must, for Bad Juju to cut his 200% outgoing damage) and two hitters, one to clear the Bile minions and one to burst the Devourer.",
+    "He resists 70% to almost every school and only takes a small boost from Life and Balance, so build your hits around Life/Balance or prism into them.",
+    "Protect every blade: if a blade sits on you for three rounds he casts an AoE Steal Charm that takes a charm from all wizards. Use Aegis, Elemental/Spirit Blades, or Precision and hit before that timer.",
+    "Keep only one Feint at a time and shield it with Indemnity cast right before the hitter attacks, or his SHRIEK cheat cleanses your traps and each removed trap becomes a protected +100% Balanceblade for him.",
+    "Kill the Bile minions fast, prioritizing the Myth Bile (Noxious) for its Earthquake, so the boss is left standing alone for the burst.",
+    "Plan around the devour: after Round 1 and Round 5 he devours a random wizard, then spits them back for heavy Shadow AoE (up to 4,500) three rounds later. Arrange things so your main hitter is not the one locked out during the burst window.",
+    "Go first in turn order so your protected blades and Indemnity resolve before his cheats do."
+  ],
+  "cheatNotes": [
+    "Join before the fight begins. If you enter late he instantly devours you, removing you from combat entirely.",
+    "He opens Round 1 by summoning one Bile minion; each Bile is tied to a school (Fire, Ice, Storm, Myth, Life, Death, or Balance).",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "After Round 1 and again after Round 5, a Natural Attack devours a random wizard; the cycle stops once two wizards have been devoured.",
+    "That devour attack strips all unprotected wards, charms, and auras from its target, so Aegis-protect key blades before it can land.",
+    "A devoured wizard is fully locked out: no interface, forced to pass, cannot be targeted, and gains no pips until returned.",
+    "Three rounds after devouring, he hits the whole team for 1,500 Shadow and returns the devoured wizard to the fight.",
+    "Any spell or cheat he casts past that three-round mark triggers the spit-back-and-damage, so expect the AoE roughly on schedule.",
+    "Along with returning the wizard, he summons another Bile minion.",
+    "Leave a blade on yourself for three full rounds and he casts an AoE Steal Charm that takes one positive charm from everyone. Hit within two rounds of blading, or protect the blade.",
+    "Example: a Stormblade cast on Round 1 gets stolen from the whole team at the start of Round 3.",
+    "SHRIEK: placing a Feint on him triggers a Shadow Cleanse Ward (-2) that removes your last two traps.",
+    "Protect Feints with Indemnity to stop the SHRIEK cleanse from removing them.",
+    "At the end of every fourth round he Cleanse Wards himself, wiping all traps, so land your hit before that window.",
+    "Every trap he removes this way becomes a protected +100% Balanceblade on him or his minions, so don't over-stack traps you can't cash in first.",
+    "An Indemnity-protected trap he removes gives him two Balanceblades instead of one."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

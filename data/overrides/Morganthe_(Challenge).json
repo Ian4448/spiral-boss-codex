@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Shadow rematch (48880) that resists every normal school 300%. Your regular spells barely scratch her; you win with the Shadow cards she gives you.",
+    "Round 1 she hands everyone two Shadow Empower cards; round 2, two Dark Nova cards. Use Shadow Empower to build shadow pips, then hit with Dark Nova (Shadow, only 19% resisted).",
+    "Every round she hits all wizards with a Shadow attack scaling per shadow pip (300, or 600 per shadow pip). Keep the team healed and do not over-hoard shadow pips into her scaling hit.",
+    "Coordinate: everyone Empowers, then unloads Dark Nova together for a burst that adds up across the team."
+  ],
+  "cheatNotes": [
+    "",
+    "Round 1 she gives everyone two Shadow Empower cards. Use them to build the shadow pips you need for Dark Nova.",
+    "",
+    "Round 2 she gives two Dark Nova cards each. These Shadow hits are your real damage; she resists Shadow only 19% versus 300% for everything else.",
+    "",
+    "Every round she hits all wizards with 300 Shadow, or 600 per shadow pip. Do not sit on shadow pips longer than needed and keep the team topped up."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Team fight at 62,930 Health. Survive the Round-1 Meteor Strike first: it deals 100% max Health ignoring resist, so open with team Absorbs. Tower and resist stacking does not help since it ignores resist.",
+    "Keep Malus dispelled. Dispels stop his Round-start Choke, Efreet, Monster Mash, and shield cheats.",
+    "Hit Storm. He resists Storm only 18% versus 38% to 58% elsewhere, so prism if off-school.",
+    "Watch his Flames of Hatred aura. Do not target or hit him while it is up, or your action is wasted, and killing him then triggers a 50% heal plus a +200% damage aura.",
+    "Strip Flames of Hatred, or wait it out, before the killing blow, then have the hitter unload a fully-stacked Storm hit.",
+    "Keep the lowest-Health member healed since Efreet targets them, and clear the three Ghost minions along the way."
+  ],
+  "cheatNotes": [
+    "If minions are up at the start of Round 1, he Meteor Strikes everyone for 100% of max Health, ignoring all resist. Stack Absorbs or a big shield before it lands.",
+    "Every Round he opens with one of the spells below. Dispels prevent these casts.",
+    "",
+    "",
+    "Efreet (1,000) hits whoever has the lowest Health, so keep your low-Health member topped up.",
+    "Monster Mash (1,170) hits whoever has the highest Health.",
+    "",
+    "",
+    "Dispels on Malus prevent his Round-start cheat casts. Keep him dispelled.",
+    "Randomly he puts a Flames of Hatred aura on himself.",
+    "If you target Malus while Flames of Hatred is up, he Supernovas it off himself for 0 damage, so targeting him is wasted that Round.",
+    "Never kill Malus while Flames of Hatred is active. He heals 50% and gains a +200% outgoing damage aura. Strip the aura first, then finish him."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "He drains your charms: at the end of each round every helpful charm your team holds feeds him up to 4 power pips. Do not sit on blades - blade the same round you hit, and lean on traps/Feint for setup.",
+    "The lower his health, the bigger the Bladestorm he self-casts each round (up to a protected +100%). Do not leave him lingering at low health; burst him from healthy to dead in one big window.",
+    "Round 1 he casts Guardian Spirit, so his first death revives him at 15% health. Plan a follow-up hit to finish the revive.",
+    "Hit with Life - he takes 30% more from Life and resists Death 79%. Deal with the Demimortal Gargoyle and Vampire minions too.",
+    "As a team: keep charms off the board until the hit turn, supports use Feint/traps, then two hits - one to consume the revive, one to finish."
+  ],
+  "cheatNotes": [
+    "Round 1 he casts Guardian Spirit on himself, so his first death revives him at 15% health. Have a second hit ready.",
+    "At the end of every round, if any wizard holds a helpful charm, he steals power pips from a random wizard - more charms, more pips.",
+    "1 helpful charm on the team = he gains 1 power pip.",
+    "2 charms = 2 power pips.",
+    "3 charms = 3 power pips.",
+    "4 or more charms = 4 power pips. Keep charms off the board except the turn you hit.",
+    "Every round he is below full health he self-casts a Bladestorm that grows as his health drops. Do not leave him at low HP.",
+    "The self-blade ranges from +20% up to +100%, and at +100% it is protected. Burst him down fast so he never reaches the big blades.",
+    ""
+  ],
+  "groupFight": true
+}

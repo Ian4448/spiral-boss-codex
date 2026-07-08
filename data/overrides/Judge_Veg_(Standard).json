@@ -1,0 +1,31 @@
+{
+  "strategy": [
+    "Round 1 he Polymorphs every wizard into a random Vegetable form (Life, Storm, Death, or Ice) for 15 rounds - you fight with that form's deck, not your own spells. Plan to win inside the polymorph.",
+    "The Death Vegetable form is best if you get it; he takes 30% more from Death and resists Life 54%.",
+    "Do not Feint him - Feint or Mass Feint makes him Cleanse Ward and strip all his negative wards. Use the polymorph's own blades and hit.",
+    "He re-polymorphs a random wizard on a timer set by party size (every 3rd round with 4 wizards, up to every 9th solo), so expect forms to shift; keep hitting.",
+    "Do not join late - a latecomer eats a Grim Grrnadier.",
+    "Watch his spell tells: Lamassu on the lowest-health wizard, Grim Grrnadier on the highest, Wings of Night, Hungry Caterpillar - spread health and heal accordingly."
+  ],
+  "cheatNotes": [
+    "A wizard who joins after round 1 is hit with Grim Grrnadier. Enter on time.",
+    "Feint or Mass Feint makes him Cleanse Ward off all his negative wards. Don't rely on traps; hit with blades instead.",
+    "Round 1 he Polymorphs every wizard into a Vegetable form for 15 rounds - you use that form's deck, not your own.",
+    "Possible form: Life Vegetable.",
+    "Possible form: Storm Vegetable.",
+    "Possible form: Death Vegetable - best against him (he takes +30% Death).",
+    "Possible form: Ice Vegetable.",
+    "He also re-polymorphs a random wizard into a random Vegetable on a timer set by party size.",
+    "Solo, the re-polymorph hits every 9th round.",
+    "With 2 wizards, every 7th round.",
+    "With 3 wizards, every 5th round.",
+    "With 4 wizards, every 3rd round.",
+    "",
+    "\"Bringing down the Veghammer\": he casts Lamassu on the lowest-health wizard.",
+    "\"As the World Turnips\": he casts Wings of Night.",
+    "\"Green Beanzooka\": he casts Grim Grrnadier on the highest-health wizard.",
+    "\"I find you in contempt of corn\": he casts Hungry Caterpillar on a random wizard.",
+    ""
+  ],
+  "groupFight": false
+}

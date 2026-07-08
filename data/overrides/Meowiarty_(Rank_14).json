@@ -1,0 +1,38 @@
+{
+  "strategy": [
+    "The guide runs this as two max-level wizards (dual-box), but the tactics scale to any small team. Pack 4-pip hitting spells for steady damage plus blades and feints for the finisher.",
+    "Round 1 the boss summons nine minions and stuns everyone: three Koolakamba Warriors (Fire, 3,845 HP), three Numbskull Ogres (Fire, 2,880 HP), and three Protection Pox (Balance, 785 HP). Clearing minions is the first order of business.",
+    "Round 2: wizard 1 casts an AoE (the author used Orthrus) while wizard 2 buffs that attack to hit both the minions and the boss hard.",
+    "Round 3: wizard 2 repeats the AoE to finish the minions before Guardian Spirit revives them to full health. The Fire minions stun and smoke-spam, the Balance Pox spam shields, so kill them fast rather than letting the fight drag.",
+    "Rounds 4-6: with the board clear, both wizards spam 4-pip hitting spells straight into Meowiarty.",
+    "Round 7: execute the alpha strike. Blade one hitter and Feint on the other, then land the killing blow. Expect a roughly 7-round clear, faster with more players."
+  ],
+  "cheatNotes": [
+    "He opens by hitting a random wizard with a deferred DoT that deals 2,345 Shadow damage after three rounds. Shield and heal it; do not Triage.",
+    "Using Triage or Mass Triage returns a 2,000 Shadow Insane Bolt on the caster, so never cleanse with it.",
+    "Every 5 rounds he places +10% lock damage wards on himself and his allies.",
+    "If all the lock wards are removed at once he Mass Triages himself, so do not clear them all in one shot.",
+    "If the last lock is removed by an all-enemies AoE, he hits that caster with a 2,000 Shadow Insane Bolt.",
+    "If any locks remain after 5 rounds he reapplies the Shadow deferred DoT and replaces the locks, so chip them down in time.",
+    "Casting an Aura makes the O'Leary Thug hit you with Supernova (535, 85%), so avoid auras.",
+    "Casting a spell with 5 or more pips triggers Mana Burn on you, so keep pips low when you cast.",
+    "When one of his side lands an attack, the Midnighter Empowers an ally.",
+    "Any fizzle triggers a 1,000-damage Black Cat on the fizzled spell's target, so keep your accuracy high.",
+    "Casting a blade triggers Dark Pact (+30%) on the receiver.",
+    "Every 3rd round Dr. Von's Monster (~1,005) hits a random wizard.",
+    "Every 4th round Monster Mash (~1,170) hits a random wizard.",
+    "A blade also draws an Enfeeble onto the receiver.",
+    "Putting a negative damage charm on an enemy makes him Cleanse Charm the whole team.",
+    "A blade can be Steal Charmed off the receiver, then Cleansed off him.",
+    "Universal blades, Elemental Blade, or Fireblade get Steal Charmed off the receiver.",
+    "Any universal trap on an enemy triggers Backdraft on the wizard who cast it.",
+    "A single trap or DoT on a wizard triggers Detonate on that wizard.",
+    "Any universal shield gets Steal Warded off the receiver.",
+    "A school-specific shield gets Steal Warded off the receiver and destroyed.",
+    "Any Heal-over-Time triggers Snow Drift on the receiver.",
+    "Pet heals trigger that Snow Drift too, so watch your pet.",
+    "When an enemy takes DoT damage, an ally gets Cooldown."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

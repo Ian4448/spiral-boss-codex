@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Keep a minimal deck of blades, Feints, and one primary attack so you draw what you need. This is a fast burst fight: get your buffs on and get out.",
+    "Send one wizard in first (Solo Scout) to draw the minions' opening spells like Leviathan and Storm Lord alone, preserving the team's blades.",
+    "Clear the minions the boss summons at the end of round 1 (two Hagakure Blades and a Seijun Killer) before they land their big hits, then focus the boss.",
+    "Do not shield. He ghost-casts Shatter on any helpful Ward, so avoid Rebirth and Spirit Armor healing; heal with flat heals and use Triage or Strangle to manage his Death DoT instead.",
+    "Manage the DoT cheat: at the end of round 2 (and every 5 rounds after) he lays a 575 Death-per-round DoT for 10 rounds on the wizard with the most threat or the first (Sun) spot. Triage it off, because at round 5 he Detonates it for 2,800 Death on that same wizard.",
+    "Build blades and Feints on one Primary Hitter while the Support cleanses DoTs, account for his Fortify raising his effective 21,760 health, then burst him down with one large single-target hit."
+  ],
+  "cheatNotes": [
+    "At the end of round 1 he summons two Hagakure Blade minions and one Seijun Killer, which act starting round 2. Plan to clear them or tank their hits.",
+    "At the end of round 2, and every 5 rounds after, he casts a Death DoT (400 Death per round, 575 in Shadow form, for 10 rounds). Remove it with Triage or block it with Strangle.",
+    "That DoT lands on whoever has generated the most threat, or the first-spot (Sun) wizard by default, so your hitter is the likely target. Cleanse it off them.",
+    "At the end of round 5, and every 5 rounds after, he Detonates the DoT for 2,800 Death damage on the wizard who took it. Triage the DoT before this fires.",
+    "If you Dispel that Detonate, he simply re-casts it to hit his target anyway, so dispels do not save you here. Remove the DoT instead.",
+    "If any wizard casts a helpful Ward, he interrupt-Shatters it on the caster. Skip shields and Spirit Armor healing entirely.",
+    "Pet-cast wards do not trigger the Shatter cheat, so pet shields are safe to use."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

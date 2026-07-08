@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Solo-friendly (5,325 health). Do not cast shields: each one gives you a +35% Myth Trap so the boss hits you harder.",
+    "Do not cast weaknesses or harmful charms on the tentacles; they Tower Shield the target, or Legion Shield if it is an all-enemies charm.",
+    "Hit with Fire or Life (only 8% resist); avoid Ice and Death (48%).",
+    "Killed tentacle minions resummon the next round, so do not chase them. AoE the boss and minion together, or blade a single hit onto the boss and race it down.",
+    "Blade up (charms are safe), skip shields and weaknesses, then unload."
+  ],
+  "cheatNotes": [
+    "Every shield you cast puts a +35% Myth Trap on you, so the boss hits you harder. Skip shields.",
+    "Even an all-allies shield only yields one Myth Trap, on the caster.",
+    "Casting a weakness or harmful charm on a tentacle makes it Tower Shield the target instead. Do not debuff with charms.",
+    "An all-enemies weakness like Plague makes it cast Legion Shield on the whole group.",
+    "Kill a tentacle minion and it returns the next round, so race the boss down rather than chasing minions."
+  ],
+  "groupFight": false
+}

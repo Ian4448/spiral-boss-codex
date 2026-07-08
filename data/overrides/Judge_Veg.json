@@ -1,0 +1,27 @@
+{
+  "strategy": [
+    "Hit with Death (+5%) and never Life (70% resist). His 75% outgoing healing means bring Infection or Doom and Gloom to cut his self-heals.",
+    "Both Feint and Mass Feint make him Cleanse Ward off all his negative wards, so protect your Feint with Indemnity to keep it stuck.",
+    "He Polymorphs a random wizard into a Vegetable form at the end of Round 1 and repeatedly after, locking you out of your deck for 15 rounds. Race him and keep pips banked for when you revert.",
+    "Stack blades and an Indemnity-Feint early before you risk being polymorphed, then hold your big Death hit for a turn you are in normal form.",
+    "Expect multiple cheats in one round (Lamassu, Wings of Fate, Grrnadier at random wizards), so keep shields and heals up through the chaos."
+  ],
+  "cheatNotes": [
+    "He often fires several of these cheats in the same round, so expect stacked effects.",
+    "Join after Round 2 and he interrupt-casts Grrnadier on you.",
+    "Feint or Mass Feint makes him Cleanse Ward all his negative wards off, protect your Feint with Indemnity.",
+    "At the end of Round 1 he Polymorphs a random wizard into a Vegetable form for 15 rounds, locking your deck.",
+    "",
+    "",
+    "",
+    "",
+    "He casts Lamassu on a random wizard, a hard hit, keep shields ready.",
+    "He casts Wings of Fate on a random wizard.",
+    "He casts Grrnadier on a random wizard.",
+    "He Polymorphs a random wizard into a Vegetable form.",
+    "He simply passes this turn, a free round for you.",
+    "He switches an already-polymorphed wizard into a different Vegetable form.",
+    "He Polymorphs a random not-yet-polymorphed wizard into a Vegetable form."
+  ],
+  "groupFight": false
+}

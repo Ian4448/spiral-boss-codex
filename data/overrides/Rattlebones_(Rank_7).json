@@ -1,0 +1,27 @@
+{
+  "strategy": [
+    "Death boss that resists Death and Ice 80%, so hit with Fire or Life (each +10%) and never attack into Death or Ice. He cannot be stunned.",
+    "Feint gets Swap Warded straight back onto you, so protect it with Indemnity, dispel with Melt, or skip Feint and stack blades instead.",
+    "Do not heal in the open: any heal, pets included, triggers Doom and Gloom. Bring Strangle to dispel it or top up before it lands.",
+    "The Fairy Queen summons two 1,750-health Fairies on Round 1 and every 4 rounds after a minion dies, and can Enfeeble the wizard who blades or casts a global, so spread setup out or Dissipate the Enfeeble.",
+    "Funnel blades to one hitter, keep the Fairy adds in check, then land one big Fire or Life hit."
+  ],
+  "cheatNotes": [
+    "Join before combat starts or the latecomer gets Mana Burned.",
+    "You can Unbalance to dispel that Mana Burn.",
+    "If Rattlebones is already down, the Fairy Queen throws the Mana Burn instead.",
+    "Any healing spell makes him drop Doom and Gloom to choke your heals.",
+    "Strangle removes that Doom and Gloom.",
+    "Even pet may-cast heals set off the Doom and Gloom.",
+    "Feint him and he Swap Wards it, moving the bigger trap onto you, a bad trade.",
+    "Melt can dispel the swapped-back trap.",
+    "Indemnity stops the Feint swap entirely, the cleanest fix.",
+    "The Fairy Queen summons two random-school 1,750-health Fairies on Round 1 and again every 4 rounds after a minion dies.",
+    "Entangle will not stop the summon, it just delays the Fairies going active by two rounds.",
+    "Blading or casting a global can draw an Enfeeble onto that wizard from the Queen.",
+    "Dissipate removes the Enfeeble.",
+    "With a mass blade like Bladestorm she only Enfeebles the caster, not the whole team.",
+    "Feint on the Fairy Queen gets swapped back the same way, so protect or skip it there too."
+  ],
+  "groupFight": false
+}

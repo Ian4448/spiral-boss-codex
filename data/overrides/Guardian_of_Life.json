@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "On round 1 it sets an Equalize Global capping all damage to 1 and starts regenerating about 1 health per round, so brute force barely works and it revives if you kill it under the Equalize.",
+    "Replace the Equalize Global with your own Global spell first. That lifts the damage cap so a normal hit ends it, and the I survive revive (which only triggers while Equalize is active) never fires.",
+    "If you cannot overwrite the Global, out-pace the regen: with the cap at 1, several wizards each landing a 1-damage hit per round beats its ~1-per-round heal.",
+    "Watch its percent-max-health attacks (Leprechaun ~20%, Nature's Wrath ~30%) and keep the group healed.",
+    "Coordinate the kill so it happens after the Global is replaced."
+  ],
+  "cheatNotes": [
+    "Round 1 it heals 10 over ten rounds and drops an Equalize capping damage to 1. Overwrite that Global with your own so you can actually deal damage.",
+    "If you kill it while the Equalize is still up, it revives at 1 health and heals again. Replace the Global before the killing blow."
+  ],
+  "groupFight": true
+}

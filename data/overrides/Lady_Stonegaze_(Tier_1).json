@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Do not cast any of your own spells on her. Anything you cast, even AoE, turns you into a Statue for 99 rounds (the deck is all Pass cards plus one Break Free).",
+    "She hands every non-polymorphed wizard a Blindfolded Hit card at the end of every other round. Attack only with these.",
+    "She must be defeated with a Blindfolded Hit; killing her with any other spell full-heals her via Moon Blessing.",
+    "Pass and bank Blindfolded Hits, then finish her with them; she is only 2700 health."
+  ],
+  "cheatNotes": [
+    "",
+    "Casting any spell on her, even AoE, polymorphs you into a Statue for 99 rounds, so never cast your own spells at her.",
+    "The Statue deck is 77 cards, all Pass except one Break Free, so you are stuck until you draw it.",
+    "Killing her with anything other than a Blindfolded Hit fully heals her, so only finish with the Blindfolded Hits she gives you.",
+    "She hands out a Blindfolded Hit to each un-polymorphed wizard every other round; these are your only weapons.",
+    ""
+  ],
+  "groupFight": false
+}

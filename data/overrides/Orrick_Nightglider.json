@@ -1,0 +1,32 @@
+{
+  "strategy": [
+    "Death boss: hit with Life (+50%); Death is resisted 80%. He is stunable if you need to buy a round.",
+    "The biggest danger is Heck Hound (1,820 Fire over 3 rounds) every 3 rounds while he is above 4,000, and again below 2,000. Pack Triage or Fire resist, or Dispel it.",
+    "Single traps get Cleanse Warded off him, so set up with prisms or mass traps like Windstorm, or lock a trap in with Indemnity.",
+    "Between 4,000 and 2,000 health he Tower Shields (-65%) every time he takes damage, and multi-hit spells shield him per hit, so hit with one big single Life spell, not chip or multi-hit.",
+    "Dropping him below 4,000 spawns three Stompers that go active two rounds later, so plan your burst to blow through 4,000 down toward 2,000 in one hit.",
+    "Below 2,000 expect a 750 Myth Earthquake and another Heck Hound; finish him quickly."
+  ],
+  "cheatNotes": [
+    "Single traps get Cleanse Warded off him, so set up with prisms or mass traps, or lock a trap in with Indemnity.",
+    "Prisms and Windstorm-style mass traps do not trigger the Cleanse, so they are your safe trap options.",
+    "You can Dispel the Cleanse cheat or block it with Indemnity.",
+    "Heck Hound deals 1,820 Fire over 3 rounds every 3 rounds while he is above 4,000, the fight's biggest threat; Dispel it or carry Triage.",
+    "Beguiling him does not stop the Heck Hound from landing on a wizard.",
+    "From Round 4 he interrupts with Meteor Strike for 750 Fire.",
+    "That Meteor Strike can be Dispelled.",
+    "Beguile buys one round of delay on it when he has no minions out.",
+    "",
+    "Dropping him below 4,000 brings in three Stompers that go active two rounds later; plan for the adds before you cross that line.",
+    "Fleeing and returning will not clear the Stompers.",
+    "Below 4,000 he resumes Meteor Strike every 3 rounds once the cycle resets.",
+    "Between 4,000 and 2,000 he Tower Shields (-65%) every time he takes damage; hit him with one big spell, not chip damage.",
+    "Drain spells do not trigger that Tower Shield.",
+    "Multi-hit spells such as Minotaur give him a shield per hit, so avoid them in this health range.",
+    "Damage-over-time also triggers the shield, applied after his turn.",
+    "",
+    "Below 2,000 he interrupts with a 750 Myth Earthquake that leaves your charms and wards alone; it can be Dispelled.",
+    "Below 2,000 the 1,820 Heck Hound returns every 3 rounds, so burst him out of this range fast."
+  ],
+  "groupFight": false
+}

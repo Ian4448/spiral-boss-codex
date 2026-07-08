@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Killing the StrawHouse makes the StickHouse Sandstorm you every round; killing the StickHouse makes Tamworth Big Bad Hound you every round. The longer minions stay dead while the boss lives, the more AoE you eat.",
+    "Best line: AoE all three houses down together so no interrupt cheat ever starts. Stack blades/traps and hit with one AoE.",
+    "If you cannot one-shot the board, kill the minions last (or the same turn as Tamworth) to minimize the interrupt rounds.",
+    "Hit with Myth, Life, or Death - they take 13% more and Tamworth resists Balance 70%."
+  ],
+  "cheatNotes": [
+    "Once the StrawHouse is defeated, the StickHouse interrupt-casts Sandstorm every round until it dies. Do not leave it alive alone.",
+    "Once the StickHouse is defeated, Tamworth interrupt-casts Big Bad Hound every round. Finish him fast after this point.",
+    "Beguiling the StrawHouse triggers the first cheat; Beguiling the StickHouse triggers both. Avoid Beguile on the minions."
+  ],
+  "groupFight": false
+}

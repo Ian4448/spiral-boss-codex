@@ -1,0 +1,31 @@
+{
+  "strategy": [
+    "Plan is simple in shape: blade a single hitter and finish with an AoE that one-shots Lambent Fire and the Skirker Buster minions together. Bring a tank/healer because his blade and trap punishments deal constant damage.",
+    "Lambent Fire has 60% Fire resist and takes 30% extra from Ice, so hit with Ice rather than Fire.",
+    "Blade very carefully. Non-Fire, non-universal blades make him cast Brimstone Revenant on the wizard who got the blade; universal blades make him Steal Charm it; even Fire damage blades (including Elemental Blade) randomly trigger the steal. Keep blade counts low, lean on an Aura for damage, and let the healer cover the Brimstone hits.",
+    "Do not use universal traps. Any universal Trap, Mass Feint, or Mass Hex on Lambent Fire makes him Immolate the caster. Set up with school-specific Ice Traps instead of trapping him with universal traps.",
+    "Account for the minions' death cycle: end of Round 1 a Skirker Dark Pacts the boss (+30%), end of Round 2 a Skirker Sacrifices to heal him, end of Round 3 a Skirker throws Cursed Juju on a random wizard. He also resummons dead Skirkers each round, so wipe them in the same AoE as the boss.",
+    "Burst everything down in one AoE round rather than grinding, since he re-Firespears himself after every damage spell and keeps resurrecting minions."
+  ],
+  "cheatNotes": [
+    "Every time Lambent Fire casts a damage spell he gives himself a Firespear (armor pierce), so his return hits punch through your shields. Keep resist and healing up.",
+    "If you put any non-Fire, non-universal blade on someone (like a Stormblade or Iceblade), he casts Brimstone Revenant on that wizard. Blade sparingly and heal the recipient.",
+    "If you put a universal blade (like Balanceblade) on someone, he Steal Charms it right off them, so universal blades are usually wasted.",
+    "If you use a spread blade like Bladestorm, only the actual caster gets hit by the blade-punishment cheat, not the whole team.",
+    "Casting any Fire damage blade, Elemental Blade included, has a random chance to trigger the Steal Charm cheat, so even on-type blades aren't safe.",
+    "Pet may-cast blades count too and can randomly set off the Steal Charm cheat. Watch what your pet throws out.",
+    "If you put a universal Trap on Lambent Fire, he Immolates the wizard who cast it. Use school-specific Ice Traps instead.",
+    "Mass Feint and Mass Hex both count as universal traps here and will trigger the Immolate-on-caster punishment.",
+    "When a Skirker Buster uses its 2,050 Fire Natural Attack, it also Immolates itself for 100% of its max health, so the minions damage themselves after hitting you.",
+    "At the end of each round Lambent Fire resummons every Skirker Buster that died or is missing, so killing them alone accomplishes nothing. Kill them in the same AoE as the boss.",
+    "This resummon is currently bugged so the Skirkers cannot actually join the duel circle.",
+    "",
+    "With all three Skirker Busters present, this death cycle runs at the end of each round and repeats every three rounds.",
+    "At the end of Round 1, the first Skirker casts Dark Pact (+30%) on Lambent Fire, boosting his damage.",
+    "At the end of Round 2, the second Skirker casts Sacrifice (Death) to heal Lambent Fire.",
+    "At the end of Round 3, the third Skirker casts Cursed Juju on a random wizard, weakening the team.",
+    "That Round 3 Cursed Juju is skipped if any wizard flees the duel."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

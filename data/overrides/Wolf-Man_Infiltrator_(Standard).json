@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "His minion, the Mysterious Werewolf, revives once at full Health and then leaves combat, so expect to kill it twice before it is gone for good.",
+    "While the Werewolf lives it runs a 4-Round cycle: a double +30% Bladestorm on Round 1 and a -40% Balance Legion Shield on all allies on Round 2, so both bosses get buffed and shielded.",
+    "Break the Legion Shield or pierce through it before your real hit, and try to time your burst after the shield Round.",
+    "The boss is Myth and resists Myth 69% and other schools 39% but takes 30% more from Storm, so bring Storm.",
+    "Funnel blades to one hitter, deal with the reviving Werewolf, then burst the Infiltrator through the shield cycle."
+  ],
+  "cheatNotes": [
+    "When the Mysterious Werewolf is defeated, it revives at 100% max Health and leaves combat at the end of the turn.",
+    "",
+    "This minion cheat cycle repeats every 4 Rounds as long as the Werewolf is alive.",
+    "On the first Round of the cycle the Werewolf casts a Bladestorm giving two +30% damage charms to all allies.",
+    "On the second Round of the cycle the Werewolf casts a Balance Legion Shield giving a -40% damage ward to all allies."
+  ],
+  "groupFight": false
+}

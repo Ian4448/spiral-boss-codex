@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Attack with Storm or Life (his listed boost schools); he resists Fire, Ice, and Death.",
+    "Do NOT clear his minions or beguile him — killing minions and beguiling both stack extra Frozen Armor absorbs on him, making him far tankier.",
+    "He opens with only one 800-damage absorb, so focus Eirikur directly through that single shield while leaving the Thundersnow Trolls alive.",
+    "Stack blades, traps, and a Feint, then hit for well over 800 to punch through the opening absorb and into his health.",
+    "Watch his natural attack, which applies a universal pierce to his side; keep your own resist in mind."
+  ],
+  "cheatNotes": [
+    "He opens with a Frozen Armor absorbing 800 damage — your first hit needs ~800 of overkill just to start denting his health.",
+    "Kill two of his minions and he gains a second absorb (1,600). Leave minions up if you can and focus him directly.",
+    "Killing his last minion hands him a third absorb (3,200). Clearing the minions makes him tankier, not easier.",
+    "Beguiling him also triggers those last two absorbs (4,800 total) — don't beguile this boss; just burst him through the single opening absorb."
+  ],
+  "groupFight": false
+}

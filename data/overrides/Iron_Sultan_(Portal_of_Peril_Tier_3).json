@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "Attack with Myth (he takes +30% Myth); never Storm (51% resist) and expect 21% resist on the other schools.",
+    "Set up fully before you swing. Any all-enemy or targeted attack makes him cheat-cast Hamadryad, healing every enemy ~800 and cleansing their DOTs, unless the attack defeats him.",
+    "Focus the Sultan and one-shot him. The heal does not fire if that attack kills the Iron Sultan, so line up a bladed kill hit rather than chipping.",
+    "Protect your Feint with Indemnity. Feinting him makes him Cleanse Ward twice and strip his harmful wards, wiping the Feint.",
+    "Account for the Gold Dragon's round-one Shadow Sentinel (75% intercept), which soaks and redirects hits, so clear the Dragon or plan around it.",
+    "Top up the lowest-Health wizard before Round 5. He casts +35% Darkwind at the end of every fifth Round, then immediately hits the lowest-Health wizard with Iron Sultan. Do not join late."
+  ],
+  "cheatNotes": [
+    "A wizard who joins late gets hit with Iron Sultan (Shadow) immediately, so enter on time.",
+    "On Round 1 the Gold Dragon gives itself a Shadow Sentinel with 75% intercept, 100 Critical Block, and -30% incoming, so it soaks and redirects hits; clear it or plan around the intercept.",
+    "Any all-enemy or targeted-enemy attack makes him cheat-cast Hamadryad, healing every enemy ~800 and cleansing their DOTs, so set up fully and only swing when you can kill him.",
+    "That heal does not fire if the attack defeats the Iron Sultan, so one-shot him to skip it entirely.",
+    "Feinting him makes him Cleanse Ward twice and strip all his harmful wards, wiping your Feint, so protect it with Indemnity.",
+    "At the end of every fifth Round he casts a +35% Darkwind global.",
+    "Right after that Darkwind he hits the lowest-Health wizard with Iron Sultan, so heal that wizard above the danger line before Round 5 ends."
+  ],
+  "groupFight": true
+}

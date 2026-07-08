@@ -1,0 +1,38 @@
+{
+  "strategy": [
+    "Waterworks finale team fight. Two alternating globals: light Doom and Gloom lets you cast Traps/Prisms (but strips positive charms), dark Doom and Gloom lets you cast Blades (but strips traps). They swap every ~4 rounds.",
+    "Match your setup to the global: lay Feints and traps during the light cycle, blades during the dark cycle. Protect one charm with Aegis and one trap with Indemnity across the swap.",
+    "When you attack, always activate a Trap (during light) or a Blade (during dark) — a single-target hit without one makes the enemy you hit cheat-cast (Sylster's 1,460-1,540 Ra, Scarecrow, or a Rebirth heal).",
+    "Multi-target traps (Windstorm, Mass Prisms) don't get stripped, and hits that also AoE (like Sun Serpent) still count — use these to play around the cycle. Never cast a Global, he replaces it with the current Doom and Gloom.",
+    "Funnel to one hitter, set up a trap-and-blade layered hit for a cycle where both are allowed, and burst. If Sylster dies the cheats pass to the Spellhammer Sorcerer, then the Water-Wing."
+  ],
+  "cheatNotes": [
+    "",
+    "During the light Doom and Gloom you may cast Traps and Prisms, but he Cleanse Charms three positive charms off the caster — save blades for the dark cycle.",
+    "Dissipate dispels this light cheat.",
+    "Negative charms (Weakness, Smoke Screen, Dispels) trigger the charm removal.",
+    "Pet spells don't trigger it.",
+    "Shadow Creature blades trigger it.",
+    "Aegis protects one charm from removal.",
+    "On the light cycle starting round 8 he strips three positive charms off all wizards and three traps off himself and his minions.",
+    "During the dark Doom and Gloom you may cast Blades and positive charms, but he Cleanse Wards one trap or prism off — save traps for the light cycle.",
+    "Vaporize dispels this dark cheat.",
+    "Elemental/Spirit Traps only lose their last part (Storm, Life).",
+    "Multi-target trap spells (Windstorm, Mass Prisms) don't get stripped — use them.",
+    "Indemnity protects one trap from removal.",
+    "On the first round of the dark cycle he strips three traps off himself and his minions.",
+    "Attack single-target without activating a trap (light) or blade (dark) and the enemy you hit cheat-casts a punish spell.",
+    "Sylster's punish is Ra for 1,460-1,540 Balance.",
+    "Unbalance dispels that Ra cheat.",
+    "The Spellhammer Sorcerer's punish is Scarecrow for 600 Death.",
+    "The Water-Wing's punish is a Rebirth healing 750 (375 under Doom and Gloom).",
+    "Enemy attack spells don't trigger the punish.",
+    "Single-target hits that also AoE (Sun Serpent) still count as answering the cycle.",
+    "Cast any Global and he replaces it with the current Doom and Gloom — don't bother.",
+    "Strangle can dispel either Doom and Gloom, but charms/traps still get removed if cast during the wrong global.",
+    "",
+    "If Sylster dies, the Spellhammer Sorcerer takes over the cycle, restarting with the light Doom and Gloom.",
+    "If Sylster and the Spellhammer both die, the Water-Wing takes over the cycle."
+  ],
+  "groupFight": true
+}

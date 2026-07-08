@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "Hit Storm - he takes boosted Storm damage and resists Fire, Ice, and Myth. He is not stunable, so plan around his cheats rather than locking him.",
+    "Expect two summons at the end of round 1 (Edacious Ogre, then Rude Goblin). Do not tunnel the minions - killing a minion before Barbarous just respawns a Rude Goblin at end of round.",
+    "Focus Barbarous himself. Because he self-blades every round and goblins keep feeding blades, the fight only shortens by killing the boss, not the adds.",
+    "Plan your kill as one big Storm AoE that takes the boss and both minions together, so nothing respawns after he dies.",
+    "Track his growing blades: he gains a 20-25% Bladestorm every round and goblins stack Balanceblades. Feint the boss and swing before his stacked charms turn a natural attack into a spike."
+  ],
+  "cheatNotes": [
+    "At the end of round 1 he summons minions in a fixed order.",
+    "",
+    "",
+    "At the start of every round he self-casts a Bladestorm - either an unprotected 20% or a protected 25% - so his attack grows each round you delay.",
+    "If any minion dies before Barbarous does, a Rude Goblin is summoned at the end of the round to replace it. Kill the boss first or kill everything at once.",
+    "Only one Rude Goblin is replaced per round, so a same-turn multi-kill still thins their numbers.",
+    "Each round any Rude Goblin present casts Balanceblade on the enemy to its right, stacking blades across his side.",
+    "A Rude Goblin in the far-right slot blades itself instead."
+  ],
+  "groupFight": true
+}

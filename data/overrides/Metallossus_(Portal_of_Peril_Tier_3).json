@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Portal of Peril team gauntlet. He resists 300% to every school, so raw attacks do almost nothing; the fight is about Dispels, the only thing that pierces his metal.",
+    "Do not hit him carelessly. Any attack makes him steal all your Dispels onto himself.",
+    "Do not cast Armor Piercing charms (he Enfeebles you, and Aegis will not stop it) or non-dispel harmful charms (he Cleanse-Charms them off himself).",
+    "Watch the dispel count. If he reaches 6 or more Dispels he converts them into a +300% pierce ward and summons a Runic Fragment, which then soaks any further dispels you place on him.",
+    "Coordinate Dispels carefully as a team and time your damage windows. Expect an extra Runic Fragment when he dies."
+  ],
+  "cheatNotes": [
+    "Round 1 he hits all wizards with Mighty Judgement and stamps two Dispels on each of you.",
+    "Attacking him makes him steal all Dispels off that wizard onto himself. Do not swing loosely.",
+    "Casting an Armor Piercing charm gets you Enfeebled.",
+    "Aegis will not shield you from that Enfeeble.",
+    "Casting a harmful charm that is not a Dispel makes him Cleanse-Charm all harmful charms off himself. Only Dispels stick.",
+    "If he ends a round with 6 or more Dispels, he clears them for a +300% pierce ward on himself. Do not over-stack dispels past 5.",
+    "The next round he summons a Runic Fragment.",
+    "Defeating him summons one more Runic Fragment.",
+    "With a Fragment on the field, any Dispel you place on him is pushed onto the Fragment instead. Deal with the Fragment to land dispels on him."
+  ],
+  "groupFight": true
+}

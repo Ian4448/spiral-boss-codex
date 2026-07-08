@@ -1,0 +1,42 @@
+{
+  "strategy": [
+    "Two-boss fight (The Rat and The Scorpion), 28,000 health, full team. Both resist little (15%), so hit with your strongest school.",
+    "Feint carefully. The first Feint on The Rat is a free warning, but a second regular Feint bounces all his negatives back onto the caster. Use Mass Feint or Balance Feint, which never trigger it.",
+    "Do not Feint The Scorpion either; he Cleanse-Wards all unprotected traps off himself in response.",
+    "Avoid DoTs. The Scorpion Detonates them on the whole team every round if anyone carries one.",
+    "Do not self-heal. The Scorpion natural-attacks any wizard who heals (a HoT-first heal avoids it). Join on time to skip the tardiness traps and Bad Juju.",
+    "Funnel to one hitter and burst each brother; the two constantly retaliate on each other, which chips them for you."
+  ],
+  "cheatNotes": [
+    "",
+    "",
+    "Joining late gets you +60% Fire/Ice/Universal traps and a Dimension Shift dumping The Rat's negatives onto you.",
+    "",
+    "Joining late also gets you Bad Juju from The Scorpion.",
+    "",
+    "Round 1 The Scorpion gives himself 2 Shadow pips.",
+    "The Rat then steals one Shadow pip from The Scorpion, part of their infighting.",
+    "The Scorpion retaliates, stealing 2 pips back from The Rat.",
+    "",
+    "The first Feint on The Rat is safe; he only warns you.",
+    "A second regular Feint on The Rat bounces all his negatives onto the caster via Dimension Shift. Do not stack regular Feints on him.",
+    "Mass Feint does not trigger that bounce, so it is safe.",
+    "Balance Feint does not trigger it either.",
+    "Pet-cast Feints do not trigger it.",
+    "",
+    "Every 3 rounds The Scorpion Poisons all wizards (Shadow DoT).",
+    "Every round he Detonates DoTs on the whole team if anyone has one. Avoid carrying DoTs.",
+    "Placing a HoT before a DoT lets the HoT absorb the Detonate instead of the DoT, a way to shield your DoTs.",
+    "Feinting The Scorpion makes him Cleanse-Ward all unprotected traps off himself.",
+    "Healing makes The Scorpion natural-attack the healer.",
+    "Pet heals do not trigger it, except Fairy Friend and Happy Accident.",
+    "The HoT portion of a heal does not trigger the natural attack.",
+    "",
+    "",
+    "If The Scorpion casts Enfeeble or Glowbug Squall, The Rat hits him with Scorching Scimitars, free chip on The Scorpion.",
+    "Sometimes after The Scorpion's Iron Sultan, The Rat retaliates with Grand Blue Phoenix and Impede on him.",
+    "If The Rat casts Steal Charm or Steal Ward, The Scorpion hits The Rat with Iron Sultan.",
+    "Sometimes after The Rat's Scimitars, The Scorpion answers with Impede and Supernova on The Rat."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "Hit with Storm or Life (+30%), avoid Ice and Myth (34% resist).",
+    "He revives at full health if you kill him while his Efreet DoT cheat is active, so you must shut the cheat off before the killing blow.",
+    "Stop the cheat by clearing DoTs: cast the Stormzilla (Tier 2b) card Daisy hands you on Round 4 (or another Storm DoT-remover like Lightning Bats), which makes Rob drop all DoTs and end his Efreet cheat.",
+    "Early, Quench his Round 1 Scald (or Triage if you cast second) so no DoT sits on you feeding his Efreet.",
+    "Once the Efreet cheat is stopped, blade up and finish him. At only 3,845 health one Storm hit does it."
+  ],
+  "cheatNotes": [
+    "He casts Scald on Round 1, putting a Fire DoT on you.",
+    "Quench prevents that Scald, cast it Round 1 to stay DoT-free.",
+    "At the end of every round he casts Efreet, adding 450 Fire over 6 rounds if you already carry a DoT, this is the cheat that revives him.",
+    "Quench also prevents the Efreet cheat.",
+    "If his Scald is Quenched or fizzles, he still casts Efreet but without the extra DoT.",
+    "If you cast second, Triage removes your DoT and blocks the extra DoT from his Efreet.",
+    "Kill him while his Efreet cheat is active and he revives at full health, shut the cheat off first.",
+    "On Round 4 (or after he revives) Daisy Willowmancer gives all wizards a Stormzilla (Tier 2b) card, save it to disable the cheat.",
+    "",
+    "Casting that Stormzilla makes Rob remove all DoTs and stop his Efreet cheat, do this before you kill him.",
+    "Any Storm spell that removes DoTs (like Lightning Bats) also stops the Efreet cheat."
+  ],
+  "groupFight": false
+}

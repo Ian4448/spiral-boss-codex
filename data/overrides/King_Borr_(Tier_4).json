@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "Enter on time. Wizards who join after the second round get hit with Medusa.",
+    "Kill order: King Borr must die before Grendelynn. If Grendelynn dies first she revives/heals, so pile your damage onto Borr and hit as hard as you can.",
+    "Lead with an Indemnity-protected Feint as your very first trap. If you place any other trap first he Cleanse Wards them all off; the Indemnity Feint has to go down before the rest of your stack.",
+    "Beguile Grendelynn on the same turn as your hit. This disables her Shadow Sentinel, which otherwise Intercepts 75% of all damage aimed at King Borr, and lets your full hit land on the boss.",
+    "Never Feint him unprotected - he responds with a mass Cleanse Ward. Only use Indemnity-protected traps (or the Balance version of Feint, which does not trigger the cleanse).",
+    "Stack blades, keep the Indemnity Feint and traps up, disable the Intercept with the beguile, then burst King Borr down before you finish Grendelynn."
+  ],
+  "cheatNotes": [
+    "Grendelynn shields with a 75% Intercept Sentinel, absorbing your hits aimed at King Borr.",
+    "Beguiling Grendelynn flips her Intercept to protect your team for as long as the beguile holds; a strong opener.",
+    "Joining late gets Medusa (865) cast on you; enter on time.",
+    "Kill Grendelynn before King Borr and she full-heals; keep them even and finish together.",
+    "If you drop both in the same Round the avenge and heal still fire, but with both gone it no longer matters; aim for a simultaneous kill.",
+    "Feinting him makes him Cleanse all unprotected traps off; use Balance Feint or protect traps with Indemnity.",
+    "Mass Feint also triggers the trap cleanse, so avoid it here.",
+    "The Balance version of Feint does not trigger the cleanse; it is the safe way to trap him.",
+    ""
+  ],
+  "groupFight": false,
+  "guideSourced": true
+}

@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "She opens with Doom and Gloom, so your heals are cut - bring shields and absorbs instead of relying on healing.",
+    "End of round 1 she hits every wizard with a -50% Accuracy Darkness aura for the whole fight. Stack accuracy enchants/gear or you will fizzle constantly.",
+    "Feinting her makes her cleanse all traps off herself. Protect the Feint with Indemnity, or hit the same round you trap; note Mass Feint and pet spells also trigger it.",
+    "Expect Dark Nova/Dark Fiend/Dark Shepherd immediate hits and pip-stealing natural attacks - shield and do not over-bank pips.",
+    "Funnel blades to one hitter, keep Indemnity on the Feint, and burst her 23,900 down."
+  ],
+  "cheatNotes": [
+    "She casts Doom and Gloom at the start, cutting healing. Rely on shields and absorbs, not heals.",
+    "End of round 1, all wizards get a -50% Accuracy Darkness aura for 99 rounds. Stack accuracy or your hits will fizzle.",
+    "She throws out Dark Nova, Dark Fiend, and Dark Shepherd immediate hits, or a pip-stealing natural attack. Shield up and do not hoard pips.",
+    "If you cast a spell on yourself she interrupts to nudge you to target allies - no real effect, just a lost beat.",
+    "Feinting her makes her cleanse all traps off herself. Use Indemnity or trap-and-hit the same round.",
+    "Indemnity on the Feint prevents the cleanse. Recommended.",
+    "Mass Feint (+75%) also triggers the cleanse.",
+    "Pet-cast spells (like pet Feints) also trigger the cleanse."
+  ],
+  "groupFight": true
+}

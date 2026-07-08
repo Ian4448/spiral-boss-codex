@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "He self-buffs every Round with Catch of the Day, gaining two chromatic blades that grow +5% each Round up to +40%; do not let him ramp for long.",
+    "Critically, if you defeat him while his Catch of the Day cheat is still active, he revives at full health, so you cannot simply burst him down.",
+    "At the end of Round 3 (and after any revive) he gives every wizard an Ice Wyvern card; cast that Ice Wyvern (or another Ice charm-remover like Frost Giant) to strip his blades and permanently stop the cheat.",
+    "Once his cheat is disabled with the Ice Wyvern he no longer revives; then finish him normally.",
+    "So: survive to Round 3, use the given Ice Wyvern to shut off his cheat, then kill him."
+  ],
+  "cheatNotes": [
+    "Every Round he gains two chromatic blades that grow to +40%; his damage ramps fast, so shut the cheat down rather than trading hits.",
+    "If you kill him while Catch of the Day is still active, he revives at full health; you must disable the cheat first.",
+    "At the end of Round 3 and after any revive he hands each wizard an Ice Wyvern; this card is your key to stopping his cheat.",
+    "",
+    "Casting the given Ice Wyvern strips his blades and permanently ends the Catch of the Day cheat, so he stops reviving; then kill him normally.",
+    "Other Ice charm-removers like Frost Giant also strip his blades and stop the cheat."
+  ],
+  "groupFight": false
+}

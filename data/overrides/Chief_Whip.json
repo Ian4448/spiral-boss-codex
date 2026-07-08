@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "He resists Life 70% and takes +40% from Death, so bring Death attacks or a prism.",
+    "He is stunable and beguilable. A stun or Beguile buys safe setup rounds.",
+    "Every damage spell can pop a Spirit Armor absorb onto your target, so chipping stalls. Stack blades and hit once, hard, to blow through it.",
+    "Do not heal casually: any Healing Spell, including pet heals, makes him Entangle you. Survive with shields and absorbs, then Cleanse or wait out the Entangle.",
+    "Kill the reviving Bulldog Sergeant Major last, or with your final AoE, since the first time it dies he Rebirths it.",
+    "Build blades and a Feint over two or three rounds, then finish through the Spirit Armor."
+  ],
+  "cheatNotes": [
+    "Any damage spell can pop a Spirit Armor absorb onto your target, so a chip-heavy approach stalls. Stack blades and hit once, hard.",
+    "On a multi-hit spell the Spirit Armor lands on whoever is in the first spot.",
+    "An all-at-once AoE like Climaclysm makes him shield himself instead, so expect the boss to gain an absorb when you AoE.",
+    "The first time the Bulldog Sergeant Major dies he revives it with Rebirth. Save it for your finishing hit.",
+    "If your AoE triggers the revive, he Rebirths for every enemy it hit.",
+    "Casting any heal makes him Entangle you. Lean on shields and absorbs instead of healing.",
+    "Even pet heals set off that Entangle, so watch your pet's may-casts.",
+    "His minion can donate its pips to him, powering up his attacks, so pressure it if it starts feeding him."
+  ],
+  "groupFight": false
+}

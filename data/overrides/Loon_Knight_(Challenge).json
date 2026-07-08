@@ -1,0 +1,43 @@
+{
+  "strategy": [
+    "Loon Knight polymorphs its Luna-Tick minions into duck forms (Old Quack, and with 3+ wizards also Quentin Quail and Drake Lockley), each punishing a different action; the fight is about avoiding their triggers.",
+    "Watch your buffs: Old Quack Enfeebles off any universal helpful charm, multi-blade, or off-school blade, and Aegis will not save the blade; use plain single-school blades or bank buffs.",
+    "Around Quentin Quail, every hanging effect you cast (charm, ward, jinx) draws a counter-spell such as Weakness, Balanceblade, Hex, or shields; keep setup minimal.",
+    "Around Drake Lockley, any damage or pierce charm, trap, aura, or Global earns an 800 Storm Duck Savage on the caster; avoid those categories.",
+    "Every third Round Loon Knight hits a random wizard with Shatterhorn (strips shields), and when minions run out it Polymorphs itself into the duck forms, keeping their cheats.",
+    "Set up as little as possible, kill the duck minions to force Loon Knight to polymorph, then burst it down."
+  ],
+  "cheatNotes": [
+    "",
+    "On Round 1 it turns its minions into duck forms; the number depends on party size, and each form has its own punish cheat.",
+    "",
+    "",
+    "Every third Round it Shatterhorns a random wizard, stripping shields; keep a heal ready rather than relying on shields.",
+    "When no minions remain it Polymorphs itself into a duck form, keeping all its cheats plus that form's; killing minions does not remove the danger.",
+    "It can Polymorph again into a second form, stacking both forms' cheats; expect layered punishes late.",
+    "",
+    "Old Quack Enfeebles off any universal helpful charm or multi-blade you cast; use single-school blades, and Aegis will not protect them.",
+    "A multi-target blade makes it Enfeeble your whole team's blades; avoid Bladestorm-type buffs.",
+    "Casting a blade outside your own school also triggers the Enfeeble.",
+    "Blades that are secondary effects, like Savage Paw's, do not trigger the Enfeeble.",
+    "Aegis does not stop this blade removal, so do not rely on it here.",
+    "",
+    "Quentin Quail answers each hanging effect you cast with a matching counter-spell; keep your charms and wards to a minimum.",
+    "Even secondary hanging effects, like a spell's built-in blade, trigger Quentin's counters.",
+    "A single helpful charm earns a Weakness on the receiver.",
+    "A team helpful charm earns a Mass Weakness.",
+    "A single harmful charm on an enemy gives it a Balanceblade.",
+    "Starfall also triggers the harmful-charm counter.",
+    "A harmful charm on all enemies gives them a +25% Bladestorm.",
+    "A single helpful ward earns a Hex.",
+    "A team helpful ward earns a Mass Hex.",
+    "A single harmful ward on an enemy gives it a Tower Shield.",
+    "Attenuate also triggers the harmful-ward counter.",
+    "A harmful ward on all enemies gives them Legion Shield.",
+    "",
+    "Drake Lockley hits the caster with an 800 Storm Duck Savage for any damage or pierce charm, trap, aura, or Global; avoid those categories.",
+    "Multi-target versions land the Duck Savage on the caster too.",
+    "Secondary effects also trigger Drake's Duck Savage, so check side effects before casting."
+  ],
+  "groupFight": false
+}

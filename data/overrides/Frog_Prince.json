@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Bring your whole team in on time. A late wizard eats a Shadow Medusa, so avoid joining after the fight starts.",
+    "Protect your Feint. Any Trap placed on him triggers a Cleanse Ward that removes one Trap, so cast Feint under Indemnity so it survives the strip.",
+    "Prefer blades over trap stacks. He only removes one Trap per trigger even from multi-trap spells, so a single Indemnity-protected Feint plus blades on your hitter beats loading many traps.",
+    "Pick a boosted school. He is Sun-flagged but resists Fire, Myth, and Life at 70% and takes small boosts from Ice, Storm, and Death, so hit with Ice, Storm, or Death.",
+    "He is stunnable and beguilable, so a stun or beguile can buy you a setup round; watch his protected Sunblade and Elemental Blade plus a 480 Sun natural attack.",
+    "Set up in two or three rounds behind Indemnity, then burst him and Humongishfrog together with one AoE."
+  ],
+  "cheatNotes": [
+    "Placing any Trap on him makes him Cleanse-Ward off one Trap. Protect your Feint with Indemnity so it stays.",
+    "Mass Feint (+75%) still counts as a Trap and sets off the removal cheat.",
+    "Even multi-trap spells like Fuel only lose one Trap to the cheat, so the strip is limited but real.",
+    "Indemnity on your Feint prevents it from being the Trap that gets removed.",
+    "If a wizard joins the duel late, he casts Shadow Medusa on that wizard; be present at the start."
+  ],
+  "groupFight": false
+}

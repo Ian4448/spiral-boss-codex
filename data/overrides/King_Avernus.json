@@ -1,0 +1,28 @@
+{
+  "strategy": [
+    "This gauntlet is shaped by which room choices you made. Pick 'Seek Blessing', 'Find Treasure', and 'Sneak Around' in the right order and Avernus's relic cheats flip to your side instead.",
+    "Choose 'Seek Blessing' first so the Guardian Spirit revives your team at 50% instead of reviving Avernus at 17%; otherwise he comes back on defeat.",
+    "Choose 'Find Treasure' second so damage wards land on your wizards; otherwise Avernus shields himself with a -50 Damage Ward the first time he is attacked each turn.",
+    "Choose 'Sneak Around' third so on Round 3 a wizard fires a 1,700 Shadow Dark Fiend at Avernus; otherwise he Dark Fiends your team for 200 each.",
+    "He is Death with no resist and takes boosted Ice and Myth (+25 each), so an Ice or Myth hitter melts his 2,135 Health fast; he is stunnable, so a stun can skip his Gut Punch round.",
+    "Play through his weak natural attacks, watch the Round-2 Gut Punch on your highest-Health wizard, and burst him down once the relic cheats are working for you."
+  ],
+  "cheatNotes": [
+    "At the end of every second round he casts a random Ice spell on your highest-Health wizard, which can stun and deal 200, deal 200, do nothing, or backfire and stun himself.",
+    "Critical success stuns that wizard and deals 200 Ice.",
+    "A plain success just deals 200 Ice damage.",
+    "On a fail, nothing happens.",
+    "On a critical fail, Avernus stuns himself instead, giving you a free round.",
+    "",
+    "If you did not pick 'Seek Blessing' first, Avernus revives to 17% (362 Health) on defeat via Guardian Spirit.",
+    "If his Afterlife is stripped by Clerical Terror, the revive cheat re-arms.",
+    "If you did not pick 'Find Treasure' second, the first attack on him each turn triggers a -50 Damage Ward he self-shields with.",
+    "If you did not pick 'Sneak Around' third, on Round 3 he Dark Fiends your whole team for 200 Shadow each.",
+    "",
+    "If you picked 'Seek Blessing' first, all wizards get Guardian Spirit reviving them at 50% max Health.",
+    "If you picked 'Find Treasure' second, your wizards gain a -50 Damage Ward after being targeted by an attack.",
+    "Against an all-enemies spell, each wizard instead gets a -25 Damage Ward.",
+    "If you picked 'Sneak Around' third, on Round 3 a random wizard fires a 1,700 Shadow Dark Fiend straight at Avernus."
+  ],
+  "groupFight": false
+}

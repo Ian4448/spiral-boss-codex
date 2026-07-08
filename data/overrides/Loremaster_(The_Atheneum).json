@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Bring a team; the guide says this is not recommended to solo and is best farmed with other players. Loremaster has 7,000 health and 80% Balance resist, so hit with Myth, Life, or Death (17% boost) and never attack into Balance without a prism.",
+    "Kill order matters: the Font of Strength feeds the boss a +50% Sun Dragonblade every three rounds, and the Font of Life spams Dryad, Rebirth, Satyr, and Sprite heals. Take out those support fonts before you try to burst the boss.",
+    "Carry infections or Doom and Gloom to shut down the Font of Life's healing, and keep a shield up against the Font of Weakness's Mana Burn, Plague, and Virulent Plague.",
+    "Stack blades and Feints on your hitter over 2-3 setup rounds, then land one big Myth/Life/Death AoE so the fonts die alongside the boss.",
+    "Time your kill window so the boss has not just received a fresh +50% Dragonblade; the Font of Strength recasts it on rounds 1, 4, 7, etc., so burst on a round when the blade has not just refreshed."
+  ],
+  "cheatNotes": [
+    "Every third round (rounds 1, 4, 7...) the Font of Strength stacks a +50% Sun Dragonblade on Loremaster for free, so an unattended boss hits progressively harder. Kill or Beguile the Font of Strength early, or burst the boss down before the blades pile up."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

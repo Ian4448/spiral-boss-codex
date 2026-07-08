@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "Hit with Ice or Storm. Water-Wing takes +35% from both and resists Fire 80%. Never attack into its Fire resist.",
+    "Respect the light/dark Doom and Gloom cycle. On a single-target attack you must consume a Trap during the light (white) cycle, or a Blade during the dark cycle. Hit \"naked\" and the boss you struck counters: Water-Wing self-heals 750 (Rebirth), Sylster Glowstorm fires a 1,630 Ra, or the Spellhammer Sorcerer casts Scarecrow.",
+    "Easiest workaround: use all-enemy (AoE) attacks. \"All Enemy\" spells don't trigger the cheat at all. Note that a single-then-AoE spell like Sun Serpent still counts as single-target and does trigger it.",
+    "So the clean line is to keep a Blade up (dark cycle) or a Trap up (light cycle) matched to the current phase, then land a single-target Ice or Storm hit that consumes it, or just AoE the trio down.",
+    "Water-Wing only takes over the Doom and Gloom cycle after the other two bosses are down, so kill order still ends on it. Keep the cycle rule in mind the whole fight."
+  ],
+  "cheatNotes": [
+    "Once Sylster and the Spellhammer Sorcerer are down, Water-Wing runs the Doom and Gloom cycle itself, opening with the three-round white (light) phase.",
+    "Attack single-target without consuming a Trap in the light cycle or a Blade in the dark cycle and the boss you hit punishes you. Always have the matching charm or trap up, or use AoE.",
+    "Water-Wing's counter is a 750 heal (375 under Doom and Gloom), so a naked hit just heals it.",
+    "",
+    "Sylster's counter is a 1,630 Balance Ra to the face, so never hit him without a blade or trap active.",
+    "The Spellhammer Sorcerer counters with Scarecrow, draining your team.",
+    "AoE (all-enemy) attacks are exempt and never trigger the counter, so they're the safe way to hit.",
+    "Spells that hit one target then splash to all, like Sun Serpent, still count as single-target and DO trigger the counter."
+  ],
+  "groupFight": false
+}

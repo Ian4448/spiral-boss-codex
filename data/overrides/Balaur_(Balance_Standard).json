@@ -1,0 +1,33 @@
+{
+  "strategy": [
+    "Enter before the fight begins; a late wizard is Mana Burned to zero pips by the Ice-Storm head.",
+    "You can only damage the current 'active' head, even with AoE, so treat this as four bosses in the fixed order: Balance, Life-Myth, Death-Fire, Ice-Storm.",
+    "The active head removes any Feint on it at the start of the Round and Indemnity will not save it. Set up with non-Feint traps, or Feint and hit in the same Round.",
+    "Kill each head fast. The Balance head refills to seven Power Pips every four Rounds, the Life-Myth head stacks growing damage wards up to -100%, and the Ice-Storm head gains pips every Round.",
+    "Funnel blades to one hitter and burst each active head down before its ramp gets out of hand, expecting charm and ward wipes from the Death-Fire head and Mana Burns from the Ice-Storm head between heads.",
+    "Balaur resists Balance and takes more from Myth, Life, and Death, so bring one of those schools for your hits."
+  ],
+  "cheatNotes": [
+    "Join before combat: a late wizard gets Mana Burned by the Ice-Storm head and loses all pips.",
+    "At the start, the Balance head marks itself 'active' and the others 'inactive'.",
+    "Every spell, even AoE, only hits the active head, so you cannot cleave the heads down together.",
+    "Inactive heads pass until they can throw a 7-pip-or-stronger spell, then unload.",
+    "Kill the active head and the next in the fixed order takes over.",
+    "",
+    "",
+    "",
+    "",
+    "When the active head dies the next becomes active and all the dead head's cheats are removed.",
+    "It strips any Feint off itself at the start of the Round and Indemnity does not stop this; other traps stay, so lead with non-Feint traps or hit the same Round you Feint.",
+    "Cast a Global and the active head replaces it with its own.",
+    "The Balance head casts Balance of Power when it becomes active.",
+    "If the Order Idol was placed, this head also Quickens all heads until it dies.",
+    "At the end of Round 1 and every 4 Rounds after, the Balance head gains seven Power Pips.",
+    "The head casts Circle of Thorns when it becomes active.",
+    "Each Round the Life-Myth head stacks a damage ward on itself, growing 20% per cast up to -100%, so burst it down before it turtles.",
+    "The Death-Fire head strips all your helpful charms and wards and casts Deadzone when it becomes active.",
+    "The Ice-Storm head Mana Burns everyone and casts Balefrost when it becomes active.",
+    "Each Round the Ice-Storm head gains two Power Pips and a Pip, so it ramps quickly."
+  ],
+  "groupFight": true
+}

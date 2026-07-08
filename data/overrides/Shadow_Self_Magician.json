@@ -1,0 +1,25 @@
+{
+  "strategy": [
+    "Shadow puzzle boss (17295) that starts Invulnerable; you cannot damage it until you solve its aura. Once vulnerable, hit with any school through its 35% resist.",
+    "Round 2 it loads Damage-over-Times on itself (one per wizard) and Heal-over-Times on you. To drop its Invulnerability you must move ALL those DoTs onto the wizards and ALL the HoTs onto it.",
+    "Cast negative charms and wards (Feint, traps, Weakness) to shift a DoT from it onto yourself; cast positive charms and wards (blades, shields) to shift a HoT from you onto it. Feint shifts one of each.",
+    "Once the aura drops, hit it, but the killer MUST have a DoT shifted onto them or it revives. Make sure your hitter is carrying one of its DoTs on the kill.",
+    "It re-adds a DoT/HoT and restores Invulnerability every other round from round 4, so keep shifting and finish before it rebuilds."
+  ],
+  "cheatNotes": [
+    "Round 1 it becomes Invulnerable with no time limit; no damage lands until you solve the aura. Do not waste hits into it.",
+    "You can overwrite the aura with a negative one, but the Invulnerability effect stays. Removing it requires the DoT/HoT swap, not an aura strip.",
+    "Round 2 it puts a DoT on itself per wizard and a HoT on each wizard. Your goal is to reverse both: DoTs onto you, HoTs onto it.",
+    "From the end of round 4, every other round it adds a DoT/HoT and restores Invulnerability. Finish before it rebuilds the shield.",
+    "Casting Charms or Wards is how you move the effects, as detailed below.",
+    "A positive Charm or Ward (blade, shield) shifts one Heal-over-Time from you onto it. Feed it all the HoTs.",
+    "Multi-effect buffs like Elemental Blade shift several HoTs at once, which is efficient for loading heals onto it.",
+    "A negative Charm or Ward (trap, Weakness) shifts one Damage-over-Time from it onto you. Pull all the DoTs onto the team.",
+    "Multi-effect debuffs like Elemental Trap shift several DoTs at once. Use them to speed up the swap.",
+    "Feint moves one DoT and one HoT in a single cast, the most efficient tool for the swap.",
+    "When every HoT is on it and every DoT is on the wizards, its Invulnerability drops. That is your window to attack.",
+    "",
+    "If the wizard who lands the kill has no DoT shifted onto them, it revives. Make sure your hitter is carrying one of its DoTs on the kill shot."
+  ],
+  "groupFight": true
+}

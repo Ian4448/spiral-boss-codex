@@ -1,0 +1,36 @@
+{
+  "strategy": [
+    "He starts under an Invulnerability aura and is immune to all damage until you solve his four-digit code, so do not waste big hits early.",
+    "Kill his minions one at a time with SINGLE-TARGET spells. Never AoE the minions - an all-enemies hit makes him heal his whole team, himself included, back to full.",
+    "Each minion you defeat reveals one digit of the code; the first digit shows at the start of Round 2. The full four-number code is the sequence of spell pip-costs you must hit him with, in order.",
+    "Build your deck around matching pip-costs. The guide suggests splitting them across the team (one player packs 1-3 pip hits, another 4-6, and so on) or having everyone fill their sideboard with one hit per pip value. For a code like 4-7-3-11 you would hit with a 4-pip Kraken, then a 7-pip Frost Giant, then a 3-pip Sunbird, then an 11-pip Scion of Balance.",
+    "Cast the matching-cost hits in exact order; a wrong pip-cost, or attacking with a digit not yet revealed, resets you to the first number. Only ever attack with numbers already shown.",
+    "On the fourth correct hit he Supernovas himself and drops the aura. Blade up and finish with Death (he takes +5% Death, resists Life 70%)."
+  ],
+  "cheatNotes": [
+    "He is immune to all damage under this aura until you solve his pip-cost code, so do not waste big hits before it drops.",
+    "The code is four spell pip-costs, revealed one digit at Round 2 and one per minion killed; attack him with matching-cost spells in order.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "On the fourth correct pip-cost hit he Supernovas himself and drops the invulnerability, so burst him down after.",
+    "",
+    "A wrong pip-cost sends you back to the first digit, so only attack with numbers already revealed.",
+    "Attacking with an unrevealed number counts as wrong even if it would later be correct, so wait for each digit to show."
+  ],
+  "groupFight": false,
+  "guideSourced": true
+}

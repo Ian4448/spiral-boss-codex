@@ -1,0 +1,35 @@
+{
+  "strategy": [
+    "Team fight and a kill-order puzzle. All three minions must die before you touch Grandfather Spider, who fully heals if damaged or even targeted early.",
+    "Handle Shadowbones with the tagged Wizard only. Whoever holds the 'Tag, I'm it!' mark hits him single-target each Round and lands the kill. Never AoE him.",
+    "Strip Bort Shadowmane's -80% shield before killing him, or he revives and feeds the Spider a Shadow Pip.",
+    "Watch Shadowwock's auras. Green and yellow are safe, but deal zero damage the Round his red Screeching Crimson aura is up.",
+    "Line the minions up to die the same Round if you can, since the Spider gains a Shadow Pip every Round and steals two minion cheats once they fall.",
+    "The Round the minions die, unload your fully-stacked hitter on the Spider before his heal and new cheats matter."
+  ],
+  "cheatNotes": [
+    "",
+    "Shadowbones marks a random Wizard with a 'Tag, I'm it!' Stun Block and re-marks whenever it is gone. Only the marked Wizard can safely fight him.",
+    "The marked Wizard must hit Shadowbones with a single-target spell to remove the mark. Do that every time you are tagged.",
+    "Never use an AoE on Shadowbones. Any all-enemies spell fully heals him and feeds Grandfather Spider a Shadow Pip.",
+    "If the marked Wizard fails to damage Shadowbones that Round, the mark comes off and they eat Lord of Winter.",
+    "If an unmarked Wizard targets Shadowbones, he heals to full. Only the tagged player touches him.",
+    "If an unmarked Wizard lands the kill, he revives full, casts Scarecrow, and feeds the Spider a pip. The marked Wizard must be the one to finish him.",
+    "",
+    "Bort shields himself with a random-school -80% ward on Round 1 and two Rounds after each shield is removed.",
+    "",
+    "If Bort is defeated while shielded, he revives full and feeds the Spider a pip. Strip his shield before the killing blow.",
+    "",
+    "Shadowwock puts a green Verdant aura on itself on Round 1 and again the Round after each red aura.",
+    "At a random Round it swaps to a yellow Golden Caution aura, your warning.",
+    "The Round after the yellow aura, it goes red (Screeching Crimson).",
+    "Do not deal any damage while the red aura is up. Any enemy taking damage revives Shadowwock full, casts Fire Dragon, and feeds the Spider a pip.",
+    "",
+    "Grandfather Spider gains a Shadow Pip every Round, so the fight has a clock.",
+    "Damaging or even targeting the Spider before all three minions are dead fully heals him. Clear minions first.",
+    "Every third Round he tries to switch first turn.",
+    "",
+    "Once all minions are dead he heals to full and steals two random minion cheats, so the kill on him must come fast the Round after the minions fall."
+  ],
+  "groupFight": true
+}

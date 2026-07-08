@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "His three Grendels support him every 3 rounds: the Ransacker Tower-Shields him, the Cracknail Dragonblades him, the Scavenger heals him with Sprite. Kill the minions to cut off his shields, blades, and heals.",
+    "Hit with Storm or Life (+25% incoming); avoid Myth (60% resist).",
+    "AoE works well here to hit Tyrfing and all three Grendels at once. He is stunable, so a stun can buy a turn.",
+    "Blade, Feint, and burst the 8000 health once the support minions are cleared."
+  ],
+  "cheatNotes": [
+    "Killing each of his minions triggers a spell, so expect a reaction when a Grendel dies.",
+    "His minions buff him every 3 rounds, so clear them to stop the support.",
+    "The Grendel Ransacker gives him a -65% Tower Shield from round 1. Pierce it or kill the Ransacker.",
+    "The Grendel Cracknail gives him a +40% Dragonblade from round 2. Strip it or kill the Cracknail.",
+    "The Grendel Scavenger heals him with Sprite (100+300) from round 3. Kill it to stop the healing."
+  ],
+  "groupFight": false
+}

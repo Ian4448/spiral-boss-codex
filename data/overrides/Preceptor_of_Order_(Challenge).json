@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Bring Fire. The Preceptor is Ice and takes boosted Fire, so a Fire hitter or Fire prisms carry this Challenge; do not attack into his Ice resist.",
+    "Punish through his shields, not around them. Any self-shield he casts triggers a follow-up (Celestial Intervention Tier 5b or Frozen Armor), stacking more defense, so carry Shatter or pierce to strip them before your hit.",
+    "Do not chip at him repeatedly and let shields pile up. Build one large stacked hit that blows through the layered wards in a single swing.",
+    "This is a team fight: 20,325 Health in a Darkmoor Challenge. Funnel blades to one Fire hitter, have supports Feint the boss, and keep a healer on the group.",
+    "Stack blades and Feint over a few rounds, hold a Shatter for the turn you swing, then burst him down before the shield-stacking cheat can rebuild.",
+    "Since his shield cheat re-arms on every self-shield, time your finisher to land right after you strip, not before he re-shields."
+  ],
+  "cheatNotes": [
+    "Any spell that puts a shield on himself makes him immediately follow up with Celestial Intervention (Tier 5b) or Frozen Armor, stacking extra defense. Carry Shatter or pierce and hit through it in one big swing."
+  ],
+  "groupFight": true
+}

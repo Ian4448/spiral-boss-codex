@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Expect a Fire DoT for 12,610 over 5 rounds on the whole team at round 1 and every 6 rounds. Keep a healer rolling HoTs and heal through it.",
+    "Do not chase removing the DoT: pushing or cleansing it off all wizards just resets the cycle to replace it 2 turns later, so heal rather than strip.",
+    "Hit her with Ice, which she takes +30% from; she resists Fire 66%.",
+    "Race the 6-round timer. Blade and Feint fast and land a big Ice hit before the second DoT wave stacks on the first.",
+    "Team: healer sustains against the DoT, supports blade the hitter, hitter bursts within the first cycle."
+  ],
+  "cheatNotes": [
+    "At round 1 and every 6 rounds after, she lays a Fire DoT dealing 12,610 over 5 rounds on all wizards.",
+    "Removing or pushing the DoT off every wizard just resets the cycle, and she replaces the DoT two turns later."
+  ],
+  "groupFight": true
+}

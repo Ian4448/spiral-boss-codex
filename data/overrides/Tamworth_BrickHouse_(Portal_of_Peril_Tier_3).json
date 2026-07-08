@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "This is a 15,320-health Balance boss with two minions - bring a team with a hitter and support.",
+    "Hit Myth, Life, or Death - all take boosted damage. He resists Fire and Ice, so avoid those.",
+    "Kill order is the whole fight here. Once Lacombe StrawHouse or Tamworth dies, Berkshire StickHouse spams an AoE every turn.",
+    "Leave Berkshire StickHouse for last, or line up an AoE that finishes everything together so his spam never starts.",
+    "Stack blades and Feints on your hitter, hold your burst until you can clear the field in one turn, then swing with a Myth, Life, or Death hit."
+  ],
+  "cheatNotes": [
+    "Once Lacombe StrawHouse or Tamworth is defeated, Berkshire StickHouse casts an AoE - Sandstorm, Power Nova, or Ra - at the start of every turn. Leave Berkshire for last or kill everything together."
+  ],
+  "groupFight": true
+}

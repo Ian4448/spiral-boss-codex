@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "His health is only 9, so any hit that actually connects kills him. The whole fight is getting one hit to land through his invulnerability aura.",
+    "Enter on time. Late joiners get 3 pips stolen, take Balance damage, and add an extra summoned Minion.",
+    "Expect a permanent immunity aura on Round 1 plus one Mirror Image minion (Death, Ice, or Storm) summoned per Wizard.",
+    "Do not waste turns removing the aura; he recasts it. Instead build a hit with over +100% armor pierce using pierce gear, a spear or pierce enchant, Infallible, and Shadow Shrike to bypass it.",
+    "Clear the summoned Minion(s) first; you cannot damage the Baron until they are all gone.",
+    "The turn after the last Minion dies he cheat-casts Berserk that adds +45% to his incoming damage. Use that window to land your pierced hit and end his 9 health instantly."
+  ],
+  "cheatNotes": [
+    "If you join after Round 2 he steals 3 pips and hits you with Balance damage, so be in the fight on time.",
+    "From Round 1 he wears a permanent -200% Brace aura that makes him immune to all damage, so you cannot simply hit him down.",
+    "",
+    "You can only deal damage to the Baron after every one of his summoned Minions is dead.",
+    "Armor pierce above +100% punches through the immunity aura. Stack pierce gear, a spear or pierce enchant, Infallible, and Shadow Shrike so your hit connects.",
+    "Stripping his aura is pointless; he immediately recasts it. Bypass it with pierce instead of trying to remove it.",
+    "On Round 1 he summons a Mirror Image minion (Death, Ice, or Storm) that you must clear.",
+    "He summons one Minion per Wizard in the fight, so solo you face a single Mirror Image.",
+    "Late-joining Wizards each add another summoned Minion, another reason to be on time.",
+    "The turn after you clear all Minions he casts a Berserk that raises his incoming damage by 45%, a perfect window to land your pierced killing hit."
+  ],
+  "groupFight": false
+}

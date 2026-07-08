@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Hit with Storm or Death (he takes +30% from both) and avoid Fire and Myth (45% resist). He cannot be stunned.",
+    "He puts a Heal-over-Time on himself every round and revives at full health if killed while it is active, so raw damage alone will not finish him.",
+    "On Round 4, and on any revive, he hands your team a Skeletal Pirate (Tier 2b) card. Keep it.",
+    "Cast that Skeletal Pirate on Nethellnax to strip all his Heal-over-Time and shut off the HoT cheat, which kills the revive. Dr. Von's Monster or Primal Stampede do the same.",
+    "With the HoT gone, stack Storm or Death blades and traps and kill him for good."
+  ],
+  "cheatNotes": [
+    "He self-casts a Heal-over-Time every round; on its own it is minor, but it powers his revive.",
+    "As long as that HoT is ticking, defeating him just revives him at full health, so you must remove it before the killing blow.",
+    "At the start of Round 4 and on every revive he gives your team a Skeletal Pirate (Tier 2b) card; hold onto it.",
+    "",
+    "Cast that Skeletal Pirate on him to wipe every HoT and permanently stop the heal cheat; do this, then kill him.",
+    "Other HoT-strippers like Dr. Von's Monster or Primal Stampede shut off the same cheat if you do not have the card ready."
+  ],
+  "groupFight": false
+}

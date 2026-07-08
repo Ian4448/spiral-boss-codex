@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Never cast any spell that targets Lady Stonegaze — including AoEs. Doing so Polymorphs you into a Statue for 99 rounds, which effectively benches you the whole fight.",
+    "Buff only yourself. Blades cast on you are fine because they do not target her.",
+    "At the end of every other round each un-statued wizard is handed one Blindfolded Hit (random school). These are the only spells allowed to touch her.",
+    "Kill her exclusively with a Blindfolded Hit. If she is defeated by anything else, she casts a Moon Blessing and heals to 100%.",
+    "Stack self-blades between hands so one Blindfolded Hit finishes her (4,500 health, no resist)."
+  ],
+  "cheatNotes": [
+    "",
+    "Casting anything at her — even an AoE — turns you to stone for 99 rounds. Only ever use the Blindfolded Hits she gives you.",
+    "The Statue polymorph deck is 77 Pass cards and a single Break Free, so being turned to stone removes you from the fight.",
+    "Killing her with anything other than a Blindfolded Hit triggers a full 100% heal. Save the finishing blow for a Blindfolded Hit.",
+    "Every other round each wizard who is not a statue receives one Blindfolded Hit of a random school — your only legal way to damage her.",
+    ""
+  ],
+  "groupFight": false
+}

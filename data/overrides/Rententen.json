@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Rank 22 Death boss (14595) in La Ville Rose. Run a team of four with flexible roles; the fight is about timing damage into a single open window, not chipping.",
+    "Round 1: everyone AoEs the minions down — two Life minions (4360) and one Myth minion (3270). Killing them fast cuts incoming damage and triggers the spy handout.",
+    "Rounds 2-3: stack blades, traps, and a Feint on Rententen while one wizard casts the Legendary Spy card he gives every wizard once the minions are dead. Use it as intended.",
+    "Never hit him on a normal round — any damage triggers a Moon Blessing that heals him to full, even a lethal hit. It is completely wasted.",
+    "His only opening is the round he casts Snowball Barrage and gains the 'Take your shot' aura: attacks that turn do NOT heal him. The next round he removes the aura ('Missed your chance') and healing resumes.",
+    "Attack with Life (his only boost at +5%; he resists most schools 45%). Funnel a fully-stacked hit onto one wizard and unload it during the Snowball Barrage window — the fight can end as early as round four."
+  ],
+  "cheatNotes": [
+    "Any damage to him triggers a Moon Blessing that heals him to full — never hit him on a normal round; it's wasted.",
+    "Even a hit that would kill him triggers the full heal — you cannot burst him down on a normal turn.",
+    "On any round he casts Snowball Barrage he gains an Aura — this is your window, and attacks this turn don't heal him, so unload your fully-stacked hit here.",
+    "",
+    "",
+    "Defeat (or beguile) all his minions and he hands every wizard a Legendary Spy card the next turn — use it as intended.",
+    ""
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

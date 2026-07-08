@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Tartarus team fight: hitter, blading supports, and a healer. Hit with Ice or Life (+35% incoming); avoid Death (80% resist).",
+    "Minimize healing. Every heal plants a +75% Death Trap on the healer that his next Death hit exploits. Heal only when you can cleanse it, or use pet may-cast heals which do not trigger it.",
+    "Note his round-1 Death global boosts all Death damage by 60%, so keep shields up for his hits.",
+    "He is stunable; use a stun to skip a dangerous turn.",
+    "Funnel blades and Feint to the hitter, then one big hit through the 15,840 health. AoE to catch the Ill-Fated Serpentine, or tank it and focus the boss."
+  ],
+  "cheatNotes": [
+    "His first turn plants a Death global that boosts all Death damage by 60%, so his hits land harder. Keep shields up.",
+    "Any Heal stamps a +75% Death Trap on the wizard who healed, so his next Death attack on them is brutal. Cleanse it or avoid healing.",
+    "Pet may-cast heals do not trigger the Death Trap, so a pet heal is a safe way to top off."
+  ],
+  "groupFight": true
+}

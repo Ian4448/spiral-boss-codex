@@ -1,0 +1,41 @@
+{
+  "strategy": [
+    "Team speed run of four: three supports and one hitter in the last position. The whole plan exploits his 9,999 damage cap, so everyone must join on Round 1 or the strategy fails (spells after round 4 trigger the trap-removal cheats).",
+    "The core trick is Nightbringer: enchant it onto the hitter's school rank-7 AoE (Fire Dragon, Frost Giant, etc.). When that hit lands while a bubble goes up the following round, Nightbringer replaces the damage cap and lets a massive hit through. Nightbringer must be unlocked (35 spellements) and you need pierce and damage stacked.",
+    "Round 1: supports 1-2 cast Donate Power TC to fuel the hitter; support 3 plays Sharpened Bladestorm or Feint; hitter casts Frenzy.",
+    "Round 2: supports 1-2 stack Potent Feint; support 3 casts Mass Hex or Mass Feint; hitter casts the Nightbringer-enchanted school AoE.",
+    "Round 3: supports cast Mass Feint, Aegis Blades, or globals; the hitter casts a 2-pip bubble (Wyldfire, Balefrost, etc.) to trigger the stored Nightbringer damage and blow past the cap.",
+    "Do not blade the hitter without Aegis (only supporter Bladestorms are safe), and remember critical hits do nothing here regardless of rating. Minions spawn round 2; same-school adds raise your damage requirement, so time the burst before they pile up."
+  ],
+  "cheatNotes": [
+    "Join after round 2 and he casts Call of Khrulhu — enter early.",
+    "At the start of round 1 he summons three Tentacular Horrors, so expect a crowded board you have to manage.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "After a minion dies at the end of round 3 he resummons, then refills a minion every 4th round. The adds keep coming; don't over-invest in clearing them.",
+    "He casts Equalize capping all damage at 9,999, so you cannot one-shot his 46k — plan multiple capped hits, and he recasts it if the Global is replaced.",
+    "Round 5 he sticks an Unhelpful Spawn in your team's open slot — dead weight that he resummons if killed.",
+    "",
+    "",
+    "",
+    "Every 5th round he throws Black Mantle, Hex, and Weakness on random wizards and casts Bladestorm plus Mass Tower Shield (Ice) on his side. Cleanse the debuffs and pierce his tower before hitting.",
+    "Every 6 rounds (starting round 3) he polymorphs into a Moon form for three rounds with different cheats — always check which phase he is in.",
+    "",
+    "In his Shadow-Storm phase, casting a Blade gets the caster Mana Burned (600 per pip) and the blade's receiver Enfeebled. Do not blade during this phase.",
+    "An all-allies blade like Bladestorm only loses the caster's blade to this cheat, so the rest of the team keeps theirs.",
+    "",
+    "",
+    "In his Moon polymorph form he loses all stats and cannot gain power or shadow pips — a safe window to unload your capped hits.",
+    "In Moon form, casting a Trap makes him Cleanse all traps off the target and Stun the caster for two rounds. Don't trap during Moon form.",
+    "",
+    "Prisms do not trigger the Moon-form trap cheat, so use prisms to set up your damage school safely."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

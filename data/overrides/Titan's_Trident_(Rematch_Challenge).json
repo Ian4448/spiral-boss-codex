@@ -1,0 +1,35 @@
+{
+  "strategy": [
+    "This is a 99,999-health raid boss protected by a damage-reduction aura - bring a full team. You cannot simply burst it; you win by triggering and killing its Refractions.",
+    "The Titan's Storm's Protection Aura caps your damage from round 1. Instead of hitting through it, use paired-school hits to spawn Refractions: three Death or Ice hits summon the Deadly Ice Refraction, three Fire or Myth hits summon the Mythic Fire Refraction, three Storm or Life hits summon the Stormy Life Refraction.",
+    "Kill each Refraction. Every Refraction death forces the Titan to Scion itself for 24,999 - three kills is roughly its full 99,999 bar.",
+    "Manage the Refraction cheats as they come: Deadly Ice opens with Mass Weakness then a 50-damage-cap shield, Mythic Fire opens with Mass Fire Trap then Fire Dragon, and Stormy Life self-blades after every spell. Have your healer clear weaknesses and cover the Fire Dragon.",
+    "After all three Scions have self-cast, the Storm's Protection drops and the Titan finally takes full damage. Blade up during the refraction phase so you can finish it in the vulnerable window before it re-shields."
+  ],
+  "cheatNotes": [
+    "On round 1 the Titan raises a Storm's Protection Aura that heavily reduces all incoming damage.",
+    "",
+    "Hitting it with Death or Ice damage once triggers this warning line - the first of three needed to spawn its Refraction.",
+    "A second Death or Ice hit triggers the second warning line.",
+    "A third Death or Ice hit summons the Deadly Ice Refraction.",
+    "That Refraction opens with Mass Weakness on your team.",
+    "On its third combat round it shields itself, capping all incoming damage at 50.",
+    "Killing it makes the Titan self-cast Scion of Ice for 24,999, swap to a Death's Refraction Aura, then re-raise Storm's Protection.",
+    "",
+    "Hitting it with Fire or Myth damage once triggers this warning line.",
+    "A second Fire or Myth hit triggers the second warning line.",
+    "A third Fire or Myth hit summons the Mythic Fire Refraction.",
+    "That Refraction opens with Mass Fire Trap.",
+    "On its second combat round it casts Fire Dragon.",
+    "Killing it makes the Titan self-cast Scion of Fire for 24,999, swap to a Myth's Refraction Aura, then re-raise Storm's Protection.",
+    "",
+    "Hitting it with Storm or Life damage once triggers this warning line.",
+    "A second Storm or Life hit triggers the second warning line.",
+    "A third Storm or Life hit summons the Stormy Life Refraction.",
+    "After it casts any spell it self-blades with a +35% Balanceblade.",
+    "Killing it makes the Titan self-cast Scion of Storm for 24,999, swap to a Life's Refraction Aura, then re-raise Storm's Protection.",
+    "Once all three Scions have been cast, the Storm's Protection drops and the Titan finally takes full damage - burst it now.",
+    "The round after all minions are gone, the Titan casts Shadow Trap on your team or Spirit Armor (500) on itself."
+  ],
+  "groupFight": true
+}

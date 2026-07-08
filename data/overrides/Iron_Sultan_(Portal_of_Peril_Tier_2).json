@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Kill the Gold Dragon first - round 1 it Shadow Sentinels itself and intercepts 75% of hits aimed at the Sultan, so it shields the boss until it is dead.",
+    "Do not Feint the Sultan - a Feint or Mass Feint makes him cleanse all his harmful wards twice. Use Indemnity, or set up traps and hit the same round.",
+    "Watch round 5 and every 5th round after: he casts a +35% Darkwind (accuracy-lowering global) then immediately Iron Sultan on the lowest-health wizard. Keep accuracy enchants up and top off your lowest wizard.",
+    "Hit with Myth - he takes 15% more from Myth and resists Storm 50%.",
+    "Do not join late; a latecomer eats a Shadow Iron Sultan hit."
+  ],
+  "cheatNotes": [
+    "Join late and he interrupt-casts a Shadow Iron Sultan on the latecomer. Enter on time.",
+    "Round 1 the Gold Dragon Shadow Sentinels itself (75% intercept, -30% incoming). Kill it first or it intercepts your hits on the Sultan.",
+    "Feinting him makes him Cleanse Ward twice, stripping all his harmful wards. Skip Feint, protect it with Indemnity, or trap-and-hit the same round.",
+    "Every 5th round he casts a +35% Darkwind global that lowers your accuracy. Keep accuracy enchants on to avoid fizzles.",
+    "Right after Darkwind he casts Iron Sultan on your lowest-health wizard. Top that wizard off before round 5."
+  ],
+  "groupFight": false
+}

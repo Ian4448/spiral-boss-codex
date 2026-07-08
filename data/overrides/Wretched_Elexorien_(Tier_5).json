@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Attack with Death or Fire (+35%); he resists Life 80%. He is stunable and beguilable, so stuns buy setup time.",
+    "Every 3 rounds he Weaknesses the whole team, so pack Cleanse Charm, or blade over the weakness before the hitter goes.",
+    "He also Dispels a random wizard every few rounds, so do not over-rely on a single aura or charm the hitter needs; set up the round you hit.",
+    "Clear the Brume Goblin minion with an AoE or focus the boss.",
+    "Funnel blades to the hitter, Cleanse weaknesses off them, then burst with a boosted Death or Fire hit."
+  ],
+  "cheatNotes": [
+    "Every 3 rounds he throws Weakness cards on all wizards. Cleanse them off the hitter or blade over them before attacking.",
+    "Every few rounds he Dispels a random wizard, so set up on the same round you hit rather than banking buffs."
+  ],
+  "groupFight": true
+}

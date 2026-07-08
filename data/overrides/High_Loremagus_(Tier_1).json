@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Expect a -200% accuracy aura of your own school on everyone from round 1 - she applies it to anyone without an aura, and casting your own aura just gets the aura recast on you. Plan around it instead of fighting it.",
+    "Pack off-school hits (treasure cards or a secondary school). The aura only debuffs spells of the target's own school, so off-school spells still land.",
+    "Skip Feint entirely - any Feint on her triggers Camp Bandit, and Mass Feint does not avoid it. Use regular traps and blades instead.",
+    "She takes +15% from Myth, Life, and Death and resists Balance 40% - pick your off-school cards accordingly.",
+    "Clear the three Fonts with an AoE so they die with her. 7,000 health falls to a modest blade-and-trap setup once your accuracy problem is solved."
+  ],
+  "cheatNotes": [
+    "From round 1, anyone without an aura gets a -200% accuracy aura of their own school for the rest of the fight. Spells from other schools are unaffected, so off-school hits are the safe play.",
+    "Astral or Shadow summoned minions get targeted but nothing sticks - no aura exists for those schools.",
+    "Dual-school summoned minions get the -200% accuracy aura for their second school.",
+    "Casting your own aura just makes her recast the aura on you, so you cannot overwrite the accuracy debuff. Do not waste turns on Star spells.",
+    "Any Feint on her is answered with Camp Bandit. Leave Feint out of your deck.",
+    "Mass Feint still triggers the Camp Bandit response - there is no Feint workaround."
+  ],
+  "groupFight": false
+}

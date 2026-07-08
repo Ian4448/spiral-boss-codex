@@ -1,0 +1,30 @@
+{
+  "strategy": [
+    "Team fight (~22,000 health, plus John Seward): hit with Death; Quincy resists Life 72% and takes +30% Death.",
+    "Both bosses polymorph on Round 1, Quincy to a Werewolf (incoming damage capped at 1,000) and John to a Were-Bear (damage on him heals him 780). Don't try to burst through the forms.",
+    "Speed the forms off: cast Traps on Quincy to cut his unpolymorph timer by a Round each, and harmful Charms on John to cut his. Single-target only; all-enemy versions don't count.",
+    "Do not replace Quincy's damage-cap Aura (for example with Starfall); he heals to full, recasts it, and cheat-casts Orthrus. And do not damage John while he is a Were-Bear.",
+    "Wait for the human windows (they revert after six turns; Quincy then Amplifies), then unload blades and Feints into one big Death hit."
+  ],
+  "cheatNotes": [
+    "",
+    "Quincy turns into a Werewolf on Round 1.",
+    "He re-polymorphs on the 5th Round after each time he reverts.",
+    "In Werewolf form he caps all incoming damage at 1,000. Don't try to burst him then.",
+    "After six of his turns he reverts to human at the end of the Round and casts Amplify. Hit during the human window.",
+    "Each Trap on Quincy shortens his Werewolf time by a Round. Use traps to strip the form faster.",
+    "All-enemy trap spells like Mass Feint or Windstorm don't trigger the speed-up.",
+    "Multi-trap spells like Elemental Trap count as one and shorten it by just one Round.",
+    "Replacing his damage-cap Aura (for example with Starfall) makes him heal to full, recast it, and cast Orthrus. Never overwrite it.",
+    "",
+    "John Seward turns into a Were-Bear on Round 1.",
+    "He unpolymorphs at the end of Round 6.",
+    "Using an Aura on him in Were-Bear form plays his line but does not revert him early.",
+    "After six of his turns he reverts to human at the end of the Round.",
+    "Each harmful Charm on John shortens his Were-Bear time by a Round.",
+    "All-enemy curse spells like Mass Infection don't trigger the speed-up.",
+    "Multi-charm spells like Threefold Fever count as one and shorten it by one Round.",
+    "Damaging John while he is a Were-Bear heals him 780. Wait until he is human."
+  ],
+  "groupFight": true
+}

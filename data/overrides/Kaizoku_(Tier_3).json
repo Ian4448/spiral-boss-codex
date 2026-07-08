@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Hit with Ice; he takes +50% and resists Fire 80%.",
+    "He wears an -80% Tower Shield he renews until every minion is dead, so do not throw big hits at him first; clear his three minions.",
+    "Do not Trap him. A Trap makes him Cleanse Ward it off.",
+    "Every two Rounds he interrupts with a 300 Star wand hit on all wizards; if that Star hit strikes a trap or shield, he wipes all wards from you and himself, so avoid leaving stray wards up when it lands.",
+    "Once all minions are gone his Tower Shield and other shields drop; that is your window to land a big Ice hit."
+  ],
+  "cheatNotes": [
+    "He keeps an -80% Tower Shield until all minions die; do not waste hits on him first, kill the minions.",
+    "Every two Rounds he wand-hits all wizards for 300 Star; keep a little health buffer for it.",
+    "Trapping him makes him Cleanse the trap off; set up on yourself instead.",
+    "If his Star hit lands on a trap or shield, he strips all wards from you and himself; do not leave wards up when the every-two-round hit is due.",
+    "When the last minion dies he drops his Tower Shield and all shields; that is the moment to unload Ice."
+  ],
+  "groupFight": false
+}

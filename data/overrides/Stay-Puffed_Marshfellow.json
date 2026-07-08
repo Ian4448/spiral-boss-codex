@@ -1,0 +1,36 @@
+{
+  "strategy": [
+    "Karamelle Skeleton Key boss (51200) with three minions (Death, Balance, Myth, ~5500 each). They do NOT respawn, so kill them fast to cut his Fire pressure (Raging Bull, Fire Elf, S'More Machine). Full team fight. Hit with Ice or Balance (+5%); avoid Fire and Shadow (70% resist).",
+    "Round 1 and every 4th round he plants a high-pierce Shadow Hot Potato DoT (~5265 with his boost) on a wizard, plus Hot Potato: Enemy/Friend cards. NEVER Triage or Shift it off — Triage, Mass Triage, or a normal Shift Expels both the caster and the DoT-holder. You will die. Pass it only with the Hot Potato cards.",
+    "Pass it to a Marshfellow minion (Hot Potato: Enemy) the round after it is cast, but if a potato-holding minion dies to the DoT he heals the whole enemy side to full and revives it. Time the pass so the minion survives, and keep at least one minion alive as a target.",
+    "Lead with an Indemnity-enchanted Feint. Feint or Mass Feint makes him strip every trap from his allies unless Indemnity protects it; the Balance version of Feint is also safe.",
+    "Blades and Globals are punished in a cycle on the Bladestorm caster only — first a Mana Burn, then Bad Juju, then a Disarm that removes two blades. Use one designated blader and blade-and-hit in the same round to limit losses.",
+    "Funnel blades to one hitter and burst the boss with Ice or Balance while managing the potato each cycle."
+  ],
+  "cheatNotes": [
+    "",
+    "A late joiner gets S'more Machine'd (Quench can dispel it). Be on time.",
+    "",
+    "Round 1 and every 4th round he plants a high-pierce Shadow DoT (~5265) on a wizard. Manage it with the Hot Potato cards, not Triage.",
+    "The hit wizard gets Hot Potato: Enemy and Friend cards, 0-pip Shifts to pass the DoT to an enemy or ally. This is the intended way to move it.",
+    "Using Triage, Mass Triage, or normal Shift to remove the potato Expels both the caster and the DoT-holder from the fight. Never Triage it.",
+    "",
+    "Hot Potato: Enemy passes the DoT to a random Marshfellow minion the round after the cheat. Use it to offload the DoT onto a minion.",
+    "",
+    "If no Marshfellow minions are alive, the pass-to-enemy will not work. Keep at least one minion around as a potato target.",
+    "Blades and Globals trigger a 3-step punish cycle below, only on the Bladestorm caster. Designate one blader.",
+    "First blade or global: Mana Burn on the receiver. Keep pips in mind.",
+    "Second: Bad Juju (weakness) on the receiver.",
+    "Third: Disarm, removing two blades. Blade and hit in the same round to limit losses.",
+    "The cheats only target whoever cast the team blade, so route blades through one wizard and hit with another.",
+    "Feint makes him strip all traps from his allies. Indemnity protects a trap from this.",
+    "Indemnity keeps a Feint or trap safe from that removal. Protect your key trap.",
+    "Mass Feint triggers the trap wipe too. Use Indemnity or single Feints.",
+    "The Balance version of Feint does NOT trigger the trap removal, so it is the safe way to Feint here.",
+    "If a Marshfellow minion dies to the ~5265 Hot Potato DoT, he heals the whole enemy side to full and revives it. Do not let a potato-holding minion die to the DoT.",
+    "",
+    "A minion holding the potato shifts it back onto a random wizard at end of round. Be ready to receive and re-pass it."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

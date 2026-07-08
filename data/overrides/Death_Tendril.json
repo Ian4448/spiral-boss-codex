@@ -1,0 +1,32 @@
+{
+  "strategy": [
+    "Team fight against Aphrodite II and her Death, Life, and Myth Tendrils. Hit with Ice or Life (+35%), never Death (80% resist).",
+    "Every round at least one Tendril must be attacked or she blasts all wizards for 333 Shadow plus 666 Shadow over 3 rounds and stacks -30% damage, -40% accuracy, -50% healing. Assign someone to hit a Tendril each round.",
+    "Blades and damage globals trigger the Tendril directly across from the caster. Kill the Tendril across from your hitter first so the hitter can blade freely.",
+    "DoTs also punish across (Death: Deer Knight, Life: Mass Triage, Myth: Shift), so hold DoTs until the opposing Tendril is dead.",
+    "Supports blade the hitter from safe spots and keep a Tendril attacked every round to suppress the spore blast, then funnel one big Ice or Life AoE to clear the Tendrils and Aphrodite together."
+  ],
+  "cheatNotes": [
+    "",
+    "Cheats punish the wizard directly across from the acting Tendril, position your hitter opposite the Tendril you kill first.",
+    "Casting a blade or damage global makes the Tendril across from you retaliate, do not blade until that Tendril is dead.",
+    "The Death Tendril answers a blade across from it with Scarecrow and a +75% Feint on a random wizard.",
+    "The Life Tendril answers with Forest Lord and Guidance.",
+    "The Myth Tendril answers with Earthquake, which wipes your blades and traps, then stuns a random wizard.",
+    "Once the Tendril across from you is dead you can blade freely from that spot.",
+    "Casting a DoT also triggers the Tendril across from you, hold DoTs until it is dead.",
+    "The Death Tendril answers a DoT with Deer Knight.",
+    "The Life Tendril answers a DoT with Mass Triage, which removes your DoTs for 3 rounds.",
+    "The Myth Tendril answers a DoT by Shifting it back onto you.",
+    "If a wizard is defeated, the Tendril across from them punishes the team.",
+    "The Death Tendril casts a +75% Feint after a wizard falls.",
+    "The Life Tendril casts Guidance after a wizard falls.",
+    "The Myth Tendril stuns a random wizard after a wizard falls.",
+    "",
+    "Any round no Tendril is attacked, she blasts all wizards for 333 Shadow plus 666 over 3 rounds and stacks -30% damage, -40% accuracy, -50% healing. Always attack a Tendril each round.",
+    "A wizard fleeing counts as not attacking and sets off the spore blast.",
+    "A wizard joining late does not set off the spore blast.",
+    "Hitting any Tendril cancels the spore blast for that round, this is how you suppress it."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Solo-friendly (8,400 health). He shuts off shadow pips: a round-1 Sun Power Play sets your shadow-pip chance to -100%, and he Constrains any you gain. Plan a normal-pip kill, not a shadow hit.",
+    "Do not cast your own globals; he recasts his Power Play each time you do.",
+    "Hit with Storm, Ice, or Death (+15%); he resists Fire, Myth, and Life 30%.",
+    "Enter on time: late entry gets you Luminous Weaver.",
+    "Blade up with regular pips and land one strong hit."
+  ],
+  "cheatNotes": [
+    "Wizards who join late get Luminous Weaver cast on them.",
+    "Round 1 he casts a Sun Power Play setting your shadow-pip chance to -100%, so you will not earn shadow pips. Plan a normal-pip kill.",
+    "Casting your own global makes him recast that Power Play.",
+    "If you gain a shadow pip, he Constrains it away immediately.",
+    "Any shadow pip he holds at end of round he converts into a power pip plus a regular pip."
+  ],
+  "groupFight": false
+}

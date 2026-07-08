@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Hit with your strongest school (he resists 30% to all). Bring a HoT like Spritely, it is central here.",
+    "He Poisons the whole team every third round, then Detonates any DoT for heavy Shadow damage at the end of every round. Keep a HoT active positioned before the DoT to stop the detonation (the HoT is not consumed).",
+    "Do not cast direct heals, a heal makes him Natural-Attack you for 75+1430 Shadow. Use the HoT portion of heals (Spritely) instead, which does not trigger it.",
+    "Use Mass Feint or an Indemnity-protected Feint, a plain Feint makes him Cleanse-Ward all your traps off.",
+    "Stack blades and a protected Feint, keep a HoT up against the Poison, then land one big hit."
+  ],
+  "cheatNotes": [
+    "Join late and from Round 3 he hits you with Bad Juju.",
+    "He Poisons the whole team every third round, a DoT you will want to manage before his Detonate.",
+    "At the end of every round he Detonates any DoT on the team for big Shadow damage, keep DoTs off yourself.",
+    "A HoT placed before the DoT stops that DoT from detonating, and the HoT is not removed, run Spritely to neutralize his Poison.",
+    "Plain Feint makes him Cleanse-Ward all unprotected traps off himself.",
+    "Mass Feint does not trigger the trap cleanse, use it instead.",
+    "Indemnity also protects your Feint from the cleanse.",
+    "Cast a direct heal and he Natural-Attacks you for 75+1430 Shadow, avoid flat heals.",
+    "The HoT portion of a heal does not trigger that attack, so heal with HoTs.",
+    "Pet maycast heals occasionally trigger the attack, watch your pet."
+  ],
+  "groupFight": false
+}

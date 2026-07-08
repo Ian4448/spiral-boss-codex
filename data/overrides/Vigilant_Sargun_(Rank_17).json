@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Respect the damage cap. On Round 1 he Equalizes the fight, setting the damage cap to 7,999, so a single overkill nuke is wasted; plan a hit that lands near but not far over the cap.",
+    "Do not bother swapping the Global. If you replace it he just recasts it, so leave it and build your setup instead.",
+    "Skip Dispels on him. A Dispel makes him Cleanse Charm it off himself, so it accomplishes nothing; use blades and traps instead.",
+    "He is Sun-flagged but resists Fire, Myth, and Life at 70% and takes 5% boosted Ice, Storm, and Death, so hit with Ice, Storm, or Death.",
+    "Come in on time. Joining after Round 2 draws an interrupt Queen Calypso (Shadow) on the late wizard, and he has strong outgoing and incoming heals (45%/50%), so pack an Infection or Doom.",
+    "Watch his protected Balanceblade and Mass Hex; stack blades and Feint, then hit for close to the 7,999 cap and clear the Trained Death Ant with AoE."
+  ],
+  "cheatNotes": [
+    "Joining the battle after Round 2 makes him interrupt-cast Queen Calypso (Shadow) on the late wizard, so be present early.",
+    "On Round 1 he interrupt-casts Equalize, capping all damage at 7,999; oversized nukes are wasted, so size your hit to the cap.",
+    "If you try to replace the Global spell, he simply recasts it, so leave it alone.",
+    "If you cast a Dispel on him, he Cleanse-Charms it off himself, making the Dispel useless."
+  ],
+  "groupFight": false
+}

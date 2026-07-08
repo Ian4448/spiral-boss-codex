@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Enter on Round 1. Late arrivals eat Lord of Winter.",
+    "He is stunable and beguilable. A stun or beguile buys a clean setup or hit Round.",
+    "Keep setup short. He randomly Tempests off all your charms and wards and Mana Burns your pips.",
+    "Aegis your main blade so his Tempest cannot strip it, then hit Fire or Myth, since he takes +15% from each.",
+    "Prism or avoid Ice and Storm. He resists both 30%."
+  ],
+  "cheatNotes": [
+    "Joining late gets you hit with Lord of Winter. Come in on Round 1.",
+    "He randomly interrupts with a Storm Empower to gain a pip, so he can out-pip you occasionally.",
+    "He randomly interrupts with a Tempest that strips every charm and ward off all Wizards, so your blades can vanish before you hit.",
+    "Put Aegis on your key blade so the Tempest cannot remove it.",
+    "He also randomly Mana Burns you to dump your pips. Do not over-bank pips; hit before he can."
+  ],
+  "groupFight": false
+}

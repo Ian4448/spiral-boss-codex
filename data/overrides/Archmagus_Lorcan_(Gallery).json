@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "Two-boss fight: Archmagus Lorcan (Balance, resists Balance 80%, takes +30% from Myth, Life, and Death) plus Lord Ombra. Run a team with a hitter using Myth, Life, or Death, supports who blade and Feint, and a healer.",
+    "Expect two Elder Magi to spawn at the end of Round 1 and again after any Shadow Sentinel; they stay inactive for two rounds, so use that window to set up.",
+    "Once he gains his Shadow Pip he casts Shadow Sentinel every 3 rounds. Time your hitter's big AoE for a round the Sentinel is down, or clear the Sentinel first.",
+    "When his Shadow Sentinel expires the Elder Magi self-Sacrifice for 10,000 Fire and heal him 1,500. Let it happen to clear the Magi rather than killing them by hand.",
+    "Clear the Elder Magi before Lorcan so nothing keeps reviving the Sacrifice loop, then burst Lorcan down.",
+    "Lord Ombra steals 4 pips from your highest-pip wizard every 4 rounds. Spend pips before his steal window so he grabs an empty hand."
+  ],
+  "cheatNotes": [
+    "",
+    "Two Elder Magi appear at the end of Round 1 and after any Shadow Sentinel cast, but stay inactive for two rounds. Use that window to blade up before they can attack.",
+    "Once he has a Shadow Pip he throws Shadow Sentinel every third round; the Sentinel intercepts hits, so time your big attack for a round it is not up or kill it first.",
+    "When his Sentinel expires the Magi self-Sacrifice for 10,000 Fire and heal him 1,500. It removes the Magi for you, so it is fine to let it happen rather than killing them manually.",
+    "Killing Lorcan before the Elder Magi keeps this Sacrifice-heal from repeating, but the cleaner route is to clear the Magi first so nothing revives the loop.",
+    "",
+    "Every 4 rounds Ombra steals 4 pips from whoever holds the most. Spend pips before his steal window so he grabs an empty hand."
+  ],
+  "groupFight": true
+}

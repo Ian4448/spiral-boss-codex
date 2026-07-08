@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Pack Death attacks. Arion is Life and takes boosted Death damage, so a Death hitter or Death prisms carry this fight; avoid Storm, which he resists.",
+    "Never place a harmful Ward on him. Weakness, Infection, or any AoE that lands a curse-ward triggers Devotion (6 Rounds) and his 24% outgoing heal makes that a real problem.",
+    "Skip the shields-on-enemy tricks entirely. Buff yourself instead: stack blades and traps, then hit.",
+    "Set up over two or three rounds with damage charms and Feint (a Trap, not a Ward, so it is safe here), then swing one large Death hit.",
+    "Clear Scaled Eques or hit both with an AoE so nothing lingers, then finish Arion in one burst before he can out-heal you."
+  ],
+  "cheatNotes": [
+    "Landing any harmful Ward on Arion makes him cast Devotion for 6 Rounds, a heal-over-time that, with his 24% outgoing healing, keeps refilling him. Use blades and Traps instead of Weakness-style wards.",
+    "AoE spells that drop a harmful Ward on all enemies also set off the Devotion cheat, so watch your area curses too."
+  ],
+  "groupFight": false
+}

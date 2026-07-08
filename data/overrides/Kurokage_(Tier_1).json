@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Keep a shield on yourself before you attack — hitting him or his allies without a shield up triggers a 350 Death Vampire on the attacker.",
+    "He Cleanse Wards a random wizard every other round, stripping shields and traps, so re-shield before you hit.",
+    "Hit with Storm (+10%); he resists Myth 40%.",
+    "The whole fight is low health — blade and AoE the board quickly."
+  ],
+  "cheatNotes": [
+    "Attack him or his minions without a shield on yourself and he Vampires the attacker for 350 — always keep a shield up.",
+    "",
+    "Absorbs won't stop that Vampire, so use an actual shield.",
+    "Every other round he strips all shields and traps off a random wizard — reapply your shield before attacking."
+  ],
+  "groupFight": false
+}

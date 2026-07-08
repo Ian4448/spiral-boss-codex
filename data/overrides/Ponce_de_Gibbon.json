@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "He takes +35% from Storm and Death and resists Myth 80%. Hit with Storm or Death.",
+    "The fight runs a 5-round cycle. On the second round of each cycle he marks a random wizard with a Stun Shield. The marked wizard MUST damage Ponce by the end of the third round of the cycle to clear it.",
+    "If the mark is not cleared, Round 4 he Beguiles the wizard and Round 5 he Sacrifices them (drain plus heals himself 2,090). Always land a hit on Ponce during your marked window.",
+    "Melt on Ponce dispels the marking cheat if you want to skip the dance.",
+    "Keep Universal and Death blades off yourself when marked (they boost his Sacrifice) and keep a shield up (shields reduce it). Blade up, clear each mark with a Storm or Death hit, and burst him down."
+  ],
+  "cheatNotes": [
+    "",
+    "At the start of each cycle he clears the marks he placed. This is a normal round; use it to set up.",
+    "On the second round of the cycle he marks a random wizard with a Stun Shield. That wizard must hit Ponce before the cycle's third round ends.",
+    "Melt on Ponce dispels this marking cheat entirely if you would rather not chase it.",
+    "The Stun Shield mark does not actually block stuns; it is only the cheat timer.",
+    "The third round of the cycle is the marked wizard's last chance to damage Ponce and clear the mark.",
+    "If the marked wizard attacks him in time, he removes the mark and their other wards. Just get a hit in.",
+    "If the mark is not cleared by then, Round 4 he Beguiles the marked wizard. Do not miss your hit window.",
+    "Round 5 he Sacrifices the marked or beguiled wizard, draining them and healing himself 2,090. Clearing the mark avoids all of this.",
+    "Universal and Death blades on the marked wizard increase that Sacrifice damage; shed them if you fall behind the mark.",
+    "Universal and Death shields on the marked wizard reduce the Sacrifice. Keep a shield up if you might get caught.",
+    "Infection does not lessen the damage but cuts his heal from it by half."
+  ],
+  "groupFight": false
+}

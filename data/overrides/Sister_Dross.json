@@ -1,0 +1,14 @@
+{
+  "strategy": [
+    "Low health (5,690) with two Mock Roach minions - AoE both roaches and her together, or clear the roaches first.",
+    "Hit with Death - she takes 30% more from Death and resists Life 42%.",
+    "She hands each wizard Quasi-Bargain cards on round 1 and every 3rd round; they clutter your hand, so discard or ignore them and stick to your setup.",
+    "Stack a blade or two and a Feint, then land one AoE to end it."
+  ],
+  "cheatNotes": [
+    "Round 1 she gives every wizard three Quasi-Bargain cards. They fill your hand - discard or ignore them.",
+    "",
+    "Every 3rd round she hands out another Quasi-Bargain. Keep discarding and focus your own spells."
+  ],
+  "groupFight": false
+}

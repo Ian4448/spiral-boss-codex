@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Hit with Myth; he takes +50% and resists Storm 80%.",
+    "He hits hard and often: Leviathan (1,135) at the end of every Round except the fourth, and Stormzilla (775-835) every second Round. Keep shields and heals flowing.",
+    "Race him down fast; the incoming Storm damage adds up, so minimize setup Rounds.",
+    "Stack a couple of Myth blades and Feint, then end quickly with one Myth hit."
+  ],
+  "cheatNotes": [
+    "He Leviathans a random wizard for 1,135 at the end of every Round except the fourth; expect heavy Storm damage almost every turn and shield up.",
+    "Every second Round he adds a 775-835 Stormzilla; between this and Leviathan, keep heals ready and end the fight quickly."
+  ],
+  "groupFight": false
+}

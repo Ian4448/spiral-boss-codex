@@ -1,0 +1,12 @@
+{
+  "strategy": [
+    "Very low health (1,200) fight with three weak minions. A quick AoE clears the room.",
+    "Join on time; the only cheat triggers on latecomers.",
+    "Blade once and AoE everything down.",
+    "He is stunable if you ever need to skip a turn."
+  ],
+  "cheatNotes": [
+    "Only matters if you join late: a Feckless Soul steals one pip from the latecomer. Arrive on time and it never fires."
+  ],
+  "groupFight": false
+}

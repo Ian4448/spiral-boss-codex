@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "He starts invincible under a -300% Brace aura, so cast Supernova to strip it; he will not recast it.",
+    "Set up with Aegis-protected blades and Indemnity-protected traps (or multi-blade and multi-trap spells); plain blades get Disarmed and plain traps get Cleanse Warded.",
+    "After the aura is gone he shields against your exact school every time you damage him (and recasts on Steal Ward), but he cannot shield Balance. Hit with Balance damage, or prism your hits, to sidestep the shields.",
+    "Every 5 rounds he plants a Shadow deferred hit for 100,000 damage that lands two rounds later, so keep the fight short and kill before it resolves.",
+    "Blade up, Supernova the aura, and burst with Balance or prismed damage."
+  ],
+  "cheatNotes": [
+    "He is invincible under this -300% aura until you Supernova it off.",
+    "Supernova removes the aura and he will not recast it, so that is your opening.",
+    "Plain blades get Disarmed off the recipient, so use Aegis-protected or multi-blade spells.",
+    "Plain traps get Cleanse Warded, so use Indemnity-protected or multi-trap spells.",
+    "Aegis blades, Indemnity traps, and multi-blade or trap spells slip past his Disarm and Cleanse Ward.",
+    "After the aura drops he shields against your exact school, so hit with Balance (which he cannot shield) or prism your damage.",
+    "Every damaging hit makes him recast the school shields, so Balance damage avoids the loop.",
+    "Stealing his shield just makes him recast it in your school, so use Balance instead.",
+    "Every 5 rounds he sets a 100,000 Shadow deferred hit that lands two rounds later, so kill him before it resolves."
+  ],
+  "groupFight": false
+}

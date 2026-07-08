@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "He is Death, so hit with Life. His Aegis-protected Deathblade means his hits stay strong, so shield.",
+    "He hides behind a -100% Fortify that halves incoming damage, but his own Et tu cheat keeps recasting the aura 10% weaker each time until it is only -10% and expires after four rounds. Bait it down or strip the aura, then burst while it is weak.",
+    "Do not heal unless needed: any heal triggers a -75% Doom and Gloom that cuts your own healing anyway.",
+    "He can Beguile a wizard and summons Understudy minions, so clear adds and watch for a beguiled ally hitting you.",
+    "Stack Life blades and a Feint while his Fortify decays, then hit once it is down to -10%."
+  ],
+  "cheatNotes": [
+    "Show up on time; a late wizard gets Feint (+75%), Curse (+25%), and Hex (+35%) dumped on them.",
+    "He summons a MacDeath, MacLife, or MacStorm Understudy minion. Clear it or AoE through.",
+    "He puts a -100% Fortify on himself, halving your damage. Wait for it to decay or strip it before hitting.",
+    "His Et tu cheat recasts that aura 10% weaker each round until it is just -10% and expires after four rounds. Bait it down, then burst.",
+    "Casting any heal triggers a -75% Doom and Gloom that cripples healing, so avoid healing when you can.",
+    "He can Beguile one of your wizards into attacking the team, so be ready to shield."
+  ],
+  "groupFight": false
+}

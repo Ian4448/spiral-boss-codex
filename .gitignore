@@ -1,0 +1,28 @@
+# dependencies
+node_modules/
+.venv/
+.venv312/
+
+# python
+__pycache__/
+*.pyc
+
+# secrets — Cloudflare session cookies, never commit
+data/cf_session.json
+
+# large / regenerable pipeline intermediates (rebuildable via scripts/)
+data/raw/
+data/pages.json
+data/live_missing.json
+data/batches/
+data/*_failures.json
+data/img_missing*.json
+data/img_bad.json
+data/boss_names.json
+data/guide_bosses.json
+data/guide_new.json
+data/finalbastion_guides_extra.json
+
+# os
+.DS_Store
+.vercel

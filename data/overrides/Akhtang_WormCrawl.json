@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Bring an Ice or Storm hitter. Akhtang takes +30% from both and resists Fire 80%, so never hit him with Fire.",
+    "He steals your buffs: every Charm or Global triggers Steal Charm on the recipient or caster. Aegis your hitter's key blade, or set up and hit in the same round so there is nothing to steal.",
+    "Exploit his blade-steal limits: he only takes the last Elemental Blade or the caster's blade from Bladestorm. Stack a plain Stormblade or Frostblade under an Elemental Blade so he grabs the throwaway and your real blade survives.",
+    "Cast Bladestorm from a support, not the hitter, since only the caster loses a copy.",
+    "Supports Feint the boss (traps are safe) and pass pips; the hitter unloads one big Ice or Storm AoE to clear the Draconian Eidolon and Akhtang together."
+  ],
+  "cheatNotes": [
+    "Every blade, charm, or global you cast lets him steal it back immediately. Aegis the hitter's key blade, or set up and hit the same round.",
+    "He only grabs the last Elemental Blade or Spirit Blade, so stack a plain Stormblade or Frostblade on top and he steals the throwaway while your real blade stays.",
+    "Bladestorm only loses the caster's own copy, so cast it from a support to blade the hitter safely."
+  ],
+  "groupFight": true
+}

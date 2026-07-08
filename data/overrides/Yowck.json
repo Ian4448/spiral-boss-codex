@@ -1,0 +1,29 @@
+{
+  "strategy": [
+    "Ice boss (23370) in the Beastman trio (with Adrok and Mykedee), with 100% incoming healing so never heal him and expect drains to rebound. Hit with Fire (+10%); avoid Ice/Balance (75%) and Storm/Shadow (40%).",
+    "Traps are risky: traps on Adrok (or ally-cast negative wards) get Shifted back onto a random wizard. Indemnity protects them, and prisms only trigger the shift at end of round, so plan accordingly. Trap Yowck directly.",
+    "Warding allies is gated: the first single-target Ward each round is free, but a second makes him Pierce the recipient and Freeze the caster. Mass Wards work the same, one free, the second Pierces all and Blinding Freezes the team. Limit to one ward per round.",
+    "Negative charms on Yowck get Cleansed by Adrok, so debuffs on him are wasted. Expect a -55% shield on an ally after his Natural Attack and Black Mantle on anyone who fizzles, so bring accuracy.",
+    "Funnel blades to the hitter (Indemnity-protect key traps), manage one ward per round, and burst with Fire."
+  ],
+  "cheatNotes": [
+    "A late joiner gets Mana Burned and his whole team gets 7 Power Pips. Everyone in on round 1.",
+    "Traps placed on Adrok (or ally-cast negative wards) get Shifted onto a random wizard. Trap Yowck directly and Indemnity-protect key traps.",
+    "Prisms trigger this shift only at the end of the round. Account for the delay when using them.",
+    "Indemnity keeps your trap safe from the shift. Protect the trap that matters.",
+    "After his Natural Attack he puts a -55% Elemental or Spirit Shield on an ally. Over-stack blades or pierce through it on your hit.",
+    "If a wizard fizzles he Black Mantles them (-55% accuracy), snowballing more fizzles. Carry accuracy so you do not start the spiral.",
+    "Single-target Wards on allies are gated: one free per round, the second is punished as below.",
+    "The first single-target ward each round is allowed. Cast only one.",
+    "A second single-target ward in the same round makes him Pierce the recipient and Freeze the caster. Keep it to one ward per round.",
+    "The ward limit resets each round, so spread your shielding across turns.",
+    "Mass Wards follow the same one-free rule below.",
+    "The first mass ward each round is allowed.",
+    "A second mass ward makes him Pierce all wizards and Blinding Freeze the team. One mass ward per round, max.",
+    "",
+    "Negative charms on Yowck get Cleansed off by Adrok. Do not waste turns debuffing him.",
+    "",
+    ""
+  ],
+  "groupFight": true
+}

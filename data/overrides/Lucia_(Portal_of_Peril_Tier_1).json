@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Join on time. Late wizards eat a Star Mana Burn that pierces all resist and deals 500.",
+    "She summons a Clockworker on Round 1. Clear it with an AoE or ignore it and focus Lucia — she only has 3,335 health.",
+    "At the start of every fourth round she steals ALL your blades and wards. Land your hit inside the first three rounds so nothing gets stolen.",
+    "Do not Feint her — she Cleanse Wards all harmful wards off herself. Do not trap her either — a trap makes her buff her whole team with a blade, accuracy, spear, and heal.",
+    "Rely on self-blades only, then burst her down before the Round 4 steal window."
+  ],
+  "cheatNotes": [
+    "Join on time or you eat a 500 Star Mana Burn that ignores your resist.",
+    "She summons a Clockworker on Round 1, and more if 3+ wizards are present. Plan to AoE or just race her low health.",
+    "At the start of every fourth round she steals every blade and ward off your whole team. Hit before Round 4 (and before Round 8) so nothing is stolen.",
+    "Feinting her is wasted — she cleanses all harmful wards off herself.",
+    "Trapping her backfires: she buffs her entire team with a +30% blade, +20% accuracy, +10% spear, and +30% heal. Use self-blades instead.",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "groupFight": false
+}

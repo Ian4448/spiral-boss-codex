@@ -1,0 +1,11 @@
+{
+  "strategy": [
+    "Tiny Death boss (960 health). She takes +30% from Life and resists Death. Hit with Life or a non-Death school.",
+    "She summons a Cold Confusion minion and resummons it a round or two after it dies. Do not chase the minion; just blade and burst her down.",
+    "One or two blades and a Life hit end it before the minion matters."
+  ],
+  "cheatNotes": [
+    "She keeps summoning a Cold Confusion minion, respawning it after it dies. Ignore the minion and race Jordyn's low health instead of clearing adds."
+  ],
+  "groupFight": false
+}

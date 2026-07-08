@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Do not cast helpful Charms or Auras. Each one makes Stheno hit that recipient with Ice Elemental, so set up with Traps and Feints instead of blades where you can.",
+    "Do not put harmful Auras on her; she answers with a Tower Shield on herself.",
+    "She resists Ice 80% and takes bonus Fire, so hit with Fire and pierce any Tower Shields.",
+    "Low 7,200 health: trap up and burst her and the Bronze Hoplite together."
+  ],
+  "cheatNotes": [
+    "Casting a helpful Charm or helpful Aura makes her hit that recipient with Ice Elemental.",
+    "Casting a harmful Aura on her makes her Tower Shield herself."
+  ],
+  "groupFight": false
+}

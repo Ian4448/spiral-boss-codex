@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Every spell you cast lets Moonbeam Bully cheat-cast a self-buff or a trap on your team, so cast as few times as possible: minimal setup, then one big hit.",
+    "Some of his cheats are Mass Death, Ice, and Myth Traps plus an all-enemy Moon Trap on your team, raising the damage you take; clear them or just burst before they matter.",
+    "Hit with Fire, which he takes +30% from; avoid Ice (73% resist).",
+    "Team fight at 19,450 health plus three Tut Tough minions: funnel blades to one hitter, keep support casts low, and finish with an AoE so the minions die too."
+  ],
+  "cheatNotes": [
+    "Each time a wizard casts a spell, he cheat-casts one of the listed effects: blades and power for himself, or traps on your team.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "groupFight": true
+}

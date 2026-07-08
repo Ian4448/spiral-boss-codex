@@ -1,0 +1,30 @@
+{
+  "strategy": [
+    "He is immune to damage: every hit deals 0 but makes him self-damage 1. Chip him down with cheap multi-hit spells (Hydra's three hits do 3).",
+    "At 1 health he polymorphs into a 56,000-health form with no immunity, or use a multi-hitting spell like Hydra at low health to skip the polymorph and finish him outright.",
+    "The Hired Hoof minions each punish a specific action: auras (Supernova), heals (Infection), blades (Steal Charm), wards (Steal Ward), DoTs (Mass Triage), traps (Cleanse Ward), weakness (Cleanse Charm). Keep your setup narrow.",
+    "Once in the 56,000 form (or skipping it), blade up and hit for real damage.",
+    "Everyone join Round 1; latecomers get natural-attacked and stunned two rounds."
+  ],
+  "cheatNotes": [
+    "Late joiners get natural-attacked and Stunned for two rounds, so join on Round 1.",
+    "He is immune to damage: every hit deals 0 but makes him self-damage 1, so use cheap multi-hit spells to chip him.",
+    "Multi-hit spells like Hydra trigger the self-damage once per hit, so they whittle him faster.",
+    "Damage-over-time does not trigger the self-damage, so DoTs will not chip him.",
+    "",
+    "At 1 health he becomes a 56,000-health form that loses the damage immunity, so plan for a real damage race or skip it.",
+    "Casting a multi-hit spell like Hydra at low health can skip the polymorph and defeat him outright.",
+    "His natural attack is followed by a two-round Shadow Stun.",
+    "He summons Hired Hoof minions on Round 1 and every 6 rounds; each punishes a different action.",
+    "Casting an aura makes the Balance Hoof Supernova you, so skip auras.",
+    "Pet may-casts also trigger the aura Supernova.",
+    "Healing makes the Death Hoof Infect the caster.",
+    "Blading makes the Fire Hoof Steal Charm.",
+    "Warding makes the Ice Hoof Steal Ward (from the caster on Legion Shield or Rebirth).",
+    "DoTs make the Life Hoof Mass Triage them off.",
+    "Trapping makes the Myth Hoof Cleanse Ward.",
+    "Weakness makes the Storm Hoof Cleanse Charm it off.",
+    ""
+  ],
+  "groupFight": false
+}

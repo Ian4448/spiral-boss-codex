@@ -1,0 +1,16 @@
+{
+ "strategy": [
+  "Skip blades, traps, and shields — every one you cast gets answered with a +35% Hex on you. Pack an aura for your damage buff instead; auras do not trigger him.",
+  "Hit with Ice — he takes +35% from it. Never Fire into his 35% resist.",
+  "Open with an aura, build pips for two or three rounds, and just attack. At 3,435 health he dies to one solid Ice hit without any trap setup.",
+  "If you must shield or trap, do it knowing his next hit on you lands +35% harder through the Hex — heal margin accordingly."
+ ],
+ "cheatNotes": [
+  "Cast a Blade and he instantly puts a +35% Hex trap on you — his next hit on you does 35% more. Buff with auras instead.",
+  "Globals count as blades for this cheat, but auras are exempt — auras are your only free buff.",
+  "Pet may-cast blades do not trigger the Hex, so pet buffs are free value.",
+  "Traps (Feint included) and shields draw the same +35% Hex. Shielding still works — you just pay a Hex for it.",
+  ""
+ ],
+ "groupFight": false
+}

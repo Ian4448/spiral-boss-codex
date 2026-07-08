@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "She punishes almost every action, so keep your deck lean: fewer, bigger plays beat lots of small ones.",
+    "Damaging her triggers a Moon Insane Bolt AoE (random 550, 1,050, or 1,550) on your team, so shield the group and be ready to heal after each hit.",
+    "Skip DoTs (she counters with Kraken), damage debuffs (Hammer of Thor), and extra Feints (Insane Bolt twice); each just eats a punish.",
+    "Blades and Globals trigger an AoE Enfeeble or a self-heal via Healing Current. With 45% incoming healing she heals well, so bring Doom and Gloom or infection and blade the same round you hit.",
+    "She has no boost school and 20% resist to everything, so attack with your strongest school, stack a couple of blades, and burst her down accepting the Insane Bolt return."
+  ],
+  "cheatNotes": [
+    "Arriving late gets your whole team hit with a Moon Insane Bolt (550, 1,050, or 1,550). Join on time.",
+    "If she has a Heal-over-Time ticking at end of round she casts Thundering Jinn, so do not hand her healing to protect.",
+    "Any damage on her returns a Moon Insane Bolt AoE on your team; shield before you hit.",
+    "A DoT on her triggers Kraken, so leave DoTs out.",
+    "Blades and Globals make her cast an AoE Enfeeble or heal herself with Healing Current. Blade the same round you hit and pack an infection.",
+    "A damage debuff (weakness type) triggers Hammer of Thor, so do not debuff her damage.",
+    "Feinting her triggers Insane Bolt plus a Moon Insane Bolt AoE, the priciest punish. Avoid Feint.",
+    "Casting Dissipate triggers another Moon Insane Bolt AoE."
+  ],
+  "groupFight": false
+}

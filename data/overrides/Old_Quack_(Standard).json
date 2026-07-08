@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Team fight. Hit with Fire (+30%), never Ice (76% resist).",
+    "Use single-school blades of your OWN school. Universal charms (Balanceblade, elemental), multi-blade spells (Elemental Blade), and off-school blades all make him Enfeeble the blades off the receiver.",
+    "Multi-target blade spells (Bladestorm) make him Enfeeble the whole team, so avoid group-blading, blade wizards individually with same-school blades.",
+    "Secondary-effect blades like Savage Paw do not trigger the cheat, so they are a safe way to buff.",
+    "Aegis will not stop the Enfeeble, so do not rely on it. Funnel clean same-school blades to the hitter and land one big Fire hit."
+  ],
+  "cheatNotes": [
+    "Cast a universal charm (Balanceblade) or a multi-blade spell (Elemental Blade) and he Enfeebles the blades off whoever received them, use single same-school blades instead.",
+    "Multi-target blade spells like Bladestorm make him Enfeeble the entire team, never group-blade him.",
+    "Blading with a charm outside your own school also triggers the Enfeeble.",
+    "Secondary-effect blades like Savage Paw do NOT trigger it, a safe way to buff.",
+    "Aegis will not save your blades from this Enfeeble, so do not rely on it."
+  ],
+  "groupFight": true
+}

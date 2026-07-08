@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "Low-Health Moon boss at 2,500. Hit Fire or Myth, since it takes +25 from both.",
+    "Every Round it marks a Wizard and copies that Wizard's next spell back onto them. While marked, cast blades and heals, which copy harmlessly.",
+    "Do not cast an attack you cannot survive while marked. A damage spell you cast gets mirrored onto the marked Wizard.",
+    "Do not pass or Reshuffle while marked. That triggers a set punishment spell instead.",
+    "Stack blades, then land one Fire or Myth hit. At 2,500 Health it drops in a single blow even if the mirror hits you back."
+  ],
+  "cheatNotes": [
+    "Every Round it marks a random Wizard with a Stun Block. That marked Wizard is who it copies.",
+    "Only one mark exists at a time. A new mark cancels the old one.",
+    "The same Wizard can hold the mark several Rounds running, so do not assume it rotates.",
+    "Whatever spell the marked Wizard casts, the Mimic re-casts on that same Wizard. If you are marked, cast something you can survive, or a heal or blade.",
+    "If the marked Wizard passes or Reshuffles, the Mimic instead fires a set spell based on which Wizard was marked.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "groupFight": false
+}

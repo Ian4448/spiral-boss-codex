@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "Attack with Life. She takes +30% Life and resists Death 70% and every other school 40%, so Life is your only efficient damage.",
+    "Top off before the end of Round 1. She hits the whole team with a Moon Poison worth 50% of each wizard's max Health with no lingering DOT, so do not enter Round 2 low.",
+    "From Round 2 on she poisons the team every round for normal damage. Bring a healer or heal-over-time to soak the steady drip.",
+    "Keep everyone alive at all costs. If any wizard dies with two or more present, she revives and turns that wizard into a Doll for 99 Rounds, effectively removing them from the fight.",
+    "Blade and Feint onto one hitter, then close with a big Life hit. She is not stunable, so you cannot skip her poison turns.",
+    "Treat any polymorph as a loss condition, not something to play through, since her follow-up cheat on a Dolled wizard is unconfirmed."
+  ],
+  "cheatNotes": [
+    "At the end of Round 1 everyone takes a Moon-based Poison worth 50% of their max Health with no damage-over-time. Heal up first and do not enter Round 2 low.",
+    "From Round 2 onward she poisons the whole team every round for normal damage, so bring sustained healing or a heal-over-time.",
+    "With two or more wizards present, if one dies she revives and polymorphs that wizard into a Doll for 99 Rounds, taking them out of the fight. Keep everyone alive.",
+    "Soloing does not save you: dying with an active minion out triggers the same Doll polymorph on you.",
+    "Your own minions are immune to the Doll polymorph.",
+    "Once a wizard is a Doll she runs an additional, untested cheat, so reset rather than play a polymorph out."
+  ],
+  "groupFight": true
+}

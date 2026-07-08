@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "This is a one-shot fight. Any damage to her makes her heal (up to 1,000) and fire an Insane Bolt AoE, so you must go from full health to dead in a single hit - never chip her.",
+    "Hit Myth. She takes +30% Myth and resists 33% Storm, so Myth is your kill school.",
+    "Do not use Damage-over-Time - it makes her summon Stormzilla. And skip traps: any trap makes her Cleanse Ward all traps off herself, and Indemnity will not stop it.",
+    "Blades work but cost you: each blade or outgoing-damage aura makes her Enfeeble the whole team (a weakness you cannot dispel, and Aegis will not block). Stack your blades in one turn, then Cleanse the weaknesses off just before you swing.",
+    "Enter on time to dodge her opening Insane Bolt, build every blade you can in a single setup turn, clear the Enfeebles, then land one overwhelming Myth hit that kills her outright."
+  ],
+  "cheatNotes": [
+    "A late joiner gets hit with a Moon Insane Bolt for 250, 500, or 1,000 to all enemies.",
+    "Any time you damage her she heals herself 100, 400, or 1,000, then fires a Moon Insane Bolt at the whole team. Kill her in one hit instead of chipping.",
+    "A Damage-over-Time on her makes her summon Stormzilla (Tier 5b).",
+    "Any blade or outgoing-damage aura makes her cast an Ice Enfeeble on all wizards, weakening your whole team.",
+    "That Enfeeble cannot be dispelled.",
+    "Aegis will not stop the Enfeeble either.",
+    "Any trap or incoming-damage aura makes her Cleanse Ward all traps off herself.",
+    "Indemnity will not stop that trap cleanse."
+  ],
+  "groupFight": false
+}

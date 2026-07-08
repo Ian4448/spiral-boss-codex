@@ -1,0 +1,28 @@
+{
+  "strategy": [
+    "Attack with Storm (+50%); N. Bison resists Myth 80%.",
+    "He confuses each wizard on round 1 and every 7 rounds for two rounds, so expect random targeting; AoEs care less about aim.",
+    "Do not blade openly: Ms. Felicity Disarms single blades off the receiver, though multi-target blades are safe.",
+    "Do not cast Auras: Kenny Rooster destroys them with a Natural Attack.",
+    "His minions chain-kill their own low members below ~20% health. Bring an AoE to whittle the low-HP gauntlet (Bison only 1,915) and finish everything together.",
+    "Be careful attacking Bison directly, since Psycho Deflection returns 20% of your max health. Shield or burst him in one hit."
+  ],
+  "cheatNotes": [
+    "",
+    "Late arrivals get confused for two rounds, so join on time.",
+    "",
+    "He confuses every wizard on round 1 and every 7 rounds after for two rounds. Plan AoEs that do not depend on aim.",
+    "Attacking him returns 20% of your max health via Psycho Deflection, so burst him (only 1,915 HP) rather than poking.",
+    "",
+    "Single blades get Disarmed off the receiver by Ms. Felicity, so use multi-target blades.",
+    "",
+    "If Kenny Rooster drops below ~20% health, Ms. Felicity instantly finishes him; the gauntlet chain-kills its own low members.",
+    "",
+    "Daniel hands every wizard a Free Sample card on round 1 and every five rounds.",
+    "If Ms. Felicity falls below ~20%, Daniel instantly defeats her.",
+    "",
+    "Casting an Aura makes Kenny destroy it with a Natural Attack, so do not rely on auras.",
+    "If Daniel drops below ~20%, Kenny instantly defeats him."
+  ],
+  "groupFight": false
+}

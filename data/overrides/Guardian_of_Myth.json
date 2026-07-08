@@ -1,0 +1,12 @@
+{
+  "strategy": [
+    "It has only 100 health but shields itself with an Invulnerability Aura on round 1, so raw damage does nothing until that aura is gone.",
+    "Overwrite or remove its Invulnerability Aura first (cast your own aura over it, or use an aura-stripping effect like Supernova).",
+    "Once the aura is gone, any small hit finishes its 100 health.",
+    "The 8 Myth Prisms it stacks on a wizard convert Myth damage, so a Myth hit into a prism can be the intended finisher once the invuln is off."
+  ],
+  "cheatNotes": [
+    "On round 1 it stacks 8 Myth Prisms on one wizard and gives itself an Invulnerability Aura. Overwrite or remove that aura before attacking — until then its 100 health is untouchable."
+  ],
+  "groupFight": true
+}

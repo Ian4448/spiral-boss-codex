@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Solo-friendly (3,240 health). Do not cast weaknesses (you get a Myth Trap) or shields (the recipient gets a Myth Trap).",
+    "She keeps a trap on you: any round you have none, she Hexes all wizards.",
+    "Never let your trap count reach three. At 3+ traps she fires Vermin Virtuoso for 943 Myth, so keep it at one or two.",
+    "She opens with Time of Legend on round 1. Blade up and burst her down fast given her low health.",
+    "Skip weaknesses and shields, hit with a strong non-Myth school, and finish before traps stack."
+  ],
+  "cheatNotes": [
+    "Casting a weakness or harmful charm gets you a Myth Trap. Skip weaknesses.",
+    "Casting a shield or helpful ward gets the recipient a Myth Trap. Skip shields.",
+    "Any round you have no trap on you, she Hexes all wizards to keep a trap on you.",
+    "The moment you carry three or more traps she fires Vermin Virtuoso for 943 Myth. Keep your trap count under three."
+  ],
+  "groupFight": false
+}

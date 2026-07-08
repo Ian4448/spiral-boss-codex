@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Ignore his 300,000 health completely — you win through his minions, not by damaging him (he resists Balance and Shadow 70% with almost no boost school).",
+    "On round 1 he summons one Belloq Image minion per wizard; that minion is your real target.",
+    "When a minion dies, Belloq takes huge self-damage: 300,000 with one wizard present, 150,000 each with two, 99,000 each with three-plus — so fewer wizards is far stronger here.",
+    "Solo or duo, stack blades, traps, and a Feint on a single Belloq Image and kill it: one minion death is his entire health bar and ends the fight.",
+    "Enter on time — a late wizard eats a Ra for 33% of their max health plus an extra summon."
+  ],
+  "cheatNotes": [
+    "He summons one Belloq Image minion per wizard at the start — these minions are your actual target, not Belloq.",
+    "",
+    "Join late and he Ra's you for 33% of your max health and adds a minion. Enter at the start.",
+    "He tops up minions every 6-10 rounds if a slot is open, so there is always a target to kill.",
+    "The core exploit: when a minion dies, Belloq takes massive self-damage — 300,000 with one wizard, 150,000 each with two, 99,000 each with three-plus. Solo or duo, a single minion kill ends the fight; just blade up and kill one Image.",
+    ""
+  ],
+  "groupFight": false
+}

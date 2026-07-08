@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Attack into Storm or Life. He takes +14% from both, resists Fire, Death, Balance, and Shadow only 6%, and resists Ice and Myth 26%, so pick Storm or Life.",
+    "Expect a hard opener. He casts Amplify on himself round 1 and any round he has no aura, boosting his next attack, so shield or keep resist up early.",
+    "Skip traps entirely. Any harmful ward on Ares triggers Immolate on you. Skip shields too, since a helpful ward gets the recipient hit with Fire Elf.",
+    "Stack blades instead. Charms do not trigger his cheats, so build damage over two or three rounds safely.",
+    "Finish with an AoE, not a single-target hit. A single-target damage spell makes him fire a free 0-pip natural attack back, and an AoE also clears the Ophidian Archer."
+  ],
+  "cheatNotes": [
+    "Round 1 and any round he has no aura, Ares casts Amplify on himself to boost his next attack. Keep resist or a shield up.",
+    "Any trap or weakness you place on him triggers Immolate, a Fire DoT, on you. Skip traps and blade instead.",
+    "Any shield or helpful ward you cast gets the recipient hit with Fire Elf. Do not shield.",
+    "Hitting him with a single-target damage spell makes him retaliate with a free 0-pip natural attack. Use an AoE to avoid the counter."
+  ],
+  "groupFight": false
+}

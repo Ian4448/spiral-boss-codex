@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Chilly's team resists 200% to every school normally, so raw attacks do nothing — the ONLY damage window is their polymorph, which hits every 5th round and lasts two rounds.",
+    "Spend rounds 1-4 stacking blades, traps, and a Feint; enter on time so they don't steal your pips.",
+    "On the round-5 polymorph they become Shadow school and vulnerable, so any school hits them — no prism needed for the burst.",
+    "Defeat Chilly during that round-5 window: doing so on round 5 skips the round-6 blade/trap strip and keeps the ghosts polymorphed and open the full two rounds.",
+    "If the fight drags, work down the takeover order (Chilly, then Achey, Sneezy, Cough), always hitting during a polymorph window."
+  ],
+  "cheatNotes": [
+    "Join late (round 3+) and every Germ Ghost steals a pip from you. Enter at the start.",
+    "Every 5th round they polymorph for two rounds — this is the only window they take damage. Bank your blades and traps for it and unload.",
+    "They pass while polymorphed, so it is a completely safe window to set up and hit.",
+    "The polymorph turns them Shadow school, so any school damages them — no prism needed during the burst.",
+    "The polymorph reverts after two turns, so the damage window closes on the second round; land your kill inside it.",
+    "The polymorph cast never fizzles, even with Smoke Screen or other accuracy debuffs — don't waste a turn trying to stop it.",
+    "Every 6th round they strip all your blades and their own traps. Land your kill in the round-5 window before this hits.",
+    "If you defeat Chilly on round 5, the round-6 strip is skipped and the ghosts stay polymorphed and vulnerable the full two rounds — the cleanest line.",
+    "",
+    "Kill order matters: when one falls, the next inherits the strip and polymorph cheats in the order Chilly, Achey, Sneezy, Cough. Work down the line."
+  ],
+  "groupFight": false
+}

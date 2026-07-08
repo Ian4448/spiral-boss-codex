@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "The whole fight is his -90% Tower Shield. He casts it on himself on Round 1 and re-casts it 3 rounds after it comes off, so you never hit into it directly.",
+    "Do not use Pierce, Shatter, or Steal Ward to remove the shield — those trigger his \"That's not funny!\" cheat instead of working.",
+    "Exploit the fizzle cheat: when any wizard fizzles, he pushes all positive charms and wards to a random wizard — including his own Tower Shield. Deliberately fizzle a low-accuracy spell to strip the shield off him for free.",
+    "If you'd rather break it with damage, use an All-Enemies (AoE) spell — he only re-casts the shield once. A single-target damage spell makes him re-cast it twice, so never chip at him with single hits.",
+    "Stack your blades while the shield is up, then break it (fizzle-strip or AoE) and hit the same or next round before the 3-round timer restores it. Hit with Storm — he takes +30% from it and resists nearly everything else; Myth is worst (71% resist).",
+    "Keep charms and shields off yourself when you can — he occasionally Steal Charms a blade or Steal Wards a shield right off you."
+  ],
+  "cheatNotes": [
+    "",
+    "He shields himself for -90% almost the whole fight, so raw hits do almost nothing until the shield is gone. The 3-round re-cast timer is your attack window.",
+    "The obvious shield-strippers backfire here. Casting Pierce, Shatter, or a Steal Ward on his shield sets off the \"That's not funny!\" punishment instead of removing it.",
+    "Breaking the shield with an AoE (or one of the forbidden strippers) is the cheaper option — he only puts it back once.",
+    "Breaking the shield with a single-target damage spell is the worst option — he immediately re-shields twice, doubling your problem.",
+    "If you walk in with a blade or shield already up, he may just steal it. Set up the turn you plan to hit rather than banking buffs early.",
+    "While he's shielded, any single-target spell on him earns the caster a Black Mantle (big accuracy debuff). Use All-Enemies spells, or expect to fizzle next turn.",
+    "This is the key cheat: a fizzle makes him shove every positive charm and ward — his Tower Shield included — onto a random wizard. Fizzling on purpose is the cleanest way to take his shield off him."
+  ],
+  "groupFight": false
+}

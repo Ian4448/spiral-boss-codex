@@ -1,0 +1,36 @@
+{
+  "strategy": [
+    "Pack multi-target Damage-over-Time spells, harmful Wards, and harmful Charms. Do not try to strip his Domination Aura directly or he casts Exit Combat and boots you.",
+    "Phase 1: land four Damage-over-Time effects and keep all four active at the same time. He then wipes his effects and self-deals 4,051.",
+    "Phase 2: stack four harmful Wards on him simultaneously. He wipes and self-deals another 4,051.",
+    "Phase 3: stack four harmful Charms on him simultaneously. He wipes, self-deals another 4,051, and drops the Domination Aura.",
+    "With the aura gone, damage finally lands normally. Blade up and burst him down; he takes +30% from Life and resists Death 68%.",
+    "Team the phases: assign who lands each set of four so all four are up before any expire, then the hitter finishes once he is dominatable."
+  ],
+  "cheatNotes": [
+    "At round 1 he auras himself so all incoming damage is capped at 1. You cannot hurt him until it is removed the intended way.",
+    "The only way to drop the aura is to clear three phases: four DoTs, then four harmful Wards, then four harmful Charms, in order.",
+    "Phase 1 gate: you need four Damage-over-Time effects on him at once.",
+    "Phase 2 gate: you need four harmful Wards on him at once.",
+    "Phase 3 gate: you need four harmful Charms on him at once.",
+    "All four of a phase must be active simultaneously. If one expires before the fourth lands, the phase does not advance.",
+    "Trying to remove the aura without doing the phases makes him Exit Combat the caster, removing them from the fight.",
+    "",
+    "He heals himself 11 and applies three Heal-over-Times at round 1; the phase-1 goal is to overwrite these with your four DoTs.",
+    "",
+    "Once four or more DoTs are on him he removes all his effects and deals 4,051 (25% max) to himself, advancing to phase 2.",
+    "If you strip his HoTs any other way, he simply recasts them, so beat them with DoTs rather than cleansing.",
+    "",
+    "Entering phase 2 he heals 11 and shields himself with three -50% Damage Wards.",
+    "",
+    "Once four or more harmful Wards are on him he wipes everything and self-deals 4,051, advancing to phase 3.",
+    "Removing his -50% Wards any other way makes him recast them; place your four harmful Wards instead.",
+    "",
+    "Entering phase 3 he heals 11 and gives himself three +50% Damage Charms.",
+    "Those charms are decorative; he never uses them to boost his attacks, so ignore them.",
+    "",
+    "Once four or more harmful Charms are on him he wipes everything and self-deals a final 4,051.",
+    "After phase 3 he auras himself so wizards can finally deal more than 1 damage; now go for the kill."
+  ],
+  "groupFight": true
+}

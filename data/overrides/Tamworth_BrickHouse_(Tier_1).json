@@ -1,0 +1,13 @@
+{
+  "strategy": [
+    "Hit with Myth, Life, or Death (+4% each); avoid Balance (40% resist).",
+    "These are low-health enemies, but killing one out of order makes the others interrupt-cast attacks every Round (Sandstorm, Big Bad Hound). Don't pick them off one at a time.",
+    "Build a quick blade and finish everything with one AoE so nothing survives to retaliate."
+  ],
+  "cheatNotes": [
+    "Once Lacombe dies, Berkshire Sandstorms your team every Round. Kill them together, not one at a time.",
+    "Beguiling Berkshire or Lacombe also triggers the Sandstorm cheat.",
+    "Once Berkshire dies, Tamworth casts Big Bad Hound every Round. AoE everything at once."
+  ],
+  "groupFight": false
+}

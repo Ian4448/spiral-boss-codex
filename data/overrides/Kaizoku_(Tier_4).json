@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Round 1 he opens with a -85% Tower Shield and replaces it every time he takes damage - do not hit into it.",
+    "Strip it for free with his Halberd cheat: keep a cheap shield on a wizard who is NOT the last target of his every-other-round 450 Star AoE. The AoE stops on that wizard, and Kaizoku cleanses all wards off them and himself - Tower Shield included - without replacing it.",
+    "Alternatively, ward-removal spells like Steal Ward or Shatter take the Tower Shield without triggering a replacement.",
+    "Hit with Ice or Storm (+35%). He resists Fire 80%, so Fire wizards bring a prism.",
+    "Leave the minions up while you set up - once all three die, the 450 Star AoE fires every round instead of every other round (he does drop his own wards then).",
+    "Blade up, strip the shield, and finish with one big hit."
+  ],
+  "cheatNotes": [
+    "He starts the fight behind a -85% Tower Shield. Attacking into it wastes your hit.",
+    "Any damage makes him re-cast the Tower Shield, so you cannot simply break it with a wand hit.",
+    "Ward-removal spells (Steal Ward, Shatter and similar) take the shield without triggering a replacement.",
+    "Once all three minions are down, he stops maintaining the Tower Shield.",
+    "Every second round a Star spell hits your whole team for 450 - budget heals for it.",
+    "The AoE sweeps right-to-left, then left-to-right, alternating each time - useful for planning who gets hit first and who is hit last.",
+    "With all minions dead, the 450 AoE comes every round - do not clear minions until you are close to killing him.",
+    "Exploit this one: shield a wizard who is not the last target of the AoE. The AoE stops on them, and he cleanses all wards from that wizard AND himself - his Tower Shield included, with no replacement.",
+    "After the last minion falls he strips all wards off himself anyway - the shield stops being a problem in the final phase."
+  ],
+  "groupFight": false
+}

@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "Hit with Ice, he takes +35% from it, and never attack into his 35% Storm/Life resist.",
+    "His -90% Tower Shield is the wall. Pack Pierce, Steal Ward, or Melt to strip it safely without provoking a re-cast.",
+    "Kill the three Ptolemos minions first. While any of them lives he interrupt-recasts the shield every time he is damaged.",
+    "Once all minions are dead the shield stops until he re-summons two to three rounds later, that gap is your hit window.",
+    "A stacked DoT sometimes slips past the shield re-cast, so damage-over-time can chip him while minions are up.",
+    "Build Ice blades under a Steal Ward or Melt, then land one big Ice hit in the clean window after the minions fall."
+  ],
+  "cheatNotes": [
+    "He summons three Ptolemos minions at the end of Round 1 that activate two rounds later. Clear them fast because they keep his shield up.",
+    "He shields himself for -90% on Round 1, so a raw hit does almost nothing. Strip it before you attack.",
+    "While any minion lives he re-shields every time you damage him. Kill the minions or the -90% shield never stays gone.",
+    "Damage-over-time sometimes slips past the shield re-cast, so a stacked DoT can still tick him down.",
+    "With every minion dead he stops re-shielding until he re-summons two to three rounds later, that is your burst window.",
+    "Occasionally he skips the re-summon, giving you an even longer clean window to finish him.",
+    "Melt dispels the -90% shield outright, pack it to open him up.",
+    "Pierce or Steal Ward removes the -90% shield without provoking a re-cast, steal it to keep him exposed."
+  ],
+  "groupFight": false
+}

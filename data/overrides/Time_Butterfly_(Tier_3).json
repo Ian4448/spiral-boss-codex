@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "Do not stockpile pips. Young Morganthe Mana Burns any wizard holding 4+ power pips (or 7+ total). Spend pips as you go and hit promptly.",
+    "Do not cast Wards or shields. A ward makes Young Morganthe Power Nova and Earthquake (400 Myth) that also strips your hanging effects. Set up with traps on the boss and hit the same round.",
+    "Hit with Storm (+20% incoming); avoid Myth (60% resist).",
+    "Once Broodmother is up, she heals the Butterfly 15% every 3 rounds. Focus the Butterfly (only 5570 health) down before that matters.",
+    "Join on time to avoid the 2-turn stun."
+  ],
+  "cheatNotes": [
+    "Every 2 rounds it gives its whole side a power pip and secretly flips who goes first, so expect turn order to swap.",
+    "",
+    "It summons Young Morganthe first, then escalates to Roberto and Broodmother as you kill minions, so clearing minions summons tougher ones.",
+    "Joining late gets you stunned for two turns.",
+    "Young Morganthe Mana Burns any wizard sitting on 4+ power pips. Do not hoard pips.",
+    "",
+    "She also Mana Burns a wizard holding more than 7 pips total. Spend before you overflow.",
+    "Casting a Ward makes her Power Nova then Earthquake (400 Myth), wiping your hanging effects. Avoid shields and time traps with your hit.",
+    "",
+    "Once up, Broodmother heals the Butterfly 15% of its max health every 3 rounds. Burst the boss before this stacks.",
+    "She sometimes follows that with a Dragonblade on an ally and a -55% Mass Tower Shield on her side."
+  ],
+  "groupFight": false
+}

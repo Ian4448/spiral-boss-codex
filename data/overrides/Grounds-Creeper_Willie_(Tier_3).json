@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "He is immune to Globals, so do not waste turns on Auras or Globals like Doom and Gloom; they will not stick.",
+    "Do not shield or heal casually. Shielding makes him hand your team a +25% Guidance (a wasted trigger), and healing gives the healed wizard a Donate Shadow card.",
+    "Every third Round he casts an all-enemy Mana Burn that also strips a shadow pip, so spend pips before that Round rather than banking them.",
+    "He is Myth with 50% armor piercing and 150% damage; keep resist up and a heal ready.",
+    "Attacking him makes him interrupt with Orthrus, so expect a counter-hit when you strike.",
+    "Stack blades and Feint, then land one big hit timed around his Round-three Mana Burn so you are not caught pip-starved."
+  ],
+  "cheatNotes": [
+    "Arriving late or fleeing and returning hands you a Banish! card; just enter and stay.",
+    "",
+    "After Round one he gives everyone a Banish! spell; it is his own gimmick, not a threat.",
+    "Hitting him triggers an interrupt Orthrus back at you; keep a heal or shield ready when you attack.",
+    "Casting a Shield makes him give your team +25% Guidance; it wastes the trigger but does no harm, so shield only when needed.",
+    "Healing makes him hand the healed wizard a Donate Shadow card; heal deliberately.",
+    "",
+    "",
+    "Every third Round he Mana Burns the whole team and strips a shadow pip; spend your pips before that Round so you lose nothing.",
+    ""
+  ],
+  "groupFight": false
+}

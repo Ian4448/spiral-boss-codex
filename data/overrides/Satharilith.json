@@ -1,0 +1,28 @@
+{
+  "strategy": [
+    "Run a 4-wizard team: a Fire hitter with 120+ damage and 20+ pierce, plus three supports (Death and Balance are best for extra blades), all in high-resist gear. Give one support Pigsie for emergency healing.",
+    "All four wizards must enter the fight on time. Anyone who joins late eats a Shadow Mana Burn, so load in together before starting.",
+    "Do not use Feint or any traps. Feint (and Mass Feint) makes Satharilith cast an AoE Cleanse Ward that wipes all traps off the target, so setup is done entirely with blades.",
+    "Stack about 14 blades on the Fire hitter over 3-4 rounds: supports pile on Elemental Blade, Balanceblade, Dark Pact, and Sharpened versions while the hitter self-blades Fire Blade twice and adds Infallible.",
+    "Kill with Rain of Fire, not Meteor Strike. The lead Royal Guard casts a Shadow Sentinel that intercepts 100% of damage, and Rain of Fire is the only known hit whose damage-over-time still lands through an active Sentinel. Keep Meteor Strike as a backup finisher once the Sentinels are gone.",
+    "Expect the fight to run 6-7 rounds because of the guards and Aspect summons. Carry spare blades on supports to rebuild if the boss strips buffs, and restart if a stun or death breaks the setup."
+  ],
+  "cheatNotes": [
+    "Anyone loading into the fight after it starts gets hit with a Shadow Mana Burn that drains their pips. Get all four wizards in before the first round.",
+    "The Royal Guard nearest Satharilith immediately puts up a Shadow Sentinel that soaks 100% of all incoming damage, which is why normal hits do nothing until it is gone.",
+    "Kill the guard holding the Sentinel and the next guard just re-raises it, so a plain hit stays blocked no matter how many blades you stack.",
+    "Once all three Royal Guards are dead, no new Sentinel goes up and your hits finally connect for full damage.",
+    "Casting any Feint or Mass Feint makes Satharilith cast an AoE Cleanse Ward that removes every trap on the target, so traps are wasted here. Set up with blades only.",
+    "Killing a Royal Guard makes the boss hit the wizard opposite the dead minion and summon an Aspect Minion matching that wizard's school. For example, defeating the guard across from your Storm support spawns a Storm Aspect. These Aspects do not re-raise the 100% Sentinel.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "If any Royal Guard is already missing when the fight begins, Satharilith replaces each one with a random Aspect Minion, and killing those Aspects still triggers the opposite-wizard attack and summon."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

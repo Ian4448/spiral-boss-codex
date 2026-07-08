@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "He kills himself at the end of Round 5 with a 100% max-health Sacrifice, so the whole fight is a survival check. You can win by simply staying alive to Round 5.",
+    "He stacks two Stormblades every round and casts Tempest at the end of each of the first four rounds, so his AoE gets bigger each round. Stack Storm shields and heal every round.",
+    "He is stunable and beguilable, so chain stuns or Beguile him to skip his turns and blunt the escalating Tempests.",
+    "If you would rather race him, he is immune to globals, so rely on blades and traps and burst him before his Round 4-5 Tempests land.",
+    "Either way, pre-shield for Storm on Rounds 4 and 5 when his damage peaks."
+  ],
+  "cheatNotes": [
+    "He casts a 6-pip Tempest at the end of each of the first four rounds, its damage climbs as his Stormblades stack, shield for Storm each round.",
+    "Each round he stacks Stormblades (and later Darkwind) on himself, ramping his AoE, a good reason to stun or beguile him.",
+    "Round 1: one Stormblade.",
+    "Round 2: two stacking Stormblades.",
+    "Rounds 3-4: two stacking Stormblades plus Darkwind, his Tempest gets dangerous here.",
+    "Round 5: two Stormblades, Darkwind, and a Tempest all at once, peak damage, shield heavily.",
+    "At the end of Round 5 he Sacrifices himself for 100% of his health and dies, just survive to here and you win."
+  ],
+  "groupFight": false
+}

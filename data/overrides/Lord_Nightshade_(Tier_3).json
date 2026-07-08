@@ -1,0 +1,21 @@
+{
+  "strategy": [
+    "This is a damage-cap race. His Death Equalize caps ALL damage, starting at 500 (Round 1) and rising to 1,000 (R3), 2,000 (R5), 4,000 (R7). Both his hits and YOUR hits are capped.",
+    "Every round he interrupts with a Deer Knight that would deal 100,000 Moon, limited to the current cap. Early rounds you only take about 500, but by Round 7 you take up to 4,000 per round, so kill him before the cap climbs too high.",
+    "Do NOT change the global: replacing it makes him Tower Shield and lets the Deer Knight deal its full, uncapped damage. Leave the Equalize alone.",
+    "He resists Any 60% and has 40% pierce; use prisms and pierce, and stack blades so each capped hit lands for the full cap value.",
+    "Blade hard in the low-cap rounds, then land your hits on rounds 5-7 when the cap (2,000-4,000) lets your attacks connect for real damage, racing him down before the Deer Knight outpaces your healing. His Deathblade is Aegis-protected."
+  ],
+  "cheatNotes": [
+    "Being late after Round 2 brings a 100,000 Moon Ship of Fools (capped by the current Equalize). Join early.",
+    "The Equalize global caps all damage until it is changed, and you must NOT change it. Everything, yours and his, is limited to the cap.",
+    "Round 1 sets the damage cap to just 500. Your hits are tiny here; use these rounds to blade, not to hit.",
+    "Changing the global makes him Tower Shield AND lets his Deer Knight hit for full uncapped damage. Never touch the Equalize.",
+    "",
+    "Every round he interrupts with a Deer Knight, 100,000 Moon but capped. As the cap rises this becomes lethal, so win before Round 7-9.",
+    "Round 3 raises the cap to 1,000.",
+    "Round 5 raises the cap to 2,000; your hits start to matter.",
+    "Round 7 raises the cap to 4,000. This is your burst window before the incoming Deer Knight outscales your heals."
+  ],
+  "groupFight": false
+}

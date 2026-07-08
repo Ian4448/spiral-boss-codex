@@ -1,0 +1,19 @@
+{
+  "strategy": [
+    "Understand the swap. Cast a helpful Charm, helpful Ward, or HoT and the Tree swaps all effects of that type with the receiver; cast a harmful Charm, harmful Ward, or DoT and it swaps that type with the caster.",
+    "Turn the swap into an exploit. Load your hitter with blades, then have that same hitter be the one who triggers a helpful-charm swap so the Tree hands over its own buffs, or Feint it and let the harmful-Charm swap dump your Weakness onto it while pulling its blades to you.",
+    "Keep effect types clean per round. Because it swaps by matching type, apply only one category at a time and place the trigger on the wizard you want to end up buffed.",
+    "Beware secondary effects and AoE. Multi-target spells like Bladestorm swap with the caster, and riders like Fire Dragon's DoT trigger the swap too, so account for hidden effects before you commit.",
+    "This is a team fight: 30,060 Health, 148% boost, 69% Myth resist and 49% across most schools, taking least resist to Death (29%). Bring a Death hitter or prisms and one dedicated finisher.",
+    "Clear the Wandering Weed it summons on Round 1, set the swap up so your hitter holds the blades, then AoE the Tree and Weed down together in one burst."
+  ],
+  "cheatNotes": [
+    "On Round 1 it summons a Wandering Weed minion; plan to clear it with your AoE.",
+    "",
+    "Casting a helpful Charm, helpful Ward, or HoT makes it swap all effects of that type with the receiver, so aim the trigger at the wizard you want buffed.",
+    "Casting a harmful Charm, harmful Ward, or DoT makes it swap that type with the caster, so you can pull its blades to yourself while sending it your Weakness.",
+    "Multi-target spells like Bladestorm always swap with the caster, so the caster ends up holding the traded effects.",
+    "Secondary effects like Fire Dragon's DoT also trigger the swap, so watch spell riders."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,11 @@
+{
+  "strategy": [
+    "Tiny 675-health Life boss. Hit with Death (+40%) and never Life (70% resist).",
+    "From round 3 on, if he has no trap on him he heals with Helping Hands. Keep at least one trap stuck on him and the healing stops entirely.",
+    "With his low health, stack a blade and a trap, then kill him before round 3 or right through the heal cheat."
+  ],
+  "cheatNotes": [
+    "Starting round 3, an untrapped Chester heals himself with Helping Hands every time the heal wears off. Keep a single trap on him and the healing stops completely."
+  ],
+  "groupFight": false
+}

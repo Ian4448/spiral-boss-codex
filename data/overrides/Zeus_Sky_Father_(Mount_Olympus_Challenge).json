@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Keep every attack under 5 pips - a 5-pip-or-greater spell triggers a natural attack on the caster. Blade up and hit with small, hard spells.",
+    "Do not shield or cast helpful wards - each one triggers a Minotaur hit (up to ~600 Myth) on whoever you warded.",
+    "Do not cast weaknesses or other harmful charms on Zeus - he answers with Athena Battle Sight on the caster.",
+    "Hit with Storm - he takes 50% more from Storm and resists Myth 80%. With only 2,750 health, a couple of blades plus a sub-5-pip Storm hit ends it.",
+    "Deal with the Minotaur Warrior minion, but keep to blades and small hits throughout."
+  ],
+  "cheatNotes": [
+    "Casting a harmful charm (weakness) on Zeus makes him put Athena Battle Sight on the caster. Skip weaknesses.",
+    "Casting a helpful Ward (any shield) makes him hit the warded wizard with Minotaur for roughly 600 Myth. Do not shield.",
+    "Using a 5-pip-or-greater spell makes him natural-attack the caster. Keep your spells under 5 pips."
+  ],
+  "groupFight": false
+}

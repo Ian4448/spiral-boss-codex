@@ -1,0 +1,22 @@
+{
+  "strategy": [
+    "Team fight (~26,000 health, multiple Golems): one hitter, supports who funnel blades late, and a healer to manage the Life burst.",
+    "Hit with Life. The Golems resist Death 79% and take +30% Life.",
+    "Each Golem self-revives once with Guardian Spirit on Round 1. Plan to kill each Golem, then finish the revived 15% remainder. Do not stop at the first kill.",
+    "Do not leave helpful Charms up between rounds. Any Wizard holding blades feeds the Golems Power Pips (up to 4) at the end of the Round. Blade and hit in the same round.",
+    "A wounded Golem casts a scaling Bladestorm each Round, stronger the lower its health. Burst each Golem down fast rather than chipping it."
+  ],
+  "cheatNotes": [
+    "Each Golem casts Guardian Spirit on Round 1, self-reviving once at 15% health. Kill through the revive.",
+    "At the end of each Round, if any Wizard holds helpful Charms, a Golem steals Power Pips scaled to the charm count. Blade and hit the same round.",
+    "One held Charm feeds a Golem one Power Pip.",
+    "Two held Charms feed two Power Pips.",
+    "Three held Charms feed three Power Pips.",
+    "Four or more held Charms feed the maximum four Power Pips.",
+    "A Golem below full health casts a scaling Bladestorm each Round, stronger the lower its health. Burst it fast instead of chipping.",
+    "The self-buff ranges from +20% at high health to +100% at low health, and the +100% version is protected.",
+    "With several wounded Golems, the blade uses the first Golem's health and fires only once per Round.",
+    ""
+  ],
+  "groupFight": true
+}

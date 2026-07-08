@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "This is a 47,780-health Challenge boss, so run it as a team: a hitter, supports who blade and Feint, and a healer. He resists Ice and Death 68%, so hit with Storm or Life (only 28% resist).",
+    "Every round he adds a Tower Shield in a 3-round cycle: -25% on rounds 1, 4, 7; -50% on rounds 2, 5, 8; -90% on rounds 3, 6, 9. The shields stack until broken.",
+    "The -90% shield on rounds 3, 6, and 9 is the wall. Do not let it sit on him for your nuke.",
+    "Stack blades and Feints through the cycle, then Shatter or pop his stacked Tower Shields the same round your hitter goes.",
+    "Time the kill so a fresh -25% round has just landed rather than a -90%, and finish with one big Storm or Life AoE."
+  ],
+  "cheatNotes": [
+    "",
+    "A -25% Tower Shield on rounds 1, 4, and 7. Small, but it stacks with the others.",
+    "A -50% Tower Shield on rounds 2, 5, and 8.",
+    "A -90% Tower Shield on rounds 3, 6, and 9, the wall. Shatter or pop his shields before your hitter commits."
+  ],
+  "groupFight": true
+}

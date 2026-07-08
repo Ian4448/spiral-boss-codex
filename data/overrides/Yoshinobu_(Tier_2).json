@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "Attack with spells costing 5 pips or fewer. Hitting Yoshinobu with a 6+ pip spell triggers the Chain Reaction (a Smoke Screen on you plus a 450 Unicorn heal for them).",
+    "Expect Mass Infection (Round 1) cutting your healing and Hisamoto's Legion Shield every three rounds; blade over the infection or Cleanse it.",
+    "Hit with Myth (Storm boss resists Storm); at 1560 health small blade-stacked hits finish it.",
+    "After Hisamoto dies, 6+ pip hits still chain (Blizzard, and Kensaburo heals), so keep hits under 6 pips until you can burst everything down."
+  ],
+  "cheatNotes": [
+    "",
+    "Yoshinobu opens with Mass Infection, cutting your healing, so cleanse or blade over it.",
+    "Hisamoto Legion Shields the group on Round 1 and every three rounds, so hit through the shields.",
+    "Attacking Yoshinobu with a 6+ pip spell triggers the Chain Reaction, so keep hits at 5 pips or fewer.",
+    "The chain hits you with a -60% Smoke Screen.",
+    "And heals them 450 with Unicorn, so big single hits backfire here.",
+    "After Hisamoto dies, 6+ pip hits on Yoshinobu still chain, so stay under 6 pips until you can burst.",
+    "",
+    "The chain includes a 300-350 Ice Blizzard on you.",
+    "And Kensaburo heals with Minor Blessing if still alive.",
+    "",
+    "With Kensaburo dead the chain adds a Sandstorm on top of the Blizzard."
+  ],
+  "groupFight": false
+}

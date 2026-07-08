@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Hit with Life; he takes +50% and resists Death 80%.",
+    "He is stunable and beguilable; stun or beguile to control him.",
+    "He summons a random understudy minion; clear it or focus MacDeath.",
+    "Do not cast Globals or Healing spells; either makes him drop a -75% Doom and Gloom that cripples your own healing.",
+    "Blade up, avoid Globals and heals, then finish with one Life hit."
+  ],
+  "cheatNotes": [
+    "Joining after turn two gets Feint, Curse, and Hex stacked on you; enter on time.",
+    "He summons a random understudy minion; deal with it or race him down.",
+    "",
+    "Casting a Global or a heal makes him cast a -75% Doom and Gloom, gutting your own healing; avoid both."
+  ],
+  "groupFight": false
+}

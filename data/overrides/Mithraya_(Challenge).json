@@ -1,0 +1,32 @@
+{
+  "strategy": [
+    "You cannot damage Mithraya normally. She resists every school 280% to 320%, and Sun is the only school not on her resist list.",
+    "Kill Astraeus and Ptolemos first. Each defeat hands you Mutate spells that turn your attacks into Sun damage.",
+    "Kill Astraeus before its auras stack (they grow +10% per Round to +50% for it and -10% per Round for you), but hit after its death Supernova clears the board, not before.",
+    "Expect Ptolemos to Polymorph whoever kills Astraeus into a 300-resist form. Kill Ptolemos next to remove it.",
+    "With Sun mutates in hand, stack blades and Feint, then fire a mutated Sun hit on Mithraya."
+  ],
+  "cheatNotes": [
+    "",
+    "Killing either minion hands you Mutate spells that convert an attack to Sun damage, and Sun is the only school Mithraya does not resist.",
+    "Balance wizards get Mutate Ra to fire it as a Sun Ra.",
+    "Death wizards get Mutate Dragon for a Sun Dragon.",
+    "Fire wizards get Mutate Efreet for a Sun Efreet.",
+    "Ice wizards get Mutate Snow Angel for a Sun Angel.",
+    "Myth wizards get Mutate Medusa for a Sun Medusa.",
+    "Life wizards get Mutate Forest Lord for a Sun Lord.",
+    "Storm wizards get Mutate Leviathan for a Sun Leviathan.",
+    "",
+    "",
+    "Killing Astraeus makes Ptolemos Polymorph the attacking Wizard into a random form with 300 universal resist, so that Wizard can barely act until Ptolemos dies.",
+    "",
+    "",
+    "",
+    "Defeating Ptolemos removes the Polymorph. If Astraeus dies first, kill Ptolemos next to free the polymorphed Wizard.",
+    "",
+    "On Round 1 Astraeus casts a +10% damage Reinforce on its team and a -10% damage Bulwark on all Wizards.",
+    "It repeats every Round, growing the auras 10% each Round up to 50%. Kill Astraeus before that gap gets large.",
+    "When Astraeus dies it Supernovas everyone for no damage, clearing auras and blades, so hit after that, not before."
+  ],
+  "groupFight": true
+}

@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "At Round 1 he casts Equalize, capping all damage at 7,999, so you cannot one-shot him; plan for at least two hits.",
+    "He recasts his Global if you try to replace it and Cleanse-Charms himself if you Dispel him, so do not waste turns fighting his Global or dispelling.",
+    "Join before the second Round; a late wizard gets hit with Shadow Queen Calypso.",
+    "He is stunable and beguilable, resists Fire, Myth, and Life 70%, and takes 5% more from Ice, Storm, and Death, so bring Ice, Storm, or Death and use a stun to buy a setup Round.",
+    "Because of the 7,999 damage cap, build two solid hits rather than one giant one, and heal through his Fire, Myth, and Life natural attacks."
+  ],
+  "cheatNotes": [
+    "A wizard who joins after the second Round is interrupt-cast with Shadow Queen Calypso.",
+    "At Round 1 he interrupt-casts Equalize, capping all damage at 7,999.",
+    "If you try to replace his Global, he recasts it.",
+    "If you Dispel him, he casts a Sun Cleanse Charm on himself to clear it."
+  ],
+  "groupFight": false
+}

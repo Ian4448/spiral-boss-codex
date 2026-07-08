@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Run a full team of Support / Support / Healer / Hitter; the beguile pressure makes soloing unreliable.",
+    "Kill the three Tzeltan Cohort minions first (7,440 HP each). They spam Winter Moon and Death Crow, which beguile your wizards, so removing them cuts the crowd control.",
+    "Supports spend Rounds 1-3 stacking Potent Feint / TC Feint plus blades (and a prism if the hitter is resisted) while everyone buffs at once. Hit with Myth or Life; she takes +35% from both.",
+    "Do not cast a plain Feint on Ixcax; she Feints you back. Use Potent or treasure-card Feints so you still stack roughly +80% and +30% trap value.",
+    "Carry Storm Prisms if hitting Storm through her 80% Storm resist, keep a couple of cleanse charms for the Virulent Plague she throws at Death blades, and never stand directly in front of her because of her Enfeeble.",
+    "Time the hit before the end of Round 5: at that point she cleanses all traps and prisms off her team and casts a Mass Prism that flips your damage school, so land the kill first or reset your setup after.",
+    "Expect a spike whenever anything dies: she casts Berserk on herself and her minions Fortify, so heal through it."
+  ],
+  "cheatNotes": [
+    "Whenever any wizard or minion is defeated, Ixcax casts Berserk on herself (more damage and pierce) and the surviving minions cast Fortify (less damage taken), so expect a damage spike right after a kill.",
+    "If you place a normal Feint on her she immediately Feints you back; use Potent or treasure-card Feints instead so the retaliation matters less.",
+    "At the end of every fifth round she cleanses all negative Wards (your traps) off her team and casts a unique Mass Storm Prism that converts your incoming damage to a random school, so hit before that or re-set afterward."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

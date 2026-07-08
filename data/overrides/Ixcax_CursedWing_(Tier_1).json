@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Attack with Myth or Life; she takes +35% from both and resists Storm 80%. Never hit into Storm.",
+    "Do not Feint her. She Feints you back, so stack blades on your hitter instead of trapping her.",
+    "Do not pick off the Tzeltan Cohort early. Killing it makes Ixcax cast Berserk and the rest Fortify, a damage spike. Clear both together with an AoE.",
+    "Beat her before the end of round 5. At every fifth round she strips all traps off her team and throws a Mass Prism that reroutes your incoming damage to a random school.",
+    "Stack blades over rounds 1 through 4, then land one big Myth or Life AoE that kills her and the Cohort together."
+  ],
+  "cheatNotes": [
+    "Feinting Ixcax makes her Feint you back. Skip Feint and stack blades on your hitter instead.",
+    "Killing the Tzeltan Cohort makes Ixcax cast Berserk and the remaining minions Fortify, a damage spike. Do not pick the minion off early; clear both with one AoE.",
+    "At the end of every fifth round she strips all traps off her team and casts a Storm Mass Prism that reroutes your incoming damage to a random school. Land your hit before round 5."
+  ],
+  "groupFight": false
+}

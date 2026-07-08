@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Team fight (64,870 health). Funnel blades to one Storm hitter: he takes +30% from Storm and resists Myth 66% and everything else 36%.",
+    "He shields himself on a 3-round cycle: a -25% Tower on round 1, a -50% Tower on round 2, and a -90% Tower on round 3, repeating, so multiple towers can stack by round 3.",
+    "Break his shields with wand hits or a cheap AoE right before the hitter goes, and plan the big hit for a round where you can clear the towers first.",
+    "Avoid DoTs: casting one makes him Shift it back onto a wizard. If you want a DoT, be ready to Shift it back to him, since he will not Shift a second time.",
+    "Set up blades and Feints across the cycle, clear his shields, then unload Storm in one round."
+  ],
+  "cheatNotes": [
+    "Casting a DoT on him makes him Shift it back onto a wizard.",
+    "If you Shift that DoT back onto him, he will not Shift it a second time.",
+    "",
+    "Round 1 and every third round after, he shields himself with a -25% Tower Shield.",
+    "Round 2 and every third round after, he shields himself with a -50% Tower Shield.",
+    "Round 3 and every third round after, he shields himself with a -90% Tower Shield."
+  ],
+  "groupFight": true
+}

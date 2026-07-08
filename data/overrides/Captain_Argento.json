@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Attack with Fire. His resist to it is only 4% versus 54% to every other school.",
+    "Every direct hit makes him shield the attacker's school at -75%, but DoT ticks never trigger it. Lean on Fire DoTs like Scald to bypass Shields Up.",
+    "If you use a single big Fire hit instead, expect a -75% Fire Shield to go up first. Break or pierce it, or bait it with a small hit before your real one.",
+    "Multi-hit Fire spells only trigger one shield, so a multi-hit attack is safer than several small ones.",
+    "Watch for random extra cheat casts (including Abominable Weaver) and keep your health buffered through them."
+  ],
+  "cheatNotes": [
+    "Attacking him makes him drop a -75% Shield matching your attack's school, so your follow-up hit into that school lands soft.",
+    "Balance attackers instead get a Tower Shield, which blocks every school. Plan to break it.",
+    "Damage-over-time ticks do not trigger the shield, so Fire DoTs slip past his Shields Up entirely.",
+    "Multi-hit spells like Minotaur only make him shield once, not per hit.",
+    "He also randomly cheat-casts extra spells during the fight.",
+    ""
+  ],
+  "groupFight": false
+}

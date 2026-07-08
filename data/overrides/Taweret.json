@@ -1,0 +1,28 @@
+{
+  "strategy": [
+    "Moonseum boss (21,145 health), so run it as a team: hitter, blading supports, and a healer.",
+    "She can only be defeated on the third round of her cheat cycle — her 'TRAMPLED' attack round (round 4, then 7, 10). Kill her on any other round and she Blessings back to 133 health (more if killed by a DoT).",
+    "Hold all damage until that attack round: hitting her on the first or second round of the cycle triggers her Natural Attack on the attacker, and stealing her charms/wards does too.",
+    "Use rounds 1-3 to stack blades on the hitter and Feint her; bring Pierce or Shatter, since she stacks a -25% Tower and a Legion Shield during the cycle.",
+    "On the attack round, unload one huge Death hit (she takes +30%; she resists Life 71%) to kill her outright — attacking that round is safe and she won't respawn.",
+    "Be careful clearing her minions: killing them before her with a multi-target hit makes her Natural Attack a random wizard for 1,500 Life."
+  ],
+  "cheatNotes": [
+    "",
+    "She Taunts at the end of round 1 and every 4th round, forcing targeting onto her — plan around the taunt window.",
+    "",
+    "First round of each cycle she puts up a -25% Tower Shield on herself.",
+    "Second round of the cycle she adds a Legion Shield — by her attack round she's shielded, so bring Pierce or Shatter for the kill hit.",
+    "Third round of the cycle she casts a big attack (Earth Walker, Gnomes, Forest Lord, or Wings of Fate) — this is the ONLY round you can defeat her, and attacking her here is safe.",
+    "",
+    "",
+    "",
+    "",
+    "Defeating her on this attack round sticks — she won't respawn.",
+    "Defeat her on any round other than her attack round and she Blessings back to 133 health — time your kill to the attack round only.",
+    "Killing her with a DoT is worse: she heals an extra 133 per remaining DoT round — use direct damage for the kill.",
+    "Killing her minions before her with a multi-target hit makes her Natural Attack a random wizard for 1,500 Life (unless you kill the minion on her attack round) — be careful clearing them.",
+    "Attacking her on the first or second round of the cycle, or stealing her charms/wards, triggers her Natural Attack on the offender — only commit on the attack round."
+  ],
+  "groupFight": true
+}

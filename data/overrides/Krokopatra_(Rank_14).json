@@ -1,0 +1,30 @@
+{
+  "strategy": [
+    "The guide's recommended team is two Fire wizards plus one wizard of any school. The Fire wizards are the damage dealers; the third slot is flexible support. Traps are your best friend in this fight.",
+    "Turn 1 setup: Fire wizard 1 casts Potent Backdraft, Fire wizard 2 and the third wizard each lay any Fire trap, and the Fire hitter casts Phoenix into the stacked traps.",
+    "Backdraft on a Fire wizard amplifies the trap damage enough to end the fight in one or two turns; the author's 180% damage Fire hit did about 11k against the roughly 11,040 health boss.",
+    "If you are short on Fire wizards, use your own school's traps instead and just take one extra setup turn to stack enough before the hit.",
+    "Avoid the punish cheats: Feints trigger dual Insane Bolts, DoTs prompt a Kraken removal, Juju or weakness spells trigger Hammer of Thor, and Blades or global spells provoke Enfeeble. Stick to traps plus one big hit.",
+    "Spread setup so no single wizard is the obvious Beguile target, then funnel the Backdraft-fed Phoenix (or your school's AoE) for the kill before her thralls out-heal you."
+  ],
+  "cheatNotes": [
+    "",
+    "Killing a thrall summons a new random-school one that wakes up two Rounds later; you cannot clear the board for good, so plan to kill her directly.",
+    "With no minions, or after being healed, she may burn her turn on Insane Bolt; a self-inflicted risk that can help you.",
+    "She Beguiles the wizard carrying the most blades; spread blades or funnel them late so no single wizard is the obvious target.",
+    "She interrupt-casts a +25% Windstorm to buff her Storm damage.",
+    "She can interrupt with a zero-pip Supercharge scaling to her pip count, powering a big follow-up.",
+    "She can cheat-cast Astraphobia on the team; keep shields up.",
+    "",
+    "If Krokopatra receives a charm, the Death thrall Dark Pacts her, buffing her at a health cost.",
+    "The Death thrall may Bad Juju the wizard with the most blades; another reason not to over-stack blades on one player.",
+    "",
+    "Casting a DoT makes the Life thrall Mass Triage it off the whole enemy side; skip DoTs and burst instead.",
+    "Attacking Krokopatra or a minion makes the Life thrall heal the enemy side with Unicorn; hit hard enough to out-pace it.",
+    "",
+    "Attacking Krokopatra makes the Storm thrall Healing-Current her; combine kills into one big hit.",
+    "Dispelling Krokopatra or a minion makes the Storm thrall Cleanse it off; Dispels are wasted here."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

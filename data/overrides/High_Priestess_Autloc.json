@@ -1,0 +1,22 @@
+{
+ "strategy": [
+  "Raid boss at 15,355 health — bring a full team: hitter, blade support, and a healer.",
+  "Her 'Balance is all things' counters mirror every blade, trap, and DoT, but only once per round — compress setup: the whole team blades or traps in the same round so she answers once instead of three times.",
+  "Ban DoTs from every deck — each one costs the whole team roughly 280 Balance damage over 3 rounds.",
+  "Prefer Sharpened/Potent enchanted buffs — fewer total casts means fewer mirrored Bladestorms and Mass Hexes for her side.",
+  "Healer keeps everyone topped: her random round-start roll can be a team-wide DoT, and the Sabertooth cheat's trigger is unknown, so treat it as always loaded.",
+  "Hit as soon as a clean window exists — the longer the fight runs, the more her random blades and your mirrored hexes pile up against you."
+ ],
+ "cheatNotes": [
+  "Every round opens with one of three random effects (below) — expect swingy rounds and plan margins for the bad rolls.",
+  "Bad roll: +15% traps on your whole team and -25% damage wards on hers — your team takes more, deals less. Shield up on these rounds.",
+  "Bad roll: a -15% weakness on your team while her side gains +15% blades — cleanse the hitter or power through.",
+  "Mixed roll: 228 Balance damage over 3 rounds on your team plus a heal-over-time on hers — Triage whoever is low.",
+  "The trigger is unknown — assume a damage-only Sabertooth on the whole team can come at any time and keep health high.",
+  "Her copycat counters fire once per round — if the team must set up, stack those casts into the same round so she only answers one of them.",
+  "Each Blade you cast gives her side a +40% Bladestorm plus two extra blades — blade sparingly, and all in one round.",
+  "Each Trap you cast answers with a +50% Mass Hex plus two extra traps on your team — favor single enchanted traps over trap stacks.",
+  "Each DoT you cast hits your whole team for ~280 Balance over 3 rounds — leave DoTs out entirely."
+ ],
+ "groupFight": true
+}

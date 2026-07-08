@@ -1,0 +1,37 @@
+{
+  "strategy": [
+    "Darkmoor Graveyard boss (21,200). He takes +20% from Myth and Life and resists Storm and Death 50%. Hitters use Myth or Life.",
+    "He heals himself (Healing Current) whenever he is damaged, and DoTs trigger it repeatedly. Dissipate dispels this heal-on-damage; Supernova is the exception that does NOT trigger it. Avoid DoTs and set up for one big hit.",
+    "He runs two independent cheat cycles (a Storm one and a Death one). Damaging him resets the Death cycle to Round 1, so hitting him each round keeps the Vampire, Dr. Von's, and Monster Mash escalation from building.",
+    "Do not heal: a heal triggers an enhanced Vampire (1,050 drain). Beguiled wizards do not trigger it, but plan healing around his cheats.",
+    "Do not single-Feint him (he gets Dark Pact +30%); use Mass Feint (+75%), which does not trigger it. Helpful charms give him Supercharge, so blade in the same round you hit.",
+    "Roles: supports Mass Feint and blade the hitter, the hitter lands a big Myth or Life single hit (no DoTs), and the team keeps chipping him to reset the Death cycle. The healer times heals carefully given the Vampire punish."
+  ],
+  "cheatNotes": [
+    "A helpful charm makes him Supercharge himself (+12%). Blade in the same round you hit so he gains less.",
+    "A harmful single-target charm on him makes him Sacrifice himself, minor self-harm, but do not rely on it.",
+    "Secondary-effect debuffs trigger that Sacrifice too.",
+    "All-enemies harmful charms do NOT trigger it, so multi-target debuffs are safe.",
+    "A Feint on him gives him Dark Pact (+30% damage). Use Mass Feint instead.",
+    "Mass Feint (+75%) is safe; it does not trigger Dark Pact.",
+    "A heal makes him cast an enhanced Vampire (1,050 drain) on a random wizard. Heal sparingly and expect the hit.",
+    "Beguiled wizards do not trigger the heal-Vampire, a niche safety valve.",
+    "Whenever he is damaged he heals himself (Healing Current, 100-1,000). Dissipate dispels this; plan for one big hit rather than many small ones.",
+    "Dissipate removes his heal-on-damage. Worth casting before your burst.",
+    "DoTs trigger the self-heal every tick. Do not use damage-over-time here.",
+    "Supernova does NOT trigger the self-heal, a clean way to damage him.",
+    "",
+    "Storm cycle round 1: he Stormblades himself. His Storm hits ramp over the cycle.",
+    "Round 2: he adds Stormspear. Expect a bigger Storm hit coming.",
+    "Round 3: he casts Galvanic Field. Plan around the trap.",
+    "Round 4 of the Storm cycle: his Natural Attack hits a random wizard. Shield or heal for it.",
+    "Damaging him resets the Death cheat cycle to Round 1. Chip him every round to keep the Vampire and Monster Mash escalation from building.",
+    "Death cycle round 2: enhanced Vampire (1,050) on a random wizard if you have not re-hit him.",
+    "Round 3: Dr. Von's Monster (900) on a random wizard.",
+    "Round 4: Monster Mash (1,170) beguiles a random wizard. Keep hitting him to reset before this.",
+    "If you stop hitting him, the Death cycle cheats repeat every round until you hit him again. Keep the pressure on.",
+    "Supernova and Mana Burn do NOT reset the Death cycle, so they will not stop the escalation; hit him for real to reset it.",
+    "Beguiled wizards cannot reset the cycle by hitting, so a beguiled hitter is a liability."
+  ],
+  "groupFight": true
+}

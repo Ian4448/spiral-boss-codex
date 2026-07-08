@@ -1,0 +1,23 @@
+{
+  "strategy": [
+    "Hit with Myth — he takes +30% from it. Storm is the wrong school here (54% resist); everything else eats 24%.",
+    "Enter with your full team on round 1. Late joiners get the whole team stunned.",
+    "Round 1 opens with Smoke Screen plus a 'Nightmare Prone' mark on a random wizard, and the mark repeats at the end of every fourth round. A marked wizard eats a big cheat spell (Call of Khrulhu class) at the end of every round.",
+    "Exploit the heal cheat to clear the mark: if you are marked, cast any healing spell — his 'love conquering all' counter is a Cleanse Ward that strips all negative wards from the caster, including the Nightmare Prone mark. A cheap heal removes the mark for you.",
+    "Otherwise pack Cleanse Ward to pull the mark off a teammate. Do not leave anyone marked into the end of a round.",
+    "Clear the Air Rider and Punk Wallaby with your Myth AoE while blading — the accuracy debuff from Smoke Screen means an accuracy enchant on your hit is worth a slot.",
+    "Blade up between mark windows and end it with one big Myth hit. No stuns on him, so just burst."
+  ],
+  "cheatNotes": [
+    "On round 1 and after every fourth round he casts Smoke Screen and marks a random wizard with a 'Nightmare Prone' stun shield. Expect fizzles unless you enchant for accuracy.",
+    "If anyone joins the fight late, the whole team gets stunned. Enter together.",
+    "Cleanse Ward removes the Nightmare Prone mark — carry it to save a marked teammate.",
+    "A marked wizard gets hit by one of his nightmare spells at the end of every round until the mark is gone. Remove it before round end.",
+    "",
+    "",
+    "",
+    "",
+    "His counter to healing is a Cleanse Ward that removes all negative wards from the caster — including the Nightmare Prone mark. If you are marked, deliberately cast a cheap heal and the mark comes off."
+  ],
+  "groupFight": false
+}

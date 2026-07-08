@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Enter on Round 1. Arriving late fully heals him.",
+    "Cut his healing. He Heartbeats 1,500 per Round to full, so land Doom and Gloom or an infection before you commit.",
+    "You must trigger his trim cheat before he dies. Land one hit taking more than 50% of his health, which Chokes your attacker (clear it with Quench), then kill him next Round. Killing him before that hit revives him to full.",
+    "Hit Death or Storm, since he takes +5% from each, and never Life, which he resists; prism if you are Life.",
+    "Clear the two Hairballs with AoE and burst the boss in the follow-up."
+  ],
+  "cheatNotes": [
+    "A late Wizard makes him Blessing himself back to full Health. Enter on Round 1.",
+    "Taking more than 50% of his max Health in one shot triggers Choke on the attacker.",
+    "That Choke can be removed with Quench.",
+    "He heals himself 1,500 per Round with Heartbeat until full, so bring an infection or Doom and Gloom to blunt it.",
+    "",
+    "You must land the hit that triggers his trim cheat before killing him. If he is defeated before that cheat fires, he revives to full."
+  ],
+  "groupFight": false
+}

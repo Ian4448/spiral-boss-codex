@@ -1,0 +1,18 @@
+{
+  "strategy": [
+    "Team gauntlet (24k with escalating absorbs). Hit with Life or Balance (+40%); avoid Ice (80%), Fire (70%), and Death (60%).",
+    "Don't cast ward/shield spells — every ward makes him Steal Ward and counter with Brimstone Revenant for 1,500. Survive on resist and heals instead.",
+    "He gets a 1,500 Frozen Armor on round 1, a 3,000 absorb after two minions die, and a 6,000 absorb when the last minion dies — plan a hit big enough to break the current absorb.",
+    "Time the last minion's death and your burst so you punch through the 6,000 absorb in one hit rather than feeding it chip damage.",
+    "Funnel blades and Feints to one hitter and overshoot the absorb."
+  ],
+  "cheatNotes": [
+    "He shields himself with a 1,500-absorb Frozen Armor on round 1 — overshoot it.",
+    "When two of his minions die he gains a 3,000 absorb.",
+    "When his last minion dies he gains a 6,000 absorb — line up a hit big enough to break it.",
+    "",
+    "Beguiling can trigger the final 6,000 absorb early.",
+    "Any ward/shield you cast makes him Steal Ward and hit back with Brimstone Revenant for 1,500 — skip shields."
+  ],
+  "groupFight": true
+}

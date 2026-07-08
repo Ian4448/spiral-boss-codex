@@ -1,0 +1,12 @@
+{
+  "strategy": [
+    "Hit with Death. She is Life (resists Life) and takes +30% Death.",
+    "Every 3 Rounds, starting Round 1, she braces herself -20% against a random Wizard's school for 4 Rounds. Attack off a school she has not braced, or just burst before it matters at 4,800 health.",
+    "She is stunable, so a stun can skip one of her setup turns.",
+    "Stack a blade or two, then land one Death hit to finish."
+  ],
+  "cheatNotes": [
+    "On Round 1 and every third Round she braces herself -20% against a random Wizard's school for 4 Rounds. Hit off an unbraced school or just burst her down."
+  ],
+  "groupFight": false
+}

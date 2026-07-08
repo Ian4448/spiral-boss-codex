@@ -1,0 +1,24 @@
+{
+  "strategy": [
+    "He resists 60% universally, so stack pierce and use a prism if needed; raw damage without pierce barely dents him.",
+    "While Malistaire and Sylvia are together the team has a -100% Virulent Plague (no healing) and Sylvia Sacrifice-heals him 2030 whenever he is damaged, so an out-heal race fails. Set up big and burst.",
+    "Avoid casting charms while Sylvia is up (Jinn's Larceny steals them) and avoid DoTs (Sylvia Mass Triage removes them). Use protected blades or straight damage.",
+    "Land one huge pierced hit that beats Sylvia's 2030 heal; eventually she Dark Pacts herself to give Malistaire a +100% Balanceblade.",
+    "Watch the random turn-order switch and the Choke and Mana Burn when they separate; keep pips banked for the burst."
+  ],
+  "cheatNotes": [
+    "Turn order can randomly flip, so do not count on hitting last; plan for either order.",
+    "",
+    "",
+    "While Malistaire and Sylvia are together the team has a -100% Virulent Plague (no heals), so win the damage race instead of healing.",
+    "Casting a charm makes Malistaire steal it with Jinn's Larceny while Sylvia is up.",
+    "That steal does not happen when he has no minion (Sylvia gone).",
+    "When alone he self-removes 25% health and AoE Mana Burns the team, stripping a shadow pip.",
+    "He resummons Sylvia with a Shadow spell and Chokes the whole team.",
+    "",
+    "Damaging Malistaire makes Sylvia Sacrifice-heal him 2030, so your hit must beat that heal to make progress.",
+    "Casting a DoT makes Sylvia cast Mass Triage and clear it, so avoid DoTs.",
+    "Eventually Sylvia Dark Pacts herself to hand Malistaire a +100% Balanceblade, so expect a damage spike after."
+  ],
+  "groupFight": false
+}

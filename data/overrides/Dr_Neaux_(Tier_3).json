@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Team fight (15,615 health, two Gators). Enter on time: joining late strips 90% of your max health and drops Doom and Gloom on you.",
+    "Round 1 he nukes everyone for 90% of max health and casts Doom and Gloom, so you start near death. Survive it, then heal up before setting up.",
+    "Doom and Gloom cuts your healing, so use big or stacked heals to recover from the round-1 nuke.",
+    "Every third round he shaves 5% max health off everyone and casts Mass Infection. Carry Cleanse Charm to clear the infection before your hit.",
+    "He is only boosted +3% by Fire and Myth and resists everything 47%, so bring your strongest reliable hitter and blade once the team is stable.",
+    "Funnel blades to the hitter and burst the boss and Gators together with an AoE."
+  ],
+  "cheatNotes": [
+    "Joining late strips 90% of your max health and recasts Doom and Gloom on you.",
+    "Round 1 he casts Doom and Gloom and a 6-pip Moon spell that removes 90% max health from every wizard.",
+    "Every third round he removes another 5% max health from all wizards and casts Mass Infection."
+  ],
+  "groupFight": true
+}

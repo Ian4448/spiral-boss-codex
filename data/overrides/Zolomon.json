@@ -1,0 +1,20 @@
+{
+  "strategy": [
+    "He takes +30% from Fire and resists Ice 74%. Hit with Fire.",
+    "Every positive charm or aura you cast (pet casts too) gets a Weakness slapped on the receiver. Counter it by blading and hitting in the same round, using Indemnity, or cleansing the Weakness before your hit.",
+    "Every third round he summons one of several spider minions on a random wizard, so the board fills over time. Bring an AoE option or burst him before spiders pile up.",
+    "Blade efficiently (same round as your hit to dodge the Weakness), and land a Fire nuke."
+  ],
+  "cheatNotes": [
+    "Every positive charm or aura you cast earns a Weakness on the receiver. Blade and hit the same round, use Indemnity, or cleanse before swinging.",
+    "Pet-cast charms also trigger the Weakness. Mind your pet's buffs.",
+    "Every third round he summons a spider minion on a random wizard. Expect the board to fill; AoE or burst him fast.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "groupFight": false
+}

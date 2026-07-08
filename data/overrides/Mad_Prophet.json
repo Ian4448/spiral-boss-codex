@@ -1,0 +1,17 @@
+{
+  "strategy": [
+    "Solo-friendly (7,270 health). Do not kill him while his Virulent Plague cheat is running, or he revives at full health.",
+    "Every round he interrupt-casts Virulent Plague, so you always carry a fresh weakness. Plan around reduced hit damage.",
+    "Survive to end of round 3: he hands every wizard an Evil Snowman card. Cast it to strip your weaknesses and permanently shut off his Plague cheat.",
+    "Only after the Snowman disables the cheat should you go for the kill, or he revives.",
+    "Hit with Ice or Myth (+9%) and avoid Storm and Life (43% resist). Blade up during the first three rounds, then finish once the cheat is off."
+  ],
+  "cheatNotes": [
+    "Every round he interrupt-casts Virulent Plague, stacking a weakness on you.",
+    "Kill him while that Plague cheat is still running and he revives at full health.",
+    "At end of round 3, and after any revive, he hands every wizard an Evil Snowman card.",
+    "",
+    "Cast that Evil Snowman: it strips your weaknesses and permanently shuts off his Plague cheat, so cast it before you go for the kill."
+  ],
+  "groupFight": false
+}

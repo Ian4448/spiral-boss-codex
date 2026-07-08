@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Hit Life, Myth, or Death - he takes a small boost to all three and resists 30% Balance, so avoid Balance. Join on time to dodge Mana Burn.",
+    "Expect a -30% Weakness on a random wizard at the end of every round. Carry Cleanse Charm or just blade through it before your hit.",
+    "Do not trap him or his minion. A trap returns a +35% Hex onto you, raising your incoming damage.",
+    "Blades and globals feed him a +30% Balanceblade each time, so keep setup lean and blade on the same turn you hit.",
+    "With only 8,400 health and no punish on Feints from himself, set up a Feint plus a quick blade, clear the weakness, and finish with one Life, Myth, or Death hit."
+  ],
+  "cheatNotes": [
+    "At the end of every round he places a -30% Weakness on a random wizard. Cleanse it or blade through it.",
+    "A wizard who joins after the fight starts gets hit with Mana Burn, draining pips.",
+    "Placing a trap on him or his minion returns a +35% Hex onto you, increasing your incoming damage.",
+    "Casting any blade or global makes him self-cast a +30% Balanceblade."
+  ],
+  "groupFight": false
+}

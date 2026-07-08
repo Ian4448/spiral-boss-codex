@@ -1,0 +1,27 @@
+{
+  "strategy": [
+    "Fight as a team: three supports stacking blades on one hitter plus a healer. Arrange positions Support - Support - Support/Healer - Hitter.",
+    "Krampus is Fire and resists Fire and Death 50% (Storm/Myth/Balance 30%); he takes +15% from Ice and Life, so bring an Ice or Life hitter.",
+    "Only ever blade the hitter. Blading yourself triggers Steal Charm, which removes ALL your charms; use Aegis-protected blades and avoid may-cast blade pets, which also trigger it.",
+    "Do NOT cast single-target Feints: any Feint triggers a double Cleanse Ward that even beats Indemnity. If you must trap, use Mass Feint or Balance Feint, which don't trigger it.",
+    "Round plan: R1 everyone lays Aegis blades on the hitter, R2 three keep blading while one drops an aura, R3 the hitter unloads a single-target hit with ~9 stacked blades (school blade, Elemental/Spirit Blade, Balance Blade, Dark Pact at ~100% gear damage).",
+    "Use single-target spells only. Avoid AoE hits and Bladestorms, because a random Beguile cheat can turn them onto your own team.",
+    "Race to finish before Round 5: with no minions he summons 3 (each ~5,024 HP) and resummons one a round after any is killed. Also don't leave traps on him, since his Shadow Dimension Shift dumps them onto a random ally."
+  ],
+  "cheatNotes": [
+    "Join before the fight starts. Late arrivals eat a Shadow Scald (750 Fire over three rounds) plus a -75% Smoke Mantle.",
+    "Blade yourself and he may cast Steal Charm to take ALL your charms, so only blade your hitter, never the caster.",
+    "He throws this charm-steal out occasionally throughout the duel, not just once.",
+    "Pet-cast blades also trigger the steal, so watch out for may-cast blade pets.",
+    "Feints are forbidden: any single-target Feint triggers two Shadow Cleanse Wards (-1), which defeats Indemnity protection.",
+    "Mass Feint is safe, it does not trigger the cleanse cheat.",
+    "Balance Feint is also safe from the cleanse cheat.",
+    "Once he has minions and traps on him, a Shadow Dimension Shift moves all his traps onto a random ally, so time your traps to hit before this fires.",
+    "At the start of Round 5 (and randomly after) if he has no minions, he summons 3 random minions.",
+    "",
+    "",
+    "Kill a minion and he resummons a replacement one round later."
+  ],
+  "groupFight": true,
+  "guideSourced": true
+}

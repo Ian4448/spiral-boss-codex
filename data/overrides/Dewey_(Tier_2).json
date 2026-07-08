@@ -1,0 +1,16 @@
+{
+  "strategy": [
+    "Only 1,800 health, so plan to kill your target in one clean hit rather than chipping.",
+    "After you attack, he shields the ally you hit against that exact school, so follow-up hits into the same target land into a matching shield.",
+    "Attack with Life (he takes +15%); he only resists his own Death 35%.",
+    "Avoid multi-hit spells (Hydra, etc.) and unnecessary AoEs — each hit lets him stack another shield.",
+    "Blade up and drop one single decisive hit to finish before his shields matter."
+  ],
+  "cheatNotes": [
+    "After you attack, he shields the ally you hit against that school. Plan to kill your target in one hit, since follow-ups run into a matching shield.",
+    "An AoE makes him shield every ally three times over — one-shot the group with a blade-stacked AoE or pick targets off individually.",
+    "Hitting with Balance just gets a Tower Shield up on the target instead.",
+    "Multi-hit spells let him stack a shield per hit — use one clean single hit here."
+  ],
+  "groupFight": false
+}

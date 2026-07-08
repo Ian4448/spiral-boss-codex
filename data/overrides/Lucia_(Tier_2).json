@@ -1,0 +1,15 @@
+{
+  "strategy": [
+    "Star boss (2570). Hit with Myth, Life, or Death (+15%); avoid Fire, Ice, and Storm (25% resist).",
+    "Do not trap her. A Trap on the boss makes her buff her whole team with +30% damage, +20% accuracy, +10% pierce, and +30% healing. Use blades on yourself instead.",
+    "She summons a Clockworker minion at the start; clear it or AoE both.",
+    "Stack self-blades and land a Myth, Life, or Death hit. She is fragile."
+  ],
+  "cheatNotes": [
+    "Late joiners get Mana Burned. Be in on round 1.",
+    "She summons a Clockworker minion at the start. Plan to clear it or hit both with AoE.",
+    "Placing any Trap on her buffs her entire team (+30% damage, +20% accuracy, +10% pierce, +30% healing). Never trap her; blade yourself instead.",
+    ""
+  ],
+  "groupFight": false
+}

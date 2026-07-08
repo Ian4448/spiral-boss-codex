@@ -1,0 +1,28 @@
+{
+  "strategy": [
+    "Kill the three Projections first — Moth-Amon can't be targeted while minions are alive (single hits cancel, AoE won't touch him).",
+    "Don't waste blades early: any blade or global (yours or an ally's) makes him AoE Enfeeble all wizards, stripping charms. Protect with Aegis, use Armor Piercing charms (which don't trigger it), or blade and hit the same round once he's targetable.",
+    "Keep Mandar the Barbarian alive as your ally — the first-slot wizard should NOT summon a minion, or Mandar is replaced.",
+    "After the minions die he shouts and becomes targetable the following round — set up that round and burst.",
+    "Hit with Fire or Life (+5%); avoid Ice and Death (73% resist)."
+  ],
+  "cheatNotes": [
+    "Late wizards get polymorphed into a helpless Polymorph Egg — join on time.",
+    "He opens by summoning his Projection minions.",
+    "He's untargetable while minions are up — single hits cancel and AoE misses him, so clear the Projections first.",
+    "",
+    "",
+    "",
+    "He also summons Mandar the Barbarian as an ally for you — keep him around.",
+    "If the first-slot wizard flees, Mandar disappears.",
+    "If the first-slot wizard summons a minion, it replaces Mandar — don't do that.",
+    "Wizards after the first can summon minions without losing Mandar.",
+    "Any blade or global cast makes him AoE Enfeeble all wizards — blade and hit the same round or use Aegis.",
+    "Pet may-cast blades trigger the Enfeeble too.",
+    "Aegis protects your charms from being stripped once.",
+    "Armor Piercing charms don't trigger the Enfeeble — safe to use.",
+    "The round after his minions die he shouts 'No, my guards!'",
+    "He becomes targetable the round after that — set up then."
+  ],
+  "groupFight": false
+}

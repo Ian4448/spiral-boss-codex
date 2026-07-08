@@ -1,0 +1,30 @@
+{
+  "strategy": [
+    "Understand the two punishers. Drake zaps any damage/pierce Charm, Trap, Aura, or Global for 500 Storm, and his partner Quentin counter-casts based on the type of hanging effect you play.",
+    "Use single-target buffs on your hitter, not multi-target. Drake's Duck Savage lands on the receiver of a single-target buff but redirects to the caster on multi-target spells, so avoid Bladestorm-style setup.",
+    "Turn Quentin's counters into free setup: cast a single-target harmful Charm on Drake and Quentin answers with a Balanceblade, and a harmful Ward gets you a Tower Shield. Bait the ones that help you.",
+    "Avoid the punishing answers: helpful Charms on your team draw Weakness, helpful Wards draw Hex, and all-enemy curses draw Bladestorm or Legion Shield for the bosses.",
+    "He is Storm with heavy resist across the board (36% most schools, 56% Fire, 16% Ice) and no boost school, plus 194% damage, so this is a team burst: minimize triggers, stack on one hitter, and swing once.",
+    "Since almost every buff triggers something, keep setup lean, use protected/Aegis blades where you must, and end it fast before the 500 Storm zaps and forced shields add up."
+  ],
+  "cheatNotes": [
+    "",
+    "Any damage or pierce Charm, Trap, Aura, or Global you cast makes Drake zap the target for 500 Storm damage with a Storm Duck Savage.",
+    "Multi-target buffs redirect that Duck Savage onto you, the caster, so single-target your hitter's blades to keep the hit off yourself.",
+    "Secondary effects (like the blade riders on some spells) also set off the Duck Savage cheat, so account for hidden buffs.",
+    "",
+    "Quentin counter-casts a spell in response to specific hanging effects you play, some helping you and some helping the bosses.",
+    "Even secondary effects, such as the blade from Sound of Musicology, trigger Quentin's counter.",
+    "A single-target helpful Charm on an ally makes Quentin cast Weakness on that ally.",
+    "A helpful Charm on all allies makes Quentin cast Mass Weakness on your team.",
+    "A single-target harmful Charm on an enemy gives that enemy a Balanceblade; you can bait this to hand yourself nothing but note it buffs the boss.",
+    "Starfall also counts as the harmful-Charm trigger for this cheat.",
+    "A harmful Charm on all enemies makes Quentin cast Bladestorm (+25%) for the bosses.",
+    "A single-target helpful Ward on an ally makes Quentin cast Hex on that ally.",
+    "A helpful Ward on all allies makes Quentin cast Mass Hex on your team.",
+    "A single-target harmful Ward on an enemy gives that enemy a Balance Tower Shield; useful to bait a shield onto Drake if you plan to shatter it.",
+    "Attenuate also counts as the harmful-Ward trigger.",
+    "A harmful Ward on all enemies makes Quentin cast Legion Shield for the bosses."
+  ],
+  "groupFight": true
+}
