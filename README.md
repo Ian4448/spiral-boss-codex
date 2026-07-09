@@ -1,5 +1,7 @@
 # Spiral Boss Codex
 
+**Live site: [w101helpersite.vercel.app](https://w101helpersite.vercel.app)**
+
 A searchable database of **every Wizard101 boss** (1,900+) focused on their **cheats**: type
 any boss name — or describe a cheat, like "removes my traps in Khrysalis" — and get the boss's
 cheats with plain-language explanations, an ordered "how to fight" game plan, key battle stats,
