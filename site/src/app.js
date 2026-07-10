@@ -16,12 +16,28 @@ const SCHOOL_INITIALS = {
   Balance: 'B', Shadow: 'Sh', Sun: 'Su', Moon: 'Mo', Star: 'St',
 };
 
+// Tiny WebP for previews (dropdown, browse cards); full PNG for the detail page.
+const thumbUrl = (slug) => `${IMG_BASE}/thumb/${esc(slug)}.webp`;
+const fullUrl = (slug) => `${IMG_BASE}/${esc(slug)}.png`;
+
+// Warm preview thumbnails for a set of bosses so they're cached before render.
+const warmed = new Set();
+function warmThumbs(slugs) {
+  for (const slug of slugs) {
+    if (warmed.has(slug) || !state.images.has(slug)) continue;
+    warmed.add(slug);
+    const img = new Image();
+    img.decoding = 'async';
+    img.src = thumbUrl(slug);
+  }
+}
+
 // Portrait tile with school-monogram fallback when no image was archived.
 function portraitTile(b, cls) {
   const c = SCHOOL_COLORS[b.school] || '';
   const style = c ? ` style="--sc:${c}"` : '';
   const img = state.images.has(b.slug)
-    ? `<img src="${IMG_BASE}/${esc(b.slug)}.png" alt="" loading="lazy" decoding="async">`
+    ? `<img src="${thumbUrl(b.slug)}" alt="" decoding="async" fetchpriority="high">`
     : '';
   return `<span class="${cls}"${style}>${SCHOOL_INITIALS[b.school] || '?'}${img}</span>`;
 }
@@ -200,6 +216,7 @@ function makeSearchBox(inputEl, dropdownEl) {
     }
     const bosses = h.items.map((s) => state.bySlug.get(s)).filter(Boolean);
     if (!bosses.length) { close(); return; }
+    warmThumbs(bosses.map((b) => b.slug));
     items = bosses.map((b) => ({ boss: b }));
     active = -1;
     dropdownEl.innerHTML = items.slice(0, 6).map(({ boss: b }, i) => ddRow(b, i)).join('') + `
@@ -215,6 +232,7 @@ function makeSearchBox(inputEl, dropdownEl) {
 
   function renderDropdown(results, query) {
     if (!query.trim()) { renderRecent(); return; }
+    warmThumbs(results.slice(0, 16).map((r) => r.boss.slug)); // prefetch a bit past what's shown
     items = results.slice(0, 8);
     active = -1;
     if (!items.length) {
@@ -360,7 +378,7 @@ function renderBoss(slug) {
   const plan = Array.isArray(b.strategy) ? b.strategy : [b.strategy].filter(Boolean);
 
   const portrait = state.images.has(b.slug)
-    ? `<img class="boss-portrait" style="--sc:${c}" src="${IMG_BASE}/${esc(b.slug)}.png" alt="${esc(b.name)}" decoding="async">`
+    ? `<img class="boss-portrait" style="--sc:${c}" src="${fullUrl(b.slug)}" alt="${esc(b.name)}" decoding="async">`
     : '';
   el.innerHTML = `
     <header class="boss-head ${portrait ? 'has-portrait' : ''}">
@@ -464,6 +482,7 @@ function renderBrowse() {
 
   const results = browseResults();
   const shown = results.slice(0, f.limit);
+  warmThumbs(shown.map((b) => b.slug));
 
   el.innerHTML = `
     <div class="browse-head">
