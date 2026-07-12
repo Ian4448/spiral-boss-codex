@@ -42,6 +42,7 @@
       <button class="quick-chip" data-q="Rattlebones">Rattlebones</button>
       <button class="quick-chip" data-q="punishes healing">punishes healing</button>
       <a class="quick-chip browse-link" href="#browse">Browse all</a>
+      <a class="quick-chip build-link" href="#build">Build creator</a>
     </div>
 
     <button class="smart-pill" id="smartPill" title="Loads a small language model in your browser to understand descriptive queries">
@@ -87,6 +88,33 @@
       retrieved via the <a href="https://web.archive.org" target="_blank" rel="noopener">Internet Archive</a> ·
       Wizard101 is a trademark of KingsIsle Entertainment · Not affiliated</p>
   </footer>
+</section>
+
+<!-- ============ BUILD CREATOR ============ -->
+<section class="view-build" id="viewBuild" hidden>
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="Home">
+      <svg viewBox="0 0 32 32" class="brand-glyph" aria-hidden="true">
+        <path d="M16 2 L19.5 12.5 L30 16 L19.5 19.5 L16 30 L12.5 19.5 L2 16 L12.5 12.5 Z"/>
+      </svg>
+      <span>Build Creator</span>
+    </a>
+    <div class="build-toolbar">
+      <label class="build-school-pick">
+        <span>School</span>
+        <select id="buildSchool"></select>
+      </label>
+      <label class="build-level-pick">
+        <span>Level</span>
+        <input type="range" id="buildLevel" min="100" max="170" step="10" value="170">
+        <b id="buildLevelVal">170</b>
+      </label>
+      <button class="build-btn" id="buildShare">Copy link</button>
+      <button class="build-btn ghost" id="buildReset">Reset</button>
+    </div>
+  </header>
+  <div class="build-body" id="buildBody"><!-- rendered by build.js --></div>
+  <div class="item-picker" id="itemPicker" hidden></div>
 </section>
 
 <script type="module" src="./app.js"></script>

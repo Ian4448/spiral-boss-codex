@@ -26,3 +26,8 @@ data/finalbastion_guides_extra.json
 # os
 .DS_Store
 .vercel
+
+# gear pipeline intermediates (regenerable; raw HTML is large)
+data/raw_gear/
+data/gear/pages_*.json
+data/gear/items_sample.json
