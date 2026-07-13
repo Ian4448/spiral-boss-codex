@@ -1342,3 +1342,8 @@ body.gdetail-open { overflow: hidden; }
 .hx-petrow { gap: 0.6rem; }
 .hx-proj-faces { display: flex; gap: 0.25rem; }
 .hx-proj-faces img { width: 30px; height: 30px; border-radius: 7px; object-fit: cover; background: color-mix(in srgb, var(--accent) 12%, var(--bg)); border: 1px solid var(--line); }
+
+/* WizBuilder-style school pips inline with stats in the build preview */
+.cb-stat span .school-icon { width: 12px; height: 12px; vertical-align: -1px; margin-right: 3px; }
+.cb-mini .school-icon { width: 11px; height: 11px; vertical-align: -1px; margin-right: 2px; }
+.cb-mini.util { color: var(--ink-faint); font-style: italic; }

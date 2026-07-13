@@ -1,7 +1,7 @@
 // Build Creator — assemble gear + pet, see stats update live, share by link.
 import { computeStats, diffTotals, criticalChance, SCHOOLS, PER_SCHOOL } from './stats.js';
 import {
-  IMG_BASE, SCHOOL_COLORS, SLOT_LABEL, esc, fmt, schoolIcon, describeStats,
+  IMG_BASE, SCHOOL_COLORS, SLOT_LABEL, esc, fmt, schoolIcon, describeStats, statParts,
   SCHOOL_ABBR, STAT_UNIT, STAT_WORD,
 } from './display.js';
 import { publishBuild } from './galleryApi.js';
@@ -163,11 +163,14 @@ function openCommunityBuild(level) {
   // gear-only totals (community defaults don't prescribe a pet)
   const totals = computeStats(Object.values(items));
   const sf = b.school;
-  const cell = (label, val) => `<div class="cb-stat"><span>${label}</span><b>${val}</b></div>`;
+  const cell = (label, val, icon) => `<div class="cb-stat"><span>${icon ? schoolIcon(icon) : ''}${label}</span><b>${val}</b></div>`;
   const gearRows = Object.keys(SLOT_LABEL).map((slot) => {
     const it = items[slot];
     if (!it) return `<div class="cb-slot"><span class="cb-slot-tag">${SLOT_LABEL[slot]}</span><span class="cb-item empty">— no ${slot} at this level</span></div>`;
-    const desc = describeStats(it.stats, { max: 6 }).map((d) => `<span class="cb-mini">${esc(d)}</span>`).join('');
+    const parts = statParts(it.stats, { max: 6 });
+    const desc = parts.length
+      ? parts.map((e) => `<span class="cb-mini">${e.s ? schoolIcon(e.s) : ''}${esc(e.t)}</span>`).join('')
+      : `<span class="cb-mini util">${slot === 'amulet' || slot === 'deck' ? 'utility · gives a card' : 'stats not listed'}</span>`;
     const tag = it.suggested ? '<span class="cb-suggested" title="Not in the source build — our best-in-slot suggestion">suggested</span>' : '';
     return `<div class="cb-slot col"><div class="cb-slot-top"><span class="cb-slot-tag">${SLOT_LABEL[slot]}</span>
       <span class="cb-item">${esc(it.name)} <b>Lvl ${it.level}</b>${tag}</span></div>
@@ -185,10 +188,10 @@ function openCommunityBuild(level) {
       <button class="cb-load" id="cbLoad">Load this build into the creator</button>
       <div class="cb-stats">
         ${cell('Health', totals.maxHealth || 0)}
-        ${cell(`${sf} dmg`, `${totals.damage[sf] || 0}%`)}
-        ${cell(`${sf} resist`, `${totals.resist[sf] || 0}%`)}
-        ${cell(`${sf} crit`, totals.critical[sf] || 0)}
-        ${cell(`${sf} pierce`, `${totals.pierce[sf] || 0}%`)}
+        ${cell('dmg', `${totals.damage[sf] || 0}%`, sf)}
+        ${cell('resist', `${totals.resist[sf] || 0}%`, sf)}
+        ${cell('crit', totals.critical[sf] || 0, sf)}
+        ${cell('pierce', `${totals.pierce[sf] || 0}%`, sf)}
         ${cell('Power pip', `${totals.powerPipChance || 0}%`)}
       </div>
       <p class="cb-section">Gear</p>

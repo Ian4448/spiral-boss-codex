@@ -1,7 +1,7 @@
 // Community Builds gallery — browse curated + community-published + your own builds.
 import { fetchBuilds, fetchBuild } from './galleryApi.js';
 import { loadBuildIntoCreator, loadMyBuilds } from './build.js';
-import { SCHOOL_COLORS, SLOT_LABEL, esc, describeStats, schoolIcon } from './display.js';
+import { SCHOOL_COLORS, SLOT_LABEL, esc, statParts, schoolIcon } from './display.js';
 import { computeStats, SCHOOLS } from './stats.js';
 
 const $ = (id) => document.getElementById(id);
@@ -153,11 +153,14 @@ async function openDetail(id, kind) {
   const totals = computeStats(items);
   const sf = build.school;
   const c = SCHOOL_COLORS[sf] || 'var(--accent)';
-  const cell = (label, val) => `<div class="cb-stat"><span>${label}</span><b>${val}</b></div>`;
+  const cell = (label, val, icon) => `<div class="cb-stat"><span>${icon ? schoolIcon(icon) : ''}${label}</span><b>${val}</b></div>`;
   const gearRows = Object.keys(SLOT_LABEL).map((slot) => {
     const it = build.gear[slot];
     if (!it) return `<div class="cb-slot"><span class="cb-slot-tag">${SLOT_LABEL[slot]}</span><span class="cb-item empty">— no ${slot} at this level</span></div>`;
-    const desc = describeStats(it.stats, { max: 6 }).map((d) => `<span class="cb-mini">${esc(d)}</span>`).join('');
+    const parts = statParts(it.stats, { max: 6 });
+    const desc = parts.length
+      ? parts.map((e) => `<span class="cb-mini">${e.s ? schoolIcon(e.s) : ''}${esc(e.t)}</span>`).join('')
+      : `<span class="cb-mini util">${slot === 'amulet' || slot === 'deck' ? 'utility · gives a card' : 'stats not listed'}</span>`;
     const tag = it.suggested ? '<span class="cb-suggested">suggested</span>' : '';
     return `<div class="cb-slot col"><div class="cb-slot-top"><span class="cb-slot-tag">${SLOT_LABEL[slot]}</span>
       <span class="cb-item">${esc(it.name)} <b>Lvl ${it.level || 0}</b>${tag}</span></div>
@@ -184,10 +187,10 @@ async function openDetail(id, kind) {
       ${build.notes ? `<p class="gd-notes">${esc(build.notes)}</p>` : ''}
       <div class="cb-stats">
         ${cell('Health', totals.maxHealth || 0)}
-        ${cell(`${sf} dmg`, `${totals.damage[sf] || 0}%`)}
-        ${cell(`${sf} resist`, `${totals.resist[sf] || 0}%`)}
-        ${cell(`${sf} crit`, totals.critical[sf] || 0)}
-        ${cell(`${sf} pierce`, `${totals.pierce[sf] || 0}%`)}
+        ${cell('dmg', `${totals.damage[sf] || 0}%`, sf)}
+        ${cell('resist', `${totals.resist[sf] || 0}%`, sf)}
+        ${cell('crit', totals.critical[sf] || 0, sf)}
+        ${cell('pierce', `${totals.pierce[sf] || 0}%`, sf)}
         ${cell('Power pip', `${totals.powerPipChance || 0}%`)}
       </div>
       <p class="cb-section">Gear</p>

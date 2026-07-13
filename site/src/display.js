@@ -23,6 +23,19 @@ export const SCHOOL_ABBR = { Fire: 'Fire', Ice: 'Ice', Storm: 'Storm', Myth: 'My
 export const STAT_UNIT = { damage: '%', resist: '%', pierce: '%', accuracy: '%', critical: '', block: '' };
 export const STAT_WORD = { damage: 'dmg', resist: 'resist', pierce: 'pierce', accuracy: 'acc', critical: 'crit', block: 'block' };
 
+// Flat (non-per-school) stat lines shared by describeStats + statParts.
+function flatLines(stats) {
+  const out = [];
+  if (stats.powerPipChance) out.push(`+${stats.powerPipChance}% power pip`);
+  if (stats.shadowPipRating) out.push(`+${stats.shadowPipRating} shadow pip`);
+  if (stats.pipConversion) out.push(`+${stats.pipConversion} pip conversion`);
+  if (stats.incHealing) out.push(`+${stats.incHealing}% incoming heal`);
+  if (stats.outHealing) out.push(`+${stats.outHealing}% outgoing heal`);
+  if (stats.stunResist) out.push(`+${stats.stunResist}% stun resist`);
+  if (stats.archmastery) out.push(`+${stats.archmastery} archmastery`);
+  return out;
+}
+
 // Expressive per-school description of an item's stats, e.g.
 // "+1070 hp · +22% Fire dmg · +104 Fire crit · +12% resist"
 export function describeStats(stats, { max = 99 } = {}) {
@@ -40,7 +53,26 @@ export function describeStats(stats, { max = 99 } = {}) {
       out.push(`${fmt(v)}${STAT_UNIT[k]} ${label}`);
     }
   }
-  if (stats.powerPipChance) out.push(`+${stats.powerPipChance}% power pip`);
-  if (stats.shadowPipRating) out.push(`+${stats.shadowPipRating} shadow pip`);
+  return out.concat(flatLines(stats)).slice(0, max);
+}
+
+// Structured version for icon-rich rendering: each entry is { t: text, s: school|null }.
+// A non-null school lets the caller draw the W101 school pip next to the stat.
+export function statParts(stats, { max = 99 } = {}) {
+  const out = [];
+  if (!stats) return out;
+  if (stats.maxHealth) out.push({ t: `+${stats.maxHealth} hp` });
+  if (stats.maxMana) out.push({ t: `+${stats.maxMana} mana` });
+  for (const k of ['damage', 'critical', 'pierce', 'resist', 'accuracy', 'block']) {
+    const perSchool = stats[k];
+    if (!perSchool) continue;
+    const entries = Object.entries(perSchool).sort((a, b) => Math.abs(b[1]) - Math.abs(a[1]));
+    for (const [school, v] of entries) {
+      if (!v) continue;
+      const label = school === 'Global' ? `${STAT_WORD[k]} (all)` : STAT_WORD[k];
+      out.push({ t: `${fmt(v)}${STAT_UNIT[k]} ${label}`, s: school === 'Global' ? null : school });
+    }
+  }
+  for (const t of flatLines(stats)) out.push({ t });
   return out.slice(0, max);
 }
