@@ -25,6 +25,12 @@
 
 <!-- ============ HOME ============ -->
 <section class="view-home" id="viewHome">
+  <nav class="corner-nav">
+    <a href="#build" class="corner-link">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2 2 7l10 5 10-5-10-5Z"/><path d="m2 17 10 5 10-5M2 12l10 5 10-5"/></svg>
+      Build Creator
+    </a>
+  </nav>
   <div class="hero">
     <h1 class="wordmark">Spiral&nbsp;Boss&nbsp;Codex</h1>
 
@@ -75,6 +81,10 @@
     <button class="smart-pill compact" id="smartPillTop">
       <span class="smart-dot"></span><span class="smart-pill-text">Smart</span>
     </button>
+    <a href="#build" class="topbar-build" title="Build Creator">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2 2 7l10 5 10-5-10-5Z"/><path d="m2 17 10 5 10-5M2 12l10 5 10-5"/></svg>
+      <span>Build Creator</span>
+    </a>
   </header>
 
   <main class="app-main">
@@ -109,7 +119,7 @@
         <input type="range" id="buildLevel" min="100" max="170" step="10" value="170">
         <b id="buildLevelVal">170</b>
       </label>
-      <button class="build-btn" id="buildShare">Copy link</button>
+      <button class="build-btn" id="buildShare">Share</button>
       <button class="build-btn ghost" id="buildReset">Reset</button>
     </div>
   </header>

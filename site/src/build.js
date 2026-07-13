@@ -15,23 +15,32 @@ const SLOTS = [
   { key: 'ring', label: 'Ring' }, { key: 'deck', label: 'Deck' },
 ];
 
-// Built-in pet talent library (common manifested talents). Covers the stat math
-// without the pet minigame; each talent contributes flat/percent stats.
+// Pet talent library — the manifestable stat talents, grouped by category.
+// Values are the standard maxed-pet contributions. Each talent adds flat/%
+// stats via the same engine as gear.
+const _PS = ['Fire', 'Ice', 'Storm', 'Myth', 'Life', 'Death', 'Balance'];
 const PET_TALENTS = [
-  { id: 'paingiver', name: 'Pain-Giver', stats: { damage: { Global: 6 } } },
-  { id: 'painbringer', name: 'Pain-Bringer', stats: { damage: { Global: 5 } } },
-  { id: 'spellproof', name: 'Spell-Proof', stats: { resist: { Global: 10 } } },
-  { id: 'spelldefy', name: 'Spell-Defying', stats: { resist: { Global: 7 } } },
-  { id: 'mightypierce', name: 'Armor Breaker (Mighty)', stats: { pierce: { Global: 5 } } },
-  { id: 'sharpshot', name: 'Sharp Shot (accuracy)', stats: { accuracy: { Global: 5 } } },
-  { id: 'critical', name: 'Critical Striker', stats: { critical: { Global: 60 } } },
-  { id: 'block', name: 'Pip Conserver / Block', stats: { block: { Global: 55 } } },
-  { id: 'health', name: 'Add Health (Mighty)', stats: { maxHealth: 165 } },
-  { id: 'mana', name: 'Add Mana', stats: { maxMana: 75 } },
-  { id: 'pipomatic', name: 'Pip O’Matic', stats: { powerPipChance: 5 } },
-  { id: 'defender', name: 'Ward (flat resist)', stats: { resist: { Global: 4 } } },
-  { id: 'giver', name: 'Giver (flat damage)', stats: { damage: { Global: 4 } } },
+  { id: 'paingiver', name: 'Pain-Giver', cat: 'Damage', stats: { damage: { Global: 6 } } },
+  { id: 'painbringer', name: 'Pain-Bringer', cat: 'Damage', stats: { damage: { Global: 5 } } },
+  ..._PS.map((s) => ({ id: `${s.toLowerCase()}dealer`, name: `${s}-Dealer`, cat: 'Damage', stats: { damage: { [s]: 4 } } })),
+  ..._PS.map((s) => ({ id: `${s.toLowerCase()}boon`, name: `${s}-Boon`, cat: 'Damage', stats: { damage: { [s]: 3 } } })),
+  { id: 'spellproof', name: 'Spell-Proof', cat: 'Resist', stats: { resist: { Global: 10 } } },
+  { id: 'spelldefy', name: 'Spell-Defying', cat: 'Resist', stats: { resist: { Global: 5 } } },
+  ..._PS.map((s) => ({ id: `${s.toLowerCase()}proof`, name: `${s}-Proof`, cat: 'Resist', stats: { resist: { [s]: 10 } } })),
+  ..._PS.map((s) => ({ id: `${s.toLowerCase()}ward`, name: `${s}-Ward`, cat: 'Resist', stats: { resist: { [s]: 15 } } })),
+  { id: 'mightypierce', name: 'Armor Piercer (Mighty)', cat: 'Pierce & Accuracy', stats: { pierce: { Global: 3 } } },
+  { id: 'sharpshot', name: 'Sharp-Shot', cat: 'Pierce & Accuracy', stats: { accuracy: { Global: 5 } } },
+  { id: 'accurate', name: 'Accurate', cat: 'Pierce & Accuracy', stats: { accuracy: { Global: 4 } } },
+  { id: 'critstriker', name: 'Critical Striker', cat: 'Critical & Block', stats: { critical: { Global: 60 } } },
+  { id: 'crithitter', name: 'Critical Hitter', cat: 'Critical & Block', stats: { critical: { Global: 40 } } },
+  { id: 'block', name: 'Pip Conserver (block)', cat: 'Critical & Block', stats: { block: { Global: 55 } } },
+  { id: 'pipomatic', name: 'Pip O’Matic', cat: 'Pips', stats: { powerPipChance: 5 } },
+  { id: 'mightpip', name: 'Pip Conserver', cat: 'Pips', stats: { powerPipChance: 3 } },
+  { id: 'addhealth', name: 'Add Health', cat: 'Health & Mana', stats: { maxHealth: 165 } },
+  { id: 'healthgift', name: 'Health-Gift', cat: 'Health & Mana', stats: { maxHealth: 110 } },
+  { id: 'addmana', name: 'Add Mana', cat: 'Health & Mana', stats: { maxMana: 75 } },
 ];
+const TALENT_CATS = ['Damage', 'Resist', 'Pierce & Accuracy', 'Critical & Block', 'Pips', 'Health & Mana'];
 
 const state = {
   loaded: false,
@@ -185,9 +194,8 @@ function openCommunityBuild(level) {
   if (!b) return;
   const c = SCHOOL_COLORS[b.school] || 'var(--accent)';
   const items = buildItems(b);
-  // compute the build's totals with our engine (real per-school item stats)
-  const talentObjs = (b.talents || []).map((t) => petTalentByName(t)).filter(Boolean);
-  const totals = computeStats([...Object.values(items), ...talentObjs]);
+  // gear-only totals (community defaults don't prescribe a pet)
+  const totals = computeStats(Object.values(items));
   const sf = b.school;
   const cell = (label, val) => `<div class="cb-stat"><span>${label}</span><b>${val}</b></div>`;
   const gearRows = Object.keys(SLOT_LABEL).map((slot) => {
@@ -198,7 +206,6 @@ function openCommunityBuild(level) {
       <span class="cb-item">${esc(it.name)} <b>Lvl ${it.level}</b></span></div>
       <div class="cb-mini-row">${desc}</div></div>`;
   }).join('');
-  const talents = (b.talents || []).map((t) => `<span class="cb-talent">${esc(t)}</span>`).join('') || '<span class="cb-empty">—</span>';
   const picker = $('itemPicker');
   picker.hidden = false;
   document.body.classList.add('picker-open');
@@ -218,9 +225,7 @@ function openCommunityBuild(level) {
       </div>
       <p class="cb-section">Gear</p>
       <div class="cb-gear">${gearRows}</div>
-      <p class="cb-section">Pet talents</p>
-      <div class="cb-talents">${talents}</div>
-      <p class="cb-note">From ${esc(state.presets.source.author)}'s <a href="${esc(state.presets.source.url)}" target="_blank" rel="noopener">${esc(state.presets.source.title)}</a>. Item stats via WizBuilder.</p>
+      <p class="cb-note">From ${esc(state.presets.source.author)}'s <a href="${esc(state.presets.source.url)}" target="_blank" rel="noopener">${esc(state.presets.source.title)}</a>. Item stats via WizBuilder. Pick your own pet talents after loading.</p>
     </div>`;
   $('pickerClose').addEventListener('click', closePicker);
   $('cbLoad').addEventListener('click', () => loadCommunityBuild(b));
@@ -233,7 +238,7 @@ function petTalentByName(name) {
 
 function loadCommunityBuild(b) {
   state.equipped = buildItems(b);
-  state.petTalents = (b.talents || []).map((t) => petTalentByName(t)).filter(Boolean).map((t) => t.id).slice(0, 5);
+  state.petTalents = [];   // you choose your own pet talents
   state.level = b.level;
   closePicker();
   $('buildLevel').value = state.level; $('buildLevelVal').textContent = state.level;
@@ -379,16 +384,35 @@ function renderPickerList(items) {
 
 /* -------------- pet talent menu -------------- */
 
+let talentQuery = '';
 function togglePetMenu() {
   const menu = $('petMenu');
   if (!menu.hidden) { menu.hidden = true; return; }
-  menu.innerHTML = PET_TALENTS.filter((t) => !state.petTalents.includes(t.id))
-    .map((t) => `<button class="talent-opt" data-talent="${t.id}">${esc(t.name)}</button>`).join('')
-    || '<span class="talent-none">all added</span>';
+  talentQuery = '';
+  renderTalentMenu();
   menu.hidden = false;
+}
+function renderTalentMenu() {
+  const menu = $('petMenu');
+  const q = talentQuery.trim().toLowerCase();
+  const avail = PET_TALENTS.filter((t) => !state.petTalents.includes(t.id)
+    && (!q || t.name.toLowerCase().includes(q)));
+  const groups = TALENT_CATS.map((cat) => {
+    const ts = avail.filter((t) => t.cat === cat);
+    if (!ts.length) return '';
+    return `<div class="talent-group"><p class="talent-cat">${cat}</p>${ts.map((t) => {
+      const d = describeStats(t.stats, { max: 2 }).join(' · ');
+      return `<button class="talent-opt" data-talent="${t.id}"><span>${esc(t.name)}</span><b>${esc(d)}</b></button>`;
+    }).join('')}</div>`;
+  }).join('');
+  menu.innerHTML = `<input class="talent-search" id="talentSearch" placeholder="Search talents…" value="${esc(talentQuery)}">
+    <div class="talent-scroll">${groups || '<span class="talent-none">no matches</span>'}</div>`;
+  const si = $('talentSearch'); si.focus();
+  si.addEventListener('input', () => { talentQuery = si.value; renderTalentMenu(); });
   menu.querySelectorAll('.talent-opt').forEach((b) => b.addEventListener('click', () => {
     if (state.petTalents.length < 5) state.petTalents.push(b.dataset.talent);
     rerender(); syncUrl();
+    if (state.petTalents.length < 5) togglePetMenu(); // reopen for next pick
   }));
 }
 
@@ -455,8 +479,13 @@ function fillSchoolSelect() {
   $('buildLevel').addEventListener('input', (e) => { state.level = +e.target.value; $('buildLevelVal').textContent = state.level; rerender(); syncUrl(); });
   $('buildShare').addEventListener('click', async () => {
     syncUrl();
-    await navigator.clipboard.writeText(location.href).catch(() => {});
-    const btn = $('buildShare'); const t = btn.textContent; btn.textContent = 'Copied!'; setTimeout(() => (btn.textContent = t), 1400);
+    const url = location.href;
+    const data = { title: 'Spiral Boss Codex — build', text: `My ${state.school} build`, url };
+    if (navigator.share) {
+      try { await navigator.share(data); return; } catch { /* cancelled → fall through to copy */ }
+    }
+    await navigator.clipboard.writeText(url).catch(() => {});
+    const btn = $('buildShare'); const t = btn.textContent; btn.textContent = 'Link copied!'; setTimeout(() => (btn.textContent = t), 1500);
   });
   $('buildReset').addEventListener('click', () => { state.equipped = {}; state.petTalents = []; rerender(); syncUrl(); });
   document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !$('itemPicker').hidden) closePicker(); });
