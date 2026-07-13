@@ -19,6 +19,17 @@ export const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) =>
 export const fmt = (n) => (n > 0 ? `+${n}` : `${n}`);
 export const schoolIcon = (s) => `<img class="school-icon" src="${IMG_BASE}/schools/${s}.png" alt="${s}" title="${s}">`;
 
+// W101 stat + gear-slot icons, mirrored from the wiki and served same-origin.
+export const STAT_ICON = {
+  damage: 'Damage', resist: 'Resistance', pierce: 'Armor_Piercing', accuracy: 'Accuracy',
+  critical: 'Critical', block: 'Critical_Block', maxHealth: 'Health', maxMana: 'Mana',
+  powerPipChance: 'Power_Pip', shadowPipRating: 'Shadow_Pip', pipConversion: 'Pip_Conversion',
+  archmastery: 'Archmastery', stunResist: 'Stun_Resistance',
+};
+const SLOT_ICON = { hat: 'Hat', robe: 'Robe', boots: 'Boots', wand: 'Wand', athame: 'Athame', amulet: 'Amulet', ring: 'Ring', deck: 'Deck' };
+export const statIcon = (name) => (name ? `<img class="stat-icon" src="/img/icons/${name}.png" alt="" loading="lazy">` : '');
+export const slotIcon = (slot) => (SLOT_ICON[slot] ? `<img class="slot-icon-img" src="/img/icons/${SLOT_ICON[slot]}.png" alt="" loading="lazy">` : '');
+
 export const SCHOOL_ABBR = { Fire: 'Fire', Ice: 'Ice', Storm: 'Storm', Myth: 'Myth', Life: 'Life', Death: 'Death', Balance: 'Bal', Global: 'all' };
 export const STAT_UNIT = { damage: '%', resist: '%', pierce: '%', accuracy: '%', critical: '', block: '' };
 export const STAT_WORD = { damage: 'dmg', resist: 'resist', pierce: 'pierce', accuracy: 'acc', critical: 'crit', block: 'block' };

@@ -2,7 +2,7 @@
 import { computeStats, diffTotals, criticalChance, SCHOOLS, PER_SCHOOL } from './stats.js';
 import {
   IMG_BASE, SCHOOL_COLORS, SLOT_LABEL, esc, fmt, schoolIcon, describeStats, statParts,
-  SCHOOL_ABBR, STAT_UNIT, STAT_WORD,
+  SCHOOL_ABBR, STAT_UNIT, STAT_WORD, statIcon, slotIcon, STAT_ICON,
 } from './display.js';
 import { publishBuild } from './galleryApi.js';
 
@@ -99,15 +99,15 @@ function slotCard(slot, label) {
   if (it) {
     const top = topStats(it);
     return `<button class="slot-card filled" data-slot="${key}">
-      <span class="slot-tag">${label}</span>
-      <span class="slot-name">${esc(it.name)}</span>
+      <span class="slot-tag">${slotIcon(key)}${label}</span>
+      <span class="slot-name">${it.school && it.school !== 'Any' ? schoolIcon(it.school) : ''}${esc(it.name)}</span>
       <span class="slot-lvl">Lvl ${it.level}${it.school !== 'Any' ? ' · ' + esc(it.school) : ''}</span>
       <span class="slot-stats">${top}</span>
       <span class="slot-remove" data-remove="${key}" title="Remove">×</span>
     </button>`;
   }
   return `<button class="slot-card empty" data-slot="${key}">
-    <span class="slot-tag">${label}</span>
+    <span class="slot-tag">${slotIcon(key)}${label}</span>
     <span class="slot-add">+ add ${label.toLowerCase()}</span>
   </button>`;
 }
@@ -163,16 +163,16 @@ function openCommunityBuild(level) {
   // gear-only totals (community defaults don't prescribe a pet)
   const totals = computeStats(Object.values(items));
   const sf = b.school;
-  const cell = (label, val, icon) => `<div class="cb-stat"><span>${icon ? schoolIcon(icon) : ''}${label}</span><b>${val}</b></div>`;
+  const cell = (label, val, iconHtml = '') => `<div class="cb-stat"><span>${iconHtml}${label}</span><b>${val}</b></div>`;
   const gearRows = Object.keys(SLOT_LABEL).map((slot) => {
     const it = items[slot];
-    if (!it) return `<div class="cb-slot"><span class="cb-slot-tag">${SLOT_LABEL[slot]}</span><span class="cb-item empty">— no ${slot} at this level</span></div>`;
+    if (!it) return `<div class="cb-slot"><span class="cb-slot-tag">${slotIcon(slot)}${SLOT_LABEL[slot]}</span><span class="cb-item empty">— no ${slot} at this level</span></div>`;
     const parts = statParts(it.stats, { max: 6 });
     const desc = parts.length
       ? parts.map((e) => `<span class="cb-mini">${e.s ? schoolIcon(e.s) : ''}${esc(e.t)}</span>`).join('')
       : `<span class="cb-mini util">${slot === 'amulet' || slot === 'deck' ? 'utility · gives a card' : 'stats not listed'}</span>`;
     const tag = it.suggested ? '<span class="cb-suggested" title="Not in the source build — our best-in-slot suggestion">suggested</span>' : '';
-    return `<div class="cb-slot col"><div class="cb-slot-top"><span class="cb-slot-tag">${SLOT_LABEL[slot]}</span>
+    return `<div class="cb-slot col"><div class="cb-slot-top"><span class="cb-slot-tag">${slotIcon(slot)}${SLOT_LABEL[slot]}</span>
       <span class="cb-item">${esc(it.name)} <b>Lvl ${it.level}</b>${tag}</span></div>
       <div class="cb-mini-row">${desc}</div></div>`;
   }).join('');
@@ -187,12 +187,12 @@ function openCommunityBuild(level) {
     <div class="cb-body">
       <button class="cb-load" id="cbLoad">Load this build into the creator</button>
       <div class="cb-stats">
-        ${cell('Health', totals.maxHealth || 0)}
-        ${cell('dmg', `${totals.damage[sf] || 0}%`, sf)}
-        ${cell('resist', `${totals.resist[sf] || 0}%`, sf)}
-        ${cell('crit', totals.critical[sf] || 0, sf)}
-        ${cell('pierce', `${totals.pierce[sf] || 0}%`, sf)}
-        ${cell('Power pip', `${totals.powerPipChance || 0}%`)}
+        ${cell('Health', totals.maxHealth || 0, statIcon('Health'))}
+        ${cell('dmg', `${totals.damage[sf] || 0}%`, schoolIcon(sf))}
+        ${cell('resist', `${totals.resist[sf] || 0}%`, schoolIcon(sf))}
+        ${cell('crit', totals.critical[sf] || 0, schoolIcon(sf))}
+        ${cell('pierce', `${totals.pierce[sf] || 0}%`, schoolIcon(sf))}
+        ${cell('Power pip', `${totals.powerPipChance || 0}%`, statIcon('Power_Pip'))}
       </div>
       <p class="cb-section">Gear</p>
       <div class="cb-gear">${gearRows}</div>
@@ -360,13 +360,13 @@ function statRow(label, totals, key, unit, showChance) {
     if (showChance && v) txt = `${Math.round(criticalChance(v, state.level) * 100)}%`;
     return `<td class="${cls}" style="--sc:${SCHOOL_COLORS[s]}">${txt}</td>`;
   }).join('');
-  return `<tr><th>${label}</th>${cells}</tr>`;
+  return `<tr><th>${showChance ? '' : statIcon(STAT_ICON[key])}${label}</th>${cells}</tr>`;
 }
 
 function renderStats() {
   const t = currentTotals();
   const head = `<tr><th></th>${SCHOOLS.map((s) => `<td class="hcol" style="--sc:${SCHOOL_COLORS[s]}">${schoolIcon(s)}</td>`).join('')}</tr>`;
-  const flat = (k, label, unit = '') => `<div class="stat-flat"><span>${label}</span><b>${t[k] || 0}${unit}</b></div>`;
+  const flat = (k, label, unit = '') => `<div class="stat-flat">${statIcon(STAT_ICON[k])}<span>${label}</span><b>${t[k] || 0}${unit}</b></div>`;
   return `
     <div class="stats-panel">
       <div class="stat-group">

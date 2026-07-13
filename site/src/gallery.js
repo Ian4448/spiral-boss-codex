@@ -1,7 +1,7 @@
 // Community Builds gallery — browse curated + community-published + your own builds.
 import { fetchBuilds, fetchBuild } from './galleryApi.js';
 import { loadBuildIntoCreator, loadMyBuilds } from './build.js';
-import { SCHOOL_COLORS, SLOT_LABEL, esc, statParts, schoolIcon } from './display.js';
+import { SCHOOL_COLORS, SLOT_LABEL, esc, statParts, schoolIcon, statIcon, slotIcon } from './display.js';
 import { computeStats, SCHOOLS } from './stats.js';
 
 const $ = (id) => document.getElementById(id);
@@ -153,16 +153,16 @@ async function openDetail(id, kind) {
   const totals = computeStats(items);
   const sf = build.school;
   const c = SCHOOL_COLORS[sf] || 'var(--accent)';
-  const cell = (label, val, icon) => `<div class="cb-stat"><span>${icon ? schoolIcon(icon) : ''}${label}</span><b>${val}</b></div>`;
+  const cell = (label, val, iconHtml = '') => `<div class="cb-stat"><span>${iconHtml}${label}</span><b>${val}</b></div>`;
   const gearRows = Object.keys(SLOT_LABEL).map((slot) => {
     const it = build.gear[slot];
-    if (!it) return `<div class="cb-slot"><span class="cb-slot-tag">${SLOT_LABEL[slot]}</span><span class="cb-item empty">— no ${slot} at this level</span></div>`;
+    if (!it) return `<div class="cb-slot"><span class="cb-slot-tag">${slotIcon(slot)}${SLOT_LABEL[slot]}</span><span class="cb-item empty">— no ${slot} at this level</span></div>`;
     const parts = statParts(it.stats, { max: 6 });
     const desc = parts.length
       ? parts.map((e) => `<span class="cb-mini">${e.s ? schoolIcon(e.s) : ''}${esc(e.t)}</span>`).join('')
       : `<span class="cb-mini util">${slot === 'amulet' || slot === 'deck' ? 'utility · gives a card' : 'stats not listed'}</span>`;
     const tag = it.suggested ? '<span class="cb-suggested">suggested</span>' : '';
-    return `<div class="cb-slot col"><div class="cb-slot-top"><span class="cb-slot-tag">${SLOT_LABEL[slot]}</span>
+    return `<div class="cb-slot col"><div class="cb-slot-top"><span class="cb-slot-tag">${slotIcon(slot)}${SLOT_LABEL[slot]}</span>
       <span class="cb-item">${esc(it.name)} <b>Lvl ${it.level || 0}</b>${tag}</span></div>
       <div class="cb-mini-row">${desc}</div></div>`;
   }).join('');
@@ -186,12 +186,12 @@ async function openDetail(id, kind) {
       </div>
       ${build.notes ? `<p class="gd-notes">${esc(build.notes)}</p>` : ''}
       <div class="cb-stats">
-        ${cell('Health', totals.maxHealth || 0)}
-        ${cell('dmg', `${totals.damage[sf] || 0}%`, sf)}
-        ${cell('resist', `${totals.resist[sf] || 0}%`, sf)}
-        ${cell('crit', totals.critical[sf] || 0, sf)}
-        ${cell('pierce', `${totals.pierce[sf] || 0}%`, sf)}
-        ${cell('Power pip', `${totals.powerPipChance || 0}%`)}
+        ${cell('Health', totals.maxHealth || 0, statIcon('Health'))}
+        ${cell('dmg', `${totals.damage[sf] || 0}%`, schoolIcon(sf))}
+        ${cell('resist', `${totals.resist[sf] || 0}%`, schoolIcon(sf))}
+        ${cell('crit', totals.critical[sf] || 0, schoolIcon(sf))}
+        ${cell('pierce', `${totals.pierce[sf] || 0}%`, schoolIcon(sf))}
+        ${cell('Power pip', `${totals.powerPipChance || 0}%`, statIcon('Power_Pip'))}
       </div>
       <p class="cb-section">Gear</p>
       <div class="cb-gear">${gearRows}</div>

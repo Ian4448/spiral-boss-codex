@@ -1347,3 +1347,14 @@ body.gdetail-open { overflow: hidden; }
 .cb-stat span .school-icon { width: 12px; height: 12px; vertical-align: -1px; margin-right: 3px; }
 .cb-mini .school-icon { width: 11px; height: 11px; vertical-align: -1px; margin-right: 2px; }
 .cb-mini.util { color: var(--ink-faint); font-style: italic; }
+
+/* W101 stat + gear-slot icons in the build creator + previews */
+.stat-icon { width: 15px; height: 15px; object-fit: contain; flex: none; }
+.slot-icon-img { width: 14px; height: 14px; object-fit: contain; vertical-align: -2px; margin-right: 4px; }
+.stat-flat { align-items: center; justify-content: flex-start; gap: 0.3rem; }
+.stat-flat b { margin-left: auto; }
+.stat-table th .stat-icon { width: 15px; height: 15px; vertical-align: -3px; margin-right: 5px; }
+.slot-name .school-icon { width: 13px; height: 13px; vertical-align: -2px; margin-right: 3px; }
+.slot-tag .slot-icon-img { width: 13px; height: 13px; }
+.cb-slot-tag .slot-icon-img { width: 12px; height: 12px; vertical-align: -2px; margin-right: 3px; }
+.cb-stat span .stat-icon { width: 12px; height: 12px; vertical-align: -2px; margin-right: 3px; }
