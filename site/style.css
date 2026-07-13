@@ -983,3 +983,14 @@ a.ally-pill:hover { border-color: rgba(139, 123, 247, 0.5); text-decoration: non
 .cb-talents { display: flex; flex-wrap: wrap; gap: 0.35rem; }
 .cb-talent { font-size: 0.76rem; background: color-mix(in srgb, var(--build-accent) 13%, transparent); color: var(--build-accent); border-radius: 999px; padding: 0.18rem 0.6rem; }
 .cb-note { font-size: 0.72rem; color: var(--ink-faint); margin-top: 1rem; line-height: 1.5; }
+
+/* community build: load button, per-item stat lines, meta badge */
+.cb-load { width: 100%; margin-bottom: 1rem; padding: 0.6rem; border-radius: 10px; font-weight: 600;
+  font-size: 0.85rem; color: var(--bg0); background: var(--build-accent); }
+.cb-load:hover { filter: brightness(1.1); }
+.cb-slot.col { flex-direction: column; align-items: stretch; gap: 0.3rem; }
+.cb-slot-top { display: flex; gap: 0.6rem; align-items: baseline; }
+.cb-mini-row { display: flex; flex-wrap: wrap; gap: 0.25rem; padding-left: 62px; }
+.cb-mini { font-size: 0.66rem; color: var(--ink-dim); background: var(--card); border: 1px solid var(--line); border-radius: 5px; padding: 0.02rem 0.32rem; }
+.pick-meta { font-size: 0.58rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--gold);
+  border: 1px solid color-mix(in srgb, var(--gold) 40%, transparent); border-radius: 4px; padding: 0 0.25rem; margin-left: 0.35rem; }

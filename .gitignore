@@ -33,3 +33,4 @@ data/gear/pages_*.json
 data/gear/items_sample.json
 data/gear/wb_builds.json
 data/gear/wb_unmatched.json
+data/gear/wb_build_ids.json

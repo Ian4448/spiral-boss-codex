@@ -58,14 +58,25 @@ async function ensureIndex() {
   } catch { state.index = {}; }
   try {
     state.presets = await (await fetch('./data/presets.json')).json();
-  } catch { state.presets = null; }
+    // give each meta item a stable slug + group by slot so they're pickable too
+    state.wbBySlot = {};
+    for (const it of Object.values(state.presets.items || {})) {
+      it.slug = `wb:${it.id}`;
+      it.meta = true;
+      (state.wbBySlot[it.slot] ||= []).push(it);
+    }
+  } catch { state.presets = null; state.wbBySlot = {}; }
   state.loaded = true;
 }
 async function loadSlot(slot) {
   if (state.cache[slot]) return state.cache[slot];
+  let wiki = [];
   try {
-    state.cache[slot] = await (await fetch(`./data/gear/${slot}.json`)).json();
-  } catch { state.cache[slot] = []; }
+    wiki = await (await fetch(`./data/gear/${slot}.json`)).json();
+  } catch { wiki = []; }
+  // meta (WizBuilder) items for this slot are pickable too, listed first
+  const meta = (state.wbBySlot && state.wbBySlot[slot]) || [];
+  state.cache[slot] = [...meta, ...wiki];
   return state.cache[slot];
 }
 
@@ -98,14 +109,41 @@ function slotCard(slot, label) {
   </button>`;
 }
 
+const SCHOOL_ABBR = { Fire: 'Fire', Ice: 'Ice', Storm: 'Storm', Myth: 'Myth', Life: 'Life', Death: 'Death', Balance: 'Bal', Global: 'all' };
+const STAT_UNIT = { damage: '%', resist: '%', pierce: '%', accuracy: '%', critical: '', block: '' };
+const STAT_WORD = { damage: 'dmg', resist: 'resist', pierce: 'pierce', accuracy: 'acc', critical: 'crit', block: 'block' };
+
+// Expressive per-school description of an item's stats, e.g.
+// "+1070 hp · +22% Fire dmg · +18% Myth dmg · +104 Fire crit · +12% resist"
+function describeStats(stats, { max = 99 } = {}) {
+  const out = [];
+  if (stats.maxHealth) out.push(`+${stats.maxHealth} hp`);
+  if (stats.maxMana) out.push(`+${stats.maxMana} mana`);
+  for (const k of ['damage', 'critical', 'pierce', 'resist', 'accuracy', 'block']) {
+    const perSchool = stats[k];
+    if (!perSchool) continue;
+    // sort schools by magnitude, put Global last as "all"
+    const entries = Object.entries(perSchool).sort((a, b) => Math.abs(b[1]) - Math.abs(a[1]));
+    for (const [school, v] of entries) {
+      if (!v) continue;
+      const label = school === 'Global' ? `${STAT_WORD[k]} (all)` : `${SCHOOL_ABBR[school]} ${STAT_WORD[k]}`;
+      out.push(`${fmt(v)}${STAT_UNIT[k]} ${label}`);
+    }
+  }
+  if (stats.powerPipChance) out.push(`+${stats.powerPipChance}% power pip`);
+  if (stats.shadowPipRating) out.push(`+${stats.shadowPipRating} shadow pip`);
+  return out.slice(0, max);
+}
+
+// compact 3-stat summary for slot cards, focused on the equipped school
 function topStats(it) {
-  const parts = [];
   const s = it.stats || {};
+  const parts = [];
   if (s.maxHealth) parts.push(`${s.maxHealth} hp`);
-  for (const k of ['damage', 'resist', 'critical', 'pierce']) {
+  for (const k of ['damage', 'critical', 'pierce']) {
     if (s[k]) {
       const v = (s[k][state.school] || 0) + (s[k].Global || 0);
-      if (v) parts.push(`${fmt(v)}${k === 'damage' || k === 'resist' || k === 'pierce' ? '%' : ''} ${k[0].toUpperCase()}`);
+      if (v) parts.push(`${fmt(v)}${STAT_UNIT[k]} ${SCHOOL_ABBR[state.school]} ${STAT_WORD[k]}`);
     }
   }
   return parts.slice(0, 3).map((p) => `<span>${p}</span>`).join('');
@@ -132,18 +170,35 @@ function renderPresets() {
 
 const SLOT_LABEL = { hat: 'Hat', robe: 'Robe', boots: 'Boots', wand: 'Wand', athame: 'Athame', amulet: 'Amulet', ring: 'Ring', deck: 'Deck' };
 
+function buildItems(b) {
+  // resolve slot -> full item object from the presets item table
+  const items = {};
+  for (const [slot, id] of Object.entries(b.gear || {})) {
+    const it = state.presets.items[id];
+    if (it) items[slot] = it;
+  }
+  return items;
+}
+
 function openCommunityBuild(level) {
   const b = state.presets.builds.find((x) => x.school === state.school && x.level === level);
   if (!b) return;
   const c = SCHOOL_COLORS[b.school] || 'var(--accent)';
+  const items = buildItems(b);
+  // compute the build's totals with our engine (real per-school item stats)
+  const talentObjs = (b.talents || []).map((t) => petTalentByName(t)).filter(Boolean);
+  const totals = computeStats([...Object.values(items), ...talentObjs]);
+  const sf = b.school;
+  const cell = (label, val) => `<div class="cb-stat"><span>${label}</span><b>${val}</b></div>`;
   const gearRows = Object.keys(SLOT_LABEL).map((slot) => {
-    const it = b.gear[slot];
-    return `<div class="cb-slot"><span class="cb-slot-tag">${SLOT_LABEL[slot]}</span>
-      <span class="cb-item ${it ? '' : 'empty'}">${it ? esc(it.name) : '—'}${it && it.lvl ? ` <b>Lvl ${it.lvl}</b>` : ''}</span></div>`;
+    const it = items[slot];
+    if (!it) return `<div class="cb-slot"><span class="cb-slot-tag">${SLOT_LABEL[slot]}</span><span class="cb-item empty">—</span></div>`;
+    const desc = describeStats(it.stats, { max: 6 }).map((d) => `<span class="cb-mini">${esc(d)}</span>`).join('');
+    return `<div class="cb-slot col"><div class="cb-slot-top"><span class="cb-slot-tag">${SLOT_LABEL[slot]}</span>
+      <span class="cb-item">${esc(it.name)} <b>Lvl ${it.level}</b></span></div>
+      <div class="cb-mini-row">${desc}</div></div>`;
   }).join('');
   const talents = (b.talents || []).map((t) => `<span class="cb-talent">${esc(t)}</span>`).join('') || '<span class="cb-empty">—</span>';
-  const s = b.stats || {};
-  const stat = (label, val, unit = '') => val != null ? `<div class="cb-stat"><span>${label}</span><b>${val}${unit}</b></div>` : '';
   const picker = $('itemPicker');
   picker.hidden = false;
   document.body.classList.add('picker-open');
@@ -152,17 +207,38 @@ function openCommunityBuild(level) {
       <button class="picker-close" id="pickerClose">esc</button>
     </div>
     <div class="cb-body">
+      <button class="cb-load" id="cbLoad">Load this build into the creator</button>
       <div class="cb-stats">
-        ${stat('Health', s.health)}${stat('Damage', s.damage, '%')}${stat('Resist', s.resist, '%')}
-        ${stat('Critical', s.critical)}${stat('Power Pip', s.powerPip, '%')}${stat('Shadow Pip', s.shadowPip)}
+        ${cell('Health', totals.maxHealth || 0)}
+        ${cell(`${sf} dmg`, `${totals.damage[sf] || 0}%`)}
+        ${cell(`${sf} resist`, `${totals.resist[sf] || 0}%`)}
+        ${cell(`${sf} crit`, totals.critical[sf] || 0)}
+        ${cell(`${sf} pierce`, `${totals.pierce[sf] || 0}%`)}
+        ${cell('Power pip', `${totals.powerPipChance || 0}%`)}
       </div>
       <p class="cb-section">Gear</p>
       <div class="cb-gear">${gearRows}</div>
       <p class="cb-section">Pet talents</p>
       <div class="cb-talents">${talents}</div>
-      <p class="cb-note">From ${esc(state.presets.source.author)}'s <a href="${esc(state.presets.source.url)}" target="_blank" rel="noopener">${esc(state.presets.source.title)}</a>. Gear names are from the source; this is a reference loadout.</p>
+      <p class="cb-note">From ${esc(state.presets.source.author)}'s <a href="${esc(state.presets.source.url)}" target="_blank" rel="noopener">${esc(state.presets.source.title)}</a>. Item stats via WizBuilder.</p>
     </div>`;
   $('pickerClose').addEventListener('click', closePicker);
+  $('cbLoad').addEventListener('click', () => loadCommunityBuild(b));
+}
+
+function petTalentByName(name) {
+  const norm = (s) => s.toLowerCase().replace(/[^a-z]/g, '');
+  return PET_TALENTS.find((t) => norm(t.name).startsWith(norm(name))) || null;
+}
+
+function loadCommunityBuild(b) {
+  state.equipped = buildItems(b);
+  state.petTalents = (b.talents || []).map((t) => petTalentByName(t)).filter(Boolean).map((t) => t.id).slice(0, 5);
+  state.level = b.level;
+  closePicker();
+  $('buildLevel').value = state.level; $('buildLevelVal').textContent = state.level;
+  rerender();
+  syncUrl();
 }
 
 function renderSheet() {
@@ -284,7 +360,7 @@ function renderPickerList(items) {
     const chip = (v, suf, lab) => v ? `<span class="d-chip ${v > 0 ? 'up' : 'down'}">${fmt(v)}${suf} ${lab}</span>` : '';
     return `<button class="pick-row ${state.equipped[slot]?.slug === it.slug ? 'equipped' : ''}" data-pick="${esc(it.slug)}">
       <span class="pick-main">
-        <span class="pick-name">${esc(it.name)}</span>
+        <span class="pick-name">${esc(it.name)}${it.meta?`<span class="pick-meta">meta</span>`:``}</span>
         <span class="pick-sub">Lvl ${it.level}${it.school !== 'Any' ? ' · ' + esc(it.school) : ''}</span>
       </span>
       <span class="pick-deltas">${chip(dmg, '%', 'dmg')}${chip(res, '%', 'res')}${chip(crit, '', 'crit')}${chip(pierce, '%', 'pierce')}</span>
