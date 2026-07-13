@@ -1,12 +1,13 @@
 // Pets catalog — browse every first-generation pet with art, base stats, and talent pools.
 import { SCHOOL_COLORS, esc, schoolIcon } from './display.js';
+import { renderHatchTracker } from './hatches.js';
 
 const $ = (id) => document.getElementById(id);
 const SCHOOLS = ['Fire', 'Ice', 'Storm', 'Myth', 'Life', 'Death', 'Balance'];
 const STAT_KEYS = [['strength', 'Strength'], ['intellect', 'Intellect'], ['agility', 'Agility'], ['will', 'Will'], ['power', 'Power']];
 const STAT_MAX = 260;
 
-const pstate = { loaded: false, list: [], school: '', q: '', sort: 'name', limit: 60 };
+const pstate = { loaded: false, list: [], school: '', q: '', sort: 'name', limit: 60, view: 'catalog' };
 
 // Pet thumbnails are served same-origin from Vercel (see .vercelignore), not jsDelivr.
 const petImg = (p) => `/img/pets/${p.slug}.webp`;
@@ -44,20 +45,15 @@ function results() {
   return list;
 }
 
-function render() {
-  const body = $('petsBody');
+function renderCatalog() {
+  const body = $('petsContent');
   const list = results();
   const shown = list.slice(0, pstate.limit);
   const schoolChips = ['', ...SCHOOLS].map((s) =>
     `<button class="g-schip ${pstate.school === s ? 'on' : ''}" data-school="${s}" ${s ? `style="--sc:${SCHOOL_COLORS[s]}"` : ''}>${s || 'All'}</button>`).join('');
 
   body.innerHTML = `
-    <div class="pets-hero">
-      <div>
-        <h1 class="gallery-title">Pets</h1>
-        <p class="gallery-lede">Every first-generation pet — art, base stats, and the talents &amp; derby abilities it can pass on.</p>
-      </div>
-    </div>
+    <p class="gallery-lede pets-lede">Every first-generation pet — art, base stats, and the talents &amp; derby abilities it can pass on.</p>
     <div class="pets-controls">
       <input id="petSearch" class="pets-search" placeholder="Search pets or talents…" autocomplete="off" value="${esc(pstate.q)}">
       <select id="petSort" class="pets-sort">
@@ -72,10 +68,10 @@ function render() {
     <div class="gallery-detail" id="petDetail" hidden></div>`;
 
   const s = $('petSearch');
-  s.addEventListener('input', () => { pstate.q = s.value; pstate.limit = 60; const pos = s.selectionStart; render(); const n = $('petSearch'); n.focus(); n.setSelectionRange(pos, pos); });
-  $('petSort').addEventListener('change', (e) => { pstate.sort = e.target.value; render(); });
-  body.querySelectorAll('.g-schip').forEach((b) => b.addEventListener('click', () => { pstate.school = b.dataset.school; pstate.limit = 60; render(); }));
-  $('petMore')?.addEventListener('click', () => { pstate.limit += 120; render(); });
+  s.addEventListener('input', () => { pstate.q = s.value; pstate.limit = 60; const pos = s.selectionStart; renderCatalog(); const n = $('petSearch'); n.focus(); n.setSelectionRange(pos, pos); });
+  $('petSort').addEventListener('change', (e) => { pstate.sort = e.target.value; renderCatalog(); });
+  body.querySelectorAll('.g-schip').forEach((b) => b.addEventListener('click', () => { pstate.school = b.dataset.school; pstate.limit = 60; renderCatalog(); }));
+  $('petMore')?.addEventListener('click', () => { pstate.limit += 120; renderCatalog(); });
   body.querySelectorAll('.petcard').forEach((b) => b.addEventListener('click', () => openDetail(b.dataset.slug)));
 }
 
@@ -132,5 +128,14 @@ export async function renderPets() {
     catch { pstate.list = []; }
     pstate.loaded = true;
   }
-  render();
+  const tab = (id, label) => `<button class="g-tab ${pstate.view === id ? 'on' : ''}" data-pv="${id}">${label}</button>`;
+  body.innerHTML = `<div class="pets-tabs">${tab('catalog', 'Catalog')}${tab('hatch', 'Hatch Tracker')}</div>
+    <div id="petsContent"></div>`;
+  body.querySelectorAll('[data-pv]').forEach((b) => b.addEventListener('click', () => {
+    if (pstate.view === b.dataset.pv) return;
+    pstate.view = b.dataset.pv;
+    renderPets();
+  }));
+  if (pstate.view === 'hatch') renderHatchTracker($('petsContent'), pstate.list);
+  else renderCatalog();
 }
