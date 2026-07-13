@@ -1020,3 +1020,5 @@ a.ally-pill:hover { border-color: rgba(139, 123, 247, 0.5); text-decoration: non
 .topbar-build:hover { color: var(--ink); border-color: var(--accent); background: var(--card-hover); text-decoration: none; }
 .topbar-build svg { width: 15px; height: 15px; color: var(--accent-bright); }
 @media (max-width: 640px) { .topbar-build span { display: none; } .corner-link { padding: 0.35rem 0.7rem; } }
+.cb-suggested { font-size: 0.58rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--gold);
+  border: 1px solid color-mix(in srgb, var(--gold) 40%, transparent); border-radius: 4px; padding: 0 0.28rem; margin-left: 0.4rem; }

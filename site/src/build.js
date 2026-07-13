@@ -202,10 +202,12 @@ function openCommunityBuild(level) {
     const it = items[slot];
     if (!it) return `<div class="cb-slot"><span class="cb-slot-tag">${SLOT_LABEL[slot]}</span><span class="cb-item empty">— not saved in source</span></div>`;
     const desc = describeStats(it.stats, { max: 6 }).map((d) => `<span class="cb-mini">${esc(d)}</span>`).join('');
+    const tag = it.suggested ? '<span class="cb-suggested" title="Not in the source build — our best-in-slot suggestion">suggested</span>' : '';
     return `<div class="cb-slot col"><div class="cb-slot-top"><span class="cb-slot-tag">${SLOT_LABEL[slot]}</span>
-      <span class="cb-item">${esc(it.name)} <b>Lvl ${it.level}</b></span></div>
+      <span class="cb-item">${esc(it.name)} <b>Lvl ${it.level}</b>${tag}</span></div>
       <div class="cb-mini-row">${desc}</div></div>`;
   }).join('');
+  const anySuggested = Object.values(items).some((it) => it.suggested);
   const picker = $('itemPicker');
   picker.hidden = false;
   document.body.classList.add('picker-open');
@@ -225,7 +227,7 @@ function openCommunityBuild(level) {
       </div>
       <p class="cb-section">Gear</p>
       <div class="cb-gear">${gearRows}</div>
-      <p class="cb-note">From ${esc(state.presets.source.author)}'s <a href="${esc(state.presets.source.url)}" target="_blank" rel="noopener">${esc(state.presets.source.title)}</a>. Item stats via WizBuilder. Pick your own pet talents after loading.</p>
+      <p class="cb-note">From ${esc(state.presets.source.author)}'s <a href="${esc(state.presets.source.url)}" target="_blank" rel="noopener">${esc(state.presets.source.title)}</a>. Item stats via WizBuilder.${anySuggested ? ' Slots the source left blank are filled with a best-in-slot suggestion (marked).' : ''} Pick your own pet talents after loading.</p>
     </div>`;
   $('pickerClose').addEventListener('click', closePicker);
   $('cbLoad').addEventListener('click', () => loadCommunityBuild(b));
