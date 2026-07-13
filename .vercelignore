@@ -1,3 +1,7 @@
-# Portraits are served from jsDelivr (GitHub-backed) — keep them out of the
-# Vercel deploy so the upload stays small and fast. See IMG_BASE in site/src/app.js.
-site/img/
+# Boss portraits (~215M), their thumbs, and school icons are served from jsDelivr
+# (GitHub-backed) so the Vercel deploy stays small. See IMG_BASE in site/src/app.js.
+# Pet thumbnails (~8.6M) ARE deployed to Vercel and served same-origin: jsDelivr
+# cold-fetches 1k+ brand-new files very slowly, so we serve them directly.
+site/img/*.png
+site/img/thumb/
+site/img/schools/

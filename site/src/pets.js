@@ -1,5 +1,5 @@
 // Pets catalog — browse every first-generation pet with art, base stats, and talent pools.
-import { IMG_BASE, SCHOOL_COLORS, esc, schoolIcon } from './display.js';
+import { SCHOOL_COLORS, esc, schoolIcon } from './display.js';
 
 const $ = (id) => document.getElementById(id);
 const SCHOOLS = ['Fire', 'Ice', 'Storm', 'Myth', 'Life', 'Death', 'Balance'];
@@ -8,7 +8,8 @@ const STAT_MAX = 260;
 
 const pstate = { loaded: false, list: [], school: '', q: '', sort: 'name', limit: 60 };
 
-const petImg = (p) => `${IMG_BASE}/pets/${p.slug}.webp`;
+// Pet thumbnails are served same-origin from Vercel (see .vercelignore), not jsDelivr.
+const petImg = (p) => `/img/pets/${p.slug}.webp`;
 
 function crest(school) {
   const c = SCHOOL_COLORS[school] || 'var(--accent)';
