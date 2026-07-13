@@ -166,7 +166,7 @@ function openCommunityBuild(level) {
   const cell = (label, val) => `<div class="cb-stat"><span>${label}</span><b>${val}</b></div>`;
   const gearRows = Object.keys(SLOT_LABEL).map((slot) => {
     const it = items[slot];
-    if (!it) return `<div class="cb-slot"><span class="cb-slot-tag">${SLOT_LABEL[slot]}</span><span class="cb-item empty">— not saved in source</span></div>`;
+    if (!it) return `<div class="cb-slot"><span class="cb-slot-tag">${SLOT_LABEL[slot]}</span><span class="cb-item empty">— no ${slot} at this level</span></div>`;
     const desc = describeStats(it.stats, { max: 6 }).map((d) => `<span class="cb-mini">${esc(d)}</span>`).join('');
     const tag = it.suggested ? '<span class="cb-suggested" title="Not in the source build — our best-in-slot suggestion">suggested</span>' : '';
     return `<div class="cb-slot col"><div class="cb-slot-top"><span class="cb-slot-tag">${SLOT_LABEL[slot]}</span>
