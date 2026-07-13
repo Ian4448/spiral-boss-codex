@@ -8,6 +8,7 @@ import html
 import json
 import re
 from pathlib import Path
+from urllib.parse import unquote
 
 RAW = Path("data/raw_pets")
 OUT = Path("site/data/pets/pets.json")
@@ -59,7 +60,7 @@ def parse_abilities(s):
                 am = re.search(r'class="ability-image"[^>]*src="[^"]*%28(Talent|Derby)%29_', cell)
             nm = re.search(r'href="/wiki/PetAbility:([^"?#]+)"', cell)
             if am and nm:
-                name = html.unescape(nm.group(1).replace("_", " "))
+                name = html.unescape(unquote(nm.group(1)).replace("_", " "))
                 if name in RARITIES:
                     continue
                 (talents if am.group(1) == "Talent" else derby).append(name)
