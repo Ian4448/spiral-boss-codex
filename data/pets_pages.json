@@ -1,0 +1,4710 @@
+[
+ {
+  "title": "Pet:Aardwolf_Ghost",
+  "slug": "Aardwolf_Ghost"
+ },
+ {
+  "title": "Pet:Able_Racoon",
+  "slug": "Able_Racoon"
+ },
+ {
+  "title": "Pet:Adventurous_Racoon",
+  "slug": "Adventurous_Racoon"
+ },
+ {
+  "title": "Pet:Afflicted_Treant",
+  "slug": "Afflicted_Treant"
+ },
+ {
+  "title": "Pet:Alert_Hound",
+  "slug": "Alert_Hound"
+ },
+ {
+  "title": "Pet:Alien_Piggle",
+  "slug": "Alien_Piggle"
+ },
+ {
+  "title": "Pet:Amaranthine_Hound",
+  "slug": "Amaranthine_Hound"
+ },
+ {
+  "title": "Pet:Amber_Shenlong_Dragon",
+  "slug": "Amber_Shenlong_Dragon"
+ },
+ {
+  "title": "Pet:Amethyst_Hound",
+  "slug": "Amethyst_Hound"
+ },
+ {
+  "title": "Pet:Apophis'_Scarab",
+  "slug": "Apophis'_Scarab"
+ },
+ {
+  "title": "Pet:Aqua_Dragon",
+  "slug": "Aqua_Dragon"
+ },
+ {
+  "title": "Pet:Arcane_Helpers",
+  "slug": "Arcane_Helpers"
+ },
+ {
+  "title": "Pet:Arctic_Cat",
+  "slug": "Arctic_Cat"
+ },
+ {
+  "title": "Pet:Arctic_Elf",
+  "slug": "Arctic_Elf"
+ },
+ {
+  "title": "Pet:Arctic_Ninja_Pig",
+  "slug": "Arctic_Ninja_Pig"
+ },
+ {
+  "title": "Pet:Arctic_Octopus",
+  "slug": "Arctic_Octopus"
+ },
+ {
+  "title": "Pet:Arctic_Serpent",
+  "slug": "Arctic_Serpent"
+ },
+ {
+  "title": "Pet:Armor_Dragon",
+  "slug": "Armor_Dragon"
+ },
+ {
+  "title": "Pet:Armordillo",
+  "slug": "Armordillo"
+ },
+ {
+  "title": "Pet:Armored_Skeleton",
+  "slug": "Armored_Skeleton"
+ },
+ {
+  "title": "Pet:Asagi_Koi",
+  "slug": "Asagi_Koi"
+ },
+ {
+  "title": "Pet:Ash_Quetzal",
+  "slug": "Ash_Quetzal"
+ },
+ {
+  "title": "Pet:Ash_Spider",
+  "slug": "Ash_Spider"
+ },
+ {
+  "title": "Pet:Assailing_Dragon",
+  "slug": "Assailing_Dragon"
+ },
+ {
+  "title": "Pet:Astromancer's_Rat",
+  "slug": "Astromancer's_Rat"
+ },
+ {
+  "title": "Pet:Attentive_Hound",
+  "slug": "Attentive_Hound"
+ },
+ {
+  "title": "Pet:Auspicious_Dragon",
+  "slug": "Auspicious_Dragon"
+ },
+ {
+  "title": "Pet:Auspicious_Horse",
+  "slug": "Auspicious_Horse"
+ },
+ {
+  "title": "Pet:Auspicious_Lantern",
+  "slug": "Auspicious_Lantern"
+ },
+ {
+  "title": "Pet:Auspicious_Ox",
+  "slug": "Auspicious_Ox"
+ },
+ {
+  "title": "Pet:Auspicious_Rabbit",
+  "slug": "Auspicious_Rabbit"
+ },
+ {
+  "title": "Pet:Auspicious_Snake",
+  "slug": "Auspicious_Snake"
+ },
+ {
+  "title": "Pet:Auspicious_Tiger",
+  "slug": "Auspicious_Tiger"
+ },
+ {
+  "title": "Pet:Autumnal_Treant",
+  "slug": "Autumnal_Treant"
+ },
+ {
+  "title": "Pet:Avenging_Fossil",
+  "slug": "Avenging_Fossil"
+ },
+ {
+  "title": "Pet:Azure_Dragon",
+  "slug": "Azure_Dragon"
+ },
+ {
+  "title": "Pet:Baba_Yaga's_Egg",
+  "slug": "Baba_Yaga's_Egg"
+ },
+ {
+  "title": "Pet:Babydactyl",
+  "slug": "Babydactyl"
+ },
+ {
+  "title": "Pet:Balance-ish_Frog",
+  "slug": "Balance-ish_Frog"
+ },
+ {
+  "title": "Pet:Balance_Armaments",
+  "slug": "Balance_Armaments"
+ },
+ {
+  "title": "Pet:Balance_Class_Pet",
+  "slug": "Balance_Class_Pet"
+ },
+ {
+  "title": "Pet:Balance_Hamster",
+  "slug": "Balance_Hamster"
+ },
+ {
+  "title": "Pet:Balance_Potbelly",
+  "slug": "Balance_Potbelly"
+ },
+ {
+  "title": "Pet:Balance_Wartle",
+  "slug": "Balance_Wartle"
+ },
+ {
+  "title": "Pet:Balanced_Glowbug",
+  "slug": "Balanced_Glowbug"
+ },
+ {
+  "title": "Pet:Banana_Spider",
+  "slug": "Banana_Spider"
+ },
+ {
+  "title": "Pet:Bardic_Elf",
+  "slug": "Bardic_Elf"
+ },
+ {
+  "title": "Pet:Barkerville_Hound",
+  "slug": "Barkerville_Hound"
+ },
+ {
+  "title": "Pet:Basilisk",
+  "slug": "Basilisk"
+ },
+ {
+  "title": "Pet:Battle_Cherub",
+  "slug": "Battle_Cherub"
+ },
+ {
+  "title": "Pet:Battle_Pig",
+  "slug": "Battle_Pig"
+ },
+ {
+  "title": "Pet:Beastling",
+  "slug": "Beastling"
+ },
+ {
+  "title": "Pet:Beastmaster's_Eagle",
+  "slug": "Beastmaster's_Eagle"
+ },
+ {
+  "title": "Pet:Beau_Frog",
+  "slug": "Beau_Frog"
+ },
+ {
+  "title": "Pet:Beguiled_Gargoyle",
+  "slug": "Beguiled_Gargoyle"
+ },
+ {
+  "title": "Pet:Bekko_Koi",
+  "slug": "Bekko_Koi"
+ },
+ {
+  "title": "Pet:Betta_Fish",
+  "slug": "Betta_Fish"
+ },
+ {
+  "title": "Pet:Big_Chill",
+  "slug": "Big_Chill"
+ },
+ {
+  "title": "Pet:Big_Strong_Gnome",
+  "slug": "Big_Strong_Gnome"
+ },
+ {
+  "title": "Pet:Bitter_Draconian",
+  "slug": "Bitter_Draconian"
+ },
+ {
+  "title": "Pet:Black_Cat",
+  "slug": "Black_Cat"
+ },
+ {
+  "title": "Pet:Black_Spider",
+  "slug": "Black_Spider"
+ },
+ {
+  "title": "Pet:Blast_Colossus",
+  "slug": "Blast_Colossus"
+ },
+ {
+  "title": "Pet:Blaze_Beast",
+  "slug": "Blaze_Beast"
+ },
+ {
+  "title": "Pet:Blaze_Fox",
+  "slug": "Blaze_Fox"
+ },
+ {
+  "title": "Pet:Blazezilla",
+  "slug": "Blazezilla"
+ },
+ {
+  "title": "Pet:Blazing_Octopus",
+  "slug": "Blazing_Octopus"
+ },
+ {
+  "title": "Pet:Blighted_Treant",
+  "slug": "Blighted_Treant"
+ },
+ {
+  "title": "Pet:Blimp_Ally",
+  "slug": "Blimp_Ally"
+ },
+ {
+  "title": "Pet:Blimp_Buddy",
+  "slug": "Blimp_Buddy"
+ },
+ {
+  "title": "Pet:Blimp_Companion",
+  "slug": "Blimp_Companion"
+ },
+ {
+  "title": "Pet:Blimp_Pal",
+  "slug": "Blimp_Pal"
+ },
+ {
+  "title": "Pet:Blizzard_Bovine",
+  "slug": "Blizzard_Bovine"
+ },
+ {
+  "title": "Pet:Blizzard_Cat",
+  "slug": "Blizzard_Cat"
+ },
+ {
+  "title": "Pet:Blizzard_Elf",
+  "slug": "Blizzard_Elf"
+ },
+ {
+  "title": "Pet:Blizzard_Eye",
+  "slug": "Blizzard_Eye"
+ },
+ {
+  "title": "Pet:Blood_Hound",
+  "slug": "Blood_Hound"
+ },
+ {
+  "title": "Pet:Bloodbat",
+  "slug": "Bloodbat"
+ },
+ {
+  "title": "Pet:Bloodwing",
+  "slug": "Bloodwing"
+ },
+ {
+  "title": "Pet:Blossom_Pixie",
+  "slug": "Blossom_Pixie"
+ },
+ {
+  "title": "Pet:Blue_Banshee",
+  "slug": "Blue_Banshee"
+ },
+ {
+  "title": "Pet:Blue_Cat_Thug",
+  "slug": "Blue_Cat_Thug"
+ },
+ {
+  "title": "Pet:Blue_Cyclops",
+  "slug": "Blue_Cyclops"
+ },
+ {
+  "title": "Pet:Blue_Dragon",
+  "slug": "Blue_Dragon"
+ },
+ {
+  "title": "Pet:Blue_Ghost",
+  "slug": "Blue_Ghost"
+ },
+ {
+  "title": "Pet:Blue_Globulin",
+  "slug": "Blue_Globulin"
+ },
+ {
+  "title": "Pet:Blue_Parakeet",
+  "slug": "Blue_Parakeet"
+ },
+ {
+  "title": "Pet:Blue_Spider",
+  "slug": "Blue_Spider"
+ },
+ {
+  "title": "Pet:Blustering_Scamp",
+  "slug": "Blustering_Scamp"
+ },
+ {
+  "title": "Pet:Boar_Knight",
+  "slug": "Boar_Knight"
+ },
+ {
+  "title": "Pet:Bold_Dragon",
+  "slug": "Bold_Dragon"
+ },
+ {
+  "title": "Pet:Bolt_Colossus",
+  "slug": "Bolt_Colossus"
+ },
+ {
+  "title": "Pet:Bolt_Demon",
+  "slug": "Bolt_Demon"
+ },
+ {
+  "title": "Pet:Bone_Dragon",
+  "slug": "Bone_Dragon"
+ },
+ {
+  "title": "Pet:Bonechiller",
+  "slug": "Bonechiller"
+ },
+ {
+  "title": "Pet:Booloon",
+  "slug": "Booloon"
+ },
+ {
+  "title": "Pet:Borealis_Golem",
+  "slug": "Borealis_Golem"
+ },
+ {
+  "title": "Pet:Boss_Banshee",
+  "slug": "Boss_Banshee"
+ },
+ {
+  "title": "Pet:Boundless_Knight",
+  "slug": "Boundless_Knight"
+ },
+ {
+  "title": "Pet:Brainy_Assistant",
+  "slug": "Brainy_Assistant"
+ },
+ {
+  "title": "Pet:Brass_Golem",
+  "slug": "Brass_Golem"
+ },
+ {
+  "title": "Pet:Brave_Hound",
+  "slug": "Brave_Hound"
+ },
+ {
+  "title": "Pet:Brave_Piggle",
+  "slug": "Brave_Piggle"
+ },
+ {
+  "title": "Pet:Bright_Starry",
+  "slug": "Bright_Starry"
+ },
+ {
+  "title": "Pet:Bronze_Golem",
+  "slug": "Bronze_Golem"
+ },
+ {
+  "title": "Pet:Bronze_Helephant",
+  "slug": "Bronze_Helephant"
+ },
+ {
+  "title": "Pet:Brother_Cheesiwitz",
+  "slug": "Brother_Cheesiwitz"
+ },
+ {
+  "title": "Pet:Brown_Rat_Magician",
+  "slug": "Brown_Rat_Magician"
+ },
+ {
+  "title": "Pet:Brown_Recluse_Spider",
+  "slug": "Brown_Recluse_Spider"
+ },
+ {
+  "title": "Pet:Brown_Spider",
+  "slug": "Brown_Spider"
+ },
+ {
+  "title": "Pet:Brutal_Snowblin",
+  "slug": "Brutal_Snowblin"
+ },
+ {
+  "title": "Pet:Brute_Piggle",
+  "slug": "Brute_Piggle"
+ },
+ {
+  "title": "Pet:Buddy_Bot",
+  "slug": "Buddy_Bot"
+ },
+ {
+  "title": "Pet:Buddy_Dragon",
+  "slug": "Buddy_Dragon"
+ },
+ {
+  "title": "Pet:Bumble_Bee",
+  "slug": "Bumble_Bee"
+ },
+ {
+  "title": "Pet:Bunny_Mallow",
+  "slug": "Bunny_Mallow"
+ },
+ {
+  "title": "Pet:Burlap_Boy",
+  "slug": "Burlap_Boy"
+ },
+ {
+  "title": "Pet:Burning_Pixie",
+  "slug": "Burning_Pixie"
+ },
+ {
+  "title": "Pet:Burnotaur",
+  "slug": "Burnotaur"
+ },
+ {
+  "title": "Pet:Burnzilla",
+  "slug": "Burnzilla"
+ },
+ {
+  "title": "Pet:Calixco_Kitten",
+  "slug": "Calixco_Kitten"
+ },
+ {
+  "title": "Pet:Careful_Hound",
+  "slug": "Careful_Hound"
+ },
+ {
+  "title": "Pet:Carnation_Pixie",
+  "slug": "Carnation_Pixie"
+ },
+ {
+  "title": "Pet:Carnival_Elf",
+  "slug": "Carnival_Elf"
+ },
+ {
+  "title": "Pet:Carnivore_Flytrap",
+  "slug": "Carnivore_Flytrap"
+ },
+ {
+  "title": "Pet:Cat_Thug",
+  "slug": "Cat_Thug"
+ },
+ {
+  "title": "Pet:Catersquall",
+  "slug": "Catersquall"
+ },
+ {
+  "title": "Pet:Cautious_Hound",
+  "slug": "Cautious_Hound"
+ },
+ {
+  "title": "Pet:Cave_Chameleon",
+  "slug": "Cave_Chameleon"
+ },
+ {
+  "title": "Pet:Cemetary_Fairy",
+  "slug": "Cemetary_Fairy"
+ },
+ {
+  "title": "Pet:Cerise_Pixie",
+  "slug": "Cerise_Pixie"
+ },
+ {
+  "title": "Pet:Cerulean_Dragon",
+  "slug": "Cerulean_Dragon"
+ },
+ {
+  "title": "Pet:Chameleon",
+  "slug": "Chameleon"
+ },
+ {
+  "title": "Pet:Charming_Minstrel",
+  "slug": "Charming_Minstrel"
+ },
+ {
+  "title": "Pet:Charming_Rabbits",
+  "slug": "Charming_Rabbits"
+ },
+ {
+  "title": "Pet:Charming_Starry",
+  "slug": "Charming_Starry"
+ },
+ {
+  "title": "Pet:Charred_Dragon",
+  "slug": "Charred_Dragon"
+ },
+ {
+  "title": "Pet:Charred_Grimhorn",
+  "slug": "Charred_Grimhorn"
+ },
+ {
+  "title": "Pet:Charred_Ninja",
+  "slug": "Charred_Ninja"
+ },
+ {
+  "title": "Pet:Charrlossus",
+  "slug": "Charrlossus"
+ },
+ {
+  "title": "Pet:Cheery_Piggle",
+  "slug": "Cheery_Piggle"
+ },
+ {
+  "title": "Pet:Cheetah_Kit-10",
+  "slug": "Cheetah_Kit-10"
+ },
+ {
+  "title": "Pet:Cheetah_Piggle",
+  "slug": "Cheetah_Piggle"
+ },
+ {
+  "title": "Pet:Chico_Flamenco",
+  "slug": "Chico_Flamenco"
+ },
+ {
+  "title": "Pet:Chieftain's_Owl",
+  "slug": "Chieftain's_Owl"
+ },
+ {
+  "title": "Pet:Chill_Krokomummy",
+  "slug": "Chill_Krokomummy"
+ },
+ {
+  "title": "Pet:Chillfang_Draconian",
+  "slug": "Chillfang_Draconian"
+ },
+ {
+  "title": "Pet:Chilling_Shark",
+  "slug": "Chilling_Shark"
+ },
+ {
+  "title": "Pet:Chimera",
+  "slug": "Chimera"
+ },
+ {
+  "title": "Pet:Chipmunk_Conductor",
+  "slug": "Chipmunk_Conductor"
+ },
+ {
+  "title": "Pet:Choco_Hoppos",
+  "slug": "Choco_Hoppos"
+ },
+ {
+  "title": "Pet:Chocostein's_Monster",
+  "slug": "Chocostein's_Monster"
+ },
+ {
+  "title": "Pet:Christmas_Elf",
+  "slug": "Christmas_Elf"
+ },
+ {
+  "title": "Pet:Cinder_Serpent",
+  "slug": "Cinder_Serpent"
+ },
+ {
+  "title": "Pet:Clever_Cogs",
+  "slug": "Clever_Cogs"
+ },
+ {
+  "title": "Pet:Clockshund",
+  "slug": "Clockshund"
+ },
+ {
+  "title": "Pet:Clockwork_Golem",
+  "slug": "Clockwork_Golem"
+ },
+ {
+  "title": "Pet:Clockwork_Paladin",
+  "slug": "Clockwork_Paladin"
+ },
+ {
+  "title": "Pet:Cloud_Colossus",
+  "slug": "Cloud_Colossus"
+ },
+ {
+  "title": "Pet:Cloud_Demon",
+  "slug": "Cloud_Demon"
+ },
+ {
+  "title": "Pet:Coal_Colossus",
+  "slug": "Coal_Colossus"
+ },
+ {
+  "title": "Pet:Coldfire_Dragon",
+  "slug": "Coldfire_Dragon"
+ },
+ {
+  "title": "Pet:Coldhearted_Ninja",
+  "slug": "Coldhearted_Ninja"
+ },
+ {
+  "title": "Pet:Colossalanche",
+  "slug": "Colossalanche"
+ },
+ {
+  "title": "Pet:Colossus_of_Ages",
+  "slug": "Colossus_of_Ages"
+ },
+ {
+  "title": "Pet:Cool_Corgi",
+  "slug": "Cool_Corgi"
+ },
+ {
+  "title": "Pet:Cool_Krok",
+  "slug": "Cool_Krok"
+ },
+ {
+  "title": "Pet:Copper_Colossus",
+  "slug": "Copper_Colossus"
+ },
+ {
+  "title": "Pet:CopyCake",
+  "slug": "CopyCake"
+ },
+ {
+  "title": "Pet:Cosmographer's_Rat",
+  "slug": "Cosmographer's_Rat"
+ },
+ {
+  "title": "Pet:Courageous_Bull",
+  "slug": "Courageous_Bull"
+ },
+ {
+  "title": "Pet:Cowmera",
+  "slug": "Cowmera"
+ },
+ {
+  "title": "Pet:Crabling",
+  "slug": "Crabling"
+ },
+ {
+  "title": "Pet:Crackling_Draconian",
+  "slug": "Crackling_Draconian"
+ },
+ {
+  "title": "Pet:Creepy_Doll",
+  "slug": "Creepy_Doll"
+ },
+ {
+  "title": "Pet:Crimson_Spectre",
+  "slug": "Crimson_Spectre"
+ },
+ {
+  "title": "Pet:Crimsonzilla",
+  "slug": "Crimsonzilla"
+ },
+ {
+  "title": "Pet:Crispy_Ninja_Pig",
+  "slug": "Crispy_Ninja_Pig"
+ },
+ {
+  "title": "Pet:Cryo_Elf",
+  "slug": "Cryo_Elf"
+ },
+ {
+  "title": "Pet:Cryptclops",
+  "slug": "Cryptclops"
+ },
+ {
+  "title": "Pet:Crystal_Butterfly",
+  "slug": "Crystal_Butterfly"
+ },
+ {
+  "title": "Pet:Crystal_Dragon",
+  "slug": "Crystal_Dragon"
+ },
+ {
+  "title": "Pet:Crystal_Spider",
+  "slug": "Crystal_Spider"
+ },
+ {
+  "title": "Pet:Cuddly_Capybara",
+  "slug": "Cuddly_Capybara"
+ },
+ {
+  "title": "Pet:Cullossus",
+  "slug": "Cullossus"
+ },
+ {
+  "title": "Pet:Cunning_Seal_Pup",
+  "slug": "Cunning_Seal_Pup"
+ },
+ {
+  "title": "Pet:Cupig",
+  "slug": "Cupig"
+ },
+ {
+  "title": "Pet:Cutesy_Starry",
+  "slug": "Cutesy_Starry"
+ },
+ {
+  "title": "Pet:Cyclops",
+  "slug": "Cyclops"
+ },
+ {
+  "title": "Pet:Daisy_Lumi_(Ice)",
+  "slug": "Daisy_Lumi_(Ice)"
+ },
+ {
+  "title": "Pet:Daisy_Lumi_(Myth)",
+  "slug": "Daisy_Lumi_(Myth)"
+ },
+ {
+  "title": "Pet:Damp_Demon",
+  "slug": "Damp_Demon"
+ },
+ {
+  "title": "Pet:Danger_Hound",
+  "slug": "Danger_Hound"
+ },
+ {
+  "title": "Pet:Dapper_Corgi",
+  "slug": "Dapper_Corgi"
+ },
+ {
+  "title": "Pet:Daring_Dragon",
+  "slug": "Daring_Dragon"
+ },
+ {
+  "title": "Pet:Dark_Crow",
+  "slug": "Dark_Crow"
+ },
+ {
+  "title": "Pet:Dark_Hound",
+  "slug": "Dark_Hound"
+ },
+ {
+  "title": "Pet:Dark_Imp",
+  "slug": "Dark_Imp"
+ },
+ {
+  "title": "Pet:Dark_Scaryonette",
+  "slug": "Dark_Scaryonette"
+ },
+ {
+  "title": "Pet:Dark_Sprite",
+  "slug": "Dark_Sprite"
+ },
+ {
+  "title": "Pet:Dark_Worm_Larva",
+  "slug": "Dark_Worm_Larva"
+ },
+ {
+  "title": "Pet:Darkwalker",
+  "slug": "Darkwalker"
+ },
+ {
+  "title": "Pet:Dastardly_Magician",
+  "slug": "Dastardly_Magician"
+ },
+ {
+  "title": "Pet:Dazzlefeather",
+  "slug": "Dazzlefeather"
+ },
+ {
+  "title": "Pet:Deadly_Null_Dragon",
+  "slug": "Deadly_Null_Dragon"
+ },
+ {
+  "title": "Pet:Deadroot_Treant",
+  "slug": "Deadroot_Treant"
+ },
+ {
+  "title": "Pet:Death-ish_Frog",
+  "slug": "Death-ish_Frog"
+ },
+ {
+  "title": "Pet:Death_Armaments",
+  "slug": "Death_Armaments"
+ },
+ {
+  "title": "Pet:Death_Class_Pet_72",
+  "slug": "Death_Class_Pet_72"
+ },
+ {
+  "title": "Pet:Death_Class_Pet_73",
+  "slug": "Death_Class_Pet_73"
+ },
+ {
+  "title": "Pet:Death_Cyclops",
+  "slug": "Death_Cyclops"
+ },
+ {
+  "title": "Pet:Death_Gazer",
+  "slug": "Death_Gazer"
+ },
+ {
+  "title": "Pet:Death_Leprechaun",
+  "slug": "Death_Leprechaun"
+ },
+ {
+  "title": "Pet:Death_Ninja",
+  "slug": "Death_Ninja"
+ },
+ {
+  "title": "Pet:Death_Potbelly",
+  "slug": "Death_Potbelly"
+ },
+ {
+  "title": "Pet:Death_Scarab",
+  "slug": "Death_Scarab"
+ },
+ {
+  "title": "Pet:Death_Treant",
+  "slug": "Death_Treant"
+ },
+ {
+  "title": "Pet:Death_Troll",
+  "slug": "Death_Troll"
+ },
+ {
+  "title": "Pet:Death_Wartle",
+  "slug": "Death_Wartle"
+ },
+ {
+  "title": "Pet:Deathbat",
+  "slug": "Deathbat"
+ },
+ {
+  "title": "Pet:Deathly_Glowbug",
+  "slug": "Deathly_Glowbug"
+ },
+ {
+  "title": "Pet:Decade_Dragon",
+  "slug": "Decade_Dragon"
+ },
+ {
+  "title": "Pet:Decade_Firecat",
+  "slug": "Decade_Firecat"
+ },
+ {
+  "title": "Pet:Decade_Gargoyle",
+  "slug": "Decade_Gargoyle"
+ },
+ {
+  "title": "Pet:Decade_Piggle",
+  "slug": "Decade_Piggle"
+ },
+ {
+  "title": "Pet:Decennial_Dragon",
+  "slug": "Decennial_Dragon"
+ },
+ {
+  "title": "Pet:Deep_Leviathan",
+  "slug": "Deep_Leviathan"
+ },
+ {
+  "title": "Pet:Deer_Knight",
+  "slug": "Deer_Knight"
+ },
+ {
+  "title": "Pet:Defender_Dragon",
+  "slug": "Defender_Dragon"
+ },
+ {
+  "title": "Pet:Defender_Pig",
+  "slug": "Defender_Pig"
+ },
+ {
+  "title": "Pet:Desert_Beast",
+  "slug": "Desert_Beast"
+ },
+ {
+  "title": "Pet:Desert_Fairy",
+  "slug": "Desert_Fairy"
+ },
+ {
+  "title": "Pet:Desert_Hawk",
+  "slug": "Desert_Hawk"
+ },
+ {
+  "title": "Pet:Detective_Corgi",
+  "slug": "Detective_Corgi"
+ },
+ {
+  "title": "Pet:Detolli's_Dragon",
+  "slug": "Detolli's_Dragon"
+ },
+ {
+  "title": "Pet:Diecanthrope",
+  "slug": "Diecanthrope"
+ },
+ {
+  "title": "Pet:Dill_Piggle",
+  "slug": "Dill_Piggle"
+ },
+ {
+  "title": "Pet:Dire_Ghoul",
+  "slug": "Dire_Ghoul"
+ },
+ {
+  "title": "Pet:Dirt_Snowblin",
+  "slug": "Dirt_Snowblin"
+ },
+ {
+  "title": "Pet:Disco_Buffaloon",
+  "slug": "Disco_Buffaloon"
+ },
+ {
+  "title": "Pet:Diseased_Wildclaw",
+  "slug": "Diseased_Wildclaw"
+ },
+ {
+  "title": "Pet:Draconis_Mortalis",
+  "slug": "Draconis_Mortalis"
+ },
+ {
+  "title": "Pet:Dragon",
+  "slug": "Dragon"
+ },
+ {
+  "title": "Pet:Dragonfly",
+  "slug": "Dragonfly"
+ },
+ {
+  "title": "Pet:Drake_of_Hearts",
+  "slug": "Drake_of_Hearts"
+ },
+ {
+  "title": "Pet:Drama_Llama",
+  "slug": "Drama_Llama"
+ },
+ {
+  "title": "Pet:Dread_Grimoire",
+  "slug": "Dread_Grimoire"
+ },
+ {
+  "title": "Pet:Dread_Quetzal",
+  "slug": "Dread_Quetzal"
+ },
+ {
+  "title": "Pet:Dreadfang",
+  "slug": "Dreadfang"
+ },
+ {
+  "title": "Pet:Dream_Ghoul",
+  "slug": "Dream_Ghoul"
+ },
+ {
+  "title": "Pet:Dreamsong_Seraph",
+  "slug": "Dreamsong_Seraph"
+ },
+ {
+  "title": "Pet:Dreamy_Baaterfly",
+  "slug": "Dreamy_Baaterfly"
+ },
+ {
+  "title": "Pet:Drowned_Grimhorn",
+  "slug": "Drowned_Grimhorn"
+ },
+ {
+  "title": "Pet:Dryad",
+  "slug": "Dryad"
+ },
+ {
+  "title": "Pet:Dusty_Grimoire",
+  "slug": "Dusty_Grimoire"
+ },
+ {
+  "title": "Pet:Dutiful_Bloodbat",
+  "slug": "Dutiful_Bloodbat"
+ },
+ {
+  "title": "Pet:Dutiful_Terrier",
+  "slug": "Dutiful_Terrier"
+ },
+ {
+  "title": "Pet:Earth_Walker",
+  "slug": "Earth_Walker"
+ },
+ {
+  "title": "Pet:Earthen_Elf",
+  "slug": "Earthen_Elf"
+ },
+ {
+  "title": "Pet:Echidna",
+  "slug": "Echidna"
+ },
+ {
+  "title": "Pet:Efreet",
+  "slug": "Efreet"
+ },
+ {
+  "title": "Pet:Electric_Elf",
+  "slug": "Electric_Elf"
+ },
+ {
+  "title": "Pet:Elemental_Foo_Dog",
+  "slug": "Elemental_Foo_Dog"
+ },
+ {
+  "title": "Pet:Elf_of_Endings",
+  "slug": "Elf_of_Endings"
+ },
+ {
+  "title": "Pet:Elfvis",
+  "slug": "Elfvis"
+ },
+ {
+  "title": "Pet:Emberstone_Tiger",
+  "slug": "Emberstone_Tiger"
+ },
+ {
+  "title": "Pet:Emberwing",
+  "slug": "Emberwing"
+ },
+ {
+  "title": "Pet:Emerald_Beetle",
+  "slug": "Emerald_Beetle"
+ },
+ {
+  "title": "Pet:Emerald_Cyclops",
+  "slug": "Emerald_Cyclops"
+ },
+ {
+  "title": "Pet:Enchanted_Armament",
+  "slug": "Enchanted_Armament"
+ },
+ {
+  "title": "Pet:Energetic_Baaterfly",
+  "slug": "Energetic_Baaterfly"
+ },
+ {
+  "title": "Pet:Equilibri-Pig",
+  "slug": "Equilibri-Pig"
+ },
+ {
+  "title": "Pet:Erratic_Thief",
+  "slug": "Erratic_Thief"
+ },
+ {
+  "title": "Pet:Eternal_Skeleturion",
+  "slug": "Eternal_Skeleturion"
+ },
+ {
+  "title": "Pet:Ethereal_Knight",
+  "slug": "Ethereal_Knight"
+ },
+ {
+  "title": "Pet:Everlasting_Elf",
+  "slug": "Everlasting_Elf"
+ },
+ {
+  "title": "Pet:Evil_Sandman",
+  "slug": "Evil_Sandman"
+ },
+ {
+  "title": "Pet:Evil_Snowman",
+  "slug": "Evil_Snowman"
+ },
+ {
+  "title": "Pet:Eye_Pal",
+  "slug": "Eye_Pal"
+ },
+ {
+  "title": "Pet:Eyebendito",
+  "slug": "Eyebendito"
+ },
+ {
+  "title": "Pet:Eyecaramba",
+  "slug": "Eyecaramba"
+ },
+ {
+  "title": "Pet:Eyediache",
+  "slug": "Eyediache"
+ },
+ {
+  "title": "Pet:Eyequilibriops",
+  "slug": "Eyequilibriops"
+ },
+ {
+  "title": "Pet:Fabled_Draconian",
+  "slug": "Fabled_Draconian"
+ },
+ {
+  "title": "Pet:Fabled_Fairy",
+  "slug": "Fabled_Fairy"
+ },
+ {
+  "title": "Pet:Fabled_Grimoire",
+  "slug": "Fabled_Grimoire"
+ },
+ {
+  "title": "Pet:Fabled_Howler",
+  "slug": "Fabled_Howler"
+ },
+ {
+  "title": "Pet:Fabled_Ninja_Pig",
+  "slug": "Fabled_Ninja_Pig"
+ },
+ {
+  "title": "Pet:Fabled_Octopus",
+  "slug": "Fabled_Octopus"
+ },
+ {
+  "title": "Pet:Fabletaur",
+  "slug": "Fabletaur"
+ },
+ {
+  "title": "Pet:Fablewing",
+  "slug": "Fablewing"
+ },
+ {
+  "title": "Pet:Fae-O-Fury",
+  "slug": "Fae-O-Fury"
+ },
+ {
+  "title": "Pet:Fae_Omen",
+  "slug": "Fae_Omen"
+ },
+ {
+  "title": "Pet:Fae_Vivae",
+  "slug": "Fae_Vivae"
+ },
+ {
+  "title": "Pet:Fair-E",
+  "slug": "Fair-E"
+ },
+ {
+  "title": "Pet:Fairyfly",
+  "slug": "Fairyfly"
+ },
+ {
+  "title": "Pet:Fall_Sproutling",
+  "slug": "Fall_Sproutling"
+ },
+ {
+  "title": "Pet:Famished_Flytrap",
+  "slug": "Famished_Flytrap"
+ },
+ {
+  "title": "Pet:Fancy_Starry",
+  "slug": "Fancy_Starry"
+ },
+ {
+  "title": "Pet:Fancy_Water_Dog",
+  "slug": "Fancy_Water_Dog"
+ },
+ {
+  "title": "Pet:Fang_Bat",
+  "slug": "Fang_Bat"
+ },
+ {
+  "title": "Pet:Fantastic_Plushie",
+  "slug": "Fantastic_Plushie"
+ },
+ {
+  "title": "Pet:Fatesealer",
+  "slug": "Fatesealer"
+ },
+ {
+  "title": "Pet:Faun_of_Balance",
+  "slug": "Faun_of_Balance"
+ },
+ {
+  "title": "Pet:Faun_of_Fury",
+  "slug": "Faun_of_Fury"
+ },
+ {
+  "title": "Pet:Faun_of_Omens",
+  "slug": "Faun_of_Omens"
+ },
+ {
+  "title": "Pet:Faun_of_Spring",
+  "slug": "Faun_of_Spring"
+ },
+ {
+  "title": "Pet:Faun_of_Stories",
+  "slug": "Faun_of_Stories"
+ },
+ {
+  "title": "Pet:Faun_of_Weather",
+  "slug": "Faun_of_Weather"
+ },
+ {
+  "title": "Pet:Faun_of_Winter",
+  "slug": "Faun_of_Winter"
+ },
+ {
+  "title": "Pet:Fearless_Lion_Cubs",
+  "slug": "Fearless_Lion_Cubs"
+ },
+ {
+  "title": "Pet:Feathered_Tabby",
+  "slug": "Feathered_Tabby"
+ },
+ {
+  "title": "Pet:Feisty_Fire_Elf",
+  "slug": "Feisty_Fire_Elf"
+ },
+ {
+  "title": "Pet:Feisty_Fire_Kitten",
+  "slug": "Feisty_Fire_Kitten"
+ },
+ {
+  "title": "Pet:Feisty_Gingerbreadman",
+  "slug": "Feisty_Gingerbreadman"
+ },
+ {
+  "title": "Pet:Feisty_Lion_Cubs",
+  "slug": "Feisty_Lion_Cubs"
+ },
+ {
+  "title": "Pet:Fellhound",
+  "slug": "Fellhound"
+ },
+ {
+  "title": "Pet:Fennec_Fox",
+  "slug": "Fennec_Fox"
+ },
+ {
+  "title": "Pet:Fenric",
+  "slug": "Fenric"
+ },
+ {
+  "title": "Pet:Fenrir",
+  "slug": "Fenrir"
+ },
+ {
+  "title": "Pet:Fenris",
+  "slug": "Fenris"
+ },
+ {
+  "title": "Pet:Feral_Were-Bear",
+  "slug": "Feral_Were-Bear"
+ },
+ {
+  "title": "Pet:Feral_Zorphie",
+  "slug": "Feral_Zorphie"
+ },
+ {
+  "title": "Pet:Fern_Lumi",
+  "slug": "Fern_Lumi"
+ },
+ {
+  "title": "Pet:Festive_Prrresent",
+  "slug": "Festive_Prrresent"
+ },
+ {
+  "title": "Pet:Fetching_Pet_Peeve",
+  "slug": "Fetching_Pet_Peeve"
+ },
+ {
+  "title": "Pet:Fiendish_Fireguy",
+  "slug": "Fiendish_Fireguy"
+ },
+ {
+  "title": "Pet:Fiendish_Foo_Dog",
+  "slug": "Fiendish_Foo_Dog"
+ },
+ {
+  "title": "Pet:Fierce_Hound",
+  "slug": "Fierce_Hound"
+ },
+ {
+  "title": "Pet:Fiery_Glowbug",
+  "slug": "Fiery_Glowbug"
+ },
+ {
+  "title": "Pet:Fiery_Null_Dragon",
+  "slug": "Fiery_Null_Dragon"
+ },
+ {
+  "title": "Pet:Fiery_Skeleturion",
+  "slug": "Fiery_Skeleturion"
+ },
+ {
+  "title": "Pet:Fine_Wood_Golem",
+  "slug": "Fine_Wood_Golem"
+ },
+ {
+  "title": "Pet:Finned_Assassin",
+  "slug": "Finned_Assassin"
+ },
+ {
+  "title": "Pet:Fire-Eye_Cyclops",
+  "slug": "Fire-Eye_Cyclops"
+ },
+ {
+  "title": "Pet:Fire-ish_Frog",
+  "slug": "Fire-ish_Frog"
+ },
+ {
+  "title": "Pet:Fire_Armaments",
+  "slug": "Fire_Armaments"
+ },
+ {
+  "title": "Pet:Fire_Beetle",
+  "slug": "Fire_Beetle"
+ },
+ {
+  "title": "Pet:Fire_Class_Pet_72",
+  "slug": "Fire_Class_Pet_72"
+ },
+ {
+  "title": "Pet:Fire_Class_Pet_73",
+  "slug": "Fire_Class_Pet_73"
+ },
+ {
+  "title": "Pet:Fire_Elf",
+  "slug": "Fire_Elf"
+ },
+ {
+  "title": "Pet:Fire_Potbelly",
+  "slug": "Fire_Potbelly"
+ },
+ {
+  "title": "Pet:Fire_Salamander",
+  "slug": "Fire_Salamander"
+ },
+ {
+  "title": "Pet:Fire_Serpent",
+  "slug": "Fire_Serpent"
+ },
+ {
+  "title": "Pet:Fire_Snowman",
+  "slug": "Fire_Snowman"
+ },
+ {
+  "title": "Pet:Fire_Wartle",
+  "slug": "Fire_Wartle"
+ },
+ {
+  "title": "Pet:Firebat",
+  "slug": "Firebat"
+ },
+ {
+  "title": "Pet:Firecat",
+  "slug": "Firecat"
+ },
+ {
+  "title": "Pet:Firestorm_Quetzal",
+  "slug": "Firestorm_Quetzal"
+ },
+ {
+  "title": "Pet:Firewing",
+  "slug": "Firewing"
+ },
+ {
+  "title": "Pet:Firezilla",
+  "slug": "Firezilla"
+ },
+ {
+  "title": "Pet:First_Mate_Otter",
+  "slug": "First_Mate_Otter"
+ },
+ {
+  "title": "Pet:Flame_Puppy",
+  "slug": "Flame_Puppy"
+ },
+ {
+  "title": "Pet:Flamedance_Seraph",
+  "slug": "Flamedance_Seraph"
+ },
+ {
+  "title": "Pet:Flamenco_Bailador",
+  "slug": "Flamenco_Bailador"
+ },
+ {
+  "title": "Pet:Flamenco_Cantador",
+  "slug": "Flamenco_Cantador"
+ },
+ {
+  "title": "Pet:Flamenco_Tocador",
+  "slug": "Flamenco_Tocador"
+ },
+ {
+  "title": "Pet:Flamenco_del_Muerto",
+  "slug": "Flamenco_del_Muerto"
+ },
+ {
+  "title": "Pet:Flamezilla",
+  "slug": "Flamezilla"
+ },
+ {
+  "title": "Pet:Flammotaur",
+  "slug": "Flammotaur"
+ },
+ {
+  "title": "Pet:Flarewolf",
+  "slug": "Flarewolf"
+ },
+ {
+  "title": "Pet:Florossus",
+  "slug": "Florossus"
+ },
+ {
+  "title": "Pet:Flurry_Fairy",
+  "slug": "Flurry_Fairy"
+ },
+ {
+  "title": "Pet:Flying_Squirrel",
+  "slug": "Flying_Squirrel"
+ },
+ {
+  "title": "Pet:Fog_Unicorn",
+  "slug": "Fog_Unicorn"
+ },
+ {
+  "title": "Pet:Forest_Beast",
+  "slug": "Forest_Beast"
+ },
+ {
+  "title": "Pet:Forest_Cyclops",
+  "slug": "Forest_Cyclops"
+ },
+ {
+  "title": "Pet:Forest_Elf",
+  "slug": "Forest_Elf"
+ },
+ {
+  "title": "Pet:Forest_Guardian",
+  "slug": "Forest_Guardian"
+ },
+ {
+  "title": "Pet:Forest_Lord",
+  "slug": "Forest_Lord"
+ },
+ {
+  "title": "Pet:Forge_Goblin",
+  "slug": "Forge_Goblin"
+ },
+ {
+  "title": "Pet:Forgotten_Grimoire",
+  "slug": "Forgotten_Grimoire"
+ },
+ {
+  "title": "Pet:Fossa",
+  "slug": "Fossa"
+ },
+ {
+  "title": "Pet:Foxy_Dragon",
+  "slug": "Foxy_Dragon"
+ },
+ {
+  "title": "Pet:Fragmented_Dragon",
+  "slug": "Fragmented_Dragon"
+ },
+ {
+  "title": "Pet:Frankenbara",
+  "slug": "Frankenbara"
+ },
+ {
+  "title": "Pet:Frankenbunny",
+  "slug": "Frankenbunny"
+ },
+ {
+  "title": "Pet:Frankenbunny_Bride",
+  "slug": "Frankenbunny_Bride"
+ },
+ {
+  "title": "Pet:Frankie_Forearms",
+  "slug": "Frankie_Forearms"
+ },
+ {
+  "title": "Pet:Freaky_Doll",
+  "slug": "Freaky_Doll"
+ },
+ {
+  "title": "Pet:Freckled_Piggle",
+  "slug": "Freckled_Piggle"
+ },
+ {
+  "title": "Pet:Frenzied_Shark",
+  "slug": "Frenzied_Shark"
+ },
+ {
+  "title": "Pet:Friendly_Dragon",
+  "slug": "Friendly_Dragon"
+ },
+ {
+  "title": "Pet:Friendly_Falcon",
+  "slug": "Friendly_Falcon"
+ },
+ {
+  "title": "Pet:Friendly_Frog",
+  "slug": "Friendly_Frog"
+ },
+ {
+  "title": "Pet:Friendship_Fluffle",
+  "slug": "Friendship_Fluffle"
+ },
+ {
+  "title": "Pet:Friendship_Oni",
+  "slug": "Friendship_Oni"
+ },
+ {
+  "title": "Pet:Frigid_Elf",
+  "slug": "Frigid_Elf"
+ },
+ {
+  "title": "Pet:Frigid_Fiend",
+  "slug": "Frigid_Fiend"
+ },
+ {
+  "title": "Pet:Frigid_Krokomummy",
+  "slug": "Frigid_Krokomummy"
+ },
+ {
+  "title": "Pet:Frigid_Null_Dragon",
+  "slug": "Frigid_Null_Dragon"
+ },
+ {
+  "title": "Pet:Frigid_Skeleturion",
+  "slug": "Frigid_Skeleturion"
+ },
+ {
+  "title": "Pet:Frigorific_Colossus",
+  "slug": "Frigorific_Colossus"
+ },
+ {
+  "title": "Pet:Frilled_Lizard",
+  "slug": "Frilled_Lizard"
+ },
+ {
+  "title": "Pet:Frog",
+  "slug": "Frog"
+ },
+ {
+  "title": "Pet:Frost_Beetle",
+  "slug": "Frost_Beetle"
+ },
+ {
+  "title": "Pet:Frost_Cat",
+  "slug": "Frost_Cat"
+ },
+ {
+  "title": "Pet:Frostbound_Grimhorn",
+  "slug": "Frostbound_Grimhorn"
+ },
+ {
+  "title": "Pet:Frostman",
+  "slug": "Frostman"
+ },
+ {
+  "title": "Pet:Frosty_Fish",
+  "slug": "Frosty_Fish"
+ },
+ {
+  "title": "Pet:Frosty_Krokomummy",
+  "slug": "Frosty_Krokomummy"
+ },
+ {
+  "title": "Pet:Frostzilla_(Retired)",
+  "slug": "Frostzilla_(Retired)"
+ },
+ {
+  "title": "Pet:Frozen-Gaze_Cyclops",
+  "slug": "Frozen-Gaze_Cyclops"
+ },
+ {
+  "title": "Pet:Frozen_Cat",
+  "slug": "Frozen_Cat"
+ },
+ {
+  "title": "Pet:Frozen_Pet_Peeve",
+  "slug": "Frozen_Pet_Peeve"
+ },
+ {
+  "title": "Pet:Fuchsia_Pixie",
+  "slug": "Fuchsia_Pixie"
+ },
+ {
+  "title": "Pet:Fun_Dragon",
+  "slug": "Fun_Dragon"
+ },
+ {
+  "title": "Pet:Fun_Guy",
+  "slug": "Fun_Guy"
+ },
+ {
+  "title": "Pet:Funky_Piggle",
+  "slug": "Funky_Piggle"
+ },
+ {
+  "title": "Pet:Furious_Krokomummy",
+  "slug": "Furious_Krokomummy"
+ },
+ {
+  "title": "Pet:Fyclops",
+  "slug": "Fyclops"
+ },
+ {
+  "title": "Pet:Gale_Quetzal",
+  "slug": "Gale_Quetzal"
+ },
+ {
+  "title": "Pet:Gamer_Piggle",
+  "slug": "Gamer_Piggle"
+ },
+ {
+  "title": "Pet:Gargoyle",
+  "slug": "Gargoyle"
+ },
+ {
+  "title": "Pet:Garish_Gloamling",
+  "slug": "Garish_Gloamling"
+ },
+ {
+  "title": "Pet:Ghost_Dragon",
+  "slug": "Ghost_Dragon"
+ },
+ {
+  "title": "Pet:Ghost_Hound",
+  "slug": "Ghost_Hound"
+ },
+ {
+  "title": "Pet:Ghostly_Gloamling",
+  "slug": "Ghostly_Gloamling"
+ },
+ {
+  "title": "Pet:Ghoul",
+  "slug": "Ghoul"
+ },
+ {
+  "title": "Pet:Ghoulish_Macawbre",
+  "slug": "Ghoulish_Macawbre"
+ },
+ {
+  "title": "Pet:Ghulture",
+  "slug": "Ghulture"
+ },
+ {
+  "title": "Pet:Gilded_Skeleton",
+  "slug": "Gilded_Skeleton"
+ },
+ {
+  "title": "Pet:Giraffe",
+  "slug": "Giraffe"
+ },
+ {
+  "title": "Pet:Glacial_Elf",
+  "slug": "Glacial_Elf"
+ },
+ {
+  "title": "Pet:Glacier_Cat",
+  "slug": "Glacier_Cat"
+ },
+ {
+  "title": "Pet:Glacier_Dragon",
+  "slug": "Glacier_Dragon"
+ },
+ {
+  "title": "Pet:Gloomy_Gloamling",
+  "slug": "Gloomy_Gloamling"
+ },
+ {
+  "title": "Pet:Gloomy_Goatling",
+  "slug": "Gloomy_Goatling"
+ },
+ {
+  "title": "Pet:Gloomy_Shark",
+  "slug": "Gloomy_Shark"
+ },
+ {
+  "title": "Pet:Glum_Goatling",
+  "slug": "Glum_Goatling"
+ },
+ {
+  "title": "Pet:Gnome",
+  "slug": "Gnome"
+ },
+ {
+  "title": "Pet:Goat_Monk",
+  "slug": "Goat_Monk"
+ },
+ {
+  "title": "Pet:Gob-O-Lantern",
+  "slug": "Gob-O-Lantern"
+ },
+ {
+  "title": "Pet:GobblerBall",
+  "slug": "GobblerBall"
+ },
+ {
+  "title": "Pet:Gold_U'Bah",
+  "slug": "Gold_U'Bah"
+ },
+ {
+  "title": "Pet:Golden_Apple_Brudel",
+  "slug": "Golden_Apple_Brudel"
+ },
+ {
+  "title": "Pet:Golden_Armored_Skeleton",
+  "slug": "Golden_Armored_Skeleton"
+ },
+ {
+  "title": "Pet:Golden_Goose",
+  "slug": "Golden_Goose"
+ },
+ {
+  "title": "Pet:Golden_Piggle",
+  "slug": "Golden_Piggle"
+ },
+ {
+  "title": "Pet:Golden_Ram",
+  "slug": "Golden_Ram"
+ },
+ {
+  "title": "Pet:Golden_Sun",
+  "slug": "Golden_Sun"
+ },
+ {
+  "title": "Pet:Grande_Flamenco",
+  "slug": "Grande_Flamenco"
+ },
+ {
+  "title": "Pet:Grandpa_Piggle",
+  "slug": "Grandpa_Piggle"
+ },
+ {
+  "title": "Pet:Granutaur",
+  "slug": "Granutaur"
+ },
+ {
+  "title": "Pet:Grave_Rat",
+  "slug": "Grave_Rat"
+ },
+ {
+  "title": "Pet:Gravewalker",
+  "slug": "Gravewalker"
+ },
+ {
+  "title": "Pet:Gray_Star",
+  "slug": "Gray_Star"
+ },
+ {
+  "title": "Pet:Graysquatch",
+  "slug": "Graysquatch"
+ },
+ {
+  "title": "Pet:Greater_Imp",
+  "slug": "Greater_Imp"
+ },
+ {
+  "title": "Pet:Green_Apple_Brudel",
+  "slug": "Green_Apple_Brudel"
+ },
+ {
+  "title": "Pet:Green_Cat_Thug",
+  "slug": "Green_Cat_Thug"
+ },
+ {
+  "title": "Pet:Green_Ghost",
+  "slug": "Green_Ghost"
+ },
+ {
+  "title": "Pet:Green_Globulin",
+  "slug": "Green_Globulin"
+ },
+ {
+  "title": "Pet:Green_Ninja",
+  "slug": "Green_Ninja"
+ },
+ {
+  "title": "Pet:Green_Parakeet",
+  "slug": "Green_Parakeet"
+ },
+ {
+  "title": "Pet:Green_Spider",
+  "slug": "Green_Spider"
+ },
+ {
+  "title": "Pet:Greenman_Sapling",
+  "slug": "Greenman_Sapling"
+ },
+ {
+  "title": "Pet:Grim_Goatling",
+  "slug": "Grim_Goatling"
+ },
+ {
+  "title": "Pet:Grim_Imp",
+  "slug": "Grim_Imp"
+ },
+ {
+  "title": "Pet:Grim_Scarab",
+  "slug": "Grim_Scarab"
+ },
+ {
+  "title": "Pet:Grim_Skeleturion",
+  "slug": "Grim_Skeleturion"
+ },
+ {
+  "title": "Pet:Grim_Squeaker",
+  "slug": "Grim_Squeaker"
+ },
+ {
+  "title": "Pet:Grimdark_Golem",
+  "slug": "Grimdark_Golem"
+ },
+ {
+  "title": "Pet:Grimstare",
+  "slug": "Grimstare"
+ },
+ {
+  "title": "Pet:Grimzilla",
+  "slug": "Grimzilla"
+ },
+ {
+  "title": "Pet:Grizzley_Boar",
+  "slug": "Grizzley_Boar"
+ },
+ {
+  "title": "Pet:Groundhog",
+  "slug": "Groundhog"
+ },
+ {
+  "title": "Pet:Grove_Unicorn",
+  "slug": "Grove_Unicorn"
+ },
+ {
+  "title": "Pet:Grr-Owl",
+  "slug": "Grr-Owl"
+ },
+ {
+  "title": "Pet:Grumpy_Gingerman",
+  "slug": "Grumpy_Gingerman"
+ },
+ {
+  "title": "Pet:Grumpy_Snowman",
+  "slug": "Grumpy_Snowman"
+ },
+ {
+  "title": "Pet:Guardian_Dragon",
+  "slug": "Guardian_Dragon"
+ },
+ {
+  "title": "Pet:Guardian_Foo_Dog",
+  "slug": "Guardian_Foo_Dog"
+ },
+ {
+  "title": "Pet:Hail_Quetzal",
+  "slug": "Hail_Quetzal"
+ },
+ {
+  "title": "Pet:Hailzilla",
+  "slug": "Hailzilla"
+ },
+ {
+  "title": "Pet:Hale_Hydra",
+  "slug": "Hale_Hydra"
+ },
+ {
+  "title": "Pet:Hall_Minotaur",
+  "slug": "Hall_Minotaur"
+ },
+ {
+  "title": "Pet:Handsome_Pegasus",
+  "slug": "Handsome_Pegasus"
+ },
+ {
+  "title": "Pet:Happy_Jackal",
+  "slug": "Happy_Jackal"
+ },
+ {
+  "title": "Pet:Happy_Piggle",
+  "slug": "Happy_Piggle"
+ },
+ {
+  "title": "Pet:Harmonic_Cyclops",
+  "slug": "Harmonic_Cyclops"
+ },
+ {
+  "title": "Pet:Harmonic_Howler",
+  "slug": "Harmonic_Howler"
+ },
+ {
+  "title": "Pet:Harmonious_Baaterfly",
+  "slug": "Harmonious_Baaterfly"
+ },
+ {
+  "title": "Pet:Harpy",
+  "slug": "Harpy"
+ },
+ {
+  "title": "Pet:Harrowed_Bones",
+  "slug": "Harrowed_Bones"
+ },
+ {
+  "title": "Pet:Haunted_Doll",
+  "slug": "Haunted_Doll"
+ },
+ {
+  "title": "Pet:Haunttoman",
+  "slug": "Haunttoman"
+ },
+ {
+  "title": "Pet:Hearty_Pegasus",
+  "slug": "Hearty_Pegasus"
+ },
+ {
+  "title": "Pet:Heckhound",
+  "slug": "Heckhound"
+ },
+ {
+  "title": "Pet:Helephant",
+  "slug": "Helephant"
+ },
+ {
+  "title": "Pet:Helpful_Wildclaw",
+  "slug": "Helpful_Wildclaw"
+ },
+ {
+  "title": "Pet:Hero_Pig",
+  "slug": "Hero_Pig"
+ },
+ {
+  "title": "Pet:Hip_Corgi",
+  "slug": "Hip_Corgi"
+ },
+ {
+  "title": "Pet:Hippo",
+  "slug": "Hippo"
+ },
+ {
+  "title": "Pet:Histauri",
+  "slug": "Histauri"
+ },
+ {
+  "title": "Pet:Holiday_Hoppers",
+  "slug": "Holiday_Hoppers"
+ },
+ {
+  "title": "Pet:Hollow_Knight",
+  "slug": "Hollow_Knight"
+ },
+ {
+  "title": "Pet:Holly_Jolly_Penguin",
+  "slug": "Holly_Jolly_Penguin"
+ },
+ {
+  "title": "Pet:Horned_Monkey_Spider",
+  "slug": "Horned_Monkey_Spider"
+ },
+ {
+  "title": "Pet:Hotzilla",
+  "slug": "Hotzilla"
+ },
+ {
+  "title": "Pet:Hover_Buddy",
+  "slug": "Hover_Buddy"
+ },
+ {
+  "title": "Pet:Hulking_Cyclops",
+  "slug": "Hulking_Cyclops"
+ },
+ {
+  "title": "Pet:Hummingbird",
+  "slug": "Hummingbird"
+ },
+ {
+  "title": "Pet:Humongofrog",
+  "slug": "Humongofrog"
+ },
+ {
+  "title": "Pet:Hungry_Flytrap",
+  "slug": "Hungry_Flytrap"
+ },
+ {
+  "title": "Pet:Hunter's_Hound",
+  "slug": "Hunter's_Hound"
+ },
+ {
+  "title": "Pet:Hurricanine",
+  "slug": "Hurricanine"
+ },
+ {
+  "title": "Pet:Hurricolossus",
+  "slug": "Hurricolossus"
+ },
+ {
+  "title": "Pet:Hydra",
+  "slug": "Hydra"
+ },
+ {
+  "title": "Pet:Ianthine_Hound",
+  "slug": "Ianthine_Hound"
+ },
+ {
+  "title": "Pet:Ianthine_Spectre",
+  "slug": "Ianthine_Spectre"
+ },
+ {
+  "title": "Pet:Ice-ish_Frog",
+  "slug": "Ice-ish_Frog"
+ },
+ {
+  "title": "Pet:Ice_Armaments",
+  "slug": "Ice_Armaments"
+ },
+ {
+  "title": "Pet:Ice_Bird",
+  "slug": "Ice_Bird"
+ },
+ {
+  "title": "Pet:Ice_Cat",
+  "slug": "Ice_Cat"
+ },
+ {
+  "title": "Pet:Ice_Class_Pet_72",
+  "slug": "Ice_Class_Pet_72"
+ },
+ {
+  "title": "Pet:Ice_Class_Pet_73",
+  "slug": "Ice_Class_Pet_73"
+ },
+ {
+  "title": "Pet:Ice_Colossus",
+  "slug": "Ice_Colossus"
+ },
+ {
+  "title": "Pet:Ice_Elf",
+  "slug": "Ice_Elf"
+ },
+ {
+  "title": "Pet:Ice_Floe_Siren",
+  "slug": "Ice_Floe_Siren"
+ },
+ {
+  "title": "Pet:Ice_Potbelly",
+  "slug": "Ice_Potbelly"
+ },
+ {
+  "title": "Pet:Ice_Salamander",
+  "slug": "Ice_Salamander"
+ },
+ {
+  "title": "Pet:Ice_Snowblin",
+  "slug": "Ice_Snowblin"
+ },
+ {
+  "title": "Pet:Ice_Wartle",
+  "slug": "Ice_Wartle"
+ },
+ {
+  "title": "Pet:Ice_Wyvern",
+  "slug": "Ice_Wyvern"
+ },
+ {
+  "title": "Pet:Icebat",
+  "slug": "Icebat"
+ },
+ {
+  "title": "Pet:Iceblock_Colossus",
+  "slug": "Iceblock_Colossus"
+ },
+ {
+  "title": "Pet:Iconic_Puppy",
+  "slug": "Iconic_Puppy"
+ },
+ {
+  "title": "Pet:Icy_Glowbug",
+  "slug": "Icy_Glowbug"
+ },
+ {
+  "title": "Pet:Imagilossus",
+  "slug": "Imagilossus"
+ },
+ {
+  "title": "Pet:Imagitaur",
+  "slug": "Imagitaur"
+ },
+ {
+  "title": "Pet:Imp",
+  "slug": "Imp"
+ },
+ {
+  "title": "Pet:Imperial_Foo_Dog",
+  "slug": "Imperial_Foo_Dog"
+ },
+ {
+  "title": "Pet:Incendiary_Grimoire",
+  "slug": "Incendiary_Grimoire"
+ },
+ {
+  "title": "Pet:Indigo_Dragon",
+  "slug": "Indigo_Dragon"
+ },
+ {
+  "title": "Pet:Infernal_Ninja_Pig",
+  "slug": "Infernal_Ninja_Pig"
+ },
+ {
+  "title": "Pet:Inferno_Cat",
+  "slug": "Inferno_Cat"
+ },
+ {
+  "title": "Pet:Inferno_Salamander",
+  "slug": "Inferno_Salamander"
+ },
+ {
+  "title": "Pet:Infernozilla",
+  "slug": "Infernozilla"
+ },
+ {
+  "title": "Pet:Intrepid_Racoon",
+  "slug": "Intrepid_Racoon"
+ },
+ {
+  "title": "Pet:Intrepid_Seal_Pup",
+  "slug": "Intrepid_Seal_Pup"
+ },
+ {
+  "title": "Pet:Iron_Ram",
+  "slug": "Iron_Ram"
+ },
+ {
+  "title": "Pet:Ironic_Krokomummy",
+  "slug": "Ironic_Krokomummy"
+ },
+ {
+  "title": "Pet:Ivanenko's_Tiger",
+  "slug": "Ivanenko's_Tiger"
+ },
+ {
+  "title": "Pet:Ivory_Shenlong_Dragon",
+  "slug": "Ivory_Shenlong_Dragon"
+ },
+ {
+  "title": "Pet:Jack_O_Lantern",
+  "slug": "Jack_O_Lantern"
+ },
+ {
+  "title": "Pet:Jade_Oni",
+  "slug": "Jade_Oni"
+ },
+ {
+  "title": "Pet:Jade_Shenlong_Dragon",
+  "slug": "Jade_Shenlong_Dragon"
+ },
+ {
+  "title": "Pet:Jellyfish",
+  "slug": "Jellyfish"
+ },
+ {
+  "title": "Pet:Jewel_Snowblin",
+  "slug": "Jewel_Snowblin"
+ },
+ {
+  "title": "Pet:Jingle_Bell_Rock",
+  "slug": "Jingle_Bell_Rock"
+ },
+ {
+  "title": "Pet:Jolly_Piggle",
+  "slug": "Jolly_Piggle"
+ },
+ {
+  "title": "Pet:Jondo_Flamenco",
+  "slug": "Jondo_Flamenco"
+ },
+ {
+  "title": "Pet:Jovial_Piggle",
+  "slug": "Jovial_Piggle"
+ },
+ {
+  "title": "Pet:Judgement",
+  "slug": "Judgement"
+ },
+ {
+  "title": "Pet:Jungle_Kit-10",
+  "slug": "Jungle_Kit-10"
+ },
+ {
+  "title": "Pet:Kawarimono_Koi",
+  "slug": "Kawarimono_Koi"
+ },
+ {
+  "title": "Pet:Key_Quetzal",
+  "slug": "Key_Quetzal"
+ },
+ {
+  "title": "Pet:King_of_Thieves",
+  "slug": "King_of_Thieves"
+ },
+ {
+  "title": "Pet:Kit_10",
+  "slug": "Kit_10"
+ },
+ {
+  "title": "Pet:Kookaburra",
+  "slug": "Kookaburra"
+ },
+ {
+  "title": "Pet:Koromo_Koi",
+  "slug": "Koromo_Koi"
+ },
+ {
+  "title": "Pet:Kraken",
+  "slug": "Kraken"
+ },
+ {
+  "title": "Pet:Krok",
+  "slug": "Krok"
+ },
+ {
+  "title": "Pet:Krok_Pal",
+  "slug": "Krok_Pal"
+ },
+ {
+  "title": "Pet:Krok_of_Ages",
+  "slug": "Krok_of_Ages"
+ },
+ {
+  "title": "Pet:Krokomummy",
+  "slug": "Krokomummy"
+ },
+ {
+  "title": "Pet:Krokopatra's_Troll",
+  "slug": "Krokopatra's_Troll"
+ },
+ {
+  "title": "Pet:Krokotillian",
+  "slug": "Krokotillian"
+ },
+ {
+  "title": "Pet:L'il_Blobby",
+  "slug": "L'il_Blobby"
+ },
+ {
+  "title": "Pet:Labyrinth_Guardian",
+  "slug": "Labyrinth_Guardian"
+ },
+ {
+  "title": "Pet:Ladybug",
+  "slug": "Ladybug"
+ },
+ {
+  "title": "Pet:Lava_Spider",
+  "slug": "Lava_Spider"
+ },
+ {
+  "title": "Pet:Lavender_Foo_Dog",
+  "slug": "Lavender_Foo_Dog"
+ },
+ {
+  "title": "Pet:Leaf_Foot",
+  "slug": "Leaf_Foot"
+ },
+ {
+  "title": "Pet:Leaf_Puppy",
+  "slug": "Leaf_Puppy"
+ },
+ {
+  "title": "Pet:Leafwing",
+  "slug": "Leafwing"
+ },
+ {
+  "title": "Pet:Leaping_Leprechaun",
+  "slug": "Leaping_Leprechaun"
+ },
+ {
+  "title": "Pet:Legendary_Shark",
+  "slug": "Legendary_Shark"
+ },
+ {
+  "title": "Pet:Leopard",
+  "slug": "Leopard"
+ },
+ {
+  "title": "Pet:Leprechaun",
+  "slug": "Leprechaun"
+ },
+ {
+  "title": "Pet:Li'l_Devil",
+  "slug": "Li'l_Devil"
+ },
+ {
+  "title": "Pet:Li'l_Lemur",
+  "slug": "Li'l_Lemur"
+ },
+ {
+  "title": "Pet:Li'l_Medusa",
+  "slug": "Li'l_Medusa"
+ },
+ {
+  "title": "Pet:Li'l_Siren",
+  "slug": "Li'l_Siren"
+ },
+ {
+  "title": "Pet:Li'l_U'Bah",
+  "slug": "Li'l_U'Bah"
+ },
+ {
+  "title": "Pet:Life-ish_Frog",
+  "slug": "Life-ish_Frog"
+ },
+ {
+  "title": "Pet:Life_Armaments",
+  "slug": "Life_Armaments"
+ },
+ {
+  "title": "Pet:Life_Banshee",
+  "slug": "Life_Banshee"
+ },
+ {
+  "title": "Pet:Life_Class_Pet",
+  "slug": "Life_Class_Pet"
+ },
+ {
+  "title": "Pet:Life_Cyclops",
+  "slug": "Life_Cyclops"
+ },
+ {
+  "title": "Pet:Life_Ghoul",
+  "slug": "Life_Ghoul"
+ },
+ {
+  "title": "Pet:Life_Hamster",
+  "slug": "Life_Hamster"
+ },
+ {
+  "title": "Pet:Life_Minotaur",
+  "slug": "Life_Minotaur"
+ },
+ {
+  "title": "Pet:Life_Potbelly",
+  "slug": "Life_Potbelly"
+ },
+ {
+  "title": "Pet:Life_Scarab",
+  "slug": "Life_Scarab"
+ },
+ {
+  "title": "Pet:Life_Troll",
+  "slug": "Life_Troll"
+ },
+ {
+  "title": "Pet:Life_Wartle",
+  "slug": "Life_Wartle"
+ },
+ {
+  "title": "Pet:Lifebat",
+  "slug": "Lifebat"
+ },
+ {
+  "title": "Pet:Lifedactyl",
+  "slug": "Lifedactyl"
+ },
+ {
+  "title": "Pet:Light_Merryonette",
+  "slug": "Light_Merryonette"
+ },
+ {
+  "title": "Pet:Lightkeeper's_Flame",
+  "slug": "Lightkeeper's_Flame"
+ },
+ {
+  "title": "Pet:Lightning_Lycan",
+  "slug": "Lightning_Lycan"
+ },
+ {
+  "title": "Pet:Lightningbat",
+  "slug": "Lightningbat"
+ },
+ {
+  "title": "Pet:Lion",
+  "slug": "Lion"
+ },
+ {
+  "title": "Pet:Litter_Critter",
+  "slug": "Litter_Critter"
+ },
+ {
+  "title": "Pet:Little_Ratatoskr",
+  "slug": "Little_Ratatoskr"
+ },
+ {
+  "title": "Pet:Lively_Colossus",
+  "slug": "Lively_Colossus"
+ },
+ {
+  "title": "Pet:Lively_Glowbug",
+  "slug": "Lively_Glowbug"
+ },
+ {
+  "title": "Pet:Lively_Null_Dragon",
+  "slug": "Lively_Null_Dragon"
+ },
+ {
+  "title": "Pet:Lively_Shark",
+  "slug": "Lively_Shark"
+ },
+ {
+  "title": "Pet:Lord_of_Winter",
+  "slug": "Lord_of_Winter"
+ },
+ {
+  "title": "Pet:Lore_Ghoul",
+  "slug": "Lore_Ghoul"
+ },
+ {
+  "title": "Pet:Love_Balloon",
+  "slug": "Love_Balloon"
+ },
+ {
+  "title": "Pet:Lovely_Ladybug",
+  "slug": "Lovely_Ladybug"
+ },
+ {
+  "title": "Pet:Lovely_Leopard",
+  "slug": "Lovely_Leopard"
+ },
+ {
+  "title": "Pet:Loyal_Terrier",
+  "slug": "Loyal_Terrier"
+ },
+ {
+  "title": "Pet:Lucky_Cat",
+  "slug": "Lucky_Cat"
+ },
+ {
+  "title": "Pet:Lucky_Leprechaun",
+  "slug": "Lucky_Leprechaun"
+ },
+ {
+  "title": "Pet:Lucky_Serpent",
+  "slug": "Lucky_Serpent"
+ },
+ {
+  "title": "Pet:Lump_of_Coal",
+  "slug": "Lump_of_Coal"
+ },
+ {
+  "title": "Pet:Lush_Quetzal",
+  "slug": "Lush_Quetzal"
+ },
+ {
+  "title": "Pet:Lynx_Kit-10",
+  "slug": "Lynx_Kit-10"
+ },
+ {
+  "title": "Pet:MaCaw",
+  "slug": "MaCaw"
+ },
+ {
+  "title": "Pet:Maelstrom_Elf",
+  "slug": "Maelstrom_Elf"
+ },
+ {
+  "title": "Pet:Maelstrom_Oni",
+  "slug": "Maelstrom_Oni"
+ },
+ {
+  "title": "Pet:Magenta_Hound",
+  "slug": "Magenta_Hound"
+ },
+ {
+  "title": "Pet:Magical_Dragon",
+  "slug": "Magical_Dragon"
+ },
+ {
+  "title": "Pet:Magma_Colossus",
+  "slug": "Magma_Colossus"
+ },
+ {
+  "title": "Pet:Magma_Spider",
+  "slug": "Magma_Spider"
+ },
+ {
+  "title": "Pet:Majestic_Plushie",
+  "slug": "Majestic_Plushie"
+ },
+ {
+  "title": "Pet:Malefic_Strix",
+  "slug": "Malefic_Strix"
+ },
+ {
+  "title": "Pet:Mama_Cheesiwitz",
+  "slug": "Mama_Cheesiwitz"
+ },
+ {
+  "title": "Pet:Mammoth",
+  "slug": "Mammoth"
+ },
+ {
+  "title": "Pet:Mander",
+  "slug": "Mander"
+ },
+ {
+  "title": "Pet:Maple_Moose",
+  "slug": "Maple_Moose"
+ },
+ {
+  "title": "Pet:March_Hares",
+  "slug": "March_Hares"
+ },
+ {
+  "title": "Pet:Marshfellow",
+  "slug": "Marshfellow"
+ },
+ {
+  "title": "Pet:Mechanical_Owl",
+  "slug": "Mechanical_Owl"
+ },
+ {
+  "title": "Pet:Melted_Knight",
+  "slug": "Melted_Knight"
+ },
+ {
+  "title": "Pet:Meow_Wing",
+  "slug": "Meow_Wing"
+ },
+ {
+  "title": "Pet:Meowiarty's_Ghoul",
+  "slug": "Meowiarty's_Ghoul"
+ },
+ {
+  "title": "Pet:Meowiarty's_Krok",
+  "slug": "Meowiarty's_Krok"
+ },
+ {
+  "title": "Pet:Merry_Fairy",
+  "slug": "Merry_Fairy"
+ },
+ {
+  "title": "Pet:Merry_Prrresent",
+  "slug": "Merry_Prrresent"
+ },
+ {
+  "title": "Pet:Metalmaton",
+  "slug": "Metalmaton"
+ },
+ {
+  "title": "Pet:Midnight_Cat",
+  "slug": "Midnight_Cat"
+ },
+ {
+  "title": "Pet:Midnight_Sprite",
+  "slug": "Midnight_Sprite"
+ },
+ {
+  "title": "Pet:Mini-taur",
+  "slug": "Mini-taur"
+ },
+ {
+  "title": "Pet:Mini_Balance_Shark",
+  "slug": "Mini_Balance_Shark"
+ },
+ {
+  "title": "Pet:Mini_Death_Shark",
+  "slug": "Mini_Death_Shark"
+ },
+ {
+  "title": "Pet:Mini_Fire_Shark",
+  "slug": "Mini_Fire_Shark"
+ },
+ {
+  "title": "Pet:Mini_Ice_Shark",
+  "slug": "Mini_Ice_Shark"
+ },
+ {
+  "title": "Pet:Mini_Life_Shark",
+  "slug": "Mini_Life_Shark"
+ },
+ {
+  "title": "Pet:Mini_Mimic",
+  "slug": "Mini_Mimic"
+ },
+ {
+  "title": "Pet:Mini_Myth_Shark",
+  "slug": "Mini_Myth_Shark"
+ },
+ {
+  "title": "Pet:Mini_Sani-Bot",
+  "slug": "Mini_Sani-Bot"
+ },
+ {
+  "title": "Pet:Mini_Storm_Shark",
+  "slug": "Mini_Storm_Shark"
+ },
+ {
+  "title": "Pet:Minotaur",
+  "slug": "Minotaur"
+ },
+ {
+  "title": "Pet:Mirth_Spider",
+  "slug": "Mirth_Spider"
+ },
+ {
+  "title": "Pet:Mischievous_Devil",
+  "slug": "Mischievous_Devil"
+ },
+ {
+  "title": "Pet:Mischievous_Minstrel",
+  "slug": "Mischievous_Minstrel"
+ },
+ {
+  "title": "Pet:Mist_Kitten",
+  "slug": "Mist_Kitten"
+ },
+ {
+  "title": "Pet:Mister_Incinerator",
+  "slug": "Mister_Incinerator"
+ },
+ {
+  "title": "Pet:Moltentaur",
+  "slug": "Moltentaur"
+ },
+ {
+  "title": "Pet:Monochropotamus",
+  "slug": "Monochropotamus"
+ },
+ {
+  "title": "Pet:Morbid_Macawbre",
+  "slug": "Morbid_Macawbre"
+ },
+ {
+  "title": "Pet:Morbitaur",
+  "slug": "Morbitaur"
+ },
+ {
+  "title": "Pet:Morzilla",
+  "slug": "Morzilla"
+ },
+ {
+  "title": "Pet:Mosseaten_Treant",
+  "slug": "Mosseaten_Treant"
+ },
+ {
+  "title": "Pet:Motley_Pegasus",
+  "slug": "Motley_Pegasus"
+ },
+ {
+  "title": "Pet:Mottled_Piggle",
+  "slug": "Mottled_Piggle"
+ },
+ {
+  "title": "Pet:Mountain_Yeti",
+  "slug": "Mountain_Yeti"
+ },
+ {
+  "title": "Pet:Mulberry_Hound",
+  "slug": "Mulberry_Hound"
+ },
+ {
+  "title": "Pet:Mummy_Cat",
+  "slug": "Mummy_Cat"
+ },
+ {
+  "title": "Pet:Muscled_Cat",
+  "slug": "Muscled_Cat"
+ },
+ {
+  "title": "Pet:Mustard_Troll",
+  "slug": "Mustard_Troll"
+ },
+ {
+  "title": "Pet:Mydra",
+  "slug": "Mydra"
+ },
+ {
+  "title": "Pet:Mystic_Plushie",
+  "slug": "Mystic_Plushie"
+ },
+ {
+  "title": "Pet:Myth-ish_Frog",
+  "slug": "Myth-ish_Frog"
+ },
+ {
+  "title": "Pet:Myth_Armaments",
+  "slug": "Myth_Armaments"
+ },
+ {
+  "title": "Pet:Myth_Banshee",
+  "slug": "Myth_Banshee"
+ },
+ {
+  "title": "Pet:Myth_Class_Pet_71",
+  "slug": "Myth_Class_Pet_71"
+ },
+ {
+  "title": "Pet:Myth_Class_Pet_73",
+  "slug": "Myth_Class_Pet_73"
+ },
+ {
+  "title": "Pet:Myth_Ghoul",
+  "slug": "Myth_Ghoul"
+ },
+ {
+  "title": "Pet:Myth_Imp",
+  "slug": "Myth_Imp"
+ },
+ {
+  "title": "Pet:Myth_Leprechaun",
+  "slug": "Myth_Leprechaun"
+ },
+ {
+  "title": "Pet:Myth_Potbelly",
+  "slug": "Myth_Potbelly"
+ },
+ {
+  "title": "Pet:Myth_Sprite",
+  "slug": "Myth_Sprite"
+ },
+ {
+  "title": "Pet:Myth_Treant",
+  "slug": "Myth_Treant"
+ },
+ {
+  "title": "Pet:Myth_Wartle",
+  "slug": "Myth_Wartle"
+ },
+ {
+  "title": "Pet:Mythdactyl",
+  "slug": "Mythdactyl"
+ },
+ {
+  "title": "Pet:Mythic_Beast",
+  "slug": "Mythic_Beast"
+ },
+ {
+  "title": "Pet:Mythic_Glowbug",
+  "slug": "Mythic_Glowbug"
+ },
+ {
+  "title": "Pet:Mythic_Null_Dragon",
+  "slug": "Mythic_Null_Dragon"
+ },
+ {
+  "title": "Pet:Mythic_Skeleturion",
+  "slug": "Mythic_Skeleturion"
+ },
+ {
+  "title": "Pet:Mythical_Basilisk",
+  "slug": "Mythical_Basilisk"
+ },
+ {
+  "title": "Pet:Mythomummy",
+  "slug": "Mythomummy"
+ },
+ {
+  "title": "Pet:Mythotaur",
+  "slug": "Mythotaur"
+ },
+ {
+  "title": "Pet:Mythzilla",
+  "slug": "Mythzilla"
+ },
+ {
+  "title": "Pet:Nature's_Rage",
+  "slug": "Nature's_Rage"
+ },
+ {
+  "title": "Pet:Necroninja",
+  "slug": "Necroninja"
+ },
+ {
+  "title": "Pet:Necrotic_Ninja_Pig",
+  "slug": "Necrotic_Ninja_Pig"
+ },
+ {
+  "title": "Pet:New_Year's_Treant",
+  "slug": "New_Year's_Treant"
+ },
+ {
+  "title": "Pet:Newt",
+  "slug": "Newt"
+ },
+ {
+  "title": "Pet:Nice_Dragon",
+  "slug": "Nice_Dragon"
+ },
+ {
+  "title": "Pet:Night_Hawk",
+  "slug": "Night_Hawk"
+ },
+ {
+  "title": "Pet:Night_Rabbit",
+  "slug": "Night_Rabbit"
+ },
+ {
+  "title": "Pet:Nightmare",
+  "slug": "Nightmare"
+ },
+ {
+  "title": "Pet:Nightwalker",
+  "slug": "Nightwalker"
+ },
+ {
+  "title": "Pet:Nimble_Piggle",
+  "slug": "Nimble_Piggle"
+ },
+ {
+  "title": "Pet:Nimbus_Elf",
+  "slug": "Nimbus_Elf"
+ },
+ {
+  "title": "Pet:Nimbus_Puppy",
+  "slug": "Nimbus_Puppy"
+ },
+ {
+  "title": "Pet:Ninja_Pig",
+  "slug": "Ninja_Pig"
+ },
+ {
+  "title": "Pet:Ninja_Piggle",
+  "slug": "Ninja_Piggle"
+ },
+ {
+  "title": "Pet:Noble_Toad",
+  "slug": "Noble_Toad"
+ },
+ {
+  "title": "Pet:Nodori_Winged_Ram",
+  "slug": "Nodori_Winged_Ram"
+ },
+ {
+  "title": "Pet:Noir_Ninja",
+  "slug": "Noir_Ninja"
+ },
+ {
+  "title": "Pet:Notorious_Moon",
+  "slug": "Notorious_Moon"
+ },
+ {
+  "title": "Pet:Nutcracker",
+  "slug": "Nutcracker"
+ },
+ {
+  "title": "Pet:Obsidian_Mimic",
+  "slug": "Obsidian_Mimic"
+ },
+ {
+  "title": "Pet:Ogon_Koi",
+  "slug": "Ogon_Koi"
+ },
+ {
+  "title": "Pet:Old_Timey_Dactyl",
+  "slug": "Old_Timey_Dactyl"
+ },
+ {
+  "title": "Pet:Ominous_Octopus",
+  "slug": "Ominous_Octopus"
+ },
+ {
+  "title": "Pet:Ominous_Strix",
+  "slug": "Ominous_Strix"
+ },
+ {
+  "title": "Pet:Onyx_Shenlong_Dragon",
+  "slug": "Onyx_Shenlong_Dragon"
+ },
+ {
+  "title": "Pet:Opossum",
+  "slug": "Opossum"
+ },
+ {
+  "title": "Pet:Orca",
+  "slug": "Orca"
+ },
+ {
+  "title": "Pet:Origami_Cardinal",
+  "slug": "Origami_Cardinal"
+ },
+ {
+  "title": "Pet:Origami_Crane",
+  "slug": "Origami_Crane"
+ },
+ {
+  "title": "Pet:Origami_Party_Crane",
+  "slug": "Origami_Party_Crane"
+ },
+ {
+  "title": "Pet:Orthrus",
+  "slug": "Orthrus"
+ },
+ {
+  "title": "Pet:Overclocked_Kit-10",
+  "slug": "Overclocked_Kit-10"
+ },
+ {
+  "title": "Pet:Owl_Protege",
+  "slug": "Owl_Protege"
+ },
+ {
+  "title": "Pet:Pachydune",
+  "slug": "Pachydune"
+ },
+ {
+  "title": "Pet:Pairity_Fairy",
+  "slug": "Pairity_Fairy"
+ },
+ {
+  "title": "Pet:Pale_Maiden",
+  "slug": "Pale_Maiden"
+ },
+ {
+  "title": "Pet:Paleo_Piggle",
+  "slug": "Paleo_Piggle"
+ },
+ {
+  "title": "Pet:Panda_Sproutlings",
+  "slug": "Panda_Sproutlings"
+ },
+ {
+  "title": "Pet:Panther",
+  "slug": "Panther"
+ },
+ {
+  "title": "Pet:Panther_Kit-10",
+  "slug": "Panther_Kit-10"
+ },
+ {
+  "title": "Pet:Papa_Cheesiwitz",
+  "slug": "Papa_Cheesiwitz"
+ },
+ {
+  "title": "Pet:Parabull",
+  "slug": "Parabull"
+ },
+ {
+  "title": "Pet:Party_Corgi",
+  "slug": "Party_Corgi"
+ },
+ {
+  "title": "Pet:Party_Lumi",
+  "slug": "Party_Lumi"
+ },
+ {
+  "title": "Pet:Patient_Seraph",
+  "slug": "Patient_Seraph"
+ },
+ {
+  "title": "Pet:Patriotic_Leprechaun",
+  "slug": "Patriotic_Leprechaun"
+ },
+ {
+  "title": "Pet:Peace_Dove",
+  "slug": "Peace_Dove"
+ },
+ {
+  "title": "Pet:Peckish_Flytrap",
+  "slug": "Peckish_Flytrap"
+ },
+ {
+  "title": "Pet:Pegasus_Pony",
+  "slug": "Pegasus_Pony"
+ },
+ {
+  "title": "Pet:Penumbra_Drake",
+  "slug": "Penumbra_Drake"
+ },
+ {
+  "title": "Pet:Peppy_Porpoise",
+  "slug": "Peppy_Porpoise"
+ },
+ {
+  "title": "Pet:Perfect_Piggle",
+  "slug": "Perfect_Piggle"
+ },
+ {
+  "title": "Pet:Periwinkle_Hound",
+  "slug": "Periwinkle_Hound"
+ },
+ {
+  "title": "Pet:Permafright",
+  "slug": "Permafright"
+ },
+ {
+  "title": "Pet:Pesky_Beetle",
+  "slug": "Pesky_Beetle"
+ },
+ {
+  "title": "Pet:Pet_Coconut",
+  "slug": "Pet_Coconut"
+ },
+ {
+  "title": "Pet:Pet_Egg",
+  "slug": "Pet_Egg"
+ },
+ {
+  "title": "Pet:Pet_Peeve",
+  "slug": "Pet_Peeve"
+ },
+ {
+  "title": "Pet:Pet_Rock",
+  "slug": "Pet_Rock"
+ },
+ {
+  "title": "Pet:Pet_Rocker",
+  "slug": "Pet_Rocker"
+ },
+ {
+  "title": "Pet:Phantasm",
+  "slug": "Phantasm"
+ },
+ {
+  "title": "Pet:Phantasmanian_Imp",
+  "slug": "Phantasmanian_Imp"
+ },
+ {
+  "title": "Pet:Phoenix",
+  "slug": "Phoenix"
+ },
+ {
+  "title": "Pet:Piggle",
+  "slug": "Piggle"
+ },
+ {
+  "title": "Pet:Pineapple_Pal",
+  "slug": "Pineapple_Pal"
+ },
+ {
+  "title": "Pet:Pink_Cactus_Hopper",
+  "slug": "Pink_Cactus_Hopper"
+ },
+ {
+  "title": "Pet:Pink_Jellyfish",
+  "slug": "Pink_Jellyfish"
+ },
+ {
+  "title": "Pet:Pink_Pixie",
+  "slug": "Pink_Pixie"
+ },
+ {
+  "title": "Pet:Pioneer_Dragon",
+  "slug": "Pioneer_Dragon"
+ },
+ {
+  "title": "Pet:Piranha_Hunter",
+  "slug": "Piranha_Hunter"
+ },
+ {
+  "title": "Pet:Pixie_Queen_29_(No_Card)",
+  "slug": "Pixie_Queen_29_(No_Card)"
+ },
+ {
+  "title": "Pet:Pixie_Queen_57_(Card)",
+  "slug": "Pixie_Queen_57_(Card)"
+ },
+ {
+  "title": "Pet:Plague_Ninja",
+  "slug": "Plague_Ninja"
+ },
+ {
+  "title": "Pet:Plague_Oni",
+  "slug": "Plague_Oni"
+ },
+ {
+  "title": "Pet:Plantain_Spider",
+  "slug": "Plantain_Spider"
+ },
+ {
+  "title": "Pet:Playful_Panda_Cubs",
+  "slug": "Playful_Panda_Cubs"
+ },
+ {
+  "title": "Pet:Plucky_Clover",
+  "slug": "Plucky_Clover"
+ },
+ {
+  "title": "Pet:Plucky_Gryphon",
+  "slug": "Plucky_Gryphon"
+ },
+ {
+  "title": "Pet:Poised_Pixie",
+  "slug": "Poised_Pixie"
+ },
+ {
+  "title": "Pet:Poison_Toad",
+  "slug": "Poison_Toad"
+ },
+ {
+  "title": "Pet:Polar_Bear_Cub",
+  "slug": "Polar_Bear_Cub"
+ },
+ {
+  "title": "Pet:Polar_Cat",
+  "slug": "Polar_Cat"
+ },
+ {
+  "title": "Pet:Polar_Elf",
+  "slug": "Polar_Elf"
+ },
+ {
+  "title": "Pet:Polar_Fox",
+  "slug": "Polar_Fox"
+ },
+ {
+  "title": "Pet:Polterpooch",
+  "slug": "Polterpooch"
+ },
+ {
+  "title": "Pet:Pork_Ranger",
+  "slug": "Pork_Ranger"
+ },
+ {
+  "title": "Pet:Power_Dragon",
+  "slug": "Power_Dragon"
+ },
+ {
+  "title": "Pet:Power_Pig",
+  "slug": "Power_Pig"
+ },
+ {
+  "title": "Pet:Power_Piggle",
+  "slug": "Power_Piggle"
+ },
+ {
+  "title": "Pet:Precious_Panda_Cubs",
+  "slug": "Precious_Panda_Cubs"
+ },
+ {
+  "title": "Pet:Precocious_Panda_Cubs",
+  "slug": "Precocious_Panda_Cubs"
+ },
+ {
+  "title": "Pet:Premier_Porker",
+  "slug": "Premier_Porker"
+ },
+ {
+  "title": "Pet:Pretty_Pegasus",
+  "slug": "Pretty_Pegasus"
+ },
+ {
+  "title": "Pet:Pride_Piggle",
+  "slug": "Pride_Piggle"
+ },
+ {
+  "title": "Pet:Primal_Wildclaw",
+  "slug": "Primal_Wildclaw"
+ },
+ {
+  "title": "Pet:Prime_Piggle",
+  "slug": "Prime_Piggle"
+ },
+ {
+  "title": "Pet:Prismatic_Pegasus",
+  "slug": "Prismatic_Pegasus"
+ },
+ {
+  "title": "Pet:Propeller_Cat",
+  "slug": "Propeller_Cat"
+ },
+ {
+  "title": "Pet:Proper_Penguin",
+  "slug": "Proper_Penguin"
+ },
+ {
+  "title": "Pet:Prudent_Hound",
+  "slug": "Prudent_Hound"
+ },
+ {
+  "title": "Pet:Pryus_Draconis",
+  "slug": "Pryus_Draconis"
+ },
+ {
+  "title": "Pet:Puffy_Packfish",
+  "slug": "Puffy_Packfish"
+ },
+ {
+  "title": "Pet:Pugilist_Pig",
+  "slug": "Pugilist_Pig"
+ },
+ {
+  "title": "Pet:Puma_Kit-10",
+  "slug": "Puma_Kit-10"
+ },
+ {
+  "title": "Pet:Pup_Prodigy",
+  "slug": "Pup_Prodigy"
+ },
+ {
+  "title": "Pet:Purple_Globulin",
+  "slug": "Purple_Globulin"
+ },
+ {
+  "title": "Pet:Purple_Spider",
+  "slug": "Purple_Spider"
+ },
+ {
+  "title": "Pet:Pyramid_Colossus",
+  "slug": "Pyramid_Colossus"
+ },
+ {
+  "title": "Pet:Pyre_Bat",
+  "slug": "Pyre_Bat"
+ },
+ {
+  "title": "Pet:Pyre_Elf",
+  "slug": "Pyre_Elf"
+ },
+ {
+  "title": "Pet:Pyro_Pest",
+  "slug": "Pyro_Pest"
+ },
+ {
+  "title": "Pet:Pyroculus_Maximus",
+  "slug": "Pyroculus_Maximus"
+ },
+ {
+  "title": "Pet:Quarrion",
+  "slug": "Quarrion"
+ },
+ {
+  "title": "Pet:Queen_Bee",
+  "slug": "Queen_Bee"
+ },
+ {
+  "title": "Pet:Queen_Spider",
+  "slug": "Queen_Spider"
+ },
+ {
+  "title": "Pet:Quick_Piggle",
+  "slug": "Quick_Piggle"
+ },
+ {
+  "title": "Pet:Quirky_Piggle",
+  "slug": "Quirky_Piggle"
+ },
+ {
+  "title": "Pet:Raging_Bull",
+  "slug": "Raging_Bull"
+ },
+ {
+  "title": "Pet:Raging_Shark",
+  "slug": "Raging_Shark"
+ },
+ {
+  "title": "Pet:Rain_Colossus",
+  "slug": "Rain_Colossus"
+ },
+ {
+  "title": "Pet:Rain_Core",
+  "slug": "Rain_Core"
+ },
+ {
+  "title": "Pet:Rain_Demon",
+  "slug": "Rain_Demon"
+ },
+ {
+  "title": "Pet:RainyPoly",
+  "slug": "RainyPoly"
+ },
+ {
+  "title": "Pet:Ram_Warrior",
+  "slug": "Ram_Warrior"
+ },
+ {
+  "title": "Pet:Rambler's_Runner",
+  "slug": "Rambler's_Runner"
+ },
+ {
+  "title": "Pet:Rancher's_Runner",
+  "slug": "Rancher's_Runner"
+ },
+ {
+  "title": "Pet:Rancid_Ninja_Pig",
+  "slug": "Rancid_Ninja_Pig"
+ },
+ {
+  "title": "Pet:Rat_Justicar",
+  "slug": "Rat_Justicar"
+ },
+ {
+  "title": "Pet:Rat_Magician",
+  "slug": "Rat_Magician"
+ },
+ {
+  "title": "Pet:Rat_Pickpocket",
+  "slug": "Rat_Pickpocket"
+ },
+ {
+  "title": "Pet:Ratscallion",
+  "slug": "Ratscallion"
+ },
+ {
+  "title": "Pet:Rattlebones's_Sprite",
+  "slug": "Rattlebones's_Sprite"
+ },
+ {
+  "title": "Pet:Raven",
+  "slug": "Raven"
+ },
+ {
+  "title": "Pet:Ravenous_Flytrap",
+  "slug": "Ravenous_Flytrap"
+ },
+ {
+  "title": "Pet:Ravenous_Zorphie",
+  "slug": "Ravenous_Zorphie"
+ },
+ {
+  "title": "Pet:Ravenwood_Class_Pet",
+  "slug": "Ravenwood_Class_Pet"
+ },
+ {
+  "title": "Pet:Ravenwood_Piggle",
+  "slug": "Ravenwood_Piggle"
+ },
+ {
+  "title": "Pet:Red_Apple_Brudel",
+  "slug": "Red_Apple_Brudel"
+ },
+ {
+  "title": "Pet:Red_Banshee",
+  "slug": "Red_Banshee"
+ },
+ {
+  "title": "Pet:Red_Cactus_Hopper",
+  "slug": "Red_Cactus_Hopper"
+ },
+ {
+  "title": "Pet:Red_Cap",
+  "slug": "Red_Cap"
+ },
+ {
+  "title": "Pet:Red_Ghost",
+  "slug": "Red_Ghost"
+ },
+ {
+  "title": "Pet:Red_Gobbler",
+  "slug": "Red_Gobbler"
+ },
+ {
+  "title": "Pet:Red_Hot_Sun",
+  "slug": "Red_Hot_Sun"
+ },
+ {
+  "title": "Pet:Red_Panda",
+  "slug": "Red_Panda"
+ },
+ {
+  "title": "Pet:Regal_Skeleton",
+  "slug": "Regal_Skeleton"
+ },
+ {
+  "title": "Pet:Rescue_Rover",
+  "slug": "Rescue_Rover"
+ },
+ {
+  "title": "Pet:Resolute_Bloodbat",
+  "slug": "Resolute_Bloodbat"
+ },
+ {
+  "title": "Pet:Revered_Dragon",
+  "slug": "Revered_Dragon"
+ },
+ {
+  "title": "Pet:Rimewing_Fey",
+  "slug": "Rimewing_Fey"
+ },
+ {
+  "title": "Pet:RimyPoly",
+  "slug": "RimyPoly"
+ },
+ {
+  "title": "Pet:Road_Hog",
+  "slug": "Road_Hog"
+ },
+ {
+  "title": "Pet:Roccaneer",
+  "slug": "Roccaneer"
+ },
+ {
+  "title": "Pet:Rock_Skipper",
+  "slug": "Rock_Skipper"
+ },
+ {
+  "title": "Pet:Rockin'_Roller",
+  "slug": "Rockin'_Roller"
+ },
+ {
+  "title": "Pet:Rodetheus",
+  "slug": "Rodetheus"
+ },
+ {
+  "title": "Pet:RoilyPoly",
+  "slug": "RoilyPoly"
+ },
+ {
+  "title": "Pet:Rolly_Scrolly",
+  "slug": "Rolly_Scrolly"
+ },
+ {
+  "title": "Pet:Rooted_Grimoire",
+  "slug": "Rooted_Grimoire"
+ },
+ {
+  "title": "Pet:Rose_Pixie",
+  "slug": "Rose_Pixie"
+ },
+ {
+  "title": "Pet:Roseate_Pixie",
+  "slug": "Roseate_Pixie"
+ },
+ {
+  "title": "Pet:Rotted_Treant",
+  "slug": "Rotted_Treant"
+ },
+ {
+  "title": "Pet:Rotten_Candy",
+  "slug": "Rotten_Candy"
+ },
+ {
+  "title": "Pet:Rowdy_Wildclaw",
+  "slug": "Rowdy_Wildclaw"
+ },
+ {
+  "title": "Pet:Royal_Armored_Skeleton",
+  "slug": "Royal_Armored_Skeleton"
+ },
+ {
+  "title": "Pet:Royal_Dragon",
+  "slug": "Royal_Dragon"
+ },
+ {
+  "title": "Pet:Royal_Ibis",
+  "slug": "Royal_Ibis"
+ },
+ {
+  "title": "Pet:Ruby_Shenlong_Dragon",
+  "slug": "Ruby_Shenlong_Dragon"
+ },
+ {
+  "title": "Pet:Rude_Goblin",
+  "slug": "Rude_Goblin"
+ },
+ {
+  "title": "Pet:Sabertooth",
+  "slug": "Sabertooth"
+ },
+ {
+  "title": "Pet:Safety_Hound",
+  "slug": "Safety_Hound"
+ },
+ {
+  "title": "Pet:Sailback_Skink",
+  "slug": "Sailback_Skink"
+ },
+ {
+  "title": "Pet:Salty_Gingerbreadman",
+  "slug": "Salty_Gingerbreadman"
+ },
+ {
+  "title": "Pet:Samoorai",
+  "slug": "Samoorai"
+ },
+ {
+  "title": "Pet:Sand_Quetzal",
+  "slug": "Sand_Quetzal"
+ },
+ {
+  "title": "Pet:Sand_Worm_Larva",
+  "slug": "Sand_Worm_Larva"
+ },
+ {
+  "title": "Pet:Sandman",
+  "slug": "Sandman"
+ },
+ {
+  "title": "Pet:Sandy_Skeleturion",
+  "slug": "Sandy_Skeleturion"
+ },
+ {
+  "title": "Pet:Satyr",
+  "slug": "Satyr"
+ },
+ {
+  "title": "Pet:Savage_Were-Bear",
+  "slug": "Savage_Were-Bear"
+ },
+ {
+  "title": "Pet:Savage_Wildclaw",
+  "slug": "Savage_Wildclaw"
+ },
+ {
+  "title": "Pet:Scaled_Krok",
+  "slug": "Scaled_Krok"
+ },
+ {
+  "title": "Pet:Scales_Puppy",
+  "slug": "Scales_Puppy"
+ },
+ {
+  "title": "Pet:Scaly_Frillasaur",
+  "slug": "Scaly_Frillasaur"
+ },
+ {
+  "title": "Pet:Scaly_Mortician",
+  "slug": "Scaly_Mortician"
+ },
+ {
+  "title": "Pet:Scarab",
+  "slug": "Scarab"
+ },
+ {
+  "title": "Pet:Scare_Bear",
+  "slug": "Scare_Bear"
+ },
+ {
+  "title": "Pet:Scarecrow",
+  "slug": "Scarecrow"
+ },
+ {
+  "title": "Pet:Scary_Fairy",
+  "slug": "Scary_Fairy"
+ },
+ {
+  "title": "Pet:Scorchzilla",
+  "slug": "Scorchzilla"
+ },
+ {
+  "title": "Pet:Scorpion",
+  "slug": "Scorpion"
+ },
+ {
+  "title": "Pet:Scourge_Treant",
+  "slug": "Scourge_Treant"
+ },
+ {
+  "title": "Pet:Scout_Pig",
+  "slug": "Scout_Pig"
+ },
+ {
+  "title": "Pet:Scrappy_Gryphon",
+  "slug": "Scrappy_Gryphon"
+ },
+ {
+  "title": "Pet:Scratchy_Frillasaur",
+  "slug": "Scratchy_Frillasaur"
+ },
+ {
+  "title": "Pet:Sea_Courser",
+  "slug": "Sea_Courser"
+ },
+ {
+  "title": "Pet:Sea_Dragon",
+  "slug": "Sea_Dragon"
+ },
+ {
+  "title": "Pet:Sea_Turtle",
+  "slug": "Sea_Turtle"
+ },
+ {
+  "title": "Pet:Searing_Scorpion",
+  "slug": "Searing_Scorpion"
+ },
+ {
+  "title": "Pet:Seraph",
+  "slug": "Seraph"
+ },
+ {
+  "title": "Pet:Setesh's_Scarab",
+  "slug": "Setesh's_Scarab"
+ },
+ {
+  "title": "Pet:Shade_Hydra",
+  "slug": "Shade_Hydra"
+ },
+ {
+  "title": "Pet:Shadow_Beast",
+  "slug": "Shadow_Beast"
+ },
+ {
+  "title": "Pet:Shadow_Webling",
+  "slug": "Shadow_Webling"
+ },
+ {
+  "title": "Pet:Shaolin_Monkey",
+  "slug": "Shaolin_Monkey"
+ },
+ {
+  "title": "Pet:Shardtail_Dragon",
+  "slug": "Shardtail_Dragon"
+ },
+ {
+  "title": "Pet:Sheep",
+  "slug": "Sheep"
+ },
+ {
+  "title": "Pet:Shellnobi_Warrior",
+  "slug": "Shellnobi_Warrior"
+ },
+ {
+  "title": "Pet:Shiverous_Knight",
+  "slug": "Shiverous_Knight"
+ },
+ {
+  "title": "Pet:Shock_Colossus",
+  "slug": "Shock_Colossus"
+ },
+ {
+  "title": "Pet:Shock_Demon",
+  "slug": "Shock_Demon"
+ },
+ {
+  "title": "Pet:Shockodile",
+  "slug": "Shockodile"
+ },
+ {
+  "title": "Pet:Showa_Koi",
+  "slug": "Showa_Koi"
+ },
+ {
+  "title": "Pet:Shriveled_Savant",
+  "slug": "Shriveled_Savant"
+ },
+ {
+  "title": "Pet:Shrouded_Starry",
+  "slug": "Shrouded_Starry"
+ },
+ {
+  "title": "Pet:Shusui_Koi",
+  "slug": "Shusui_Koi"
+ },
+ {
+  "title": "Pet:Silver_Colossus",
+  "slug": "Silver_Colossus"
+ },
+ {
+  "title": "Pet:Silverback_Wildclaw",
+  "slug": "Silverback_Wildclaw"
+ },
+ {
+  "title": "Pet:Sinister_Strix",
+  "slug": "Sinister_Strix"
+ },
+ {
+  "title": "Pet:Sister_Cheesiwitz",
+  "slug": "Sister_Cheesiwitz"
+ },
+ {
+  "title": "Pet:Skarakeet",
+  "slug": "Skarakeet"
+ },
+ {
+  "title": "Pet:Skeletal_Brigand",
+  "slug": "Skeletal_Brigand"
+ },
+ {
+  "title": "Pet:Skeletal_Champion",
+  "slug": "Skeletal_Champion"
+ },
+ {
+  "title": "Pet:Skeletal_Gladiator",
+  "slug": "Skeletal_Gladiator"
+ },
+ {
+  "title": "Pet:Skeletal_Honor_Guard",
+  "slug": "Skeletal_Honor_Guard"
+ },
+ {
+  "title": "Pet:Skeletal_Knight",
+  "slug": "Skeletal_Knight"
+ },
+ {
+  "title": "Pet:Skeletal_Legionnaire",
+  "slug": "Skeletal_Legionnaire"
+ },
+ {
+  "title": "Pet:Skeletal_Marauder",
+  "slug": "Skeletal_Marauder"
+ },
+ {
+  "title": "Pet:Skeletal_Rogue",
+  "slug": "Skeletal_Rogue"
+ },
+ {
+  "title": "Pet:Skeletal_Scoundrel",
+  "slug": "Skeletal_Scoundrel"
+ },
+ {
+  "title": "Pet:Skeletal_Skulk",
+  "slug": "Skeletal_Skulk"
+ },
+ {
+  "title": "Pet:Skeletal_Sneak",
+  "slug": "Skeletal_Sneak"
+ },
+ {
+  "title": "Pet:Skeletal_Warrior",
+  "slug": "Skeletal_Warrior"
+ },
+ {
+  "title": "Pet:Skink",
+  "slug": "Skink"
+ },
+ {
+  "title": "Pet:Skull_Puppy",
+  "slug": "Skull_Puppy"
+ },
+ {
+  "title": "Pet:Skyscream_Demon",
+  "slug": "Skyscream_Demon"
+ },
+ {
+  "title": "Pet:Skyslash_Demon",
+  "slug": "Skyslash_Demon"
+ },
+ {
+  "title": "Pet:Sleet_Bat",
+  "slug": "Sleet_Bat"
+ },
+ {
+  "title": "Pet:Sleet_Elf",
+  "slug": "Sleet_Elf"
+ },
+ {
+  "title": "Pet:Slick_Thief",
+  "slug": "Slick_Thief"
+ },
+ {
+  "title": "Pet:Sly_Piggle",
+  "slug": "Sly_Piggle"
+ },
+ {
+  "title": "Pet:Small_U'Bah",
+  "slug": "Small_U'Bah"
+ },
+ {
+  "title": "Pet:Smarty_Piggle",
+  "slug": "Smarty_Piggle"
+ },
+ {
+  "title": "Pet:Smite_Rabbit",
+  "slug": "Smite_Rabbit"
+ },
+ {
+  "title": "Pet:Smith",
+  "slug": "Smith"
+ },
+ {
+  "title": "Pet:Snake_in_a_Basket",
+  "slug": "Snake_in_a_Basket"
+ },
+ {
+  "title": "Pet:Snallygaster",
+  "slug": "Snallygaster"
+ },
+ {
+  "title": "Pet:Snappy_Frillasaur",
+  "slug": "Snappy_Frillasaur"
+ },
+ {
+  "title": "Pet:Snappy_Gryphon",
+  "slug": "Snappy_Gryphon"
+ },
+ {
+  "title": "Pet:Sneaky_Piggle",
+  "slug": "Sneaky_Piggle"
+ },
+ {
+  "title": "Pet:Snow-Covered_Elf",
+  "slug": "Snow-Covered_Elf"
+ },
+ {
+  "title": "Pet:Snow_Beast",
+  "slug": "Snow_Beast"
+ },
+ {
+  "title": "Pet:Snow_Elf",
+  "slug": "Snow_Elf"
+ },
+ {
+  "title": "Pet:Snow_Serpent",
+  "slug": "Snow_Serpent"
+ },
+ {
+  "title": "Pet:Snowball",
+  "slug": "Snowball"
+ },
+ {
+  "title": "Pet:Snowblin_of_Ages",
+  "slug": "Snowblin_of_Ages"
+ },
+ {
+  "title": "Pet:Snowflake",
+  "slug": "Snowflake"
+ },
+ {
+  "title": "Pet:Snowflake_Puppy",
+  "slug": "Snowflake_Puppy"
+ },
+ {
+  "title": "Pet:Snowhoppers",
+  "slug": "Snowhoppers"
+ },
+ {
+  "title": "Pet:Snowy_Cat",
+  "slug": "Snowy_Cat"
+ },
+ {
+  "title": "Pet:Snugly_Duckling",
+  "slug": "Snugly_Duckling"
+ },
+ {
+  "title": "Pet:Sokar's_Scarab",
+  "slug": "Sokar's_Scarab"
+ },
+ {
+  "title": "Pet:Sorcerer_Hunter",
+  "slug": "Sorcerer_Hunter"
+ },
+ {
+  "title": "Pet:Soulclops",
+  "slug": "Soulclops"
+ },
+ {
+  "title": "Pet:Soulful_Draconian",
+  "slug": "Soulful_Draconian"
+ },
+ {
+  "title": "Pet:Soulful_Knight",
+  "slug": "Soulful_Knight"
+ },
+ {
+  "title": "Pet:Spark_Beast",
+  "slug": "Spark_Beast"
+ },
+ {
+  "title": "Pet:Spark_Colossus",
+  "slug": "Spark_Colossus"
+ },
+ {
+  "title": "Pet:Sparking_Kit-10",
+  "slug": "Sparking_Kit-10"
+ },
+ {
+  "title": "Pet:Sparkling_Elf",
+  "slug": "Sparkling_Elf"
+ },
+ {
+  "title": "Pet:Speckled_Piggle",
+  "slug": "Speckled_Piggle"
+ },
+ {
+  "title": "Pet:Spectre_Lord",
+  "slug": "Spectre_Lord"
+ },
+ {
+  "title": "Pet:Spectre_of_the_Brocken",
+  "slug": "Spectre_of_the_Brocken"
+ },
+ {
+  "title": "Pet:Spellwrit_Ronin",
+  "slug": "Spellwrit_Ronin"
+ },
+ {
+  "title": "Pet:Spellwrit_Screamer",
+  "slug": "Spellwrit_Screamer"
+ },
+ {
+  "title": "Pet:Spellwrit_Stalker",
+  "slug": "Spellwrit_Stalker"
+ },
+ {
+  "title": "Pet:Spellwrit_Wildclaw",
+  "slug": "Spellwrit_Wildclaw"
+ },
+ {
+  "title": "Pet:Spicy_Gingerbreadman",
+  "slug": "Spicy_Gingerbreadman"
+ },
+ {
+  "title": "Pet:Spider_Golem",
+  "slug": "Spider_Golem"
+ },
+ {
+  "title": "Pet:Spinyfish",
+  "slug": "Spinyfish"
+ },
+ {
+  "title": "Pet:Spirit_of_Nature",
+  "slug": "Spirit_of_Nature"
+ },
+ {
+  "title": "Pet:Spirit_of_the_Forest",
+  "slug": "Spirit_of_the_Forest"
+ },
+ {
+  "title": "Pet:Spirited_Lion_Cubs",
+  "slug": "Spirited_Lion_Cubs"
+ },
+ {
+  "title": "Pet:Spiritual_Dragon",
+  "slug": "Spiritual_Dragon"
+ },
+ {
+  "title": "Pet:Spooky_Macawbre",
+  "slug": "Spooky_Macawbre"
+ },
+ {
+  "title": "Pet:Spooky_Pegasus",
+  "slug": "Spooky_Pegasus"
+ },
+ {
+  "title": "Pet:Sporty_Dragon",
+  "slug": "Sporty_Dragon"
+ },
+ {
+  "title": "Pet:Spring_Chicken",
+  "slug": "Spring_Chicken"
+ },
+ {
+  "title": "Pet:Spring_Sproutling",
+  "slug": "Spring_Sproutling"
+ },
+ {
+  "title": "Pet:Springa_Pig",
+  "slug": "Springa_Pig"
+ },
+ {
+  "title": "Pet:Springing_Chicken",
+  "slug": "Springing_Chicken"
+ },
+ {
+  "title": "Pet:Springtime_Cyclops",
+  "slug": "Springtime_Cyclops"
+ },
+ {
+  "title": "Pet:Sprite",
+  "slug": "Sprite"
+ },
+ {
+  "title": "Pet:Sprite_of_Life",
+  "slug": "Sprite_of_Life"
+ },
+ {
+  "title": "Pet:Squirerel",
+  "slug": "Squirerel"
+ },
+ {
+  "title": "Pet:Squirreligig",
+  "slug": "Squirreligig"
+ },
+ {
+  "title": "Pet:Stabilized_Kit-10",
+  "slug": "Stabilized_Kit-10"
+ },
+ {
+  "title": "Pet:Stable_Octopus",
+  "slug": "Stable_Octopus"
+ },
+ {
+  "title": "Pet:Stained_Glass_Roller",
+  "slug": "Stained_Glass_Roller"
+ },
+ {
+  "title": "Pet:Starburst_Spider",
+  "slug": "Starburst_Spider"
+ },
+ {
+  "title": "Pet:Starfish",
+  "slug": "Starfish"
+ },
+ {
+  "title": "Pet:Stargazer's_Rat",
+  "slug": "Stargazer's_Rat"
+ },
+ {
+  "title": "Pet:Starving_Flytrap",
+  "slug": "Starving_Flytrap"
+ },
+ {
+  "title": "Pet:Stasis_Draconian",
+  "slug": "Stasis_Draconian"
+ },
+ {
+  "title": "Pet:Steady_Null_Dragon",
+  "slug": "Steady_Null_Dragon"
+ },
+ {
+  "title": "Pet:Stealth_Pig",
+  "slug": "Stealth_Pig"
+ },
+ {
+  "title": "Pet:Steel_Golem",
+  "slug": "Steel_Golem"
+ },
+ {
+  "title": "Pet:Stegosaurus",
+  "slug": "Stegosaurus"
+ },
+ {
+  "title": "Pet:Stone_Colossus",
+  "slug": "Stone_Colossus"
+ },
+ {
+  "title": "Pet:Storm-ish_Frog",
+  "slug": "Storm-ish_Frog"
+ },
+ {
+  "title": "Pet:Storm_Armaments",
+  "slug": "Storm_Armaments"
+ },
+ {
+  "title": "Pet:Storm_Beetle",
+  "slug": "Storm_Beetle"
+ },
+ {
+  "title": "Pet:Storm_Bird",
+  "slug": "Storm_Bird"
+ },
+ {
+  "title": "Pet:Storm_Cat",
+  "slug": "Storm_Cat"
+ },
+ {
+  "title": "Pet:Storm_Class_Pet",
+  "slug": "Storm_Class_Pet"
+ },
+ {
+  "title": "Pet:Storm_Colossus",
+  "slug": "Storm_Colossus"
+ },
+ {
+  "title": "Pet:Storm_Demon",
+  "slug": "Storm_Demon"
+ },
+ {
+  "title": "Pet:Storm_Elf",
+  "slug": "Storm_Elf"
+ },
+ {
+  "title": "Pet:Storm_Hamster",
+  "slug": "Storm_Hamster"
+ },
+ {
+  "title": "Pet:Storm_Hound",
+  "slug": "Storm_Hound"
+ },
+ {
+  "title": "Pet:Storm_Potbelly",
+  "slug": "Storm_Potbelly"
+ },
+ {
+  "title": "Pet:Storm_Salamander",
+  "slug": "Storm_Salamander"
+ },
+ {
+  "title": "Pet:Storm_Serpent",
+  "slug": "Storm_Serpent"
+ },
+ {
+  "title": "Pet:Storm_Snowman",
+  "slug": "Storm_Snowman"
+ },
+ {
+  "title": "Pet:Storm_Wartle",
+  "slug": "Storm_Wartle"
+ },
+ {
+  "title": "Pet:Stormbat",
+  "slug": "Stormbat"
+ },
+ {
+  "title": "Pet:Stormotaur",
+  "slug": "Stormotaur"
+ },
+ {
+  "title": "Pet:Stormwarden",
+  "slug": "Stormwarden"
+ },
+ {
+  "title": "Pet:Stormy_Null_Dragon",
+  "slug": "Stormy_Null_Dragon"
+ },
+ {
+  "title": "Pet:Stormy_Ringtail",
+  "slug": "Stormy_Ringtail"
+ },
+ {
+  "title": "Pet:Stormy_Skeleturion",
+  "slug": "Stormy_Skeleturion"
+ },
+ {
+  "title": "Pet:Stormzilla",
+  "slug": "Stormzilla"
+ },
+ {
+  "title": "Pet:Storytelling_Golem",
+  "slug": "Storytelling_Golem"
+ },
+ {
+  "title": "Pet:Storyzilla",
+  "slug": "Storyzilla"
+ },
+ {
+  "title": "Pet:Strange_Beast",
+  "slug": "Strange_Beast"
+ },
+ {
+  "title": "Pet:Stratus_Colossus",
+  "slug": "Stratus_Colossus"
+ },
+ {
+  "title": "Pet:Stray_Piggle",
+  "slug": "Stray_Piggle"
+ },
+ {
+  "title": "Pet:Striped_Boar",
+  "slug": "Striped_Boar"
+ },
+ {
+  "title": "Pet:Sturdy_Dragon",
+  "slug": "Sturdy_Dragon"
+ },
+ {
+  "title": "Pet:Sturdy_Wildclaw",
+  "slug": "Sturdy_Wildclaw"
+ },
+ {
+  "title": "Pet:Stylin'_Corgi",
+  "slug": "Stylin'_Corgi"
+ },
+ {
+  "title": "Pet:Subzero_Snowblin",
+  "slug": "Subzero_Snowblin"
+ },
+ {
+  "title": "Pet:Sultan's_Monkey",
+  "slug": "Sultan's_Monkey"
+ },
+ {
+  "title": "Pet:Summer_Dragon",
+  "slug": "Summer_Dragon"
+ },
+ {
+  "title": "Pet:Summer_Sproutling",
+  "slug": "Summer_Sproutling"
+ },
+ {
+  "title": "Pet:Sun_Bird",
+  "slug": "Sun_Bird"
+ },
+ {
+  "title": "Pet:Sun_Burnt_Gobbler",
+  "slug": "Sun_Burnt_Gobbler"
+ },
+ {
+  "title": "Pet:Sun_Serpent",
+  "slug": "Sun_Serpent"
+ },
+ {
+  "title": "Pet:Sunfire_Foo_Dog",
+  "slug": "Sunfire_Foo_Dog"
+ },
+ {
+  "title": "Pet:Sunny_Lumi",
+  "slug": "Sunny_Lumi"
+ },
+ {
+  "title": "Pet:Super_Goba",
+  "slug": "Super_Goba"
+ },
+ {
+  "title": "Pet:Supportive_Wildclaw",
+  "slug": "Supportive_Wildclaw"
+ },
+ {
+  "title": "Pet:SweetCitrus_Bear",
+  "slug": "SweetCitrus_Bear"
+ },
+ {
+  "title": "Pet:Swift_Piggle",
+  "slug": "Swift_Piggle"
+ },
+ {
+  "title": "Pet:Swinobi",
+  "slug": "Swinobi"
+ },
+ {
+  "title": "Pet:Sylvan_Beast",
+  "slug": "Sylvan_Beast"
+ },
+ {
+  "title": "Pet:Sylvan_Satyr",
+  "slug": "Sylvan_Satyr"
+ },
+ {
+  "title": "Pet:Tailstorm_Pantera",
+  "slug": "Tailstorm_Pantera"
+ },
+ {
+  "title": "Pet:Talented_Piggle",
+  "slug": "Talented_Piggle"
+ },
+ {
+  "title": "Pet:Tanuki",
+  "slug": "Tanuki"
+ },
+ {
+  "title": "Pet:Tarantula_Hawk",
+  "slug": "Tarantula_Hawk"
+ },
+ {
+  "title": "Pet:Tempest",
+  "slug": "Tempest"
+ },
+ {
+  "title": "Pet:Tempestulossus",
+  "slug": "Tempestulossus"
+ },
+ {
+  "title": "Pet:Tentacula",
+  "slug": "Tentacula"
+ },
+ {
+  "title": "Pet:Therizinosaurus",
+  "slug": "Therizinosaurus"
+ },
+ {
+  "title": "Pet:Thrilling_Octopus",
+  "slug": "Thrilling_Octopus"
+ },
+ {
+  "title": "Pet:Thunder_Colossus",
+  "slug": "Thunder_Colossus"
+ },
+ {
+  "title": "Pet:Thunder_Ham",
+  "slug": "Thunder_Ham"
+ },
+ {
+  "title": "Pet:Thunder_Krok",
+  "slug": "Thunder_Krok"
+ },
+ {
+  "title": "Pet:Thundersaurus_Rex",
+  "slug": "Thundersaurus_Rex"
+ },
+ {
+  "title": "Pet:Tiki_Kahuna",
+  "slug": "Tiki_Kahuna"
+ },
+ {
+  "title": "Pet:Timber_Cyclops",
+  "slug": "Timber_Cyclops"
+ },
+ {
+  "title": "Pet:Timberland_Yeti",
+  "slug": "Timberland_Yeti"
+ },
+ {
+  "title": "Pet:Toaddle",
+  "slug": "Toaddle"
+ },
+ {
+  "title": "Pet:Tomb_Banshee",
+  "slug": "Tomb_Banshee"
+ },
+ {
+  "title": "Pet:Tornadilla",
+  "slug": "Tornadilla"
+ },
+ {
+  "title": "Pet:Toucan't",
+  "slug": "Toucan't"
+ },
+ {
+  "title": "Pet:Tough_Piggle",
+  "slug": "Tough_Piggle"
+ },
+ {
+  "title": "Pet:Tough_Troll",
+  "slug": "Tough_Troll"
+ },
+ {
+  "title": "Pet:Towering_Inferno",
+  "slug": "Towering_Inferno"
+ },
+ {
+  "title": "Pet:Toxic_Beetle",
+  "slug": "Toxic_Beetle"
+ },
+ {
+  "title": "Pet:Toy_Dragon",
+  "slug": "Toy_Dragon"
+ },
+ {
+  "title": "Pet:Toy_Golem",
+  "slug": "Toy_Golem"
+ },
+ {
+  "title": "Pet:Treant",
+  "slug": "Treant"
+ },
+ {
+  "title": "Pet:Trendkill_Pantera",
+  "slug": "Trendkill_Pantera"
+ },
+ {
+  "title": "Pet:Tricky_Dragon",
+  "slug": "Tricky_Dragon"
+ },
+ {
+  "title": "Pet:Tricky_Wildclaw",
+  "slug": "Tricky_Wildclaw"
+ },
+ {
+  "title": "Pet:Triton",
+  "slug": "Triton"
+ },
+ {
+  "title": "Pet:Trojan_Horse",
+  "slug": "Trojan_Horse"
+ },
+ {
+  "title": "Pet:Troll",
+  "slug": "Troll"
+ },
+ {
+  "title": "Pet:Trolling_Stone",
+  "slug": "Trolling_Stone"
+ },
+ {
+  "title": "Pet:Trusty_Terrier",
+  "slug": "Trusty_Terrier"
+ },
+ {
+  "title": "Pet:Tulip_Lumi",
+  "slug": "Tulip_Lumi"
+ },
+ {
+  "title": "Pet:Tundra_Howler",
+  "slug": "Tundra_Howler"
+ },
+ {
+  "title": "Pet:Twilight_Rabbit",
+  "slug": "Twilight_Rabbit"
+ },
+ {
+  "title": "Pet:Typhoon_Kahuna",
+  "slug": "Typhoon_Kahuna"
+ },
+ {
+  "title": "Pet:Unicorn",
+  "slug": "Unicorn"
+ },
+ {
+  "title": "Pet:Utility_Dragon",
+  "slug": "Utility_Dragon"
+ },
+ {
+  "title": "Pet:Vacant_Knight",
+  "slug": "Vacant_Knight"
+ },
+ {
+  "title": "Pet:Valentine_Pig",
+  "slug": "Valentine_Pig"
+ },
+ {
+  "title": "Pet:Vampire",
+  "slug": "Vampire"
+ },
+ {
+  "title": "Pet:Vampire_Squirrel",
+  "slug": "Vampire_Squirrel"
+ },
+ {
+  "title": "Pet:Vaporous_Knight",
+  "slug": "Vaporous_Knight"
+ },
+ {
+  "title": "Pet:Velociraptor",
+  "slug": "Velociraptor"
+ },
+ {
+  "title": "Pet:Verdant_Vermin",
+  "slug": "Verdant_Vermin"
+ },
+ {
+  "title": "Pet:Verglas_Grimoire",
+  "slug": "Verglas_Grimoire"
+ },
+ {
+  "title": "Pet:Vernal_Draconian",
+  "slug": "Vernal_Draconian"
+ },
+ {
+  "title": "Pet:Vexing_Imp",
+  "slug": "Vexing_Imp"
+ },
+ {
+  "title": "Pet:Vexing_Pet_Peeve",
+  "slug": "Vexing_Pet_Peeve"
+ },
+ {
+  "title": "Pet:Vibrant_Pegasus",
+  "slug": "Vibrant_Pegasus"
+ },
+ {
+  "title": "Pet:Vicious_Zorphie",
+  "slug": "Vicious_Zorphie"
+ },
+ {
+  "title": "Pet:Vigilant_Dragon",
+  "slug": "Vigilant_Dragon"
+ },
+ {
+  "title": "Pet:Violet_Gloomi",
+  "slug": "Violet_Gloomi"
+ },
+ {
+  "title": "Pet:Violet_Hound",
+  "slug": "Violet_Hound"
+ },
+ {
+  "title": "Pet:Violet_Lumi",
+  "slug": "Violet_Lumi"
+ },
+ {
+  "title": "Pet:Viper_in_a_Jar",
+  "slug": "Viper_in_a_Jar"
+ },
+ {
+  "title": "Pet:Viridian_Cyclops",
+  "slug": "Viridian_Cyclops"
+ },
+ {
+  "title": "Pet:Void_Basilisk",
+  "slug": "Void_Basilisk"
+ },
+ {
+  "title": "Pet:Voidbird",
+  "slug": "Voidbird"
+ },
+ {
+  "title": "Pet:Wandering_Eye",
+  "slug": "Wandering_Eye"
+ },
+ {
+  "title": "Pet:Wandering_Spider",
+  "slug": "Wandering_Spider"
+ },
+ {
+  "title": "Pet:War_Pig",
+  "slug": "War_Pig"
+ },
+ {
+  "title": "Pet:Warden's_Icehound",
+  "slug": "Warden's_Icehound"
+ },
+ {
+  "title": "Pet:Wargoyle",
+  "slug": "Wargoyle"
+ },
+ {
+  "title": "Pet:Watchful_Hound",
+  "slug": "Watchful_Hound"
+ },
+ {
+  "title": "Pet:Watercooled_Kit-10",
+  "slug": "Watercooled_Kit-10"
+ },
+ {
+  "title": "Pet:Wayward_Minstrel",
+  "slug": "Wayward_Minstrel"
+ },
+ {
+  "title": "Pet:Weasel_Minstrel",
+  "slug": "Weasel_Minstrel"
+ },
+ {
+  "title": "Pet:Web_Master",
+  "slug": "Web_Master"
+ },
+ {
+  "title": "Pet:Wendigo",
+  "slug": "Wendigo"
+ },
+ {
+  "title": "Pet:Wetland_Hunter",
+  "slug": "Wetland_Hunter"
+ },
+ {
+  "title": "Pet:Whirlwind_Grimoire",
+  "slug": "Whirlwind_Grimoire"
+ },
+ {
+  "title": "Pet:White_Rat_Magician",
+  "slug": "White_Rat_Magician"
+ },
+ {
+  "title": "Pet:White_Tiger",
+  "slug": "White_Tiger"
+ },
+ {
+  "title": "Pet:White_Winter_Owl",
+  "slug": "White_Winter_Owl"
+ },
+ {
+  "title": "Pet:Wild_Octopus",
+  "slug": "Wild_Octopus"
+ },
+ {
+  "title": "Pet:Wild_Were-Bear",
+  "slug": "Wild_Were-Bear"
+ },
+ {
+  "title": "Pet:Wildfire_Treant",
+  "slug": "Wildfire_Treant"
+ },
+ {
+  "title": "Pet:Wildlands_Wolf",
+  "slug": "Wildlands_Wolf"
+ },
+ {
+  "title": "Pet:Wildwood_Cyclops",
+  "slug": "Wildwood_Cyclops"
+ },
+ {
+  "title": "Pet:Wildwood_Yeti",
+  "slug": "Wildwood_Yeti"
+ },
+ {
+  "title": "Pet:Winged_Catastrophe",
+  "slug": "Winged_Catastrophe"
+ },
+ {
+  "title": "Pet:Winter's_Axe",
+  "slug": "Winter's_Axe"
+ },
+ {
+  "title": "Pet:Winter_Prrresent",
+  "slug": "Winter_Prrresent"
+ },
+ {
+  "title": "Pet:Winter_Sproutling",
+  "slug": "Winter_Sproutling"
+ },
+ {
+  "title": "Pet:Winter_Walker",
+  "slug": "Winter_Walker"
+ },
+ {
+  "title": "Pet:Wintry_Elf",
+  "slug": "Wintry_Elf"
+ },
+ {
+  "title": "Pet:Withered_Treant",
+  "slug": "Withered_Treant"
+ },
+ {
+  "title": "Pet:Witty_Wildclaw",
+  "slug": "Witty_Wildclaw"
+ },
+ {
+  "title": "Pet:Woebegone_Draconian",
+  "slug": "Woebegone_Draconian"
+ },
+ {
+  "title": "Pet:Wolfhound",
+  "slug": "Wolfhound"
+ },
+ {
+  "title": "Pet:Wood_Golem",
+  "slug": "Wood_Golem"
+ },
+ {
+  "title": "Pet:Wooden_Duck",
+  "slug": "Wooden_Duck"
+ },
+ {
+  "title": "Pet:Wooden_Eider",
+  "slug": "Wooden_Eider"
+ },
+ {
+  "title": "Pet:Wooden_Loon",
+  "slug": "Wooden_Loon"
+ },
+ {
+  "title": "Pet:Wooden_Mallard",
+  "slug": "Wooden_Mallard"
+ },
+ {
+  "title": "Pet:Wooden_Quacker",
+  "slug": "Wooden_Quacker"
+ },
+ {
+  "title": "Pet:Wooden_Scaup",
+  "slug": "Wooden_Scaup"
+ },
+ {
+  "title": "Pet:Wooden_Scoter",
+  "slug": "Wooden_Scoter"
+ },
+ {
+  "title": "Pet:Wraith",
+  "slug": "Wraith"
+ },
+ {
+  "title": "Pet:Wrangler's_Runner",
+  "slug": "Wrangler's_Runner"
+ },
+ {
+  "title": "Pet:Yellow_Cactus_Hopper",
+  "slug": "Yellow_Cactus_Hopper"
+ },
+ {
+  "title": "Pet:Yellow_Elf",
+  "slug": "Yellow_Elf"
+ },
+ {
+  "title": "Pet:Yellow_Ghost",
+  "slug": "Yellow_Ghost"
+ },
+ {
+  "title": "Pet:Ygor's_Grimoire",
+  "slug": "Ygor's_Grimoire"
+ },
+ {
+  "title": "Pet:Yokai",
+  "slug": "Yokai"
+ },
+ {
+  "title": "Pet:Yuletide_Spirit",
+  "slug": "Yuletide_Spirit"
+ },
+ {
+  "title": "Pet:Yuletide_Yeti",
+  "slug": "Yuletide_Yeti"
+ },
+ {
+  "title": "Pet:Zapclops",
+  "slug": "Zapclops"
+ },
+ {
+  "title": "Pet:Zappy_Glowbug",
+  "slug": "Zappy_Glowbug"
+ },
+ {
+  "title": "Pet:Zaptooth",
+  "slug": "Zaptooth"
+ },
+ {
+  "title": "Pet:Zebra_Piggle",
+  "slug": "Zebra_Piggle"
+ },
+ {
+  "title": "Pet:Zeus's_Harpy",
+  "slug": "Zeus's_Harpy"
+ },
+ {
+  "title": "Pet:Zombee",
+  "slug": "Zombee"
+ },
+ {
+  "title": "Pet:Zombie",
+  "slug": "Zombie"
+ },
+ {
+  "title": "Pet:Zombie_Piggle",
+  "slug": "Zombie_Piggle"
+ }
+]

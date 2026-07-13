@@ -1,5 +1,7 @@
 import MiniSearch from 'minisearch';
 import { renderBuild } from './build.js';
+import { renderGallery } from './gallery.js';
+import { renderPets } from './pets.js';
 
 // Portraits are served from jsDelivr's CDN (backed by the GitHub repo) so the
 // Vercel deploy stays tiny. Local dev uses the on-disk copies.
@@ -538,9 +540,15 @@ function route() {
     $('bossPage').hidden = true;
     $('browsePage').hidden = false;
     renderBrowse();
+  } else if (h.startsWith('#builds')) {
+    setView('gallery');
+    renderGallery(h);
   } else if (h.startsWith('#build')) {
     setView('build');
     renderBuild(h);
+  } else if (h.startsWith('#pets')) {
+    setView('pets');
+    renderPets(h);
   } else {
     setView('home');
   }
@@ -552,6 +560,10 @@ function setView(v) {
   $('viewApp').hidden = v !== 'app';
   const vb = $('viewBuild');
   if (vb) vb.hidden = v !== 'build';
+  const vg = $('viewGallery');
+  if (vg) vg.hidden = v !== 'gallery';
+  const vp = $('viewPets');
+  if (vp) vp.hidden = v !== 'pets';
   if (v === 'home') {
     setTimeout(() => $('homeSearch').focus(), 30);
   }

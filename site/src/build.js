@@ -1,14 +1,11 @@
 // Build Creator — assemble gear + pet, see stats update live, share by link.
 import { computeStats, diffTotals, criticalChance, SCHOOLS, PER_SCHOOL } from './stats.js';
+import {
+  IMG_BASE, SCHOOL_COLORS, SLOT_LABEL, esc, fmt, schoolIcon, describeStats,
+  SCHOOL_ABBR, STAT_UNIT, STAT_WORD,
+} from './display.js';
+import { publishBuild } from './galleryApi.js';
 
-const IMG_BASE = /^(localhost|127\.0\.0\.1)$/.test(location.hostname)
-  ? './img'
-  : 'https://cdn.jsdelivr.net/gh/Ian4448/spiral-boss-codex@main/site/img';
-
-const SCHOOL_COLORS = {
-  Fire: '#e8542f', Ice: '#6db9e8', Storm: '#8b5cf6', Myth: '#e8c02f',
-  Life: '#4caf50', Death: '#a0a0b2', Balance: '#c98a3d',
-};
 const SLOTS = [
   { key: 'hat', label: 'Hat' }, { key: 'robe', label: 'Robe' }, { key: 'boots', label: 'Boots' },
   { key: 'wand', label: 'Wand' }, { key: 'athame', label: 'Athame' }, { key: 'amulet', label: 'Amulet' },
@@ -54,9 +51,6 @@ const state = {
 };
 
 const $ = (id) => document.getElementById(id);
-const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
-const fmt = (n) => (n > 0 ? `+${n}` : `${n}`);
-const schoolIcon = (s) => `<img class="school-icon" src="${IMG_BASE}/schools/${s}.png" alt="${s}" title="${s}">`;
 
 /* -------------- data -------------- */
 
@@ -118,32 +112,6 @@ function slotCard(slot, label) {
   </button>`;
 }
 
-const SCHOOL_ABBR = { Fire: 'Fire', Ice: 'Ice', Storm: 'Storm', Myth: 'Myth', Life: 'Life', Death: 'Death', Balance: 'Bal', Global: 'all' };
-const STAT_UNIT = { damage: '%', resist: '%', pierce: '%', accuracy: '%', critical: '', block: '' };
-const STAT_WORD = { damage: 'dmg', resist: 'resist', pierce: 'pierce', accuracy: 'acc', critical: 'crit', block: 'block' };
-
-// Expressive per-school description of an item's stats, e.g.
-// "+1070 hp · +22% Fire dmg · +18% Myth dmg · +104 Fire crit · +12% resist"
-function describeStats(stats, { max = 99 } = {}) {
-  const out = [];
-  if (stats.maxHealth) out.push(`+${stats.maxHealth} hp`);
-  if (stats.maxMana) out.push(`+${stats.maxMana} mana`);
-  for (const k of ['damage', 'critical', 'pierce', 'resist', 'accuracy', 'block']) {
-    const perSchool = stats[k];
-    if (!perSchool) continue;
-    // sort schools by magnitude, put Global last as "all"
-    const entries = Object.entries(perSchool).sort((a, b) => Math.abs(b[1]) - Math.abs(a[1]));
-    for (const [school, v] of entries) {
-      if (!v) continue;
-      const label = school === 'Global' ? `${STAT_WORD[k]} (all)` : `${SCHOOL_ABBR[school]} ${STAT_WORD[k]}`;
-      out.push(`${fmt(v)}${STAT_UNIT[k]} ${label}`);
-    }
-  }
-  if (stats.powerPipChance) out.push(`+${stats.powerPipChance}% power pip`);
-  if (stats.shadowPipRating) out.push(`+${stats.shadowPipRating} shadow pip`);
-  return out.slice(0, max);
-}
-
 // compact 3-stat summary for slot cards, focused on the equipped school
 function topStats(it) {
   const s = it.stats || {};
@@ -176,8 +144,6 @@ function renderPresets() {
     <div class="presets-chips">${chips}</div>
   </div>`;
 }
-
-const SLOT_LABEL = { hat: 'Hat', robe: 'Robe', boots: 'Boots', wand: 'Wand', athame: 'Athame', amulet: 'Amulet', ring: 'Ring', deck: 'Deck' };
 
 function buildItems(b) {
   // resolve slot -> full item object from the presets item table
@@ -246,6 +212,117 @@ function loadCommunityBuild(b) {
   $('buildLevel').value = state.level; $('buildLevelVal').textContent = state.level;
   rerender();
   syncUrl();
+}
+
+/* -------------- my builds (local) + publish to gallery -------------- */
+
+const MYBUILDS_KEY = 'sbc_mybuilds';
+export function loadMyBuilds() { try { return JSON.parse(localStorage.getItem(MYBUILDS_KEY)) || []; } catch { return []; } }
+function saveMyBuilds(arr) { try { localStorage.setItem(MYBUILDS_KEY, JSON.stringify(arr.slice(0, 100))); } catch { /* quota */ } }
+
+// Serialize the current creator state into a gallery build payload.
+export function currentBuildPayload(meta = {}) {
+  const gear = {};
+  for (const [slot, it] of Object.entries(state.equipped)) {
+    if (!it) continue;
+    gear[slot] = { name: it.name, slot, school: it.school || 'Any', level: it.level || 0, stats: it.stats || {} };
+  }
+  const talents = state.petTalents.map((id) => (PET_TALENTS.find((t) => t.id === id) || {}).name).filter(Boolean);
+  return { school: state.school, level: state.level, gear, talents, ...meta };
+}
+
+// Load any build object (curated or gallery-published) into the creator.
+export async function loadBuildIntoCreator(build) {
+  await ensureIndex();
+  state.school = SCHOOLS.includes(build.school) ? build.school : state.school;
+  state.level = Math.max(100, Math.min(170, build.level || state.level));
+  state.equipped = {};
+  const norm = (s) => String(s || '').toLowerCase().replace(/\s+/g, ' ').trim();
+  for (const [slot, it] of Object.entries(build.gear || {})) {
+    if (!it || !SLOT_LABEL[slot]) continue;
+    let resolved = null;
+    try {
+      const items = await loadSlot(slot);
+      resolved = items.find((x) => norm(x.name) === norm(it.name));
+    } catch { /* offline */ }
+    state.equipped[slot] = resolved || { ...it, slot, slug: `ext:${slot}`, level: it.level || 0, school: it.school || 'Any' };
+  }
+  state.petTalents = [];
+  for (const t of build.talents || []) {
+    const found = petTalentByName(typeof t === 'string' ? t : (t && t.name) || '');
+    if (found && !state.petTalents.includes(found.id) && state.petTalents.length < 5) state.petTalents.push(found.id);
+  }
+  state._hydrated = true;
+  location.hash = '#build';
+  // render immediately in case we were already on the build view (no hashchange)
+  fillSchoolSelect();
+  $('buildSchool').value = state.school;
+  $('buildLevel').value = state.level; $('buildLevelVal').textContent = state.level;
+  document.body.style.setProperty('--build-accent', SCHOOL_COLORS[state.school]);
+  rerender();
+  syncUrl();
+}
+
+function openSaveDialog() {
+  if (!Object.keys(state.equipped).length) {
+    const btn = $('buildSave'); if (btn) { const t = btn.textContent; btn.textContent = 'Add gear first'; setTimeout(() => (btn.textContent = t), 1400); }
+    return;
+  }
+  const picker = $('itemPicker');
+  picker.hidden = false;
+  document.body.classList.add('picker-open');
+  const c = SCHOOL_COLORS[state.school] || 'var(--accent)';
+  picker.innerHTML = `<div class="picker-head cb-head" style="--sc:${c}">
+      <div><span class="cb-eyebrow">${esc(state.school)} · Level ${state.level}</span><div class="cb-title">Save or publish</div></div>
+      <button class="picker-close" id="pickerClose">esc</button>
+    </div>
+    <div class="cb-body save-dialog">
+      <label class="sv-field"><span>Build name</span>
+        <input id="svTitle" maxlength="80" placeholder="e.g. ${esc(state.school)} hitter — ${state.level}" autocomplete="off"></label>
+      <label class="sv-field"><span>Your name <em>(optional)</em></span>
+        <input id="svAuthor" maxlength="40" placeholder="Anonymous" autocomplete="off"></label>
+      <label class="sv-field"><span>Notes <em>(optional)</em></span>
+        <textarea id="svNotes" maxlength="500" rows="2" placeholder="How to play it, where it shines…"></textarea></label>
+      <div class="sv-actions">
+        <button class="cb-load ghost" id="svLocal">Save to My Builds</button>
+        <button class="cb-load" id="svPublish">Publish to gallery</button>
+      </div>
+      <p class="sv-status" id="svStatus">My Builds are saved in this browser. Publishing shares the build with everyone.</p>
+    </div>`;
+  $('pickerClose').addEventListener('click', closePicker);
+  const status = $('svStatus');
+  $('svLocal').addEventListener('click', () => {
+    const payload = currentBuildPayload({
+      title: $('svTitle').value.trim(), author: $('svAuthor').value.trim(), notes: $('svNotes').value.trim(),
+    });
+    const mine = loadMyBuilds();
+    mine.unshift({ id: 'local-' + Date.now().toString(36), createdAt: Date.now(), ...payload });
+    saveMyBuilds(mine);
+    status.textContent = 'Saved to My Builds (this browser). Find it in the gallery under “My Builds”.';
+    status.className = 'sv-status ok';
+  });
+  $('svPublish').addEventListener('click', async () => {
+    const btn = $('svPublish'); btn.disabled = true; btn.textContent = 'Publishing…';
+    try {
+      const payload = currentBuildPayload({
+        title: $('svTitle').value.trim(), author: $('svAuthor').value.trim(), notes: $('svNotes').value.trim(),
+      });
+      const { id } = await publishBuild(payload);
+      const mine = loadMyBuilds();
+      mine.unshift({ id, createdAt: Date.now(), published: true, ...payload });
+      saveMyBuilds(mine);
+      const link = `${location.origin}/#builds?b=${id}`;
+      status.innerHTML = `Published! Share link: <a href="${esc(link)}">${esc(link)}</a>`;
+      status.className = 'sv-status ok';
+      navigator.clipboard?.writeText(link).catch(() => {});
+      btn.textContent = 'Published ✓';
+    } catch (err) {
+      status.textContent = 'Could not publish: ' + (err.message || 'try again');
+      status.className = 'sv-status err';
+      btn.disabled = false; btn.textContent = 'Publish to gallery';
+    }
+  });
+  $('svTitle').focus();
 }
 
 function renderSheet() {
@@ -489,6 +566,7 @@ function fillSchoolSelect() {
     await navigator.clipboard.writeText(url).catch(() => {});
     const btn = $('buildShare'); const t = btn.textContent; btn.textContent = 'Link copied!'; setTimeout(() => (btn.textContent = t), 1500);
   });
+  $('buildSave')?.addEventListener('click', openSaveDialog);
   $('buildReset').addEventListener('click', () => { state.equipped = {}; state.petTalents = []; rerender(); syncUrl(); });
   document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !$('itemPicker').hidden) closePicker(); });
 }

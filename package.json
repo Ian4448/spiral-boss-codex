@@ -8,9 +8,15 @@
     "dev": "esbuild site/src/app.js --bundle --format=esm --external:https://* --outfile=site/app.js --servedir=site",
     "enrich": ".venv/bin/python scripts/4_enrich.py && node scripts/5_embed.mjs && npm run build"
   },
-  "keywords": ["wizard101", "boss", "cheats", "semantic-search"],
+  "keywords": [
+    "wizard101",
+    "boss",
+    "cheats",
+    "semantic-search"
+  ],
   "license": "MIT",
   "dependencies": {
+    "@vercel/blob": "^1.1.1",
     "esbuild": "^0.28.1",
     "minisearch": "^7.2.0"
   },
