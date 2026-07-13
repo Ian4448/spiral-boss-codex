@@ -112,7 +112,8 @@ function slotCard(slot, label) {
   </button>`;
 }
 
-// compact 3-stat summary for slot cards, focused on the equipped school
+// compact 3-stat summary for slot cards, focused on the equipped school.
+// Falls back to defensive/utility stats so block amulets, decks, etc. aren't blank.
 function topStats(it) {
   const s = it.stats || {};
   const parts = [];
@@ -122,6 +123,17 @@ function topStats(it) {
       const v = (s[k][state.school] || 0) + (s[k].Global || 0);
       if (v) parts.push(`${fmt(v)}${STAT_UNIT[k]} ${SCHOOL_ABBR[state.school]} ${STAT_WORD[k]}`);
     }
+  }
+  if (parts.length < 3) {
+    for (const k of ['resist', 'block', 'accuracy']) {
+      if (s[k]) {
+        const v = (s[k][state.school] || 0) + (s[k].Global || 0);
+        if (v) parts.push(`${fmt(v)}${STAT_UNIT[k]} ${STAT_WORD[k]}`);
+      }
+    }
+    if (s.pipConversion) parts.push(`+${s.pipConversion} pip conv`);
+    else if (s.powerPipChance) parts.push(`+${s.powerPipChance}% power pip`);
+    if (s.maxMana && parts.length < 3) parts.push(`${s.maxMana} mana`);
   }
   return parts.slice(0, 3).map((p) => `<span>${p}</span>`).join('');
 }

@@ -564,9 +564,6 @@ function setView(v) {
   if (vg) vg.hidden = v !== 'gallery';
   const vp = $('viewPets');
   if (vp) vp.hidden = v !== 'pets';
-  if (v === 'home') {
-    setTimeout(() => $('homeSearch').focus(), 30);
-  }
 }
 
 /* ============================== boot ============================== */
