@@ -111,8 +111,7 @@ function topStats(it) {
   return parts.slice(0, 3).map((p) => `<span>${p}</span>`).join('');
 }
 
-// Recommended builds (Riddler208's 2026 guide) — open the WizBuilder build for
-// the selected school at each level threshold.
+// Community builds (Riddler208's 2026 guide) — shown natively in-app, not linked out.
 function renderPresets() {
   const p = state.presets;
   if (!p || !p.builds) return '';
@@ -120,16 +119,50 @@ function renderPresets() {
   if (!mine.length) return '';
   const chips = mine.map((b) => {
     const near = Math.abs(b.level - state.level) <= 20;
-    return `<a class="preset-chip ${near ? 'near' : ''}" href="${esc(b.url)}" target="_blank" rel="noopener">
-      Lvl ${b.level}<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M7 17 17 7M9 7h8v8"/></svg></a>`;
+    return `<button class="preset-chip ${near ? 'near' : ''}" data-preset="${b.level}">Lvl ${b.level}</button>`;
   }).join('');
   return `<div class="presets-strip">
     <div class="presets-head">
-      <span class="presets-title">Recommended ${esc(state.school)} builds</span>
+      <span class="presets-title">Community ${esc(state.school)} builds</span>
       <a class="presets-credit" href="${esc(p.source.url)}" target="_blank" rel="noopener">by ${esc(p.source.author)} · ${esc(p.source.title)}</a>
     </div>
     <div class="presets-chips">${chips}</div>
   </div>`;
+}
+
+const SLOT_LABEL = { hat: 'Hat', robe: 'Robe', boots: 'Boots', wand: 'Wand', athame: 'Athame', amulet: 'Amulet', ring: 'Ring', deck: 'Deck' };
+
+function openCommunityBuild(level) {
+  const b = state.presets.builds.find((x) => x.school === state.school && x.level === level);
+  if (!b) return;
+  const c = SCHOOL_COLORS[b.school] || 'var(--accent)';
+  const gearRows = Object.keys(SLOT_LABEL).map((slot) => {
+    const it = b.gear[slot];
+    return `<div class="cb-slot"><span class="cb-slot-tag">${SLOT_LABEL[slot]}</span>
+      <span class="cb-item ${it ? '' : 'empty'}">${it ? esc(it.name) : '—'}${it && it.lvl ? ` <b>Lvl ${it.lvl}</b>` : ''}</span></div>`;
+  }).join('');
+  const talents = (b.talents || []).map((t) => `<span class="cb-talent">${esc(t)}</span>`).join('') || '<span class="cb-empty">—</span>';
+  const s = b.stats || {};
+  const stat = (label, val, unit = '') => val != null ? `<div class="cb-stat"><span>${label}</span><b>${val}${unit}</b></div>` : '';
+  const picker = $('itemPicker');
+  picker.hidden = false;
+  document.body.classList.add('picker-open');
+  picker.innerHTML = `<div class="picker-head cb-head" style="--sc:${c}">
+      <div><span class="cb-eyebrow">${esc(b.school)} · Level ${b.level}</span><div class="cb-title">Community build</div></div>
+      <button class="picker-close" id="pickerClose">esc</button>
+    </div>
+    <div class="cb-body">
+      <div class="cb-stats">
+        ${stat('Health', s.health)}${stat('Damage', s.damage, '%')}${stat('Resist', s.resist, '%')}
+        ${stat('Critical', s.critical)}${stat('Power Pip', s.powerPip, '%')}${stat('Shadow Pip', s.shadowPip)}
+      </div>
+      <p class="cb-section">Gear</p>
+      <div class="cb-gear">${gearRows}</div>
+      <p class="cb-section">Pet talents</p>
+      <div class="cb-talents">${talents}</div>
+      <p class="cb-note">From ${esc(state.presets.source.author)}'s <a href="${esc(state.presets.source.url)}" target="_blank" rel="noopener">${esc(state.presets.source.title)}</a>. Gear names are from the source; this is a reference loadout.</p>
+    </div>`;
+  $('pickerClose').addEventListener('click', closePicker);
 }
 
 function renderSheet() {
@@ -227,6 +260,7 @@ function closePicker() {
 function itemScoreFilter(items) {
   const q = pickerQuery.trim().toLowerCase();
   return items.filter((it) => {
+    if (!it.stats || !Object.keys(it.stats).length) return false; // cosmetic or missing data — don't show
     if (it.level > state.level) return false;
     if (it.school !== 'Any' && it.school !== state.school) return false;
     if (q && !it.name.toLowerCase().includes(q)) return false;
@@ -327,6 +361,8 @@ function bindSheet() {
       openPicker(card.dataset.slot);
     });
   });
+  document.querySelectorAll('.preset-chip[data-preset]').forEach((chip) =>
+    chip.addEventListener('click', () => openCommunityBuild(+chip.dataset.preset)));
   $('petAddBtn')?.addEventListener('click', togglePetMenu);
   document.querySelectorAll('[data-petremove]').forEach((x) => x.addEventListener('click', (e) => {
     e.stopPropagation();
