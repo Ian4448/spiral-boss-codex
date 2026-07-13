@@ -948,3 +948,17 @@ a.ally-pill:hover { border-color: rgba(139, 123, 247, 0.5); text-decoration: non
   .stats-panel { position: static; }
   .item-picker { width: 100vw; }
 }
+
+/* recommended-build presets strip */
+.presets-strip { grid-column: 1 / -1; padding: 0.75rem 1rem; border: 1px solid var(--line); border-radius: 13px;
+  background: color-mix(in srgb, var(--build-accent) 6%, transparent); margin-bottom: 0.2rem; }
+.presets-head { display: flex; align-items: baseline; gap: 0.7rem; flex-wrap: wrap; margin-bottom: 0.5rem; }
+.presets-title { font-size: 0.7rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--build-accent); font-weight: 600; }
+.presets-credit { font-size: 0.72rem; color: var(--ink-faint); }
+.presets-credit:hover { color: var(--ink-dim); }
+.presets-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.preset-chip { display: inline-flex; align-items: center; gap: 0.3rem; font-size: 0.78rem; color: var(--ink-dim);
+  border: 1px solid var(--line-strong); border-radius: 999px; padding: 0.28rem 0.7rem; }
+.preset-chip:hover { color: var(--ink); border-color: var(--build-accent); background: var(--card-hover); text-decoration: none; }
+.preset-chip svg { width: 12px; height: 12px; opacity: 0.6; }
+.preset-chip.near { color: var(--build-accent); border-color: color-mix(in srgb, var(--build-accent) 45%, transparent); background: color-mix(in srgb, var(--build-accent) 10%, transparent); }

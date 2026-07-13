@@ -56,6 +56,9 @@ async function ensureIndex() {
   try {
     state.index = await (await fetch('./data/gear/index.json')).json();
   } catch { state.index = {}; }
+  try {
+    state.presets = await (await fetch('./data/presets.json')).json();
+  } catch { state.presets = null; }
   state.loaded = true;
 }
 async function loadSlot(slot) {
@@ -106,6 +109,27 @@ function topStats(it) {
     }
   }
   return parts.slice(0, 3).map((p) => `<span>${p}</span>`).join('');
+}
+
+// Recommended builds (Riddler208's 2026 guide) — open the WizBuilder build for
+// the selected school at each level threshold.
+function renderPresets() {
+  const p = state.presets;
+  if (!p || !p.builds) return '';
+  const mine = p.builds.filter((b) => b.school === state.school).sort((a, b) => a.level - b.level);
+  if (!mine.length) return '';
+  const chips = mine.map((b) => {
+    const near = Math.abs(b.level - state.level) <= 20;
+    return `<a class="preset-chip ${near ? 'near' : ''}" href="${esc(b.url)}" target="_blank" rel="noopener">
+      Lvl ${b.level}<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M7 17 17 7M9 7h8v8"/></svg></a>`;
+  }).join('');
+  return `<div class="presets-strip">
+    <div class="presets-head">
+      <span class="presets-title">Recommended ${esc(state.school)} builds</span>
+      <a class="presets-credit" href="${esc(p.source.url)}" target="_blank" rel="noopener">by ${esc(p.source.author)} · ${esc(p.source.title)}</a>
+    </div>
+    <div class="presets-chips">${chips}</div>
+  </div>`;
 }
 
 function renderSheet() {
@@ -288,7 +312,7 @@ async function decodeBuild(str) {
 /* -------------- top-level render + events -------------- */
 
 function rerender() {
-  $('buildBody').innerHTML = renderSheet() + renderStats();
+  $('buildBody').innerHTML = renderPresets() + renderSheet() + renderStats();
   bindSheet();
 }
 
