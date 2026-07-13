@@ -8,7 +8,7 @@ const $ = (id) => document.getElementById(id);
 
 const gstate = {
   school: '',            // '' = all schools
-  tab: 'community',      // community | curated | mine
+  tab: 'curated',        // curated | community | mine (curated has content on first load)
   curated: null,         // normalized curated builds
   published: null,       // index summaries from the API
   publishError: null,
@@ -126,8 +126,8 @@ function render() {
       <a class="g-create" href="#build">＋ Create &amp; publish</a>
     </div>
     <div class="g-tabs">
-      ${tabBtn('community', 'Community', (gstate.published || []).length)}
       ${tabBtn('curated', 'Curated', (gstate.curated || []).length)}
+      ${tabBtn('community', 'Community', (gstate.published || []).length)}
       ${tabBtn('mine', 'My Builds', mineCount)}
     </div>
     <div class="g-schools">${schoolChips}</div>
