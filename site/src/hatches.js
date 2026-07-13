@@ -32,6 +32,10 @@ function matchCount(pet, goal) {
   return (goal || []).filter((g) => have.has(norm(g))).length;
 }
 const TAL_CATS = ['Damage', 'Defense & Block', 'Critical', 'Pierce', 'Accuracy', 'Pips', 'Health & Healing', 'Other'];
+// A pet manifests one talent per age; Mega pets show all 5.
+const STAGES = ['Baby', 'Teen', 'Adult', 'Ancient', 'Epic', 'Mega'];
+const STAGE_MAX = { Baby: 0, Teen: 1, Adult: 2, Ancient: 3, Epic: 4, Mega: 5 };
+const stageMax = (s) => (STAGE_MAX[s] != null ? STAGE_MAX[s] : 5);
 function categorize(n) {
   const s = n.toLowerCase();
   if (/dealer|giver|bringer|boon|-?sniper|assail|amplif|dragonblade|\bblade\b|colossal|monstrous|gargantuan|spear/.test(s)) return 'Damage';
@@ -113,7 +117,7 @@ function graphSvg(proj) {
     const m = matchCount(n.pet, goal);
     const cls = gmax && m === gmax ? 'full' : m ? 'partial' : '';
     const sc = SCHOOL_COLORS[speciesSchool(n.pet.species)] || 'var(--accent)';
-    const sub = n.pet.species ? speciesName(n.pet.species) : (n.pet.parents && n.pet.parents.length ? 'hatched' : 'seed');
+    const sub = `${n.pet.stage || 'Mega'}${n.pet.species ? ' · ' + speciesName(n.pet.species) : ''}`;
     const face = n.pet.species
       ? `<clipPath id="clip${n.id}"><rect x="8" y="8" width="40" height="40" rx="9"/></clipPath>
          <rect x="8" y="8" width="40" height="40" rx="9" class="hx-facebg"/>
@@ -132,15 +136,20 @@ function graphSvg(proj) {
     <g>${edgeP}</g><g>${nodeP}</g></svg></div>`;
 }
 
-/* ---------- reusable: categorized talent picker ---------- */
-function mountTalentPicker(host, selected) {
+/* ---------- reusable: categorized talent picker (capped by pet stage) ---------- */
+function mountTalentPicker(host, selected, getMax) {
+  getMax = getMax || (() => 99);
   let q = '';
   const has = (t) => selected.some((s) => norm(s) === norm(t));
-  const addBulk = (v) => { v.split(',').map((x) => x.trim()).filter(Boolean).forEach((t) => { if (!has(t)) selected.push(t); }); draw(); };
+  const room = () => Math.max(0, getMax() - selected.length);
+  const add = (t) => { if (!has(t) && room() > 0) selected.push(t); };
+  const addBulk = (v) => { v.split(',').map((x) => x.trim()).filter(Boolean).forEach(add); draw(); };
   function draw() {
+    const max = getMax();
+    const full = selected.length >= max;
     const ql = q.trim().toLowerCase();
     const avail = TALENTS.filter((t) => !has(t) && (!ql || t.toLowerCase().includes(ql)));
-    const groups = TAL_CATS.map((cat) => {
+    const groups = full ? '' : TAL_CATS.map((cat) => {
       const ts = avail.filter((t) => categorize(t) === cat);
       if (!ts.length) return '';
       const cap = cat === 'Other' && !ql ? 30 : 400;
@@ -149,48 +158,67 @@ function mountTalentPicker(host, selected) {
         ${ts.length > cap ? `<span class="tp-more">+${ts.length - cap} more — search to find them</span>` : ''}</div></div>`;
     }).join('');
     host.innerHTML = `
+      <div class="tp-count">${selected.length}/${max} talents${full ? ' · full for this stage' : ''}</div>
       <div class="tp-chips">${selected.length ? selected.map((t, i) => `<span class="hx-chip ${categorize(t) === 'Damage' ? 'dmg' : ''}">${esc(t)}<b data-rm="${i}">×</b></span>`).join('') : '<span class="pt-none">none yet — pick from below</span>'}</div>
-      <div class="tp-controls">
+      ${full ? '' : `<div class="tp-controls">
         <input class="tp-search" placeholder="Search talents…" value="${esc(q)}" autocomplete="off">
         <span class="tp-bulk"><input class="tp-bulkin" placeholder="or type A, B, C" autocomplete="off"><button type="button" class="hx-add tp-bulkadd">Add</button></span>
       </div>
-      <div class="tp-scroll">${groups || '<span class="pt-none">no matches — press Add to use “' + esc(q) + '”</span>'}</div>`;
+      <div class="tp-scroll">${groups || '<span class="pt-none">no matches — press Add to use “' + esc(q) + '”</span>'}</div>`}`;
+    host.querySelectorAll('[data-rm]').forEach((b) => b.addEventListener('click', () => { selected.splice(+b.dataset.rm, 1); draw(); }));
+    if (full) return;
     const s = host.querySelector('.tp-search');
-    s.addEventListener('input', () => { q = s.value; const p = s.selectionStart; draw(); const n = host.querySelector('.tp-search'); n.focus(); n.setSelectionRange(p, p); });
+    s.addEventListener('input', () => { q = s.value; const p = s.selectionStart; draw(); const n = host.querySelector('.tp-search'); if (n) { n.focus(); n.setSelectionRange(p, p); } });
     s.addEventListener('keydown', (e) => { if (e.key === 'Enter') { e.preventDefault(); if (q.trim()) addBulk(q); q = ''; } });
     const bi = host.querySelector('.tp-bulkin');
     host.querySelector('.tp-bulkadd').addEventListener('click', () => addBulk(bi.value));
     bi.addEventListener('keydown', (e) => { if (e.key === 'Enter') { e.preventDefault(); addBulk(bi.value); } });
-    host.querySelectorAll('.tp-opt').forEach((b) => b.addEventListener('click', () => { selected.push(b.dataset.add); draw(); }));
-    host.querySelectorAll('[data-rm]').forEach((b) => b.addEventListener('click', () => { selected.splice(+b.dataset.rm, 1); draw(); }));
+    host.querySelectorAll('.tp-opt').forEach((b) => b.addEventListener('click', () => { add(b.dataset.add); draw(); }));
   }
   draw();
+  return draw; // caller can trigger a redraw (e.g. when stage/max changes)
 }
 
-/* ---------- reusable: visual pet-body picker ---------- */
+/* ---------- reusable: visual pet-body picker (infinite scroll) ---------- */
 function mountSpeciesPicker(host, state, onPick) {
-  let q = '', browsing = !state.slug;
+  let q = '', browsing = !state.slug, shown = 48;
+  const PAGE = 48;
+  const filtered = () => { const ql = q.trim().toLowerCase(); return ql ? SPECIES.filter((s) => s.name.toLowerCase().includes(ql)) : SPECIES; };
+  const cell = (s) => `<button type="button" class="sp-cell ${s.slug === state.slug ? 'on' : ''}" data-slug="${esc(s.slug)}" title="${esc(s.name)}" style="--sc:${SCHOOL_COLORS[s.school] || 'var(--accent)'}">
+    <img loading="lazy" src="${PET_IMG(s.slug)}" alt="" onerror="this.style.visibility='hidden'"><span>${esc(s.name)}</span></button>`;
+  const bindCells = (root) => root.querySelectorAll('.sp-cell').forEach((b) => {
+    if (b.dataset.bound) return; b.dataset.bound = '1';
+    b.addEventListener('click', () => { state.slug = b.dataset.slug; browsing = false; draw(); if (onPick) onPick(state.slug); });
+  });
   function draw() {
     if (state.slug && !browsing) {
       host.innerHTML = `<div class="sp-chosen">
         <span class="sp-face"><img src="${PET_IMG(state.slug)}" alt="" onerror="this.style.visibility='hidden'"></span>
         <div class="sp-chosen-t"><b>${esc(speciesName(state.slug))}</b><span>${esc(speciesSchool(state.slug))} pet</span></div>
         <button type="button" class="sp-change">Change</button></div>`;
-      host.querySelector('.sp-change').addEventListener('click', () => { browsing = true; draw(); });
+      host.querySelector('.sp-change').addEventListener('click', () => { browsing = true; shown = PAGE; draw(); });
       return;
     }
-    const ql = q.trim().toLowerCase();
-    const list = SPECIES.filter((s) => !ql || s.name.toLowerCase().includes(ql)).slice(0, 60);
+    const list = filtered();
     host.innerHTML = `<div class="sp-pick">
       <div class="sp-search-row"><input class="sp-search" placeholder="Search ${SPECIES.length} pets…" value="${esc(q)}" autocomplete="off">
         ${state.slug ? '<button type="button" class="sp-clear">Clear</button>' : ''}</div>
-      <div class="sp-grid">${list.map((s) => `<button type="button" class="sp-cell ${s.slug === state.slug ? 'on' : ''}" data-slug="${esc(s.slug)}" title="${esc(s.name)}" style="--sc:${SCHOOL_COLORS[s.school] || 'var(--accent)'}">
-        <img loading="lazy" src="${PET_IMG(s.slug)}" alt="" onerror="this.style.visibility='hidden'"><span>${esc(s.name)}</span></button>`).join('')
-        || '<span class="pt-none">no pets match</span>'}</div></div>`;
+      <div class="sp-grid">${list.slice(0, shown).map(cell).join('') || '<span class="pt-none">no pets match</span>'}</div></div>`;
     const se = host.querySelector('.sp-search');
-    se.addEventListener('input', () => { q = se.value; const p = se.selectionStart; draw(); const n = host.querySelector('.sp-search'); n.focus(); n.setSelectionRange(p, p); });
+    se.addEventListener('input', () => { q = se.value; shown = PAGE; const p = se.selectionStart; draw(); const n = host.querySelector('.sp-search'); n.focus(); n.setSelectionRange(p, p); });
     host.querySelector('.sp-clear')?.addEventListener('click', () => { state.slug = ''; browsing = true; draw(); });
-    host.querySelectorAll('.sp-cell').forEach((b) => b.addEventListener('click', () => { state.slug = b.dataset.slug; browsing = false; draw(); if (onPick) onPick(state.slug); }));
+    const grid = host.querySelector('.sp-grid');
+    bindCells(grid);
+    grid.addEventListener('scroll', () => {
+      if (grid.scrollTop + grid.clientHeight >= grid.scrollHeight - 120) {
+        const l = filtered();
+        if (shown < l.length) {
+          const next = l.slice(shown, shown + PAGE); shown += PAGE;
+          grid.insertAdjacentHTML('beforeend', next.map(cell).join(''));
+          bindCells(grid);
+        }
+      }
+    });
   }
   draw();
 }
@@ -275,7 +303,7 @@ function petRow(pet, proj) {
     <span class="hx-petface">${pet.species ? `<img src="${PET_IMG(pet.species)}" alt="" onerror="this.style.visibility='hidden'">` : '<span class="hx-petface-x">🐾</span>'}</span>
     <div class="hx-petrow-main">
       <span class="hx-petname">${esc(pet.name || 'Pet')}</span>
-      <span class="hx-petmeta">${parents.length ? 'from ' + parents.map(esc).join(' × ') : 'seed pet'}${pet.species ? ' · ' + esc(speciesName(pet.species)) : ''}</span>
+      <span class="hx-petmeta"><b class="hx-stage">${esc(pet.stage || 'Mega')}</b>${parents.length ? ' · from ' + parents.map(esc).join(' × ') : ' · seed'}${pet.species ? ' · ' + esc(speciesName(pet.species)) : ''}</span>
       <span class="hx-pettals">${(pet.talents || []).map((t) => `<span class="${matchCount({ talents: [t] }, proj.goal) ? 'hit' : ''}">${esc(t)}</span>`).join('') || '<em>no talents recorded</em>'}</span>
     </div>
     <div class="hx-petrow-side">${gmax ? `<span class="hx-progress sm ${m === gmax ? 'done' : ''}">${m}/${gmax}</span>` : ''}<button class="hx-del" data-delpet title="Remove pet">×</button></div>
@@ -327,18 +355,24 @@ function openPetForm(proj, petId) {
       ${parentNames.length ? `<span class="gd-author">hatched from ${parentNames.map(esc).join(' × ')}</span>` : ''}</div>
       <button class="picker-close" id="hxClose">esc</button></div>
     <div class="gd-body">
+      ${editing ? '' : '<p class="hx-hint">Add a pet you own or one you’re hatching with. As it ages (Baby → Mega) it reveals one more talent per stage.</p>'}
       <label class="sv-field"><span>Pet name / nickname</span><input id="hxPName" maxlength="60" value="${esc(pet.name)}" placeholder="e.g. Enkindled Wildclaw"></label>
       <div class="sv-field"><span>Pet body — pick which pet this is</span><div id="hxSpecies"></div></div>
+      <label class="sv-field"><span>Age / stage — how far it’s trained</span>
+        <select id="hxStage">${STAGES.map((s) => `<option ${(pet.stage || 'Mega') === s ? 'selected' : ''}>${s}</option>`).join('')}</select></label>
       <div class="sv-field"><span>Talents it has</span><div id="hxTalHost" class="tp-host"></div></div>
       <div class="sv-actions"><button class="cb-load" id="hxPSave">${editing ? 'Save' : 'Add pet'}</button></div>
     </div></div>`;
   showPanel();
+  let stage = pet.stage || 'Mega';
   mountSpeciesPicker($('hxSpecies'), spState, (slug) => { const nm = $('hxPName'); if (!nm.value.trim()) nm.value = speciesName(slug); });
-  mountTalentPicker($('hxTalHost'), talents);
+  const redrawTal = mountTalentPicker($('hxTalHost'), talents, () => stageMax(stage));
+  $('hxStage').addEventListener('change', (e) => { stage = e.target.value; while (talents.length > stageMax(stage)) talents.pop(); redrawTal(); });
   $('hxClose').addEventListener('click', hidePanel);
   $('hxPSave').addEventListener('click', () => {
     pet.name = $('hxPName').value.trim() || speciesName(spState.slug) || 'Unnamed pet';
     pet.species = spState.slug;
+    pet.stage = stage;
     pet.talents = talents;
     const fresh = getProject(proj.id);
     fresh.pets[pet.id] = pet;
@@ -361,19 +395,23 @@ function openHatchForm(proj) {
     <div class="gd-head"><div><span class="cb-eyebrow">Record hatch</span><div class="cb-title">New pet from a hatch</div></div>
       <button class="picker-close" id="hxClose">esc</button></div>
     <div class="gd-body">
+      <p class="hx-hint">Hatching two pets makes a new Baby. Train it up and edit its stage/talents as they reveal.</p>
       <div class="hx-parents">
-        <label class="sv-field"><span>Parent A</span><select id="hxPA">${opts(pets[0]?.id)}</select></label>
+        <label class="sv-field"><span>Your pet</span><select id="hxPA">${opts(pets[0]?.id)}</select></label>
         <span class="hx-x">×</span>
-        <label class="sv-field"><span>Parent B</span><select id="hxPB">${opts(pets[1]?.id || pets[0]?.id)}</select></label>
+        <label class="sv-field"><span>Hatched with</span><select id="hxPB">${opts(pets[1]?.id || pets[0]?.id)}</select></label>
       </div>
       <label class="sv-field"><span>New pet name</span><input id="hxPName" maxlength="60" placeholder="Name the hatched pet"></label>
       <div class="sv-field"><span>Pet body — which pet it hatched into</span><div id="hxSpecies"></div></div>
+      <label class="sv-field"><span>Age / stage</span><select id="hxStage">${STAGES.map((s) => `<option ${s === 'Baby' ? 'selected' : ''}>${s}</option>`).join('')}</select></label>
       <div class="sv-field"><span>Talents it manifested</span><div id="hxTalHost" class="tp-host"></div></div>
       <div class="sv-actions"><button class="cb-load" id="hxPSave">Record hatch</button></div>
     </div></div>`;
   showPanel();
+  let stage = 'Baby';
   mountSpeciesPicker($('hxSpecies'), spState, (slug) => { const nm = $('hxPName'); if (!nm.value.trim()) nm.value = speciesName(slug); });
-  mountTalentPicker($('hxTalHost'), talents);
+  const redrawTal = mountTalentPicker($('hxTalHost'), talents, () => stageMax(stage));
+  $('hxStage').addEventListener('change', (e) => { stage = e.target.value; while (talents.length > stageMax(stage)) talents.pop(); redrawTal(); });
   $('hxClose').addEventListener('click', hidePanel);
   $('hxPSave').addEventListener('click', () => {
     const a = $('hxPA').value, b = $('hxPB').value;
@@ -382,6 +420,7 @@ function openHatchForm(proj) {
     child.species = spState.slug;
     child.bodyFrom = child.parents.find((pid) => proj.pets[pid]?.species === spState.slug) || '';
     child.name = $('hxPName').value.trim() || speciesName(spState.slug) || 'Hatchling';
+    child.stage = stage;
     child.talents = talents;
     const fresh = getProject(proj.id);
     fresh.pets[child.id] = child;
