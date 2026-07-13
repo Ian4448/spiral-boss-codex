@@ -25,22 +25,9 @@
 
 <!-- ============ HOME ============ -->
 <section class="view-home" id="viewHome">
-  <nav class="corner-nav">
-    <a href="#builds" class="corner-link">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h16M4 12h16M4 18h10"/></svg>
-      Community Builds
-    </a>
-    <a href="#pets" class="corner-link">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="13" r="4"/><circle cx="6" cy="7" r="1.6"/><circle cx="18" cy="7" r="1.6"/><circle cx="4" cy="12" r="1.4"/><circle cx="20" cy="12" r="1.4"/></svg>
-      Pets
-    </a>
-    <a href="#build" class="corner-link">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2 2 7l10 5 10-5-10-5Z"/><path d="m2 17 10 5 10-5M2 12l10 5 10-5"/></svg>
-      Build Creator
-    </a>
-  </nav>
   <div class="hero">
     <h1 class="wordmark">Spiral&nbsp;Boss&nbsp;Codex</h1>
+    <p class="hero-tagline">Boss cheats, gear builds, and every pet — your Wizard101 companion.</p>
 
     <div class="searchbox" id="homeBox">
       <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
@@ -53,17 +40,33 @@
     </div>
 
     <div class="quick-row" id="quickRow">
+      <span class="quick-label">Try</span>
       <button class="quick-chip" data-q="Rattlebones">Rattlebones</button>
       <button class="quick-chip" data-q="punishes healing">punishes healing</button>
-      <a class="quick-chip browse-link" href="#browse">Browse all</a>
-      <a class="quick-chip build-link" href="#build">Build creator</a>
-      <a class="quick-chip build-link" href="#builds">Community builds</a>
-      <a class="quick-chip build-link" href="#pets">Pets</a>
+      <a class="quick-chip browse-link" href="#browse">Browse all bosses</a>
     </div>
 
     <button class="smart-pill" id="smartPill" title="Loads a small language model in your browser to understand descriptive queries">
       <span class="smart-dot"></span>Smart search<span class="smart-status" id="smartStatus"></span>
     </button>
+
+    <nav class="home-tiles" aria-label="Explore the site">
+      <a href="#build" class="home-tile">
+        <span class="tile-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2 2 7l10 5 10-5-10-5Z"/><path d="m2 17 10 5 10-5M2 12l10 5 10-5"/></svg></span>
+        <span class="tile-txt"><b>Build Creator</b><em>Assemble gear &amp; a pet, watch stats update live, share by link</em></span>
+        <span class="tile-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+      </a>
+      <a href="#builds" class="home-tile">
+        <span class="tile-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h16M4 12h16M4 18h10"/></svg></span>
+        <span class="tile-txt"><b>Community Builds</b><em>Browse curated progressions &amp; builds shared by other wizards</em></span>
+        <span class="tile-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+      </a>
+      <a href="#pets" class="home-tile">
+        <span class="tile-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="13" r="4"/><circle cx="6" cy="7" r="1.6"/><circle cx="18" cy="7" r="1.6"/><circle cx="4" cy="12" r="1.4"/><circle cx="20" cy="12" r="1.4"/></svg></span>
+        <span class="tile-txt"><b>Pets</b><em>Every first-gen pet — art, base stats, and talent pools</em></span>
+        <span class="tile-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+      </a>
+    </nav>
   </div>
 
   <footer class="hero-foot">

@@ -347,6 +347,68 @@ button { font: inherit; color: inherit; background: none; border: none; cursor: 
   to   { opacity: 1; transform: none; }
 }
 
+.hero-tagline {
+  margin-top: 0.9rem;
+  font-size: clamp(0.85rem, 2.2vw, 1rem);
+  color: var(--ink-dim);
+  opacity: 0;
+  animation: rise 0.8s var(--ease-out) 0.28s forwards;
+}
+
+/* home destination tiles — the natural way into the creator, gallery, and pets */
+.home-tiles {
+  display: flex;
+  gap: 0.7rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: min(880px, 94vw);
+  margin-top: 3rem;
+  opacity: 0;
+  animation: rise 0.8s var(--ease-out) 0.8s forwards;
+}
+.home-tile {
+  flex: 1 1 240px;
+  max-width: 300px;
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  text-align: left;
+  padding: 0.95rem 1rem;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: var(--glass);
+  backdrop-filter: blur(12px);
+  transition: border-color 0.18s, background 0.18s, transform 0.18s;
+}
+.home-tile:hover {
+  text-decoration: none;
+  transform: translateY(-3px);
+  border-color: rgba(139, 123, 247, 0.5);
+  background: var(--card-hover);
+}
+.tile-ico {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 11px;
+  background: color-mix(in srgb, var(--accent) 16%, transparent);
+  color: var(--accent-bright);
+}
+.tile-ico svg { width: 21px; height: 21px; }
+.tile-txt { display: flex; flex-direction: column; gap: 0.15rem; min-width: 0; flex: 1; }
+.tile-txt b { font-size: 0.95rem; font-weight: 600; color: var(--ink); }
+.tile-txt em { font-style: normal; font-size: 0.74rem; line-height: 1.35; color: var(--ink-dim); }
+.tile-go { flex: none; color: var(--ink-faint); transition: color 0.18s, transform 0.18s; }
+.tile-go svg { width: 18px; height: 18px; display: block; }
+.home-tile:hover .tile-go { color: var(--accent-bright); transform: translateX(3px); }
+@media (max-width: 560px) {
+  .home-tiles { margin-top: 2rem; }
+  .home-tile { flex-basis: 100%; max-width: 420px; }
+}
+
 .hero-foot {
   padding: 1.1rem;
   text-align: center;
