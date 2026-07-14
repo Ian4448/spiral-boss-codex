@@ -16,11 +16,13 @@ const SLOTS = [
 // Values are the standard maxed-pet contributions. Each talent adds flat/%
 // stats via the same engine as gear.
 const _PS = ['Fire', 'Ice', 'Storm', 'Myth', 'Life', 'Death', 'Balance'];
+// Values assume a MAXED pet (all attributes at cap), which is the standard for
+// endgame builds — that's when talents give their full contribution.
 const PET_TALENTS = [
   { id: 'paingiver', name: 'Pain-Giver', cat: 'Damage', stats: { damage: { Global: 6 } } },
   { id: 'painbringer', name: 'Pain-Bringer', cat: 'Damage', stats: { damage: { Global: 5 } } },
-  ..._PS.map((s) => ({ id: `${s.toLowerCase()}dealer`, name: `${s}-Dealer`, cat: 'Damage', stats: { damage: { [s]: 4 } } })),
-  ..._PS.map((s) => ({ id: `${s.toLowerCase()}boon`, name: `${s}-Boon`, cat: 'Damage', stats: { damage: { [s]: 3 } } })),
+  ..._PS.map((s) => ({ id: `${s.toLowerCase()}dealer`, name: `${s}-Dealer`, cat: 'Damage', stats: { damage: { [s]: 10 } } })),
+  ..._PS.map((s) => ({ id: `${s.toLowerCase()}boon`, name: `${s}-Boon`, cat: 'Damage', stats: { damage: { [s]: 6 } } })),
   { id: 'spellproof', name: 'Spell-Proof', cat: 'Resist', stats: { resist: { Global: 10 } } },
   { id: 'spelldefy', name: 'Spell-Defying', cat: 'Resist', stats: { resist: { Global: 5 } } },
   ..._PS.map((s) => ({ id: `${s.toLowerCase()}proof`, name: `${s}-Proof`, cat: 'Resist', stats: { resist: { [s]: 10 } } })),
@@ -112,30 +114,11 @@ function slotCard(slot, label) {
   </button>`;
 }
 
-// compact 3-stat summary for slot cards, focused on the equipped school.
-// Falls back to defensive/utility stats so block amulets, decks, etc. aren't blank.
+// Top few stats for a slot card, with school pips — shows ALL schools an item
+// gives (dual-school gear, block amulets, etc.), not just the equipped school.
 function topStats(it) {
-  const s = it.stats || {};
-  const parts = [];
-  if (s.maxHealth) parts.push(`${s.maxHealth} hp`);
-  for (const k of ['damage', 'critical', 'pierce']) {
-    if (s[k]) {
-      const v = (s[k][state.school] || 0) + (s[k].Global || 0);
-      if (v) parts.push(`${fmt(v)}${STAT_UNIT[k]} ${SCHOOL_ABBR[state.school]} ${STAT_WORD[k]}`);
-    }
-  }
-  if (parts.length < 3) {
-    for (const k of ['resist', 'block', 'accuracy']) {
-      if (s[k]) {
-        const v = (s[k][state.school] || 0) + (s[k].Global || 0);
-        if (v) parts.push(`${fmt(v)}${STAT_UNIT[k]} ${STAT_WORD[k]}`);
-      }
-    }
-    if (s.pipConversion) parts.push(`+${s.pipConversion} pip conv`);
-    else if (s.powerPipChance) parts.push(`+${s.powerPipChance}% power pip`);
-    if (s.maxMana && parts.length < 3) parts.push(`${s.maxMana} mana`);
-  }
-  return parts.slice(0, 3).map((p) => `<span>${p}</span>`).join('');
+  return statParts(it.stats, { max: 4 })
+    .map((e) => `<span>${e.s ? schoolIcon(e.s) : ''}${esc(e.t)}</span>`).join('');
 }
 
 // Community builds (Riddler208's 2026 guide) — shown natively in-app, not linked out.
@@ -250,7 +233,7 @@ export function currentBuildPayload(meta = {}) {
 export async function loadBuildIntoCreator(build) {
   await ensureIndex();
   state.school = SCHOOLS.includes(build.school) ? build.school : state.school;
-  state.level = Math.max(100, Math.min(170, build.level || state.level));
+  state.level = Math.max(100, Math.min(180, build.level || state.level));
   state.equipped = {};
   const norm = (s) => String(s || '').toLowerCase().replace(/\s+/g, ' ').trim();
   for (const [slot, it] of Object.entries(build.gear || {})) {
@@ -503,6 +486,7 @@ function renderTalentMenu() {
     <div class="talent-scroll">${groups || '<span class="talent-none">no matches</span>'}</div>`;
   const si = $('talentSearch'); si.focus();
   si.addEventListener('input', () => { talentQuery = si.value; renderTalentMenu(); });
+  si.addEventListener('keydown', (e) => { if (e.key === 'Escape') { e.stopPropagation(); menu.hidden = true; } });
   menu.querySelectorAll('.talent-opt').forEach((b) => b.addEventListener('click', () => {
     if (state.petTalents.length < 5) state.petTalents.push(b.dataset.talent);
     rerender(); syncUrl();

@@ -589,10 +589,10 @@ document.addEventListener('keydown', (e) => {
     box.input.focus();
     box.input.select();
   }
-  // Escape closes any open slide-over / detail overlay across the app.
+  // Escape closes any open slide-over / detail overlay / menu across the app.
   if (e.key === 'Escape') {
     let closed = false;
-    for (const id of ['itemPicker', 'galleryDetail', 'petDetail', 'hxPanel']) {
+    for (const id of ['petMenu', 'itemPicker', 'galleryDetail', 'petDetail', 'hxPanel']) {
       const el = document.getElementById(id);
       if (el && !el.hidden) { el.hidden = true; closed = true; }
     }
