@@ -100,7 +100,7 @@ function slotCard(slot, label) {
     const top = topStats(it);
     return `<button class="slot-card filled" data-slot="${key}">
       <span class="slot-tag">${slotIcon(key)}${label}</span>
-      <span class="slot-name">${it.school && it.school !== 'Any' ? schoolIcon(it.school) : ''}${esc(it.name)}</span>
+      <span class="slot-name">${esc(it.name)}</span>
       <span class="slot-lvl">Lvl ${it.level}${it.school !== 'Any' ? ' · ' + esc(it.school) : ''}</span>
       <span class="slot-stats">${top}</span>
       <span class="slot-remove" data-remove="${key}" title="Remove">×</span>
